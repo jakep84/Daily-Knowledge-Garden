@@ -1,23 +1,23 @@
 {
   "date": "2025-10-13",
   "hn": {
-    "fetched_at": "2025-10-13T19:55:08.558236+00:00",
+    "fetched_at": "2025-10-13T20:01:09.154656+00:00",
     "items": [
       {
         "title": "NanoChat – The best ChatGPT that $100 can buy",
         "url": "https://github.com/karpathy/nanochat",
-        "points": 430,
+        "points": 449,
         "author": "huseyinkeles",
-        "num_comments": 60,
+        "num_comments": 63,
         "created_at": "2025-10-13T15:22:47Z",
         "objectID": "45569350"
       },
       {
         "title": "Android's sideloading limits are its most anti-consumer move",
         "url": "https://www.makeuseof.com/androids-sideloading-limits-are-anti-consumer-move-yet/",
-        "points": 342,
+        "points": 350,
         "author": "josephcsible",
-        "num_comments": 194,
+        "num_comments": 198,
         "created_at": "2025-10-13T15:24:08Z",
         "objectID": "45569371"
       },
@@ -33,52 +33,52 @@
       {
         "title": "Show HN: SQLite Online – 11 years of solo development, 11K daily users",
         "url": "https://sqliteonline.com/",
-        "points": 258,
+        "points": 262,
         "author": "sqliteonline",
-        "num_comments": 101,
+        "num_comments": 102,
         "created_at": "2025-10-13T12:46:52Z",
         "objectID": "45567770"
+      },
+      {
+        "title": "Environment variables are a legacy mess: Let's dive deep into them",
+        "url": "https://allvpv.org/haotic-journey-through-envvars/",
+        "points": 164,
+        "author": "signa11",
+        "num_comments": 113,
+        "created_at": "2025-10-13T16:49:15Z",
+        "objectID": "45570537"
       },
       {
         "title": "American solar farms",
         "url": "https://tech.marksblogg.com/american-solar-farms.html",
         "points": 163,
         "author": "marklit",
-        "num_comments": 195,
+        "num_comments": 196,
         "created_at": "2025-10-13T10:02:40Z",
         "objectID": "45566638"
       },
       {
-        "title": "Environment variables are a legacy mess: Let's dive deep into them",
-        "url": "https://allvpv.org/haotic-journey-through-envvars/",
-        "points": 161,
-        "author": "signa11",
-        "num_comments": 110,
-        "created_at": "2025-10-13T16:49:15Z",
-        "objectID": "45570537"
-      },
-      {
         "title": "More random home lab things I've recently learned",
         "url": "https://chollinger.com/blog/2025/10/more-homelab-things-ive-recently-learned/",
-        "points": 157,
+        "points": 158,
         "author": "otter-in-a-suit",
-        "num_comments": 74,
+        "num_comments": 75,
         "created_at": "2025-10-06T13:02:38Z",
         "objectID": "45490938"
       },
       {
         "title": "Smartphones and being present",
         "url": "https://herman.bearblog.dev/being-present/",
-        "points": 143,
+        "points": 147,
         "author": "articsputnik",
-        "num_comments": 97,
+        "num_comments": 98,
         "created_at": "2025-10-13T14:20:33Z",
         "objectID": "45568613"
       },
       {
         "title": "Putting a dumb weather station on the internet",
         "url": "https://colincogle.name/blog/byo-weather-station/",
-        "points": 137,
+        "points": 138,
         "author": "todsacerdoti",
         "num_comments": 36,
         "created_at": "2025-10-07T19:11:04Z",
@@ -87,9 +87,9 @@
       {
         "title": "Ofcom fines 4chan £20K and counting for violating UK's Online Safety Act",
         "url": "https://www.theregister.com/2025/10/13/4chan_ofcom_fine/",
-        "points": 134,
+        "points": 135,
         "author": "klez",
-        "num_comments": 146,
+        "num_comments": 149,
         "created_at": "2025-10-13T14:34:40Z",
         "objectID": "45568767"
       },
@@ -98,9 +98,27 @@
         "url": "https://www.nobelprize.org/prizes/economic-sciences/2025/summary/",
         "points": 101,
         "author": "k2enemy",
-        "num_comments": 140,
+        "num_comments": 141,
         "created_at": "2025-10-13T11:23:20Z",
         "objectID": "45567153"
+      },
+      {
+        "title": "A16Z-backed data firms Fivetran, dbt Labs to merge in all-stock deal",
+        "url": "https://www.reuters.com/business/a16z-backed-data-firms-fivetran-dbt-labs-merge-all-stock-deal-2025-10-13/",
+        "points": 96,
+        "author": "mjirv",
+        "num_comments": 35,
+        "created_at": "2025-10-13T14:42:19Z",
+        "objectID": "45568842"
+      },
+      {
+        "title": "JSON River – Parse JSON incrementally as it streams in",
+        "url": "https://github.com/rictic/jsonriver",
+        "points": 91,
+        "author": "rickcarlino",
+        "num_comments": 52,
+        "created_at": "2025-10-08T16:38:43Z",
+        "objectID": "45518033"
       },
       {
         "title": "MPTCP for Linux",
@@ -112,18 +130,9 @@
         "objectID": "45566441"
       },
       {
-        "title": "JSON River – Parse JSON incrementally as it streams in",
-        "url": "https://github.com/rictic/jsonriver",
-        "points": 88,
-        "author": "rickcarlino",
-        "num_comments": 51,
-        "created_at": "2025-10-08T16:38:43Z",
-        "objectID": "45518033"
-      },
-      {
         "title": "AI and the Future of American Politics",
         "url": "https://www.schneier.com/blog/archives/2025/10/ai-and-the-future-of-american-politics.html",
-        "points": 83,
+        "points": 85,
         "author": "zdw",
         "num_comments": 32,
         "created_at": "2025-10-13T14:51:51Z",
@@ -132,54 +141,45 @@
       {
         "title": "Jeep software update bricks vehicles, leaves owners stranded",
         "url": "https://www.thestack.technology/jeep-software-update-bricks-vehicles-leaves-owners-stranded/",
-        "points": 75,
+        "points": 76,
         "author": "croes",
-        "num_comments": 6,
+        "num_comments": 8,
         "created_at": "2025-10-13T16:08:32Z",
         "objectID": "45569966"
       },
       {
         "title": "Control your Canon Camera wirelessly",
         "url": "https://github.com/JulianSchroden/cine_remote",
-        "points": 71,
+        "points": 72,
         "author": "nklswbr",
         "num_comments": 16,
         "created_at": "2025-10-07T15:44:54Z",
         "objectID": "45504604"
       },
       {
-        "title": "LaTeXpOsEd: A Systematic Analysis of Information Leakage in Preprint Archives",
-        "url": "https://arxiv.org/abs/2510.03761",
-        "points": 64,
-        "author": "oldfuture",
-        "num_comments": 17,
-        "created_at": "2025-10-13T08:33:34Z",
-        "objectID": "45566123"
-      },
-      {
         "title": "Dutch government takes control of Chinese-owned chipmaker Nexperia",
         "url": "https://www.cnbc.com/2025/10/13/dutch-government-takes-control-of-chinese-owned-chipmaker-nexperia.html",
-        "points": 61,
+        "points": 70,
         "author": "piskov",
-        "num_comments": 22,
+        "num_comments": 28,
         "created_at": "2025-10-13T10:03:11Z",
         "objectID": "45566644"
       },
       {
-        "title": "Clockss: Digital preservation services run by academic publishers and libraries",
-        "url": "https://clockss.org/",
-        "points": 52,
-        "author": "robtherobber",
-        "num_comments": 8,
-        "created_at": "2025-10-08T07:53:29Z",
-        "objectID": "45513313"
+        "title": "LaTeXpOsEd: A Systematic Analysis of Information Leakage in Preprint Archives",
+        "url": "https://arxiv.org/abs/2510.03761",
+        "points": 64,
+        "author": "oldfuture",
+        "num_comments": 18,
+        "created_at": "2025-10-13T08:33:34Z",
+        "objectID": "45566123"
       },
       {
         "title": "From Millions to Billions",
         "url": "https://www.geocod.io/code-and-coordinates/2025-10-02-from-millions-to-billions/",
-        "points": 51,
+        "points": 54,
         "author": "mjwhansen",
-        "num_comments": 6,
+        "num_comments": 7,
         "created_at": "2025-10-08T09:56:25Z",
         "objectID": "45514213"
       }
@@ -188,10 +188,10 @@
   "wiki": {
     "today": [],
     "random": {},
-    "fetched_at": "2025-10-13T19:55:08.558366+00:00"
+    "fetched_at": "2025-10-13T20:01:09.154807+00:00"
   },
   "apod": {
-    "fetched_at": "2025-10-13T19:55:09.079577+00:00",
+    "fetched_at": "2025-10-13T20:01:09.577847+00:00",
     "entry": {
       "title": "",
       "link": "https://apod.nasa.gov/apod/astropix.html",
