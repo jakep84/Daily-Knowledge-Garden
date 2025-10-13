@@ -1,30 +1,30 @@
 {
   "date": "2025-10-13",
   "hn": {
-    "fetched_at": "2025-10-13T20:01:09.154656+00:00",
+    "fetched_at": "2025-10-13T20:07:47.563357+00:00",
     "items": [
       {
         "title": "NanoChat – The best ChatGPT that $100 can buy",
         "url": "https://github.com/karpathy/nanochat",
-        "points": 449,
+        "points": 454,
         "author": "huseyinkeles",
-        "num_comments": 63,
+        "num_comments": 66,
         "created_at": "2025-10-13T15:22:47Z",
         "objectID": "45569350"
       },
       {
         "title": "Android's sideloading limits are its most anti-consumer move",
         "url": "https://www.makeuseof.com/androids-sideloading-limits-are-anti-consumer-move-yet/",
-        "points": 350,
+        "points": 357,
         "author": "josephcsible",
-        "num_comments": 198,
+        "num_comments": 200,
         "created_at": "2025-10-13T15:24:08Z",
         "objectID": "45569371"
       },
       {
         "title": "Spotlight on pdfly, the Swiss Army knife for PDF files",
         "url": "https://chezsoi.org/lucas/blog/spotlight-on-pdfly.html",
-        "points": 273,
+        "points": 274,
         "author": "Lucas-C",
         "num_comments": 81,
         "created_at": "2025-10-13T08:36:33Z",
@@ -33,18 +33,18 @@
       {
         "title": "Show HN: SQLite Online – 11 years of solo development, 11K daily users",
         "url": "https://sqliteonline.com/",
-        "points": 262,
+        "points": 263,
         "author": "sqliteonline",
-        "num_comments": 102,
+        "num_comments": 104,
         "created_at": "2025-10-13T12:46:52Z",
         "objectID": "45567770"
       },
       {
         "title": "Environment variables are a legacy mess: Let's dive deep into them",
         "url": "https://allvpv.org/haotic-journey-through-envvars/",
-        "points": 164,
+        "points": 167,
         "author": "signa11",
-        "num_comments": 113,
+        "num_comments": 116,
         "created_at": "2025-10-13T16:49:15Z",
         "objectID": "45570537"
       },
@@ -53,23 +53,23 @@
         "url": "https://tech.marksblogg.com/american-solar-farms.html",
         "points": 163,
         "author": "marklit",
-        "num_comments": 196,
+        "num_comments": 198,
         "created_at": "2025-10-13T10:02:40Z",
         "objectID": "45566638"
       },
       {
         "title": "More random home lab things I've recently learned",
         "url": "https://chollinger.com/blog/2025/10/more-homelab-things-ive-recently-learned/",
-        "points": 158,
+        "points": 161,
         "author": "otter-in-a-suit",
-        "num_comments": 75,
+        "num_comments": 76,
         "created_at": "2025-10-06T13:02:38Z",
         "objectID": "45490938"
       },
       {
         "title": "Smartphones and being present",
         "url": "https://herman.bearblog.dev/being-present/",
-        "points": 147,
+        "points": 150,
         "author": "articsputnik",
         "num_comments": 98,
         "created_at": "2025-10-13T14:20:33Z",
@@ -87,34 +87,25 @@
       {
         "title": "Ofcom fines 4chan £20K and counting for violating UK's Online Safety Act",
         "url": "https://www.theregister.com/2025/10/13/4chan_ofcom_fine/",
-        "points": 135,
+        "points": 136,
         "author": "klez",
-        "num_comments": 149,
+        "num_comments": 153,
         "created_at": "2025-10-13T14:34:40Z",
         "objectID": "45568767"
       },
       {
         "title": "The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel 2025",
         "url": "https://www.nobelprize.org/prizes/economic-sciences/2025/summary/",
-        "points": 101,
+        "points": 102,
         "author": "k2enemy",
         "num_comments": 141,
         "created_at": "2025-10-13T11:23:20Z",
         "objectID": "45567153"
       },
       {
-        "title": "A16Z-backed data firms Fivetran, dbt Labs to merge in all-stock deal",
-        "url": "https://www.reuters.com/business/a16z-backed-data-firms-fivetran-dbt-labs-merge-all-stock-deal-2025-10-13/",
-        "points": 96,
-        "author": "mjirv",
-        "num_comments": 35,
-        "created_at": "2025-10-13T14:42:19Z",
-        "objectID": "45568842"
-      },
-      {
         "title": "JSON River – Parse JSON incrementally as it streams in",
         "url": "https://github.com/rictic/jsonriver",
-        "points": 91,
+        "points": 92,
         "author": "rickcarlino",
         "num_comments": 52,
         "created_at": "2025-10-08T16:38:43Z",
@@ -132,7 +123,7 @@
       {
         "title": "AI and the Future of American Politics",
         "url": "https://www.schneier.com/blog/archives/2025/10/ai-and-the-future-of-american-politics.html",
-        "points": 85,
+        "points": 86,
         "author": "zdw",
         "num_comments": 32,
         "created_at": "2025-10-13T14:51:51Z",
@@ -141,11 +132,20 @@
       {
         "title": "Jeep software update bricks vehicles, leaves owners stranded",
         "url": "https://www.thestack.technology/jeep-software-update-bricks-vehicles-leaves-owners-stranded/",
-        "points": 76,
+        "points": 79,
         "author": "croes",
-        "num_comments": 8,
+        "num_comments": 9,
         "created_at": "2025-10-13T16:08:32Z",
         "objectID": "45569966"
+      },
+      {
+        "title": "Dutch government takes control of Chinese-owned chipmaker Nexperia",
+        "url": "https://www.cnbc.com/2025/10/13/dutch-government-takes-control-of-chinese-owned-chipmaker-nexperia.html",
+        "points": 74,
+        "author": "piskov",
+        "num_comments": 35,
+        "created_at": "2025-10-13T10:03:11Z",
+        "objectID": "45566644"
       },
       {
         "title": "Control your Canon Camera wirelessly",
@@ -157,15 +157,6 @@
         "objectID": "45504604"
       },
       {
-        "title": "Dutch government takes control of Chinese-owned chipmaker Nexperia",
-        "url": "https://www.cnbc.com/2025/10/13/dutch-government-takes-control-of-chinese-owned-chipmaker-nexperia.html",
-        "points": 70,
-        "author": "piskov",
-        "num_comments": 28,
-        "created_at": "2025-10-13T10:03:11Z",
-        "objectID": "45566644"
-      },
-      {
         "title": "LaTeXpOsEd: A Systematic Analysis of Information Leakage in Preprint Archives",
         "url": "https://arxiv.org/abs/2510.03761",
         "points": 64,
@@ -175,23 +166,32 @@
         "objectID": "45566123"
       },
       {
-        "title": "From Millions to Billions",
+        "title": "Scaling request logging with ClickHouse, Kafka, and Vector",
         "url": "https://www.geocod.io/code-and-coordinates/2025-10-02-from-millions-to-billions/",
-        "points": 54,
+        "points": 55,
         "author": "mjwhansen",
         "num_comments": 7,
         "created_at": "2025-10-08T09:56:25Z",
         "objectID": "45514213"
+      },
+      {
+        "title": "Clockss: Digital preservation services run by academic publishers and libraries",
+        "url": "https://clockss.org/",
+        "points": 52,
+        "author": "robtherobber",
+        "num_comments": 8,
+        "created_at": "2025-10-08T07:53:29Z",
+        "objectID": "45513313"
       }
     ]
   },
   "wiki": {
     "today": [],
     "random": {},
-    "fetched_at": "2025-10-13T20:01:09.154807+00:00"
+    "fetched_at": "2025-10-13T20:07:47.563470+00:00"
   },
   "apod": {
-    "fetched_at": "2025-10-13T20:01:09.577847+00:00",
+    "fetched_at": "2025-10-13T20:07:48.604381+00:00",
     "entry": {
       "title": "",
       "link": "https://apod.nasa.gov/apod/astropix.html",
