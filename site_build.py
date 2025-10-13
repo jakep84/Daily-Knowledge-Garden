@@ -102,6 +102,7 @@ def build_day(day_dir: Path, repo: str):
     (out_dir / "index.html").write_text(html, encoding="utf-8")
 
 def build_index(days: list[Path], repo: str):
+    # Build the archive index (list of all days)
     links = []
     for d in days:
         day = d.name
@@ -109,14 +110,19 @@ def build_index(days: list[Path], repo: str):
     links_html = "\n".join(links)
 
     latest_block = ""
+    redirect_snippet = ""
     if days:
         latest = days[-1].name
         latest_block = f'<p><strong>Latest:</strong> <a href="./{latest}/">{latest}</a></p>'
+        # Add auto-redirect JS to latest report
+        redirect_snippet = f'<script>location.replace("./{latest}/");</script>'
 
     updated = dt.datetime.utcnow().strftime("%Y-%m-%d %H:%M UTC")
     html = INDEX_SHELL.format(
         style=STYLE, links=links_html, updated_utc=updated, repo=repo, latest_block=latest_block
     )
+    # Inject redirect script just before </body>
+    html = html.replace("</body>", f"{redirect_snippet}\n</body>")
     (DOCS / "index.html").write_text(html, encoding="utf-8")
 
 def main():
