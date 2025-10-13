@@ -56,19 +56,17 @@ INDEX_SHELL = """<!doctype html>
 """
 
 def repo_slug() -> str:
-    # Best effort guess from git config; safe fallback for Pages links
     gh = (ROOT / ".git" / "config")
     try:
         txt = gh.read_text(errors="ignore")
         for line in txt.splitlines():
             if "github.com" in line and ".git" in line:
-                # ...github.com:USER/REPO.git or https://github.com/USER/REPO.git
                 tail = line.strip().split("github.com")[-1].replace(":", "/")
                 parts = tail.strip("/").removesuffix(".git")
                 return parts
     except Exception:
         pass
-    return "YOUR_USER/YOUR_REPO"
+    return "jakep84/Daily-Knowledge-Garden"
 
 def convert_md_to_html(md_text: str) -> str:
     return markdown.markdown(md_text, extensions=["extra", "tables", "sane_lists"])
