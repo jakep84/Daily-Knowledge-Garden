@@ -4,16 +4,13 @@ import datetime as dt
 import markdown
 import re
 
-DATE_RE = re.compile(r"^\d{4}-\d{2}-\d{2}$")
+# ----- Paths & constants
 ROOT = Path(__file__).parent.resolve()
 DATA = ROOT / "data"
 DOCS = ROOT / "docs"
+DATE_RE = re.compile(r"^\d{4}-\d{2}-\d{2}$")  # only real days like 2025-10-13
 
-def get_day_dirs(DATA):
-    if not DATA.exists():
-        return []
-    return sorted([p for p in DATA.iterdir() if p.is_dir() and DATE_RE.match(p.name)])
-
+# ----- Styles & HTML shells
 STYLE = """
 <style>
   :root { color-scheme: light dark; }
@@ -62,22 +59,25 @@ INDEX_SHELL = """<!doctype html>
 </html>
 """
 
+# ----- Helpers
+
 def repo_slug() -> str:
-    # Best effort guess from git config; safe fallback for Pages links
-    gh = (ROOT / ".git" / "config")
-    try:
-        txt = gh.read_text(errors="ignore")
-        for line in txt.splitlines():
-            if "github.com" in line and ".git" in line:
-                tail = line.strip().split("github.com")[-1].replace(":", "/")
-                parts = tail.strip("/").removesuffix(".git")
-                return parts
-    except Exception:
-        pass
+    # Hardcode for your repo (simple + robust)
     return "jakep84/Daily-Knowledge-Garden"
+
+def get_day_dirs() -> list[Path]:
+    """Return only folders named like YYYY-MM-DD, sorted ascending."""
+    if not DATA.exists():
+        return []
+    return sorted(
+        p for p in DATA.iterdir()
+        if p.is_dir() and DATE_RE.match(p.name)
+    )
 
 def convert_md_to_html(md_text: str) -> str:
     return markdown.markdown(md_text, extensions=["extra", "tables", "sane_lists"])
+
+# ----- Build functions
 
 def build_day(day_dir: Path, repo: str):
     """Create docs/YYYY-MM-DD/index.html and copy assets so relative links work."""
@@ -94,8 +94,13 @@ def build_day(day_dir: Path, repo: str):
                 shutil.rmtree(dst)
             shutil.copytree(src, dst)
 
-    # Convert report.md → index.html
-    report_md = (day_dir / "report.md").read_text(encoding="utf-8")
+    # Convert report.md → index.html (skip if missing)
+    report_md_path = day_dir / "report.md"
+    if not report_md_path.exists():
+        print(f"Skipping {day}: no report.md")
+        return
+
+    report_md = report_md_path.read_text(encoding="utf-8")
     report_html = convert_md_to_html(report_md)
     updated = dt.datetime.utcnow().strftime("%Y-%m-%d %H:%M UTC")
     html = HTML_SHELL.format(
@@ -108,35 +113,37 @@ def build_day(day_dir: Path, repo: str):
     (out_dir / "index.html").write_text(html, encoding="utf-8")
 
 def build_index(days: list[Path], repo: str):
-    # Build the archive index (list of all days)
-    links = []
-    for d in days:
-        day = d.name
-        links.append(f'<a class="card" href="./{day}/"><strong>{day}</strong><br><span class="muted">Daily report</span></a>')
+    # Build the archive list
+    links = [
+        f'<a class="card" href="./{d.name}/"><strong>{d.name}</strong><br><span class="muted">Daily report</span></a>'
+        for d in days
+    ]
     links_html = "\n".join(links)
 
     latest_block = ""
-    redirect_snippet = ""
+    redirect_snippet = ""   # injected when a real latest exists
     if days:
-        latest = days[-1].name
+        latest = days[-1].name  # newest day (sorted ascending)
         latest_block = f'<p><strong>Latest:</strong> <a href="./{latest}/">{latest}</a></p>'
-        # Add auto-redirect JS to latest report
-        redirect_snippet = f'<script>location.replace("./{latest}/");</script>'
+        # Add meta refresh + JS redirect for immediate jump
+        redirect_snippet = (
+            f'<meta http-equiv="refresh" content="0; url=./{latest}/">\n'
+            f'<script>location.replace("./{latest}/");</script>'
+        )
 
     updated = dt.datetime.utcnow().strftime("%Y-%m-%d %H:%M UTC")
     html = INDEX_SHELL.format(
         style=STYLE, links=links_html, updated_utc=updated, repo=repo, latest_block=latest_block
     )
-    # Inject redirect script just before </body>
-    html = html.replace("</body>", f"{redirect_snippet}\n</body>")
+    if redirect_snippet:
+        html = html.replace("<body>", f"<body>\n{redirect_snippet}\n")
     (DOCS / "index.html").write_text(html, encoding="utf-8")
+
+# ----- Entry point
 
 def main():
     DOCS.mkdir(exist_ok=True)
-    if not DATA.exists():
-        print("No data yet; skipping site build.")
-        return
-    days = sorted([p for p in DATA.iterdir() if p.is_dir()])
+    days = get_day_dirs()
     repo = repo_slug()
 
     for d in days:

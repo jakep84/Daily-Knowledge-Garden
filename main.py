@@ -12,7 +12,6 @@ from sources.apod import fetch_apod
 
 ROOT = Path(__file__).parent.resolve()
 
-
 def today_dir():
     d = DATA_DIR / str(RUN_DATE)
     d.mkdir(parents=True, exist_ok=True)
@@ -20,13 +19,11 @@ def today_dir():
     (d / PLOTS_DIRNAME).mkdir(exist_ok=True)
     return d
 
-
 def build_report_payload():
     hn = fetch_top()
     wiki = fetch_today_and_random(RUN_DATE.month, RUN_DATE.day)
     apod = fetch_apod()
     return {"date": str(RUN_DATE), "hn": hn, "wiki": wiki, "apod": apod}
-
 
 def generate_charts(payload, out_dir: Path):
     titles = [x.get("title") or "" for x in payload["hn"].get("items", [])][:10]
@@ -37,7 +34,6 @@ def generate_charts(payload, out_dir: Path):
         bar_plot("Hacker News: Top 10 stories (points)", labels, points, plot_path)
         return {"hn_top10_points": str(plot_path.relative_to(ROOT))}
     return {"hn_top10_points": None}
-
 
 def make_markdown(payload, charts, out_dir: Path):
     # Hacker News section
@@ -61,8 +57,7 @@ def make_markdown(payload, charts, out_dir: Path):
     today_events = (payload.get("wiki", {}) or {}).get("today", [])[:5]
     today_block = (
         "\n".join([f"- **{e.get('year')}** — {e.get('text')}" for e in today_events])
-        if today_events
-        else "_No data_"
+        if today_events else "_No data_"
     )
 
     # Wikipedia Random
@@ -89,7 +84,6 @@ def make_markdown(payload, charts, out_dir: Path):
     write_text(out_md, md)
     return out_md
 
-
 def update_readme(payload, charts, report_md_path: Path):
     readme_path = ROOT / "README.md"
     readme = readme_path.read_text(encoding="utf-8")
@@ -115,7 +109,6 @@ def update_readme(payload, charts, report_md_path: Path):
     readme = replace_between_markers(readme, "<!--HIGHLIGHTS-->", "<!--/HIGHLIGHTS-->", highlights_md.strip())
     readme_path.write_text(readme, encoding="utf-8")
 
-
 def main():
     out_dir = today_dir()
     payload = build_report_payload()
@@ -123,7 +116,6 @@ def main():
     charts = generate_charts(payload, out_dir)
     report_md = make_markdown(payload, charts, out_dir)
     update_readme(payload, charts, report_md)
-
 
 if __name__ == "__main__":
     main()
