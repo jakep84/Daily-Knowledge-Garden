@@ -1,30 +1,30 @@
 {
   "date": "2025-10-13",
   "hn": {
-    "fetched_at": "2025-10-13T20:07:47.563357+00:00",
+    "fetched_at": "2025-10-13T20:13:36.880854+00:00",
     "items": [
       {
         "title": "NanoChat – The best ChatGPT that $100 can buy",
         "url": "https://github.com/karpathy/nanochat",
-        "points": 454,
+        "points": 464,
         "author": "huseyinkeles",
-        "num_comments": 66,
+        "num_comments": 70,
         "created_at": "2025-10-13T15:22:47Z",
         "objectID": "45569350"
       },
       {
         "title": "Android's sideloading limits are its most anti-consumer move",
         "url": "https://www.makeuseof.com/androids-sideloading-limits-are-anti-consumer-move-yet/",
-        "points": 357,
+        "points": 358,
         "author": "josephcsible",
-        "num_comments": 200,
+        "num_comments": 205,
         "created_at": "2025-10-13T15:24:08Z",
         "objectID": "45569371"
       },
       {
         "title": "Spotlight on pdfly, the Swiss Army knife for PDF files",
         "url": "https://chezsoi.org/lucas/blog/spotlight-on-pdfly.html",
-        "points": 274,
+        "points": 275,
         "author": "Lucas-C",
         "num_comments": 81,
         "created_at": "2025-10-13T08:36:33Z",
@@ -33,7 +33,7 @@
       {
         "title": "Show HN: SQLite Online – 11 years of solo development, 11K daily users",
         "url": "https://sqliteonline.com/",
-        "points": 263,
+        "points": 264,
         "author": "sqliteonline",
         "num_comments": 104,
         "created_at": "2025-10-13T12:46:52Z",
@@ -42,9 +42,9 @@
       {
         "title": "Environment variables are a legacy mess: Let's dive deep into them",
         "url": "https://allvpv.org/haotic-journey-through-envvars/",
-        "points": 167,
+        "points": 168,
         "author": "signa11",
-        "num_comments": 116,
+        "num_comments": 117,
         "created_at": "2025-10-13T16:49:15Z",
         "objectID": "45570537"
       },
@@ -85,20 +85,11 @@
         "objectID": "45507444"
       },
       {
-        "title": "Ofcom fines 4chan £20K and counting for violating UK's Online Safety Act",
-        "url": "https://www.theregister.com/2025/10/13/4chan_ofcom_fine/",
-        "points": 136,
-        "author": "klez",
-        "num_comments": 153,
-        "created_at": "2025-10-13T14:34:40Z",
-        "objectID": "45568767"
-      },
-      {
         "title": "The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel 2025",
         "url": "https://www.nobelprize.org/prizes/economic-sciences/2025/summary/",
         "points": 102,
         "author": "k2enemy",
-        "num_comments": 141,
+        "num_comments": 142,
         "created_at": "2025-10-13T11:23:20Z",
         "objectID": "45567153"
       },
@@ -125,32 +116,32 @@
         "url": "https://www.schneier.com/blog/archives/2025/10/ai-and-the-future-of-american-politics.html",
         "points": 86,
         "author": "zdw",
-        "num_comments": 32,
+        "num_comments": 33,
         "created_at": "2025-10-13T14:51:51Z",
         "objectID": "45568955"
       },
       {
+        "title": "Dutch government takes control of Chinese-owned chipmaker Nexperia",
+        "url": "https://www.cnbc.com/2025/10/13/dutch-government-takes-control-of-chinese-owned-chipmaker-nexperia.html",
+        "points": 80,
+        "author": "piskov",
+        "num_comments": 36,
+        "created_at": "2025-10-13T10:03:11Z",
+        "objectID": "45566644"
+      },
+      {
         "title": "Jeep software update bricks vehicles, leaves owners stranded",
         "url": "https://www.thestack.technology/jeep-software-update-bricks-vehicles-leaves-owners-stranded/",
-        "points": 79,
+        "points": 80,
         "author": "croes",
         "num_comments": 9,
         "created_at": "2025-10-13T16:08:32Z",
         "objectID": "45569966"
       },
       {
-        "title": "Dutch government takes control of Chinese-owned chipmaker Nexperia",
-        "url": "https://www.cnbc.com/2025/10/13/dutch-government-takes-control-of-chinese-owned-chipmaker-nexperia.html",
-        "points": 74,
-        "author": "piskov",
-        "num_comments": 35,
-        "created_at": "2025-10-13T10:03:11Z",
-        "objectID": "45566644"
-      },
-      {
         "title": "Control your Canon Camera wirelessly",
         "url": "https://github.com/JulianSchroden/cine_remote",
-        "points": 72,
+        "points": 73,
         "author": "nklswbr",
         "num_comments": 16,
         "created_at": "2025-10-07T15:44:54Z",
@@ -168,30 +159,39 @@
       {
         "title": "Scaling request logging with ClickHouse, Kafka, and Vector",
         "url": "https://www.geocod.io/code-and-coordinates/2025-10-02-from-millions-to-billions/",
-        "points": 55,
+        "points": 57,
         "author": "mjwhansen",
-        "num_comments": 7,
+        "num_comments": 8,
         "created_at": "2025-10-08T09:56:25Z",
         "objectID": "45514213"
       },
       {
         "title": "Clockss: Digital preservation services run by academic publishers and libraries",
         "url": "https://clockss.org/",
-        "points": 52,
+        "points": 53,
         "author": "robtherobber",
         "num_comments": 8,
         "created_at": "2025-10-08T07:53:29Z",
         "objectID": "45513313"
+      },
+      {
+        "title": "First device based on 'optical thermodynamics' can route light without switches",
+        "url": "https://phys.org/news/2025-10-device-based-optical-thermodynamics-route.html",
+        "points": 35,
+        "author": "rbanffy",
+        "num_comments": 3,
+        "created_at": "2025-10-09T00:54:00Z",
+        "objectID": "45522266"
       }
     ]
   },
   "wiki": {
     "today": [],
     "random": {},
-    "fetched_at": "2025-10-13T20:07:47.563470+00:00"
+    "fetched_at": "2025-10-13T20:13:36.881065+00:00"
   },
   "apod": {
-    "fetched_at": "2025-10-13T20:07:48.604381+00:00",
+    "fetched_at": "2025-10-13T20:13:37.282149+00:00",
     "entry": {
       "title": "",
       "link": "https://apod.nasa.gov/apod/astropix.html",
