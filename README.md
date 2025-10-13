@@ -17,15 +17,13 @@ Every day it:
 
 ---
 
-**Latest run:** <!--LATEST_RUN-->_pending_<!--/LATEST_RUN-->
+**Latest run:** <!--LATEST_RUN-->2025-10-13 (UTC)<!--/LATEST_RUN-->
 
 ## 📊 Highlights
 
-<!--HIGHLIGHTS-->
-
-No highlights yet. First run will populate this section.
-
-<!--/HIGHLIGHTS-->
+<!--HIGHLIGHTS-->- **HN #1:** [NanoChat – The best ChatGPT that $100 can buy](https://github.com/karpathy/nanochat)
+- **APOD:** [](https://apod.nasa.gov/apod/astropix.html)
+- **Daily Report:** [2025-10-13/report.md](/data/2025-10-13/report.md)<!--/HIGHLIGHTS-->
 
 ---
 
