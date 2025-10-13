@@ -2,10 +2,17 @@ from pathlib import Path
 import shutil
 import datetime as dt
 import markdown
+import re
 
+DATE_RE = re.compile(r"^\d{4}-\d{2}-\d{2}$")
 ROOT = Path(__file__).parent.resolve()
 DATA = ROOT / "data"
 DOCS = ROOT / "docs"
+
+def get_day_dirs(DATA):
+    if not DATA.exists():
+        return []
+    return sorted([p for p in DATA.iterdir() if p.is_dir() and DATE_RE.match(p.name)])
 
 STYLE = """
 <style>
@@ -56,6 +63,7 @@ INDEX_SHELL = """<!doctype html>
 """
 
 def repo_slug() -> str:
+    # Best effort guess from git config; safe fallback for Pages links
     gh = (ROOT / ".git" / "config")
     try:
         txt = gh.read_text(errors="ignore")
