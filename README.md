@@ -1,5 +1,7 @@
 # 🌱 Daily Knowledge Garden
 
+👉 **Live site:** https://jakep84.github.io/Daily-Knowledge-Garden/
+
 An autonomous, self-updating repository that publishes a daily bundle of insights from:
 
 - **Hacker News** – Top front-page stories
