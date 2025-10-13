@@ -1,6 +1,5 @@
 import datetime as dt
 from pathlib import Path
-import json
 
 from config import DATA_DIR, IMG_DIRNAME, PLOTS_DIRNAME, RUN_DATE
 from utils.files import write_json, write_text, replace_between_markers
@@ -13,6 +12,7 @@ from sources.apod import fetch_apod
 
 ROOT = Path(__file__).parent.resolve()
 
+
 def today_dir():
     d = DATA_DIR / str(RUN_DATE)
     d.mkdir(parents=True, exist_ok=True)
@@ -20,79 +20,112 @@ def today_dir():
     (d / PLOTS_DIRNAME).mkdir(exist_ok=True)
     return d
 
+
 def build_report_payload():
     hn = fetch_top()
     wiki = fetch_today_and_random(RUN_DATE.month, RUN_DATE.day)
     apod = fetch_apod()
     return {"date": str(RUN_DATE), "hn": hn, "wiki": wiki, "apod": apod}
 
+
 def generate_charts(payload, out_dir: Path):
     # simple HN points vs. title length
-    titles = [x["title"] or "" for x in payload["hn"]["items"]][:10]
-    points = [x.get("points", 0) for x in payload["hn"]["items"]][:10]
+    titles = [x.get("title") or "" for x in payload["hn"].get("items", [])][:10]
+    points = [int(x.get("points", 0)) for x in payload["hn"].get("items", [])][:10]
     labels = [t[:18] + ("…" if len(t) > 18 else "") for t in titles]
     plot_path = out_dir / PLOTS_DIRNAME / "hn_top10_points.png"
     if titles:
         bar_plot("Hacker News: Top 10 stories (points)", labels, points, plot_path)
-    return {"hn_top10_points": str(plot_path.relative_to(ROOT)) if titles else None}
+        return {"hn_top10_points": str(plot_path.relative_to(ROOT))}
+    return {"hn_top10_points": None}
+
 
 def make_markdown(payload, charts, out_dir: Path):
-    hn_top = payload["hn"]["items"][:5]
-    hn_lines = []
-    for it in hn_top:
-        t = it.get("title") or "(no title)"
-        url = it.get("url") or f"https://news.ycombinator.com/item?id={it.get('objectID')}"
-        hn_lines.append(f"- [{t}]({url}) — {it.get('points',0)} points, {it.get('num_comments',0)} comments")
+    # Hacker News section lines
+    hn_items = payload["hn"].get("items", [])
+    hn_top = hn_items[:5]
+    if hn_top:
+        hn_lines = [
+            f"- [{it.get('title') or '(no title)'}]({it.get('url') or f'https://news.ycombinator.com/item?id={it.get('objectID')}'}) — "
+            f"{it.get('points', 0)} points, {it.get('num_comments', 0)} comments"
+            for it in hn_top
+        ]
+        hn_block = "\n".join(hn_lines)
+    else:
+        hn_block = "_No data_"
 
-    random = payload["wiki"]["random"]
+    # Chart embedding
+    chart_md = ""
+    if charts.get("hn_top10_points"):
+        chart_md = f"![HN Points Chart]({charts['hn_top10_points']})"
+
+    # Wikipedia "On this day"
+    today_events = (payload.get("wiki", {}) or {}).get("today", [])[:5]
+    if today_events:
+        today_lines = [f"- **{e.get('year')}** — {e.get('text')}" for e in today_events]
+        today_block = "\n".join(today_lines)
+    else:
+        today_block = "_No data_"
+
+    # Wikipedia random
+    random = (payload.get("wiki", {}) or {}).get("random") or {}
+    random_title = random.get("title", "N/A")
     random_blurb = summarize((random.get("extract") or "")[:2000], max_sentences=2) if random else ""
+    random_url = random.get("content_urls") or ""
 
-    apod = payload["apod"]["entry"]
-    apod_line = f"[{apod['title']}]({apod['link']})" if apod else "Unavailable"
+    # APOD
+    apod_entry = (payload.get("apod", {}) or {}).get("entry")
+    apod_line = f"[{apod_entry['title']}]({apod_entry['link']})" if apod_entry else "Unavailable"
 
-    md = f"""# Daily Knowledge Garden — {payload['date']}
+    md = (
+        f"# Daily Knowledge Garden — {payload['date']}\n\n"
+        f"## 🚀 Hacker News (Top 5)\n"
+        f"{hn_block}\n\n"
+        f"{chart_md}\n\n"
+        f"## 🌍 Wikipedia — On This Day (selected)\n"
+        f"{today_block}\n\n"
+        f"## 🎲 Wikipedia — Random Article\n"
+        f"**{random_title}**  \n"
+        f"{random_blurb}\n"
+        f"{random_url}\n\n"
+        f"## 🌌 NASA APOD\n"
+        f"{apod_line}\n"
+    )
 
-## 🚀 Hacker News (Top 5)
-{chr(10).join(hn_lines) if hn_lines else "_No data_"}
-
-{"![HN Points Chart](" + charts["hn_top10_points"] + ")" if charts.get("hn_top10_points") else ""}
-
-## 🌍 Wikipedia — On This Day (selected)
-{"".join([f"- **{e['year']}** — {e['text']}\\n" for e in (payload['wiki'].get('today') or [])[:5]]) or "_No data_"}
-
-## 🎲 Wikipedia — Random Article
-**{random.get('title') if random else 'N/A'}**  
-{random_blurb}
-{(random.get('content_urls') or '') if random else ''}
-
-## 🌌 NASA APOD
-{apod_line}
-"""
     out_md = out_dir / "report.md"
     write_text(out_md, md)
     return out_md
 
+
 def update_readme(payload, charts, report_md_path: Path):
-    readme = (ROOT / "README.md").read_text(encoding="utf-8")
+    readme_path = ROOT / "README.md"
+    readme = readme_path.read_text(encoding="utf-8")
 
     latest_run = f"{payload['date']} (UTC)"
-    readme = replace_between_markers(readme, "<!--LATEST_RUN-->", "<!--/LATEST_RUN-->", latest_run)
+    readme = replace_between_markers(
+        readme, "<!--LATEST_RUN-->", "<!--/LATEST_RUN-->", latest_run
+    )
 
     # highlight: show top HN title + APOD title
-    top = payload["hn"]["items"][0] if payload["hn"]["items"] else {}
+    items = payload["hn"].get("items", [])
+    top = items[0] if items else {}
     top_title = top.get("title", "N/A")
     top_url = top.get("url") or (f"https://news.ycombinator.com/item?id={top.get('objectID')}" if top else "")
-    apod = payload["apod"]["entry"]
+    apod = payload["apod"].get("entry")
     apod_title = apod.get("title") if apod else "N/A"
     apod_link = apod.get("link") if apod else ""
 
-    highlights_md = f"""
-- **HN #1:** [{top_title}]({top_url})
-- **APOD:** [{apod_title}]({apod_link})
-- **Daily Report:** [{payload['date']}/report.md](/data/{payload['date']}/report.md)
-"""
-    readme = replace_between_markers(readme, "<!--HIGHLIGHTS-->", "<!--/HIGHLIGHTS-->", highlights_md.strip())
-    (ROOT / "README.md").write_text(readme, encoding="utf-8")
+    highlights_md = (
+        f"- **HN #1:** [{top_title}]({top_url})\n"
+        f"- **APOD:** [{apod_title}]({apod_link})\n"
+        f"- **Daily Report:** [{payload['date']}/report.md](/data/{payload['date']}/report.md)\n"
+    )
+
+    readme = replace_between_markers(
+        readme, "<!--HIGHLIGHTS-->", "<!--/HIGHLIGHTS-->", highlights_md.strip()
+    )
+    readme_path.write_text(readme, encoding="utf-8")
+
 
 def main():
     out_dir = today_dir()
@@ -101,6 +134,7 @@ def main():
     charts = generate_charts(payload, out_dir)
     report_md = make_markdown(payload, charts, out_dir)
     update_readme(payload, charts, report_md)
+
 
 if __name__ == "__main__":
     main()
