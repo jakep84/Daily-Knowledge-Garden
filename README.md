@@ -1,6 +1,6 @@
 # 🌎 Daily Knowledge Garden
 
-Your personal **AI-curated daily news and knowledge digest** — built entirely in Python.
+Your personal **automated, multi-source daily news and knowledge digest** — built entirely in Python.
 It collects the world’s top stories, science updates, local headlines, and internet trends into a single, concise daily brief — automatically generated three times per day with a nightly wrap-up emailed at **10 PM**.
 
 ---
