@@ -1,17 +1,18 @@
 import datetime as dt
 from pathlib import Path
+from typing import List, Dict, Any
 
 from config import DATA_DIR, IMG_DIRNAME, PLOTS_DIRNAME, RUN_DATE
 from utils.files import write_json, write_text, replace_between_markers
 from utils.summarize import summarize
 from utils.plots import bar_plot
 
-# Existing data sources
+# Existing sources
 from sources.hn import fetch_top
 from sources.wiki import fetch_today_and_random
 from sources.apod import fetch_apod
 
-# New multi-source news modules
+# Cross-source news
 from sources import reuters as src_reuters
 from sources import bbc as src_bbc
 from sources import ap as src_ap
@@ -21,26 +22,54 @@ from sources import google_local as src_local
 
 ROOT = Path(__file__).parent.resolve()
 
+
+# -----------------------------------------------------------
+# Helpers (Growth Mode)
+# -----------------------------------------------------------
+def _uniq(items: List[Dict[str, Any]], keys: List[str]) -> List[Dict[str, Any]]:
+    """Stable de-duplication by one or more keys."""
+    seen = set()
+    out = []
+    for it in items or []:
+        key = tuple((it or {}).get(k) for k in keys)
+        if key in seen:
+            continue
+        seen.add(key)
+        out.append(it)
+    return out
+
+
+def _load_json(p: Path) -> Dict[str, Any]:
+    if p.exists():
+        try:
+            return __import__("json").loads(p.read_text(encoding="utf-8"))
+        except Exception:
+            return {}
+    return {}
+
+
 # -----------------------------------------------------------
 # Directory setup
 # -----------------------------------------------------------
-def today_dir():
+def today_dir() -> Path:
     d = DATA_DIR / str(RUN_DATE)
     d.mkdir(parents=True, exist_ok=True)
     (d / IMG_DIRNAME).mkdir(exist_ok=True)
     (d / PLOTS_DIRNAME).mkdir(exist_ok=True)
+    (d / "runs").mkdir(parents=True, exist_ok=True)
     return d
 
 
 # -----------------------------------------------------------
-# Aggregate all feeds into one payload
+# Fetchers
 # -----------------------------------------------------------
-def build_report_payload():
+def fetch_all_sources() -> Dict[str, Any]:
+    """Fetch a single-run snapshot from all sources."""
     hn = fetch_top()
     wiki = fetch_today_and_random(RUN_DATE.month, RUN_DATE.day)
     apod = fetch_apod()
 
-    # --- World news feeds ---
+    # World news (multiple feeds)
     world = []
     for src in [src_reuters, src_bbc, src_ap, src_npr, src_science]:
         try:
@@ -48,24 +77,69 @@ def build_report_payload():
         except Exception as e:
             world.append({"title": f"(Error fetching {src.__name__})", "error": str(e)})
 
-    # --- Local feeds ---
+    # Local news
     local = []
     try:
         local = src_local.fetch()
     except Exception as e:
-        local.append({"title": f"(Error fetching local news)", "error": str(e)})
+        local.append({"title": "(Error fetching local news)", "error": str(e)})
 
-    news = {"world": world[:60], "local": local[:30]}  # keep it light
+    news = {"world": world, "local": local}
 
-    return {"date": str(RUN_DATE), "hn": hn, "wiki": wiki, "apod": apod, "news": news}
+    snapshot = {
+        "date": str(RUN_DATE),
+        "collected_at_utc": dt.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ"),
+        "hn": hn,
+        "wiki": wiki,
+        "apod": apod,
+        "news": news,
+    }
+    return snapshot
+
+
+def merge_day_payload(existing: Dict[str, Any], new: Dict[str, Any]) -> Dict[str, Any]:
+    """Merge a new snapshot into the day's combined payload."""
+    out = {
+        "date": new.get("date"),
+        "last_updated_utc": new.get("collected_at_utc"),
+        # These will be filled below
+        "hn": {"items": []},
+        "wiki": new.get("wiki") or {},
+        "apod": new.get("apod") or {},
+        "news": {"world": [], "local": []},
+        "runs": (existing.get("runs") or []) + [new.get("collected_at_utc")],
+    }
+
+    # Merge HN items (dedupe by objectID)
+    old_hn = (existing.get("hn") or {}).get("items") or []
+    new_hn = (new.get("hn") or {}).get("items") or []
+    merged_hn = _uniq(old_hn + new_hn, keys=["objectID"])
+    out["hn"]["items"] = merged_hn[:200]  # cap for sanity
+
+    # Merge news lists (dedupe by title+link)
+    old_world = ((existing.get("news") or {}).get("world") or [])
+    old_local = ((existing.get("news") or {}).get("local") or [])
+    new_world = ((new.get("news") or {}).get("world") or [])
+    new_local = ((new.get("news") or {}).get("local") or [])
+
+    out["news"]["world"] = _uniq(old_world + new_world, keys=["title", "link"])[:300]
+    out["news"]["local"] = _uniq(old_local + new_local, keys=["title", "link"])[:200]
+
+    # Prefer the newest wiki/APOD if present; otherwise keep existing
+    if not out["wiki"]:
+        out["wiki"] = existing.get("wiki") or {}
+    if not out["apod"]:
+        out["apod"] = existing.get("apod") or {}
+
+    return out
 
 
 # -----------------------------------------------------------
-# Generate visual charts
+# Charts
 # -----------------------------------------------------------
-def generate_charts(payload, out_dir: Path):
-    titles = [x.get("title") or "" for x in payload["hn"].get("items", [])][:10]
-    points = [int(x.get("points", 0)) for x in payload["hn"].get("items", [])][:10]
+def generate_charts(latest_snapshot: Dict[str, Any], out_dir: Path) -> Dict[str, str | None]:
+    titles = [x.get("title") or "" for x in (latest_snapshot.get("hn") or {}).get("items", [])][:10]
+    points = [int(x.get("points", 0)) for x in (latest_snapshot.get("hn") or {}).get("items", [])][:10]
     labels = [t[:18] + ("…" if len(t) > 18 else "") for t in titles]
     plot_path = out_dir / PLOTS_DIRNAME / "hn_top10_points.png"
 
@@ -76,46 +150,19 @@ def generate_charts(payload, out_dir: Path):
 
 
 # -----------------------------------------------------------
-# Markdown builder with concise global + local digest
+# Markdown builder (combined payload)
 # -----------------------------------------------------------
-def make_markdown(payload, charts, out_dir: Path):
-    # Helper for deduplication
-    def _uniq(items, key="title"):
-        seen, out = set(), []
-        for it in items:
-            t = (it or {}).get(key)
-            if not t or t in seen:
-                continue
-            seen.add(t)
-            out.append(it)
-        return out
+def make_markdown(payload: Dict[str, Any], charts: Dict[str, Any], out_dir: Path) -> Path:
+    def _uniq_titles(items: List[Dict[str, Any]], n: int) -> List[Dict[str, Any]]:
+        return _uniq(items, keys=["title"])[:n]
 
-    # Hacker News section
-    hn_items = payload["hn"].get("items", [])
-    hn_top = hn_items[:5]
-    hn_lines = []
-    for it in hn_top:
-        title = it.get("title") or "(no title)"
-        object_id = it.get("objectID")
-        url = it.get("url") or f"https://news.ycombinator.com/item?id={object_id}"
-        points = it.get("points", 0)
-        comments = it.get("num_comments", 0)
-        hn_lines.append(f"- [{title}]({url}) — {points} points, {comments} comments")
-
-    hn_block = "\n".join(hn_lines) if hn_lines else "_No data_"
-
-    # Chart
-    chart_md = f"![HN Points Chart]({charts['hn_top10_points']})" if charts.get("hn_top10_points") else ""
-
-    # --- Global + Local News ---
-    world_items = _uniq((payload.get("news", {}) or {}).get("world", []))[:5]
-    local_items = _uniq((payload.get("news", {}) or {}).get("local", []))[:5]
+    # Global & Local (from combined payload)
+    world_items = _uniq_titles((payload.get("news", {}) or {}).get("world", []), 5)
+    local_items = _uniq_titles((payload.get("news", {}) or {}).get("local", []), 5)
 
     def _lines(items):
         return (
-            "\n".join(
-                [f"- [{it.get('title')}]({it.get('link')}) — {it.get('source')}" for it in items]
-            )
+            "\n".join([f"- [{it.get('title')}]({it.get('link')}) — {it.get('source')}" for it in items])
             if items
             else "_No data_"
         )
@@ -123,15 +170,28 @@ def make_markdown(payload, charts, out_dir: Path):
     world_block = _lines(world_items)
     local_block = _lines(local_items)
 
-    # Quick synthesized daily summary from all sources
+    # Synthesized daily summary from all titles (combined)
     try:
-        all_titles = [w.get("title", "") for w in payload["news"]["world"][:30]] + [
-            l.get("title", "") for l in payload["news"]["local"][:15]
-        ]
+        all_titles = [w.get("title", "") for w in (payload.get("news") or {}).get("world", [])[:30]] + \
+                     [l.get("title", "") for l in (payload.get("news") or {}).get("local", [])[:15]]
         blob = ". ".join([t for t in all_titles if t])
         summary_text = summarize(blob, max_sentences=3)
     except Exception:
         summary_text = "Summary unavailable."
+
+    # Hacker News (Top 5 from combined list)
+    hn_items = (payload.get("hn") or {}).get("items", [])[:5]
+    hn_lines = []
+    for it in hn_items:
+        title = it.get("title") or "(no title)"
+        object_id = it.get("objectID")
+        url = it.get("url") or f"https://news.ycombinator.com/item?id={object_id}"
+        points = it.get("points", 0)
+        comments = it.get("num_comments", 0)
+        hn_lines.append(f"- [{title}]({url}) — {points} points, {comments} comments")
+    hn_block = "\n".join(hn_lines) if hn_lines else "_No data_"
+
+    chart_md = f"![HN Points Chart]({charts['hn_top10_points']})" if charts.get("hn_top10_points") else ""
 
     # Wikipedia — On This Day
     today_events = (payload.get("wiki", {}) or {}).get("today", [])[:5]
@@ -162,6 +222,7 @@ def make_markdown(payload, charts, out_dir: Path):
         f"## 🎲 Wikipedia — Random Article\n"
         f"**{random_title}**  \n{random_blurb}\n{random_url}\n\n"
         f"## 🌌 NASA APOD\n{apod_line}\n"
+        f"\n<sub>Runs so far today: {len(payload.get('runs', []))}</sub>\n"
     )
 
     out_md = out_dir / "report.md"
@@ -170,21 +231,21 @@ def make_markdown(payload, charts, out_dir: Path):
 
 
 # -----------------------------------------------------------
-# README highlights updater
+# README updater
 # -----------------------------------------------------------
-def update_readme(payload, charts, report_md_path: Path):
+def update_readme(payload: Dict[str, Any], charts: Dict[str, Any], report_md_path: Path):
     readme_path = ROOT / "README.md"
     readme = readme_path.read_text(encoding="utf-8")
 
     latest_run = f"{payload['date']} (UTC)"
     readme = replace_between_markers(readme, "<!--LATEST_RUN-->", "<!--/LATEST_RUN-->", latest_run)
 
-    items = payload["hn"].get("items", [])
+    items = (payload.get("hn") or {}).get("items", [])
     top = items[0] if items else {}
     top_title = top.get("title", "N/A")
     object_id = top.get("objectID")
     top_url = top.get("url") or f"https://news.ycombinator.com/item?id={object_id}"
-    apod = payload["apod"].get("entry")
+    apod = payload.get("apod", {}).get("entry")
     apod_title = apod.get("title") if apod else "N/A"
     apod_link = apod.get("link") if apod else ""
 
@@ -199,16 +260,39 @@ def update_readme(payload, charts, report_md_path: Path):
 
 
 # -----------------------------------------------------------
-# Main entrypoint
+# Main (Growth Mode)
 # -----------------------------------------------------------
 def main():
     out_dir = today_dir()
-    payload = build_report_payload()
-    write_json(out_dir / "raw.json", payload)
-    charts = generate_charts(payload, out_dir)
-    report_md = make_markdown(payload, charts, out_dir)
-    update_readme(payload, charts, report_md)
-    print("✅ Daily Knowledge Garden updated successfully.")
+
+    # 1) Fetch a fresh snapshot
+    snapshot = fetch_all_sources()
+
+    # 2) Save this run under runs/<HHMMSS>/raw.json
+    run_id = dt.datetime.utcnow().strftime("%H%M%S")
+    run_dir = out_dir / "runs" / run_id
+    run_dir.mkdir(parents=True, exist_ok=True)
+    write_json(run_dir / "raw.json", snapshot)
+
+    # 3) Load the day's combined payload (if any) and merge
+    combined_path = out_dir / "raw.json"
+    existing = _load_json(combined_path)
+    combined = merge_day_payload(existing, snapshot)
+    write_json(combined_path, combined)
+
+    # 4) Charts from the latest snapshot (so the chart reflects the newest HN)
+    charts = generate_charts(snapshot, out_dir)
+
+    # 5) Build markdown (from combined payload so the page grows)
+    report_md = make_markdown(combined, charts, out_dir)
+
+    # 6) Update README highlights
+    update_readme(combined, charts, report_md)
+
+    print(
+        f"✅ Growth mode run complete: runs={len(combined.get('runs', []))}, "
+        f"date={combined.get('date')}, updated={combined.get('last_updated_utc')}"
+    )
 
 
 if __name__ == "__main__":
