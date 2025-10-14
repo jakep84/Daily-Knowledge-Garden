@@ -1,202 +1,748 @@
 {
   "date": "2025-10-14",
   "hn": {
-    "fetched_at": "2025-10-14T09:04:58.805527+00:00",
+    "fetched_at": "2025-10-14T18:47:51.669842+00:00",
     "items": [
-      {
-        "title": "NanoChat – The best ChatGPT that $100 can buy",
-        "url": "https://github.com/karpathy/nanochat",
-        "points": 1140,
-        "author": "huseyinkeles",
-        "num_comments": 222,
-        "created_at": "2025-10-13T15:22:47Z",
-        "objectID": "45569350"
-      },
-      {
-        "title": "No science, no startups: The innovation engine we're switching off",
-        "url": "https://steveblank.com/2025/10/13/no-science-no-startups-the-unseen-engine-were-switching-off/",
-        "points": 469,
-        "author": "chmaynard",
-        "num_comments": 329,
-        "created_at": "2025-10-13T13:02:20Z",
-        "objectID": "45567877"
-      },
       {
         "title": "Dutch government takes control of Chinese-owned chipmaker Nexperia",
         "url": "https://www.cnbc.com/2025/10/13/dutch-government-takes-control-of-chinese-owned-chipmaker-nexperia.html",
-        "points": 456,
+        "points": 668,
         "author": "piskov",
-        "num_comments": 390,
+        "num_comments": 573,
         "created_at": "2025-10-13T10:03:11Z",
         "objectID": "45566644"
       },
       {
-        "title": "Software update bricks some Jeep 4xe hybrids over the weekend",
-        "url": "https://arstechnica.com/cars/2025/10/software-update-bricks-some-jeep-4xe-hybrids-over-the-weekend/",
-        "points": 386,
-        "author": "gloxkiqcza",
-        "num_comments": 261,
-        "created_at": "2025-10-13T14:28:25Z",
-        "objectID": "45568700"
-      },
-      {
-        "title": "Show HN: SQLite Online – 11 years of solo development, 11K daily users",
-        "url": "https://sqliteonline.com/",
-        "points": 384,
-        "author": "sqliteonline",
-        "num_comments": 125,
-        "created_at": "2025-10-13T12:46:52Z",
-        "objectID": "45567770"
-      },
-      {
         "title": "Don’t Look Up: Sensitive internal links in the clear on GEO satellites [pdf]",
         "url": "https://satcom.sysnet.ucsd.edu/docs/dontlookup_ccs25_fullpaper.pdf",
-        "points": 267,
+        "points": 477,
         "author": "dweekly",
-        "num_comments": 66,
+        "num_comments": 117,
         "created_at": "2025-10-14T01:48:56Z",
         "objectID": "45575391"
       },
       {
-        "title": "Smartphones and being present",
-        "url": "https://herman.bearblog.dev/being-present/",
-        "points": 264,
-        "author": "articsputnik",
-        "num_comments": 167,
-        "created_at": "2025-10-13T14:20:33Z",
-        "objectID": "45568613"
+        "title": "Show HN: SQLite Online – 11 years of solo development, 11K daily users",
+        "url": "https://sqliteonline.com/",
+        "points": 437,
+        "author": "sqliteonline",
+        "num_comments": 136,
+        "created_at": "2025-10-13T12:46:52Z",
+        "objectID": "45567770"
       },
       {
         "title": "America is getting an AI gold rush instead of a factory boom",
         "url": "https://www.washingtonpost.com/business/2025/10/13/manufacturing-artificial-intelligence/",
-        "points": 209,
+        "points": 403,
         "author": "voxleone",
-        "num_comments": 234,
+        "num_comments": 551,
         "created_at": "2025-10-13T14:48:47Z",
         "objectID": "45568915"
       },
       {
-        "title": "JSON River – Parse JSON incrementally as it streams in",
-        "url": "https://github.com/rictic/jsonriver",
-        "points": 185,
-        "author": "rickcarlino",
-        "num_comments": 81,
-        "created_at": "2025-10-08T16:38:43Z",
-        "objectID": "45518033"
+        "title": "Smartphones and being present",
+        "url": "https://herman.bearblog.dev/being-present/",
+        "points": 387,
+        "author": "articsputnik",
+        "num_comments": 233,
+        "created_at": "2025-10-13T14:20:33Z",
+        "objectID": "45568613"
       },
       {
-        "title": "New York Times, AP, Newsmax and others say they won't sign new Pentagon rules",
-        "url": "https://apnews.com/article/pentagon-press-access-defense-department-rules-95878bce05096912887701eaa6d019c6",
-        "points": 184,
-        "author": "baobun",
-        "num_comments": 53,
-        "created_at": "2025-10-14T02:51:20Z",
-        "objectID": "45575755"
+        "title": "Why is everything so scalable?",
+        "url": "https://www.stavros.io/posts/why-is-everything-so-scalable/",
+        "points": 262,
+        "author": "kunley",
+        "num_comments": 257,
+        "created_at": "2025-10-09T08:53:30Z",
+        "objectID": "45525168"
       },
       {
-        "title": "Modern iOS Security Features – A Deep Dive into SPTM, TXM, and Exclaves",
-        "url": "https://arxiv.org/abs/2510.09272",
-        "points": 171,
-        "author": "todsacerdoti",
-        "num_comments": 3,
-        "created_at": "2025-10-13T18:23:15Z",
-        "objectID": "45571688"
+        "title": "Ultrasound is ushering a new era of surgery-free cancer treatment",
+        "url": "https://www.bbc.com/future/article/20251007-how-ultrasound-is-ushering-a-new-era-of-surgery-free-cancer-treatment",
+        "points": 260,
+        "author": "1659447091",
+        "num_comments": 80,
+        "created_at": "2025-10-08T10:18:58Z",
+        "objectID": "45514378"
       },
       {
-        "title": "Strudel REPL – a music live coding environment living in the browser",
-        "url": "https://strudel.cc",
-        "points": 157,
-        "author": "birdculture",
-        "num_comments": 31,
-        "created_at": "2025-10-13T18:37:34Z",
-        "objectID": "45571822"
-      },
-      {
-        "title": "First device based on 'optical thermodynamics' can route light without switches",
-        "url": "https://phys.org/news/2025-10-device-based-optical-thermodynamics-route.html",
-        "points": 140,
-        "author": "rbanffy",
-        "num_comments": 16,
-        "created_at": "2025-10-09T00:54:00Z",
-        "objectID": "45522266"
-      },
-      {
-        "title": "America's future could hinge on whether AI slightly disappoints",
-        "url": "https://www.noahpinion.blog/p/americas-future-could-hinge-on-whether",
-        "points": 131,
-        "author": "jxmorris12",
-        "num_comments": 123,
-        "created_at": "2025-10-13T17:24:51Z",
-        "objectID": "45570973"
-      },
-      {
-        "title": "Scaling request logging with ClickHouse, Kafka, and Vector",
-        "url": "https://www.geocod.io/code-and-coordinates/2025-10-02-from-millions-to-billions/",
-        "points": 126,
-        "author": "mjwhansen",
-        "num_comments": 20,
-        "created_at": "2025-10-08T09:56:25Z",
-        "objectID": "45514213"
-      },
-      {
-        "title": "Sony PlayStation 2 fixing frenzy",
-        "url": "https://retrohax.net/sony-playstation-2-fixing-frenzy/",
-        "points": 123,
-        "author": "ibobev",
-        "num_comments": 46,
-        "created_at": "2025-10-13T23:02:06Z",
-        "objectID": "45574247"
-      },
-      {
-        "title": "JIT: So you want to be faster than an interpreter on modern CPUs",
-        "url": "https://www.pinaraf.info/2025/10/jit-so-you-want-to-be-faster-than-an-interpreter-on-modern-cpus/",
-        "points": 123,
-        "author": "pinaraf",
-        "num_comments": 25,
-        "created_at": "2025-10-12T19:08:41Z",
-        "objectID": "45560863"
-      },
-      {
-        "title": "DDoS Botnet Aisuru Blankets US ISPs in Record DDoS",
-        "url": "https://krebsonsecurity.com/2025/10/ddos-botnet-aisuru-blankets-us-isps-in-record-ddos/",
-        "points": 120,
-        "author": "JumpCrisscross",
-        "num_comments": 94,
-        "created_at": "2025-10-13T23:21:23Z",
-        "objectID": "45574393"
-      },
-      {
-        "title": "Why did containers happen?",
-        "url": "https://buttondown.com/justincormack/archive/ignore-previous-directions-8-devopsdays/",
-        "points": 119,
-        "author": "todsacerdoti",
-        "num_comments": 133,
-        "created_at": "2025-10-13T11:37:55Z",
-        "objectID": "45567241"
+        "title": "KDE celebrates the 29th birthday and kicks off the yearly fundraiser",
+        "url": "https://kde.org/fundraisers/yearend2025/",
+        "points": 247,
+        "author": "jrepinc",
+        "num_comments": 138,
+        "created_at": "2025-10-14T09:54:53Z",
+        "objectID": "45578117"
       },
       {
         "title": "Palisades Fire suspect's ChatGPT history to be used as evidence",
         "url": "https://www.rollingstone.com/culture/culture-news/chatgpt-palisades-fire-suspect-1235443216/",
-        "points": 111,
+        "points": 222,
         "author": "quuxplusone",
-        "num_comments": 81,
+        "num_comments": 206,
         "created_at": "2025-10-08T21:53:34Z",
         "objectID": "45521032"
+      },
+      {
+        "title": "ADS-B Exposed",
+        "url": "https://adsb.exposed/",
+        "points": 199,
+        "author": "keepamovin",
+        "num_comments": 49,
+        "created_at": "2025-10-14T10:38:48Z",
+        "objectID": "45578383"
+      },
+      {
+        "title": "DDoS Botnet Aisuru Blankets US ISPs in Record DDoS",
+        "url": "https://krebsonsecurity.com/2025/10/ddos-botnet-aisuru-blankets-us-isps-in-record-ddos/",
+        "points": 167,
+        "author": "JumpCrisscross",
+        "num_comments": 119,
+        "created_at": "2025-10-13T23:21:23Z",
+        "objectID": "45574393"
+      },
+      {
+        "title": "GPT-5o-mini hallucinates medical residency applicant grades",
+        "url": "https://www.thalamusgme.com/blogs/cortex-core-clerkship-grades-and-transcript-normalization",
+        "points": 157,
+        "author": "medicalthrow",
+        "num_comments": 100,
+        "created_at": "2025-10-14T15:12:21Z",
+        "objectID": "45581029"
+      },
+      {
+        "title": "Pyrefly: Python type checker and language server in Rust",
+        "url": "https://pyrefly.org/?featured_on=talkpython",
+        "points": 148,
+        "author": "brianzelip",
+        "num_comments": 111,
+        "created_at": "2025-10-14T12:33:01Z",
+        "objectID": "45579275"
+      },
+      {
+        "title": "Astronomers 'image' a mysterious dark object in the distant Universe",
+        "url": "https://www.mpg.de/25518363/1007-asph-astronomers-image-a-mysterious-dark-object-in-the-distant-universe-155031-x",
+        "points": 118,
+        "author": "b2ccb2",
+        "num_comments": 66,
+        "created_at": "2025-10-14T14:45:02Z",
+        "objectID": "45580699"
+      },
+      {
+        "title": "Zoo of Array Languages",
+        "url": "https://ktye.github.io/",
+        "points": 113,
+        "author": "mpweiher",
+        "num_comments": 25,
+        "created_at": "2025-10-14T11:01:43Z",
+        "objectID": "45578540"
+      },
+      {
+        "title": "CRISPR-like tools that finally can edit mitochondria DNA",
+        "url": "https://www.nature.com/articles/d41586-025-03307-x",
+        "points": 102,
+        "author": "ck2",
+        "num_comments": 24,
+        "created_at": "2025-10-14T13:21:03Z",
+        "objectID": "45579708"
+      },
+      {
+        "title": "Copy-and-Patch: A Copy-and-Patch Tutorial",
+        "url": "https://transactional.blog/copy-and-patch/tutorial",
+        "points": 94,
+        "author": "todsacerdoti",
+        "num_comments": 15,
+        "created_at": "2025-10-14T05:14:26Z",
+        "objectID": "45576502"
+      },
+      {
+        "title": "Wireshark 4.6.0 Supports macOS Pktap Metadata (PID, Process Name, etc.)",
+        "url": "https://nuxx.net/blog/2025/10/14/wireshark-4-6-0-supports-macos-pktap-metadata-pid-process-name-etc/",
+        "points": 87,
+        "author": "c0nsumer",
+        "num_comments": 14,
+        "created_at": "2025-10-14T14:18:14Z",
+        "objectID": "45580315"
+      },
+      {
+        "title": "A 12,000-year-old obelisk with a human face was found in Karahan Tepe",
+        "url": "https://www.trthaber.com/foto-galeri/karahantepede-12-bin-yil-oncesine-ait-insan-yuzlu-dikili-tas-bulundu/73912.html",
+        "points": 75,
+        "author": "fatihpense",
+        "num_comments": 19,
+        "created_at": "2025-10-07T02:43:03Z",
+        "objectID": "45498887"
+      },
+      {
+        "title": "How bad can a $2.97 ADC be?",
+        "url": "https://excamera.substack.com/p/how-bad-can-a-297-adc-be",
+        "points": 68,
+        "author": "jamesbowman",
+        "num_comments": 40,
+        "created_at": "2025-10-14T17:12:10Z",
+        "objectID": "45582462"
       }
     ]
   },
   "wiki": {
     "today": [],
     "random": {},
-    "fetched_at": "2025-10-14T09:04:58.805740+00:00"
+    "fetched_at": "2025-10-14T18:47:51.669842+00:00"
   },
   "apod": {
-    "fetched_at": "2025-10-14T09:04:59.209524+00:00",
+    "fetched_at": "2025-10-14T18:47:52.148388+00:00",
     "entry": {
       "title": "",
       "link": "https://apod.nasa.gov/apod/astropix.html",
       "summary": "<p><a href=\"https://apod.nasa.gov/apod/astropix.html\"><img align=\"left\" alt=\"Ten thousand years ago, before the dawn of recorded human history, \" border=\"0\" src=\"https://apod.nasa.gov/apod/calendar/S_251001.jpg\" /></a> Ten thousand years ago, before the dawn of recorded human history, </p><br clear=\"all\" />",
       "published": null
     }
+  },
+  "news": {
+    "world": [
+      {
+        "title": "Bowen: Trump's role in Gaza ceasefire was decisive, but not a roadmap to peace",
+        "link": "https://www.bbc.com/news/articles/ce86118q6ego?at_medium=RSS&at_campaign=rss",
+        "published": "Tue, 14 Oct 2025 17:31:59 GMT",
+        "source": "BBC — World"
+      },
+      {
+        "title": "My friend Bipin threw back Hamas grenade - and saved my life",
+        "link": "https://www.bbc.com/news/articles/cy0kllzqk1vo?at_medium=RSS&at_campaign=rss",
+        "published": "Tue, 14 Oct 2025 16:20:30 GMT",
+        "source": "BBC — World"
+      },
+      {
+        "title": "24 hours with Trump on diplomatic tornado through Middle East",
+        "link": "https://www.bbc.com/news/articles/c93xprvdy23o?at_medium=RSS&at_campaign=rss",
+        "published": "Tue, 14 Oct 2025 15:08:41 GMT",
+        "source": "BBC — World"
+      },
+      {
+        "title": "Military says it has seized power in Madagascar after president moves to 'safe place'",
+        "link": "https://www.bbc.com/news/articles/cn8xjjdgl8vo?at_medium=RSS&at_campaign=rss",
+        "published": "Tue, 14 Oct 2025 17:35:35 GMT",
+        "source": "BBC — World"
+      },
+      {
+        "title": "D’Angelo, R&B Grammy-award winning singer, dies aged 51",
+        "link": "https://www.bbc.com/news/articles/cwynv40ly4vo?at_medium=RSS&at_campaign=rss",
+        "published": "Tue, 14 Oct 2025 18:26:57 GMT",
+        "source": "BBC — World"
+      },
+      {
+        "title": "French PM backs freezing Macron's pension reform to save government",
+        "link": "https://www.bbc.com/news/articles/crkldd02xg8o?at_medium=RSS&at_campaign=rss",
+        "published": "Tue, 14 Oct 2025 16:16:50 GMT",
+        "source": "BBC — World"
+      },
+      {
+        "title": "French pair sentenced in Iran on spying charges",
+        "link": "https://www.bbc.com/news/articles/cwyplx3xz47o?at_medium=RSS&at_campaign=rss",
+        "published": "Tue, 14 Oct 2025 18:30:18 GMT",
+        "source": "BBC — World"
+      },
+      {
+        "title": "US Supreme Court rejects Alex Jones appeal in Sandy Hook shooting case",
+        "link": "https://www.bbc.com/news/articles/c5ypjjxd40qo?at_medium=RSS&at_campaign=rss",
+        "published": "Tue, 14 Oct 2025 17:12:21 GMT",
+        "source": "BBC — World"
+      },
+      {
+        "title": "Man who set fire to Pennsylvania governor’s mansion sentenced to 25 to 50 years in prison",
+        "link": "https://www.bbc.com/news/articles/cdegnne8r3go?at_medium=RSS&at_campaign=rss",
+        "published": "Tue, 14 Oct 2025 16:58:35 GMT",
+        "source": "BBC — World"
+      },
+      {
+        "title": "National strike hits Belgian public transport, airports and ships",
+        "link": "https://www.bbc.com/news/articles/c62e3pny6p7o?at_medium=RSS&at_campaign=rss",
+        "published": "Tue, 14 Oct 2025 12:38:32 GMT",
+        "source": "BBC — World"
+      },
+      {
+        "title": "Trump administration looks for ways to pay federal officers during shutdown",
+        "link": "https://www.bbc.com/news/articles/c4gp55kkk2wo?at_medium=RSS&at_campaign=rss",
+        "published": "Tue, 14 Oct 2025 16:32:44 GMT",
+        "source": "BBC — World"
+      },
+      {
+        "title": "Blast kills police officers trying to evict siblings from house in Italy",
+        "link": "https://www.bbc.com/news/articles/ckg1jkl09xeo?at_medium=RSS&at_campaign=rss",
+        "published": "Tue, 14 Oct 2025 09:58:53 GMT",
+        "source": "BBC — World"
+      },
+      {
+        "title": "Venezuela shuts Norway embassy after opposition leader's Nobel Prize",
+        "link": "https://www.bbc.com/news/articles/cqjwlxjn1xgo?at_medium=RSS&at_campaign=rss",
+        "published": "Tue, 14 Oct 2025 05:37:49 GMT",
+        "source": "BBC — World"
+      },
+      {
+        "title": "Cuban dissident begins US exile after release from jail",
+        "link": "https://www.bbc.com/news/articles/clykwd9e256o?at_medium=RSS&at_campaign=rss",
+        "published": "Tue, 14 Oct 2025 11:10:24 GMT",
+        "source": "BBC — World"
+      },
+      {
+        "title": "Personal data potentially stolen in Asahi cyber-attack",
+        "link": "https://www.bbc.com/news/articles/c0rpwk51qxro?at_medium=RSS&at_campaign=rss",
+        "published": "Tue, 14 Oct 2025 10:49:39 GMT",
+        "source": "BBC — World"
+      },
+      {
+        "title": "Cyber attack contingency plans should be put on paper, firms told",
+        "link": "https://www.bbc.com/news/articles/ced61xv967lo?at_medium=RSS&at_campaign=rss",
+        "published": "Tue, 14 Oct 2025 10:30:10 GMT",
+        "source": "BBC — Tech"
+      },
+      {
+        "title": "Vodafone says outage affecting thousands of customers resolved",
+        "link": "https://www.bbc.com/news/articles/c5yldldx659o?at_medium=RSS&at_campaign=rss",
+        "published": "Tue, 14 Oct 2025 09:09:51 GMT",
+        "source": "BBC — Tech"
+      },
+      {
+        "title": "Windows 10 users urged to prepare for Microsoft pulling support",
+        "link": "https://www.bbc.com/news/articles/cy0vzegkqweo?at_medium=RSS&at_campaign=rss",
+        "published": "Sat, 11 Oct 2025 23:04:50 GMT",
+        "source": "BBC — Tech"
+      },
+      {
+        "title": "Dutch government takes control of China-owned chip firm",
+        "link": "https://www.bbc.com/news/articles/ckgk21nng0vo?at_medium=RSS&at_campaign=rss",
+        "published": "Tue, 14 Oct 2025 03:14:28 GMT",
+        "source": "BBC — Tech"
+      },
+      {
+        "title": "'It's going to be really bad': Fears over AI bubble bursting grow in Silicon Valley",
+        "link": "https://www.bbc.com/news/articles/cz69qy760weo?at_medium=RSS&at_campaign=rss",
+        "published": "Fri, 10 Oct 2025 23:55:36 GMT",
+        "source": "BBC — Tech"
+      },
+      {
+        "title": "How hackers forced brewing giant Asahi back to pen and paper",
+        "link": "https://www.bbc.com/news/articles/cly64g5y744o?at_medium=RSS&at_campaign=rss",
+        "published": "Sat, 11 Oct 2025 00:43:35 GMT",
+        "source": "BBC — Tech"
+      },
+      {
+        "title": "OpenAI video app Sora hits 1 million downloads faster than ChatGPT",
+        "link": "https://www.bbc.com/news/articles/crkjgrvg6z4o?at_medium=RSS&at_campaign=rss",
+        "published": "Fri, 10 Oct 2025 12:30:07 GMT",
+        "source": "BBC — Tech"
+      },
+      {
+        "title": "Google may be forced to make changes to search engine in UK",
+        "link": "https://www.bbc.com/news/articles/c98d7p8l9pro?at_medium=RSS&at_campaign=rss",
+        "published": "Fri, 10 Oct 2025 10:47:33 GMT",
+        "source": "BBC — Tech"
+      },
+      {
+        "title": "Huge buzz but a big gamble: Battlefield 6 takes aim at Call of Duty",
+        "link": "https://www.bbc.com/news/articles/c8xrkxdkkrno?at_medium=RSS&at_campaign=rss",
+        "published": "Fri, 10 Oct 2025 01:10:20 GMT",
+        "source": "BBC — Tech"
+      },
+      {
+        "title": "Tech billionaires seem to be doom prepping. Should we all be worried?",
+        "link": "https://www.bbc.com/news/articles/cly17834524o?at_medium=RSS&at_campaign=rss",
+        "published": "Fri, 10 Oct 2025 06:10:40 GMT",
+        "source": "BBC — Tech"
+      },
+      {
+        "title": "Tesla investigated over self-driving cars on wrong side of road",
+        "link": "https://www.bbc.com/news/articles/cvg02rdxxz7o?at_medium=RSS&at_campaign=rss",
+        "published": "Thu, 09 Oct 2025 15:41:56 GMT",
+        "source": "BBC — Tech"
+      },
+      {
+        "title": "ID photos of 70,000 users may have been leaked, Discord says",
+        "link": "https://www.bbc.com/news/articles/c8jmzd972leo?at_medium=RSS&at_campaign=rss",
+        "published": "Thu, 09 Oct 2025 14:27:03 GMT",
+        "source": "BBC — Tech"
+      },
+      {
+        "title": "ChatGPT image snares suspect in deadly Pacific Palisades fire",
+        "link": "https://www.bbc.com/news/articles/c8exz5yg14ko?at_medium=RSS&at_campaign=rss",
+        "published": "Thu, 09 Oct 2025 02:57:16 GMT",
+        "source": "BBC — Tech"
+      },
+      {
+        "title": "China tightens export rules for crucial rare earths",
+        "link": "https://www.bbc.com/news/articles/ckgzl0nwvd7o?at_medium=RSS&at_campaign=rss",
+        "published": "Thu, 09 Oct 2025 11:08:38 GMT",
+        "source": "BBC — Tech"
+      },
+      {
+        "title": "Two teenagers arrested over cyber-attack on nursery chain",
+        "link": "https://www.bbc.com/news/articles/cpvlgzk0xvpo?at_medium=RSS&at_campaign=rss",
+        "published": "Tue, 07 Oct 2025 21:11:42 GMT",
+        "source": "BBC — Tech"
+      },
+      {
+        "title": "UK will be second-fastest-growing G7 economy, IMF predicts",
+        "link": "https://www.bbc.com/news/articles/cn092p27xn0o?at_medium=RSS&at_campaign=rss",
+        "published": "Tue, 14 Oct 2025 13:49:44 GMT",
+        "source": "BBC — Business"
+      },
+      {
+        "title": "Wage growth slows slightly over summer",
+        "link": "https://www.bbc.com/news/articles/cjek274q99xo?at_medium=RSS&at_campaign=rss",
+        "published": "Tue, 14 Oct 2025 09:34:17 GMT",
+        "source": "BBC — Business"
+      },
+      {
+        "title": "Personal data potentially stolen in Asahi cyber-attack",
+        "link": "https://www.bbc.com/news/articles/c0rpwk51qxro?at_medium=RSS&at_campaign=rss",
+        "published": "Tue, 14 Oct 2025 10:49:39 GMT",
+        "source": "BBC — Business"
+      },
+      {
+        "title": "Tens of thousands of homes insulated under government schemes need repairs",
+        "link": "https://www.bbc.com/news/articles/c3w965gz8zgo?at_medium=RSS&at_campaign=rss",
+        "published": "Tue, 14 Oct 2025 07:04:00 GMT",
+        "source": "BBC — Business"
+      },
+      {
+        "title": "Trump tariffs on kitchen cabinets and lumber come into force",
+        "link": "https://www.bbc.com/news/articles/ced61d1y6yyo?at_medium=RSS&at_campaign=rss",
+        "published": "Tue, 14 Oct 2025 12:27:27 GMT",
+        "source": "BBC — Business"
+      },
+      {
+        "title": "Why AI is being trained in rural India",
+        "link": "https://www.bbc.com/news/articles/cqjevxvxw9xo?at_medium=RSS&at_campaign=rss",
+        "published": "Mon, 13 Oct 2025 23:11:46 GMT",
+        "source": "BBC — Business"
+      },
+      {
+        "title": "US-China trade tensions back as port fees take effect",
+        "link": "https://www.bbc.com/news/articles/ce3x1elkxvvo?at_medium=RSS&at_campaign=rss",
+        "published": "Tue, 14 Oct 2025 06:18:58 GMT",
+        "source": "BBC — Business"
+      },
+      {
+        "title": "US shipping chaos: I fear my wedding sari is destroyed",
+        "link": "https://www.bbc.com/news/articles/cj9zmeerp1xo?at_medium=RSS&at_campaign=rss",
+        "published": "Tue, 14 Oct 2025 05:33:52 GMT",
+        "source": "BBC — Business"
+      },
+      {
+        "title": "Cyber attack contingency plans should be put on paper, firms told",
+        "link": "https://www.bbc.com/news/articles/ced61xv967lo?at_medium=RSS&at_campaign=rss",
+        "published": "Tue, 14 Oct 2025 10:30:10 GMT",
+        "source": "BBC — Business"
+      },
+      {
+        "title": "Vodafone says outage affecting thousands of customers resolved",
+        "link": "https://www.bbc.com/news/articles/c5yldldx659o?at_medium=RSS&at_campaign=rss",
+        "published": "Tue, 14 Oct 2025 09:09:51 GMT",
+        "source": "BBC — Business"
+      },
+      {
+        "title": "Carmakers go on trial over 'dieselgate' emissions cheat claims",
+        "link": "https://www.bbc.com/news/articles/cjr5epw8dweo?at_medium=RSS&at_campaign=rss",
+        "published": "Mon, 13 Oct 2025 14:31:36 GMT",
+        "source": "BBC — Business"
+      },
+      {
+        "title": "Lloyds warns car finance scandal could cost it £2bn",
+        "link": "https://www.bbc.com/news/articles/cq6zr733917o?at_medium=RSS&at_campaign=rss",
+        "published": "Mon, 13 Oct 2025 11:52:11 GMT",
+        "source": "BBC — Business"
+      },
+      {
+        "title": "Reeves urged to avoid 'half-baked' tax fixes in Budget",
+        "link": "https://www.bbc.com/news/articles/cx2n08n15w2o?at_medium=RSS&at_campaign=rss",
+        "published": "Mon, 13 Oct 2025 09:55:34 GMT",
+        "source": "BBC — Business"
+      },
+      {
+        "title": "Mortgage rates creep back up as lenders show caution",
+        "link": "https://www.bbc.com/news/articles/cdx4l557n1lo?at_medium=RSS&at_campaign=rss",
+        "published": "Mon, 13 Oct 2025 10:34:43 GMT",
+        "source": "BBC — Business"
+      },
+      {
+        "title": "Dutch government takes control of China-owned chip firm",
+        "link": "https://www.bbc.com/news/articles/ckgk21nng0vo?at_medium=RSS&at_campaign=rss",
+        "published": "Tue, 14 Oct 2025 03:14:28 GMT",
+        "source": "BBC — Business"
+      },
+      {
+        "title": "Foul skies, fading light: How air pollution is stealing India's sunshine",
+        "link": "https://www.bbc.com/news/articles/cr5qygr6d5yo?at_medium=RSS&at_campaign=rss",
+        "published": "Mon, 13 Oct 2025 23:06:44 GMT",
+        "source": "BBC — Science"
+      },
+      {
+        "title": "Your nose gets colder when you're stressed. These thermal images show the change",
+        "link": "https://www.bbc.com/news/articles/cj076ynnlpgo?at_medium=RSS&at_campaign=rss",
+        "published": "Sun, 12 Oct 2025 23:28:34 GMT",
+        "source": "BBC — Science"
+      },
+      {
+        "title": "Floods trap people in cars in Spain's Catalonia region",
+        "link": "https://www.bbc.com/news/articles/c0qpee28wqpo?at_medium=RSS&at_campaign=rss",
+        "published": "Sun, 12 Oct 2025 21:27:27 GMT",
+        "source": "BBC — Science"
+      },
+      {
+        "title": "Green turtle bounces back from brink in conservation 'win'",
+        "link": "https://www.bbc.com/news/articles/cg426qqqqnro?at_medium=RSS&at_campaign=rss",
+        "published": "Fri, 10 Oct 2025 08:01:28 GMT",
+        "source": "BBC — Science"
+      },
+      {
+        "title": "Fossil found on Dorset coast is unique 'sword dragon' species",
+        "link": "https://www.bbc.com/news/articles/cdjzvzzy0mxo?at_medium=RSS&at_campaign=rss",
+        "published": "Fri, 10 Oct 2025 00:20:07 GMT",
+        "source": "BBC — Science"
+      },
+      {
+        "title": "'How growing a sunflower helped me fight anorexia'",
+        "link": "https://www.bbc.com/news/articles/c33rgvr0p5no?at_medium=RSS&at_campaign=rss",
+        "published": "Fri, 10 Oct 2025 05:04:46 GMT",
+        "source": "BBC — Science"
+      },
+      {
+        "title": "Naked mole rats' DNA could hold key to long life",
+        "link": "https://www.bbc.com/news/articles/cz7rxy21lxwo?at_medium=RSS&at_campaign=rss",
+        "published": "Thu, 09 Oct 2025 18:06:04 GMT",
+        "source": "BBC — Science"
+      },
+      {
+        "title": "Physics Nobel awarded to three scientists for work on quantum computing",
+        "link": "https://www.bbc.com/news/articles/c98d00nq47jo?at_medium=RSS&at_campaign=rss",
+        "published": "Tue, 07 Oct 2025 12:59:52 GMT",
+        "source": "BBC — Science"
+      },
+      {
+        "title": "The before and after images showing glaciers vanishing before our eyes",
+        "link": "https://www.bbc.com/news/articles/ce32ezzq6zlo?at_medium=RSS&at_campaign=rss",
+        "published": "Sun, 05 Oct 2025 00:28:17 GMT",
+        "source": "BBC — Science"
+      },
+      {
+        "title": "Environment prize nominees 'heroes of our time', says William",
+        "link": "https://www.bbc.com/news/articles/cz08591znr8o?at_medium=RSS&at_campaign=rss",
+        "published": "Sat, 04 Oct 2025 21:04:44 GMT",
+        "source": "BBC — Science"
+      },
+      {
+        "title": "Dame Jane Goodall revolutionised our understanding of our closest primate cousins",
+        "link": "https://www.bbc.com/news/articles/cgj1pz8q63go?at_medium=RSS&at_campaign=rss",
+        "published": "Wed, 01 Oct 2025 20:53:35 GMT",
+        "source": "BBC — Science"
+      },
+      {
+        "title": "Attenborough and Prince William lead tributes to Dr Jane Goodall",
+        "link": "https://www.bbc.com/news/articles/czrp24myrl7o?at_medium=RSS&at_campaign=rss",
+        "published": "Thu, 02 Oct 2025 11:45:13 GMT",
+        "source": "BBC — Science"
+      },
+      {
+        "title": "Pope Leo condemns climate change critics",
+        "link": "https://www.bbc.com/news/articles/cgl1pgr2zn8o?at_medium=RSS&at_campaign=rss",
+        "published": "Wed, 01 Oct 2025 16:58:20 GMT",
+        "source": "BBC — Science"
+      },
+      {
+        "title": "Dismissed as a joke, UK's first rice crop ripe for picking after hot summer",
+        "link": "https://www.bbc.com/news/articles/c1wgeq702dyo?at_medium=RSS&at_campaign=rss",
+        "published": "Sun, 28 Sep 2025 00:50:54 GMT",
+        "source": "BBC — Science"
+      },
+      {
+        "title": "Environment Agency failed to visit serious pollution incidents, files show",
+        "link": "https://www.bbc.com/news/articles/cy4jk8njpngo?at_medium=RSS&at_campaign=rss",
+        "published": "Thu, 25 Sep 2025 01:07:14 GMT",
+        "source": "BBC — Science"
+      }
+    ],
+    "local": [
+      {
+        "title": "A Bright Comet May Be Visible in the Northern Virginia Skies This Week - Northern Virginia Magazine",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZEh4ZW1sZkJkWDQ2d3N5RXlBSVpQYWUzUEFpaDktSlBROEdGWkIyNFNsM29Zb05hM0ZXZ3ctc3Njb2RmVm10bmgyNEtpY1RCdFJiSkgzUHdySjJ0UkY3UW5hRHp1b0J0cG1iOGdTS2VXTGZuQ3Bobkc4dkFOMzJzT19VSkVuNERpNEpxamJJb1JoTlFxc0hwWWFGOVRhVko5TDJfTzRXSGVGNi13YmdvaGgyaXk4c1dsYUVz?oc=5",
+        "published": "Tue, 14 Oct 2025 15:37:20 GMT",
+        "source": "Google News — Northern Virginia"
+      },
+      {
+        "title": "Publix Expanding in Northern Virginia - Store Brands",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9ZelJNRXRqTDdUZHFJaDRBam9QWTljX2lZbmNOV2dBSUpLQV9IY3ctRU1RZWFyRzZwdHpoS0FYT0h1X0Rlb1E1dUtsdnZmX2xQZDhZaE51amxQOEEwZmpLd2p0Sjg0ZEhxSXc?oc=5",
+        "published": "Mon, 13 Oct 2025 14:08:09 GMT",
+        "source": "Google News — Northern Virginia"
+      },
+      {
+        "title": "Police investigating suspicious death of 90-year-old in Manassas - NBC4 Washington",
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQajBDQUY3Qno2WjRiV2J2UmVMMko3bktjbzFpWTJLdVZyNkIyNEtNa2VOcUNXM1lHcTFnclNpRFVzSV9tRlBmQkJyTEpQX09LX1hxVVE5TF9fc3VnREhLdE9MWTkzeHN4SGxkSzZmOTNjc1dOZkUwZkNiRGMyWW9TM2J2cW41U0drNmRxWVBUZXo4dmVYWmw0NTl3cG1neEttWU9UZ3RkNEptV0szbzJZSEFGMlVvZjUyRTlobld2U1d2RUtYWHVMTlljNlTSAdQBQVVfeXFMTVlfcnJVNW1TcS1hVWItcHphMHBTdVQ5d3BfYnQ3Nk1hY1hncVZqMFMyZGRSYy0xV2hqTE5SblA3T0FWSUpjcV8wQy03SDRaZC1xR01tR2VFLUlJVEs5cUNyUDNNWTJqek1TMXNTNktxc284SjZ4cnlhNldIVTR2ZGJaLUZuMlVzNWt3dE5mbFdqdDUwVmtyU2hsLVBST05YdFI4cW9ZWERpYmF4WmZDSm9teC1QQk5aMGg3VFU3LVFta29lT2hwc3JZaWZIRVN6aXZfclU?oc=5",
+        "published": "Mon, 13 Oct 2025 22:40:41 GMT",
+        "source": "Google News — Northern Virginia"
+      },
+      {
+        "title": "Elderly person nearly scammed out of $20K in Northern Virginia, fake lawyer arrested in PA - WJLA",
+        "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxOZnc0NW95X0JLOGJKU3BWNzVHN1U1akxmNzdlcG5VNi1abFNjYktzWE82WlJJcHFkUUVLQU42dk5adHoydDE3VVdwaXM1cS1oWUNuOGMxWUVDakFmZUdwN21SSW1JVDc1LVc5ZTRxRHBRSXRFVGlYdGhjT2U0Tm9XeUE2X1FWWFBwdzNTeHhZdmhpXzgxQlI4Z1pORmRqSHFObWdIYjZ0YUtFTU41WS1TQ2RqYWJrNDNvLXpNMzNKajFmMDBCWE9OY2tjVmRvNzN4aUVhbktTS1BMYVY1VjY1emg1c2tWZXpWMHZ4eERIZHdXZjRYWGRMemdyUmo2N1RkN0NfQzFINmRnbHEzZ1FtS0R0dFR0UFpPd1JZTTluRG9hNDA?oc=5",
+        "published": "Sun, 12 Oct 2025 14:10:00 GMT",
+        "source": "Google News — Northern Virginia"
+      },
+      {
+        "title": "Penzance Breaks Ground on Northern Virginia Data Center After Securing Over $100M in Financing from QuadReal - Boston Real Estate Times",
+        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQTXN3RFhETUJqUXpqajVvZVZGendzU2ZrbjdEX3Nwb1pGMVJreTFEbERQeWZTazliQ3lYV0ZITjVpSDFTWk1wRVE4eTN2MW53blFraDVTWVFMRVV6RXpmZWd5am91T1RjeEM2Sm1fUEwzOEg1bzFhTm0yNjdGQVJfYng3VEVJY0h6WFZxQ2Z4YXMtbl9DQnZjay1WRlpGQ0c2YVVJYm43bjBaam1FMUZnVS1Qb0R5TjQydDlLdmV0RnE1aUg4VzVBakRHM3QtYXdpTHFQajJzVE1QUQ?oc=5",
+        "published": "Mon, 13 Oct 2025 20:55:16 GMT",
+        "source": "Google News — Northern Virginia"
+      },
+      {
+        "title": "Anna Cockrell Obituary (2025) - Front Royal, VA - Northern Virginia Daily - legacy.com",
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNV2RPUlNROXVrTThCNnVfUGh1a214WktCRURzQmxWNUZmcDlEaFNmMWZRckNVZUVLRFB5OXBHbzdzOXE0T0d0OHNtTzFxa2R2VWJjeGtRNzB3ajlrTXI0WWlIdmZhaTVONkpNS1dVbnpuZ2E2M0p2OVlrdGRFbHp5X2F4Zi1Cb2ttMVRGUg?oc=5",
+        "published": "Mon, 13 Oct 2025 18:37:05 GMT",
+        "source": "Google News — Northern Virginia"
+      },
+      {
+        "title": "Home Sales Rise as Prices Ease and Inventory Expands Across Northern Virginia - Morningstar",
+        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOeVpPRDQ1NGZYaGJ5aGJzMUE4Q2NLcHdPOFRzRmI0cklud1hEQWF1bVF1VTYzZ1ZNLUJVN1YxZ1otMXkwVHV6TjdDWW4xbjlaTEhYOUZ6VjVKVlpZNUNJbkZ0Y2w4QmxfZkdNS00tNkx4ZEZrVGF4STZDbExLUFlsbTdrTVdjYXRoWDRoZmhSLTVqZjZQbE9EVF94b2JTWjFPb1NNa1N6VnU5S05RUVRRRDBGNUhJeXJFRjVpS0p6cExZeE16LXF5a01KaUdka2YxUXVHcA?oc=5",
+        "published": "Mon, 13 Oct 2025 18:02:00 GMT",
+        "source": "Google News — Northern Virginia"
+      },
+      {
+        "title": "These 5 New York–Based Restaurants Have Recently Expanded to Northern Virginia - Northern Virginia Magazine",
+        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQbjJ5bWtSM3Ayc2xXUUU5Z3I0MTVfY1I2REd3VkFKR1A1TWszUkpsTThxQnh6X1RkclJvOEk4aHZ1TGRDaVlMSDA3cl81OGJxdlRxQ0NnZmlvSXR6bDdsN29OSjl1T0tldkp1M0gySVl2RTVRTnRkRmNPVjh6bTlDaHB2RFR4NVFSQ1lrZWNIcWdXcURLQW91X3k3U1JpNkk4RC1sa0tmWDZ5NGJQTG9OZUpFMmlaSlpjMzlZNjROQ1RyaXZxZHF2S1N6T1FScTFsdnRR?oc=5",
+        "published": "Mon, 13 Oct 2025 11:00:00 GMT",
+        "source": "Google News — Northern Virginia"
+      },
+      {
+        "title": "Fire erupts at industrial site on Richmond Highway in Lorton - NBC4 Washington",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOVUllTW1pZ0MwbFRTSlBKMTI1Sl9hWXVQSDRIeXg2TllKNXQzSUJlMDNONmNWeXZHM1JWV0ROOWhvb21IaHhfYVE3bFV3XzBlVF9yeV9XUUZSU1daWFdMM3plR2tmZHg2aVVJUzRjNW5OSTg5ZmtGV2JGTjdidGQ5RkhJZmVXVW5YUjJydU1iS0tEcVJpVW45VDJtS0tSZWVfd3d5UmlpNE42Qk1rNmpRRnlkUzVTbG5XOHpLc0lfZU9kMDdfQVo00gHPAUFVX3lxTFAtelM4YnRGaUxqUjZxNDhTRzRZQXVXbDZPV2VOaTZRak1vemlWZG9uMmVJOHhjV0tPSnBGNFcyYUJtUU4zWnotWDZyV3R3ZGtZdW9EX2N6QURObWQyY0h0QjFlelhrUnc5VHoxN3VTd1h1QU5mUmtGcjBkQTZVNkZwOHF3d3NTU0N2dG5UbnliQmRveUdLOF9oS3cxYVozOFk5UUNDTEkydTJHYi01bkpWZzNfaFQ2TGx6elA4UFFKV2VnR0ZpUkszbkxlUzRJTQ?oc=5",
+        "published": "Tue, 14 Oct 2025 18:13:05 GMT",
+        "source": "Google News — Northern Virginia"
+      },
+      {
+        "title": "The 50 Most Influential People in Northern Virginia in 2025 - Northern Virginia Magazine",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSnpralVaUVc0Z285bzBzZlZaQ3BGS1NnOGVIX0RoY0dzQmo3SDZsM2Vacl9GSU9BTThXQlBvcFFvbEFtV3N5RHhSc3lqWVdRQzdza0hDdnBXb2ZBeDFpNTJjWnhGT2J3MmpCdG1rVnl4NzNwMVVGUlN3VXpSNFZVXzk0NzNzVUsxNk5VdjU4NFA1MV9mdGpkTlhEZlF2cFlsbVgtcE1MaEQ?oc=5",
+        "published": "Wed, 17 Sep 2025 07:00:00 GMT",
+        "source": "Google News — Northern Virginia"
+      },
+      {
+        "title": "Home Sales Rise as Prices Ease and Inventory Expands Across Northern Virginia - PR Newswire",
+        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQZ01CdUMwQ3JWbFZZaHpWWEd1RzFtWjhQbm0yZC0wbVJKMTdodlBJMGM2SkQxSG9xNU1jZGFRVXh4alFNNmN3NE91OWRpVUxXZ3lCeEE3X0FEc25KTWtDeDVNak9XOU5MMDBUWjdqWUlIcGZOb2pMbjdDRXlVZVE0ZFc0ZDhIa0hxdnZDQlVadlExUXpkMzJYZGFvaUpXNUl0WVBwSUh4QUEwQWk2MUVld0U5UWFCVkY0M2lCNFZQM1d4bm1ISHpzd1lRMGNndw?oc=5",
+        "published": "Mon, 13 Oct 2025 18:02:00 GMT",
+        "source": "Google News — Northern Virginia"
+      },
+      {
+        "title": "Free Roof for the Holidays Nominations Sought For 2025 Program - Patch",
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOcnRFeXVTMi1tVzRfRnowaFFfcUE5NjlTVl9DcFVaenNMOWUzTFhFRFVydFI2d1k3c0FqZXFlODlFV1g0QUY5S2Vtc09OQjFuZHFDdlVWbTdiVnQ1Zk15VXk1aVFETGZESXNiX0Z6Nmd2YklKdFdkYkVKU0JxZlFjLXVnNmhySkRPQnZQNGh30gGvAUFVX3lxTE1qOTVoWXMwREJHbTBGTXlWRHVHS3JUTVRRNHVRSzhmVmRtcFFCVVltME8yRjQ2WER1SDNVRm0zcUp6WmFVbkJXeHFVRnRKampGN3ZIS29HYUxTOGlabEpTQ1pONlJuVlJzVnY2eW9XUWd0NE94OGY5RkphNVN2UW4yNGlCSmV2VDZwMmZTQjJ6Ym1MUUJVMjRrMENSSml5R3l2U2NfR3JJeGo0Y2xpbE0?oc=5",
+        "published": "Tue, 14 Oct 2025 17:01:12 GMT",
+        "source": "Google News — Northern Virginia"
+      },
+      {
+        "title": "Data centers are booming. But there are big energy and environmental risks - VPM",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQMTl0LWdlWmFUdU8ySUEtczY4STVJWEs2cnllMUVUZl9SWnRONnJGZklhSEx1RkFlYXZjVGtHZkxtVER5QTRUQlNEN1E2NWlleWpmSTV2Z3B6UWptYWtldkdWQ0ppcHVnLVBmWUppSUNtbmRIWlNOTVplU0RpTzdJY3haNmRwUnFla0xYbjJrQkUzT0hQZVROZWRhbnBNandDZ2tLQWcwRGl6OGhhTHg2OGp0MXItSS1pcFZMN1RTUQ?oc=5",
+        "published": "Tue, 14 Oct 2025 10:00:00 GMT",
+        "source": "Google News — Northern Virginia"
+      },
+      {
+        "title": "Breaking News: Publix supermarkets opening new Northern Virginia store - The Burn",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPSXlQa0hzN2w1MHgzT0MtWVFuajBrVTdjSHZjNWxXaENTanFxM3REdWNKdDhEazV6aEdKcU9SeDBKWUM5dzFIbGx6OHVTUWdlcmdzTTdzd2w5SVlLM0RleW9NY2hFYWhhV1l2Y3BSMmlWQzh6dWZsSS1ONEk4ZVVvc1NNOXRTT0QtcXdCSUVicjVOQ3FLRVUwWHlreUd4bktiemFn?oc=5",
+        "published": "Wed, 08 Oct 2025 17:36:54 GMT",
+        "source": "Google News — Northern Virginia"
+      },
+      {
+        "title": "New Poll Shows Strong Opposition to Tysons Casino Project in Northern Virginia - CasinoBeats",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPcGh1SWdjakNQZkk0U0dPUFlXTk92UlR4NGpqTDJwaVBnUVNWdl9Ca21aSl9YdkNPalVRV1ktU0lCYTVId01ORFFSenBmZnBtallxRHZWcjhYRlhGaVc1a3RMbEVVSWt2MjdQSV9wejZUYWlkYkdQUmRxZ1N5UXllSzlMVXVKLTFmWEF1b2F6RHlUaENmWVE0U1gwT3FKbXBucXZDcA?oc=5",
+        "published": "Tue, 14 Oct 2025 14:04:04 GMT",
+        "source": "Google News — Northern Virginia"
+      },
+      {
+        "title": "Rolling Road long-term traffic shifts in West Springfield begin week of July 28 - Virginia Department of Transportation (.gov)",
+        "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOUWU5cy1GdnNsMC00Ul9UZ2lRZmtWNGZocmFRTjNCUU9rMUc5bnY1dURvbk4ySlJfV1I2NWV0TW1kdkpyTUhHcXhTUU11WGtxZGhxOUxCM083ODFDMjRQX3JLWUNHX0RHVU85WUYtYmNBam9JTTBuRkdUTEZPczVYZGNQMXVaUDNSRjA1NllpWWJ2R2p1bzJfUHExNldJdjcxTW5YS21HUEFqbDlOQ1lmZlZ3UFhkS1J0aG5mWWs4SEQtS2lrQ3JSNFg0YjRtZGpEVlVrSzc5X3ljTGY2OFZXNDI5MHFrWkEz?oc=5",
+        "published": "Tue, 22 Jul 2025 07:00:00 GMT",
+        "source": "Google News — Northern Virginia traffic"
+      },
+      {
+        "title": "How the Silver Line has shaped transit-oriented development in Northern Virginia - Greater Greater Washington",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNVFV6cFBvMDdqd25VdXdHVzdockdVMU1IaE5TZmJoU2h0a1lXU2Q2WTFuNFgtaWxBSmFBc25NeVVsRm1UYzNDeDlEalhTSFV1bTBQc3gwNWRoQTZ1SGY5NWlxRW9oNG1TVFZURGltdHB0LUVOeXhvQnVKbWl5SHVUc3ZfSlFnSHZmX0RRZy1XMHEtNTVqbnBadGl3VFN5NnZSNnFJNTZFVG15aGlUV2I0StIBSkFVX3lxTE1yVlcwbE1NYm5IV2ZrcXBadXh1RkN0ZzNoNXlDREtQRHg2YXBuVk9GbTA3RXNZMDRPWWFjTG9xX1A3U1E4NExRTmtn?oc=5",
+        "published": "Wed, 01 Oct 2025 07:00:00 GMT",
+        "source": "Google News — Northern Virginia traffic"
+      },
+      {
+        "title": "Weekend road closures in DC area for Army Ten-Miler and Snallygaster festival - WTOP",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZllHYjhtTDgxNExlRVBWRWJvZS01a2c0ZGlDQ2YxaTRIaVNzSDkzRDhYakZqU2xuSVZqb3VKbFZxWnczd3F2LWozUjZQNm9IMFZ2VUZsU2dib3lYN3BMOUdURXNLNmdBbkRQRFdCUDg1Yzh6WFltY043QTJfMmlSRHBuX1FUVTU5T3I1N3NqdkRjVDFUa2FGRE1aRVRONUZ1WXVHazhjTFVUdw?oc=5",
+        "published": "Fri, 10 Oct 2025 07:00:00 GMT",
+        "source": "Google News — Northern Virginia traffic"
+      },
+      {
+        "title": "Northern Virginia's Unlikely Transit-Oriented-Development Success Story - Planetizen",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZVA1bVBSanRjU0kyaW5fVTFDbW5jaVV5NkNZV281SDcwYXlJRUQxbzhUMjBfeDZqYVBINF9LODZTb3lwUkwtTW1NV0dBUjUyVlJRSzNVTHFZcngzYlg4dTJITmdYa1hFTm4zcU5JTi1hcktmUl94LU1UaGNxU2JaTXVxOGdhS2pETXZ3SWpEOXJrSXlzYWFiMVA5RVNNdnFvUUwxSl8tdV9mVHFkZlhkNmdrOThwd1FX0gG-AUFVX3lxTE1MM21teUtmLU1mdUh3NVJ5UWpIdl9UM2t0TlZXR1VVWVdYdW83RnZ6V3dwSUV4ZkJuUTZuQW11WGJhRWpKalV1VGd4eTM1U1AwRjlCLWNDdDluekIzbkF6S3lGZjU4YWpOaG9OSEE3TDRoVlpNYW5uS2FvaWctNmVsTEpMckxFQUJIclVyYzBCUk5pMmJfeGx2SVhHYmRXdjc1aEwxclRndHIxTVplOWlNRmdSM0xyS0VhaTduSVE?oc=5",
+        "published": "Sun, 05 Oct 2025 07:00:00 GMT",
+        "source": "Google News — Northern Virginia traffic"
+      },
+      {
+        "title": "The famous claim that 70% of the world's internet traffic goes through Northern Virginia is wrong - Cardinal News",
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOZ2V5Q3JBWE12RzQzNTVSMTc1bDVUUFVBakJuQkdSNUdUa1UwT19IRzlkUkM5UWFwcVpreV9IR1VrbzFQQ0dsTGRTMGllNUljTkpJMHJ5S1FYTzU0TG5tR3NkTXYxMDhkbHFJSk5fZTdRazFhdDlGMzRIM2RLeWZ3Nk5DRkx0QjRSTFRFRVZfbHc5SWM1UHRpSmxfNzJNVV9ibGlKOVZKX1B0NXcyQTlyNjkzS2c5eUZOVzFyUEJGaXZ0c1VfbVNUSXJlejY?oc=5",
+        "published": "Tue, 29 Jul 2025 07:00:00 GMT",
+        "source": "Google News — Northern Virginia traffic"
+      },
+      {
+        "title": "News | DC developer launches 10-acre transit-oriented district in Northern Virginia - CoStar",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNWmtERmo1cXlYR09hTFl2cEFQUUFYbC01VmI3QVo3bEFUenZKR2hzaGFiaS1va2E5azRNSktaYVFGRkczazJTSHJlYzZ4TFphZGxObEhESG8wbE9zN0FxX2dvQ0Y0UmZwcjJ1N0dDdTUxZmgzMUdIWXRCVmVYU3hZZl9CVC1reFJDdTFHSUhFTXhfNUxMQUljLS1EX1VfX29aR0FtdmxNaTVSU2hoV21lY0MzWE9MS0R5?oc=5",
+        "published": "Fri, 03 Oct 2025 20:48:56 GMT",
+        "source": "Google News — Northern Virginia traffic"
+      },
+      {
+        "title": "A New Report Shows How DC Traffic Stacks Up - Northern Virginia Magazine",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPby1obndxQmxtcy1FMDNhaUF0Qm9pdVdRVEE0VTVPeVN2Vy1RM2gyaUFfb18xeGZsenpvRHM1MkhUNWVCbEhwZHgzajVhS3RTX0xRMEs2TEM2czFqSjI5TEktX3JVeUdDbDR4SXVqbkY3VUVpVVlhR1Z0Q0NNbk01N2JBYWV2N3JtMmJlWHlEY2w5NktaTFFr?oc=5",
+        "published": "Wed, 23 Jul 2025 07:00:00 GMT",
+        "source": "Google News — Northern Virginia traffic"
+      },
+      {
+        "title": "Northern Virginia Transportation Commission backs regional transit funding plan - ALXnow",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVGNpXzZXdWNxVnAwZWNQUkJ3ZXhHazVzckRuajJta1Bnc3E5aks1WVc1MjE3NmZIb0VxSGhocUR0UVZMbnBvdlIwaWJEdUJBR0hWTGRxNXZKMnN4SWliY0htd0k4bEc0MndDTS1YMFZJSGJnRnY1V0dZWmRXOUh0RmtsaUI5eTFlOHVoUEFqVFlwTWdQdHREUWJOU09DdWpnSUZjNTAzNW5fekFSa3BINXlSY1o?oc=5",
+        "published": "Fri, 18 Jul 2025 07:00:00 GMT",
+        "source": "Google News — Northern Virginia traffic"
+      },
+      {
+        "title": "Fairfax County Parkway nighttime closures at Popes Head Road tonight, May 1 & May 5 - Virginia Department of Transportation (.gov)",
+        "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPTHdIV0xSUEVEeU8zZ0lpTU9nbmxZZU1wNFpUcXBQU1ZxY3l3Y1ZDc2FKakFnMG5SMmo2SWxGR1VzeDZRNkdjZWE5U2ZjSWJGaGgteUVlOW9xM1NUOU5fMFQ3RE5TcHl6VnFxOFVNcFgyMlNnVzF2S1ByUEV1ekZQTTlwVmlocjdhb2xvRGxaQ2RVblFmTW1Cd3hIVlE2MzZRRHU0TmlfOVF4bFJiLVhPdngxdVhxd0F5QlFUSnJjaFZORllkRjJyU3pCaXhHaFdjR2ZMZzFDU2MybTB6MEE0RmdJdFdpNWluUnVj?oc=5",
+        "published": "Wed, 30 Apr 2025 07:00:00 GMT",
+        "source": "Google News — Northern Virginia traffic"
+      },
+      {
+        "title": "Northern Virginia Transportation Authority unveils draft plan for Bus Rapid Transit system, it includes several Alexandria routes - ALXnow",
+        "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPaU00dEx0NzUyXzRfck9HWE1tbzlSWFlZUzhmalRNUDl4Uy0xbEl3QV9NaERHc0RzSFdpYlJnc2Y5MC1tVW83emw1Wk1ST19NMmI5WXAxeXJFTUpaX2ZGSXBHT2V4MUZ0WW5yeVRlcnNKVDhMMnpqSFYwem1NNUpYRU1Ob0JoZ2NuZ3B0d2NhSFRrcG94SmdtdUdKQXpnWDkzS3F4SkxkaTNtbnNweDMtR0JvaGF3Rk8tSHNsUzBGSVZnY1ZVMldLeG9NaVV3emFkV3dlR1ZIMGNjLXB6dmVPMk9aZzh4d3M?oc=5",
+        "published": "Wed, 23 Apr 2025 07:00:00 GMT",
+        "source": "Google News — Northern Virginia traffic"
+      },
+      {
+        "title": "Temporary traffic signals on Airmont Road in Round Hill begin July 28 - Virginia Department of Transportation (.gov)",
+        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNbThIZHFMTVBnRDFCUEk3dkJ0TjJLMk5YNk5hWUxKdWNlNVRKQ0RGTGNzc0FJajFKNm42NTBDMUcwcVVYRVhycWsyd3ZKcFR0cjVleF9nVnBlQTBuNndTMXhHd3VSMXVSNlR4dEE1TTQ5c2NEQmh0Sk9HMmN4eGZZNVRPOW1lOG44TGlZV2FLdEVhQnQyUzJNX285M25jUXJEZ3BSdF81T0FUc2hkcUJ4eHczV2VQNGFXMVhBdTBXUnFOaE1xMHpYcnM1MkNwY2JmMXZMdDlmRWNoQTQ?oc=5",
+        "published": "Fri, 25 Jul 2025 07:00:00 GMT",
+        "source": "Google News — Northern Virginia traffic"
+      },
+      {
+        "title": "Popes Head Road daytime flagging in Fairfax July 21-24 - Virginia Department of Transportation (.gov)",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPUnFPRTIySnA1a21KcUt6MFU2cFJrWmpoNjVJTFdDMFF6M3VuWHNUU04xbWFONnBvMXFKcUxBbFNJY3pBQlpsSzI0ZFQtTnZCcGk5ZzVtbF9WcGVkTVRxcS1SRm9kUTFvSmlFWE5PLXlUM3JOUVBEY0RQakNWWkhGZG93a3FDZVZUTzZDV3oxazJwSVlMT09nbTBUSS1Xc3NoRjdHMU5CeUYxZ0l5UHVTQ1MtY05yRU9yYnJrOXBiZXFlTldFSjBr?oc=5",
+        "published": "Fri, 18 Jul 2025 07:00:00 GMT",
+        "source": "Google News — Northern Virginia traffic"
+      },
+      {
+        "title": "Reminder: Georgetown Pike Bridge \"stay away\" traffic shift happening this weekend, Aug. 23-26 - Virginia Department of Transportation (.gov)",
+        "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPdWUzWGxMUlRreFlibjZISXAwVlBXeDZEbWJNTzQwNE5mRFdFVEpMVXhmNzIzZG9BOVVGa3BBemlMT0Vsa3JWVXE2YVJCVktZeGJfQXpDWUdMSjBMd2VPdzMtcXI0V0RJUzR1REdWNk9lbGlOOGd2aU1lNHVIV2VMUFVTbDVaaVUzc1Z4bzFQOG9NQ1dDSVJ5UDBUYm40ckw3alVSWkUySzU1RGppVUh4UEx4UzIwRW1vMS1XOTVINWd6ckRUSFFRRU01c053WjNJYjk1LWxJbGNfR0ZpMTRCOGtBcDc5U3BDRTQ4bWtkX0d2Y3Rx?oc=5",
+        "published": "Wed, 16 Apr 2025 13:28:35 GMT",
+        "source": "Google News — Northern Virginia traffic"
+      },
+      {
+        "title": "Occoquan Road weekend closure at I-95 overpass in Woodbridge Aug. 15-18 - Virginia Department of Transportation (.gov)",
+        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQZDRYVTVNMUhuRkRMbEpjUGd1eExNSV93SHhxSHdUUnNEak9PQ0h4cU5DRlJvcHFxQU9PRWVzNUpoTkUzN0VEblpndk16cS1ETURPQ2tJR0NnMFhKejZpR0NyWTM2RFE0eHhZaEVON3NEcGdkTy1uUW1WTnhrRi1nVktrb2lkNDM1TE9pRHZfSGpWVDNEcXJtM1hlaEtxRTZad0NnS29JQlF1NUVUZTFjRXZYZFdEOFF6YjhJM3RWdEIxb2x5clZ6RVVvV0JUTTRXSk94dk9qUXBDQW5q?oc=5",
+        "published": "Tue, 12 Aug 2025 07:00:00 GMT",
+        "source": "Google News — Northern Virginia traffic"
+      },
+      {
+        "title": "Four weekends of Route 29 closures in Fairfax begin May 2 - Virginia Department of Transportation (.gov)",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPRHI1RzdmaW1VT0poaEo1eXM0LTFGaGxvQlJhR2hhSm53VlhQVzVhU05IZGo2R0gtSG9VTFd5Z29VNDdVU2M1YTlGdkVvWmRrdjRTWi04QUlnUEI5XzVNeThkTjk2X2IzeVg4clJHR1lhcFhnNzQ5TTAwaDZjbEg3Qm5mcGFiOXNxc2JzcnlzZ3haVWpzd0tIR1FWTUtieVV1THBFd3l3aG1yekg4UTg4My1YVTVHWEh3a041N2wwYTNKVzhfekJINFE2VQ?oc=5",
+        "published": "Thu, 10 Apr 2025 12:19:39 GMT",
+        "source": "Google News — Northern Virginia traffic"
+      }
+    ]
   }
 }
