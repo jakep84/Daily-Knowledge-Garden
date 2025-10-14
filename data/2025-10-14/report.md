@@ -24,7 +24,7 @@ Publix Expanding in Northern Virginia - Store Brands. These 5 New York–Based R
 - [America is getting an AI gold rush instead of a factory boom](https://www.washingtonpost.com/business/2025/10/13/manufacturing-artificial-intelligence/) — 403 points, 551 comments
 - [Smartphones and being present](https://herman.bearblog.dev/being-present/) — 387 points, 233 comments
 
-![HN Points Chart](data\2025-10-14\plots\hn_top10_points.png)
+![HN Points Chart](data/2025-10-14/plots/hn_top10_points.png)
 
 ## 🌍 Wikipedia — On This Day (selected)
 _No data_
@@ -36,3 +36,5 @@ _No data_
 
 ## 🌌 NASA APOD
 [](https://apod.nasa.gov/apod/astropix.html)
+
+<sub>Runs so far today: 1</sub>

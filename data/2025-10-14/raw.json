@@ -1,7 +1,7 @@
 {
   "date": "2025-10-14",
+  "last_updated_utc": "2025-10-14T19:39:08Z",
   "hn": {
-    "fetched_at": "2025-10-14T18:47:51.669842+00:00",
     "items": [
       {
         "title": "Dutch government takes control of Chinese-owned chipmaker Nexperia",
@@ -182,16 +182,79 @@
         "num_comments": 40,
         "created_at": "2025-10-14T17:12:10Z",
         "objectID": "45582462"
+      },
+      {
+        "title": "Show HN: CSS Extras",
+        "url": "https://github.com/sindresorhus/css-extras",
+        "points": 83,
+        "author": "mofle",
+        "num_comments": 53,
+        "created_at": "2025-10-08T09:19:31Z",
+        "objectID": "45513956"
+      },
+      {
+        "title": "Subverting Telegram's end-to-end encryption (2023)",
+        "url": "https://tosc.iacr.org/index.php/ToSC/article/view/10302",
+        "points": 73,
+        "author": "pona-a",
+        "num_comments": 55,
+        "created_at": "2025-10-14T15:23:09Z",
+        "objectID": "45581146"
+      },
+      {
+        "title": "Hold Off on Litestream 0.5.0",
+        "url": "https://mtlynch.io/notes/hold-off-on-litestream-0.5.0/",
+        "points": 65,
+        "author": "mtlynch",
+        "num_comments": 10,
+        "created_at": "2025-10-14T16:10:27Z",
+        "objectID": "45581761"
+      },
+      {
+        "title": "Automatic K8s pod placement to match external service zones",
+        "url": "https://github.com/toredash/automatic-zone-placement",
+        "points": 57,
+        "author": "toredash",
+        "num_comments": 20,
+        "created_at": "2025-10-08T05:21:27Z",
+        "objectID": "45512351"
+      },
+      {
+        "title": "Prefix sum: 20 GB/s (2.6x baseline)",
+        "url": "https://github.com/ashtonsix/perf-portfolio/tree/main/delta",
+        "points": 48,
+        "author": "ashtonsix",
+        "num_comments": 13,
+        "created_at": "2025-10-14T16:53:24Z",
+        "objectID": "45582268"
+      },
+      {
+        "title": "New lab-grown human embryo model produces blood cells",
+        "url": "https://www.cam.ac.uk/research/news/new-lab-grown-human-embryo-model-produces-blood-cells",
+        "points": 46,
+        "author": "gmays",
+        "num_comments": 13,
+        "created_at": "2025-10-14T18:22:04Z",
+        "objectID": "45583129"
+      },
+      {
+        "title": "The phaseout of the mmap() file operation",
+        "url": "https://lwn.net/Articles/1038715/",
+        "points": 37,
+        "author": "pykello",
+        "num_comments": 3,
+        "created_at": "2025-10-09T17:19:37Z",
+        "objectID": "45530533"
       }
     ]
   },
   "wiki": {
     "today": [],
     "random": {},
-    "fetched_at": "2025-10-14T18:47:51.669842+00:00"
+    "fetched_at": "2025-10-14T19:39:00.143826+00:00"
   },
   "apod": {
-    "fetched_at": "2025-10-14T18:47:52.148388+00:00",
+    "fetched_at": "2025-10-14T19:39:00.601831+00:00",
     "entry": {
       "title": "",
       "link": "https://apod.nasa.gov/apod/astropix.html",
@@ -394,12 +457,6 @@
         "source": "BBC — Business"
       },
       {
-        "title": "Personal data potentially stolen in Asahi cyber-attack",
-        "link": "https://www.bbc.com/news/articles/c0rpwk51qxro?at_medium=RSS&at_campaign=rss",
-        "published": "Tue, 14 Oct 2025 10:49:39 GMT",
-        "source": "BBC — Business"
-      },
-      {
         "title": "Tens of thousands of homes insulated under government schemes need repairs",
         "link": "https://www.bbc.com/news/articles/c3w965gz8zgo?at_medium=RSS&at_campaign=rss",
         "published": "Tue, 14 Oct 2025 07:04:00 GMT",
@@ -430,18 +487,6 @@
         "source": "BBC — Business"
       },
       {
-        "title": "Cyber attack contingency plans should be put on paper, firms told",
-        "link": "https://www.bbc.com/news/articles/ced61xv967lo?at_medium=RSS&at_campaign=rss",
-        "published": "Tue, 14 Oct 2025 10:30:10 GMT",
-        "source": "BBC — Business"
-      },
-      {
-        "title": "Vodafone says outage affecting thousands of customers resolved",
-        "link": "https://www.bbc.com/news/articles/c5yldldx659o?at_medium=RSS&at_campaign=rss",
-        "published": "Tue, 14 Oct 2025 09:09:51 GMT",
-        "source": "BBC — Business"
-      },
-      {
         "title": "Carmakers go on trial over 'dieselgate' emissions cheat claims",
         "link": "https://www.bbc.com/news/articles/cjr5epw8dweo?at_medium=RSS&at_campaign=rss",
         "published": "Mon, 13 Oct 2025 14:31:36 GMT",
@@ -463,12 +508,6 @@
         "title": "Mortgage rates creep back up as lenders show caution",
         "link": "https://www.bbc.com/news/articles/cdx4l557n1lo?at_medium=RSS&at_campaign=rss",
         "published": "Mon, 13 Oct 2025 10:34:43 GMT",
-        "source": "BBC — Business"
-      },
-      {
-        "title": "Dutch government takes control of China-owned chip firm",
-        "link": "https://www.bbc.com/news/articles/ckgk21nng0vo?at_medium=RSS&at_campaign=rss",
-        "published": "Tue, 14 Oct 2025 03:14:28 GMT",
         "source": "BBC — Business"
       },
       {
@@ -560,6 +599,540 @@
         "link": "https://www.bbc.com/news/articles/cy4jk8njpngo?at_medium=RSS&at_campaign=rss",
         "published": "Thu, 25 Sep 2025 01:07:14 GMT",
         "source": "BBC — Science"
+      },
+      {
+        "title": "US strikes another vessel off Venezuela coast, killing six",
+        "link": "https://www.bbc.com/news/articles/cg51625lmmgo?at_medium=RSS&at_campaign=rss",
+        "published": "Tue, 14 Oct 2025 19:25:32 GMT",
+        "source": "BBC — World"
+      },
+      {
+        "title": "Afghan earthquake triggers contradictory Taliban tactics on rescuing women",
+        "link": "https://www.npr.org/sections/goats-and-soda/2025/10/14/g-s1-92863/afghanistan-taliban-earthquake-women-girls-rescue",
+        "published": "Tue, 14 Oct 2025 15:18:18 -0400",
+        "source": "NPR — Top Stories"
+      },
+      {
+        "title": "Military seizes power in Madagascar following anti-government protests",
+        "link": "https://www.npr.org/2025/10/14/nx-s1-5574215/military-madagascar-gen-z",
+        "published": "Tue, 14 Oct 2025 13:47:51 -0400",
+        "source": "NPR — Top Stories"
+      },
+      {
+        "title": "A fragile Gaza ceasefire is tested after Israel and Hamas swap detainees and hostages",
+        "link": "https://www.npr.org/2025/10/14/nx-s1-5574057/israel-hamas-ceasefire-gaza",
+        "published": "Tue, 14 Oct 2025 08:51:09 -0400",
+        "source": "NPR — Top Stories"
+      },
+      {
+        "title": "What's next for Gaza. And, ICE tactics are reportedly becoming more violent",
+        "link": "https://www.npr.org/2025/10/14/g-s1-93331/up-first-newsletter-gaza-israel-trump-middle-east-ice",
+        "published": "Tue, 14 Oct 2025 07:37:24 -0400",
+        "source": "NPR — Top Stories"
+      },
+      {
+        "title": "Maine Gov. Janet Mills enters crowded Democratic race to unseat Susan Collins",
+        "link": "https://www.npr.org/2025/10/14/nx-s1-5570893/janet-mills-susan-collins-maine-senate",
+        "published": "Tue, 14 Oct 2025 07:05:48 -0400",
+        "source": "NPR — Top Stories"
+      },
+      {
+        "title": "A Nobel Prize for explaining when technology leads to growth",
+        "link": "https://www.npr.org/2025/10/14/g-s1-93307/a-nobel-prize-for-explaining-when-technology-leads-to-growth",
+        "published": "Tue, 14 Oct 2025 07:00:00 -0400",
+        "source": "NPR — Top Stories"
+      },
+      {
+        "title": "GOP 'afraid to do anything' unless Trump approves, says Virginia Sen. Tim Kaine",
+        "link": "https://www.npr.org/2025/10/14/nx-s1-5570840/tim-kaine-shutdown-federal-workers",
+        "published": "Tue, 14 Oct 2025 06:47:26 -0400",
+        "source": "NPR — Top Stories"
+      },
+      {
+        "title": "Data centers are booming. But there are big energy and environmental risks",
+        "link": "https://www.npr.org/2025/10/14/nx-s1-5565147/google-ai-data-centers-growth-environment-electricity",
+        "published": "Tue, 14 Oct 2025 06:00:00 -0400",
+        "source": "NPR — Top Stories"
+      },
+      {
+        "title": "Opinion: Why I'm handing in my Pentagon press pass",
+        "link": "https://www.npr.org/2025/10/14/g-s1-93297/pentagon-reporter-opinion-press-policy",
+        "published": "Tue, 14 Oct 2025 05:00:00 -0400",
+        "source": "NPR — Top Stories"
+      },
+      {
+        "title": "In reading, the nation's students are still stuck in a pandemic slump",
+        "link": "https://www.npr.org/2025/10/14/nx-s1-5570756/test-scores-math-reading-students-pandemic",
+        "published": "Tue, 14 Oct 2025 05:00:00 -0400",
+        "source": "NPR — Top Stories"
+      },
+      {
+        "title": "Kids who use social media score lower on reading and memory tests, a study shows",
+        "link": "https://www.npr.org/sections/shots-health-news/2025/10/13/nx-s1-5571050/social-media-teens-brains-reading-memory",
+        "published": "Mon, 13 Oct 2025 11:01:00 -0400",
+        "source": "NPR — Politics"
+      },
+      {
+        "title": "Tax incentives are drawing data centers to Atlanta's south suburbs, worrying residents",
+        "link": "https://www.npr.org/2025/10/12/nx-s1-5537109/tax-incentives-are-drawing-data-centers-to-atlantas-south-suburbs-worrying-residents",
+        "published": "Sun, 12 Oct 2025 08:52:58 -0400",
+        "source": "NPR — Politics"
+      },
+      {
+        "title": "She posted about Charlie Kirk's death. Within eight hours, she was fired",
+        "link": "https://www.npr.org/2025/10/11/nx-s1-5550366/charlie-kirk-social-media-firings",
+        "published": "Sat, 11 Oct 2025 05:00:00 -0400",
+        "source": "NPR — Politics"
+      },
+      {
+        "title": "Sora gives deepfakes 'a publicist and a distribution deal.' It could change the internet",
+        "link": "https://www.npr.org/2025/10/10/nx-s1-5567162/sora-ai-openai-deepfake",
+        "published": "Fri, 10 Oct 2025 05:00:00 -0400",
+        "source": "NPR — Politics"
+      },
+      {
+        "title": "Need a laptop? This retiree refurbishes laptops, gives them away to those in need",
+        "link": "https://www.npr.org/2025/10/09/nx-s1-5527861/tech-fairy-laptop-free",
+        "published": "Thu, 09 Oct 2025 05:03:57 -0400",
+        "source": "NPR — Politics"
+      },
+      {
+        "title": "Renewable energy outpaces coal for electricity generation in historic first, report says",
+        "link": "https://www.npr.org/2025/10/09/nx-s1-5564746/renewable-energy-coal-electricity-first",
+        "published": "Thu, 09 Oct 2025 05:01:00 -0400",
+        "source": "NPR — Politics"
+      },
+      {
+        "title": "1 in 5 high schoolers has had a romantic AI relationship, or knows someone who has",
+        "link": "https://www.npr.org/2025/10/08/nx-s1-5561981/ai-students-schools-teachers",
+        "published": "Wed, 08 Oct 2025 12:09:56 -0400",
+        "source": "NPR — Politics"
+      },
+      {
+        "title": "Here's how the fashion industry is using AI to predict the next big trend",
+        "link": "https://www.npr.org/2025/10/04/nx-s1-5561128/paris-fashion-week-ai-predict-trends",
+        "published": "Sat, 04 Oct 2025 07:00:00 -0400",
+        "source": "NPR — Politics"
+      },
+      {
+        "title": "Legal experts condemn Apple bowing to White House's request to remove ICE tracking app",
+        "link": "https://www.npr.org/2025/10/03/nx-s1-5561999/apple-google-iceblock-app-removal",
+        "published": "Fri, 03 Oct 2025 19:34:38 -0400",
+        "source": "NPR — Politics"
+      },
+      {
+        "title": "AI's getting better at faking crowds. Here's why that's cause for concern",
+        "link": "https://www.npr.org/2025/10/03/nx-s1-5528974/will-smith-crowd-ai",
+        "published": "Fri, 03 Oct 2025 07:00:00 -0400",
+        "source": "NPR — Politics"
+      },
+      {
+        "title": "SpaceX launches 11th test flight of its mega Starship rocket with another win",
+        "link": "https://www.npr.org/2025/10/13/nx-s1-5573520/space-x-eleventh-test-flight-starship",
+        "published": "Mon, 13 Oct 2025 20:37:12 -0400",
+        "source": "NPR — Business"
+      },
+      {
+        "title": "A stunning discovery in Mongolia changes what's known about domed-head dinosaurs",
+        "link": "https://www.npr.org/2025/10/13/nx-s1-5564080/a-stunning-discovery-in-mongolia-changes-whats-known-about-domed-head-dinosaurs",
+        "published": "Mon, 13 Oct 2025 16:13:52 -0400",
+        "source": "NPR — Business"
+      },
+      {
+        "title": "A camping trip in the Rockies came with an unexpected message: you've won a Nobel Prize",
+        "link": "https://www.npr.org/2025/10/12/nx-s1-5567945/a-camping-trip-in-the-rockies-came-with-an-unexpected-message-youve-won-a-nobel-prize",
+        "published": "Sun, 12 Oct 2025 17:44:12 -0400",
+        "source": "NPR — Business"
+      },
+      {
+        "title": "Smithsonian museums and National Zoo set to close as shutdown takes its toll",
+        "link": "https://www.npr.org/2025/10/11/g-s1-93157/smithsonian-national-zoo-federal-shutdown",
+        "published": "Sat, 11 Oct 2025 13:35:53 -0400",
+        "source": "NPR — Business"
+      },
+      {
+        "title": "Remembering primate expert and conservationist Jane Goodall",
+        "link": "https://www.npr.org/2025/10/10/nx-s1-5567206/remembering-primate-expert-and-conservationist-jane-goodall",
+        "published": "Fri, 10 Oct 2025 05:00:00 -0400",
+        "source": "NPR — Business"
+      },
+      {
+        "title": "This 4-year-old's heart is failing. A federal grant that might help him was canceled",
+        "link": "https://www.npr.org/2025/10/09/nx-s1-5498641/child-research-trump-grants-cut-artificial-heart",
+        "published": "Thu, 09 Oct 2025 05:00:00 -0400",
+        "source": "NPR — Business"
+      },
+      {
+        "title": "This week brings a bumper harvest of brand new books",
+        "link": "https://www.npr.org/2025/10/14/nx-s1-5563789/new-books-susan-orlean-adam-johnson",
+        "published": "Tue, 14 Oct 2025 15:07:14 -0400",
+        "source": "NPR — Science"
+      },
+      {
+        "title": "'John Candy: I Like Me' paints an intimate portrait of the late actor",
+        "link": "https://www.npr.org/2025/10/14/nx-s1-5574169/john-candy-i-like-me-paints-an-intimate-portrait-of-the-late-actor",
+        "published": "Tue, 14 Oct 2025 13:43:38 -0400",
+        "source": "NPR — Science"
+      },
+      {
+        "title": "Remembering Diane Keaton, the iconic star of 'Annie Hall' and 'The Godfather'",
+        "link": "https://www.npr.org/2025/10/14/nx-s1-5574104/remembering-diane-keaton-the-iconic-star-of-annie-hall-and-the-godfather",
+        "published": "Tue, 14 Oct 2025 13:42:07 -0400",
+        "source": "NPR — Science"
+      },
+      {
+        "title": "Pokémon Legends Z-A is a game of epic proportions, best played on the Switch 2",
+        "link": "https://www.npr.org/2025/10/14/nx-s1-5573318/pokemon-legends-z-a-nintendo-switch-release-review",
+        "published": "Tue, 14 Oct 2025 09:00:00 -0400",
+        "source": "NPR — Science"
+      },
+      {
+        "title": "M. Night Shyamalan and Nicholas Sparks join forces on 'Remain' novel and film",
+        "link": "https://www.npr.org/2025/10/14/nx-s1-5536709/remain-nicholas-sparks-m-night-shyamalan",
+        "published": "Tue, 14 Oct 2025 05:00:00 -0400",
+        "source": "NPR — Science"
+      },
+      {
+        "title": "In Marc Maron's last 'WTF' podcast episode, Obama offers advice on closing chapters",
+        "link": "https://www.npr.org/2025/10/13/nx-s1-5573479/obama-marc-maron-wtf-podcast-last",
+        "published": "Mon, 13 Oct 2025 19:02:52 -0400",
+        "source": "NPR — Science"
+      },
+      {
+        "title": "Diane Keaton moved with grace through dozens of character arcs, and into audience hearts",
+        "link": "https://www.npr.org/2025/10/13/nx-s1-5572479-e1/diane-keaton-moved-with-grace-through-dozens-of-character-arcs-and-into-audience-hearts",
+        "published": "Mon, 13 Oct 2025 16:14:22 -0400",
+        "source": "NPR — Science"
+      },
+      {
+        "title": "Ecuador: La reinvención andina de la cumbia",
+        "link": "https://www.npr.org/sections/the-picture-show/2025/10/13/g-s1-92838/ecuador-la-reinvencion-andina-de-la-cumbia",
+        "published": "Mon, 13 Oct 2025 15:45:00 -0400",
+        "source": "NPR — Science"
+      },
+      {
+        "title": "Ecuador: The Andean reinvention of cumbia",
+        "link": "https://www.npr.org/sections/the-picture-show/2025/10/13/nx-s1-5549178/cumbia-in-ecuador",
+        "published": "Mon, 13 Oct 2025 15:45:00 -0400",
+        "source": "NPR — Science"
+      },
+      {
+        "title": "'Twice' author Mitch Albom asks: What if you could relive any moment of your life?",
+        "link": "https://www.npr.org/2025/10/13/nx-s1-5567229/twice-author-mitch-albom-asks-what-if-you-could-relive-any-moment-of-your-life",
+        "published": "Mon, 13 Oct 2025 13:56:59 -0400",
+        "source": "NPR — Science"
+      },
+      {
+        "title": "Amid shutdown, Trump administration guts department overseeing special education",
+        "link": "https://www.npr.org/2025/10/13/nx-s1-5572489/trump-special-education-department-funding-layoffs-disabilities",
+        "published": "Mon, 13 Oct 2025 05:00:00 -0400",
+        "source": "NPR — Technology"
+      },
+      {
+        "title": "What Uvalde's new school looks like, three years after tragedy",
+        "link": "https://www.npr.org/2025/10/11/nx-s1-5567792/what-uvaldes-new-school-looks-like-three-years-after-tragedy",
+        "published": "Sat, 11 Oct 2025 17:48:03 -0400",
+        "source": "NPR — Technology"
+      },
+      {
+        "title": "This museum immerses students in U.S. history: 'You can smell it, touch it, see it'",
+        "link": "https://www.npr.org/2025/10/10/nx-s1-5547106/tenement-museum-american-history-high-school",
+        "published": "Fri, 10 Oct 2025 05:00:00 -0400",
+        "source": "NPR — Technology"
+      },
+      {
+        "title": "More college students are using AI for class. Their professors aren't far behind",
+        "link": "https://www.npr.org/2025/10/07/nx-s1-5520700-e1/more-college-students-are-using-ai-for-class-their-professors-arent-far-behind",
+        "published": "Tue, 07 Oct 2025 17:12:07 -0400",
+        "source": "NPR — Technology"
+      },
+      {
+        "title": "The government has long researched high school experiences. Then DOGE cut the effort",
+        "link": "https://www.npr.org/2025/10/07/nx-s1-5521282/trump-research-education-survey-high-school-students-doge",
+        "published": "Tue, 07 Oct 2025 05:00:00 -0400",
+        "source": "NPR — Technology"
+      },
+      {
+        "title": "More college students are using AI for class. Their professors aren't far behind",
+        "link": "https://www.npr.org/2025/10/07/nx-s1-5520700/more-college-students-are-using-ai-for-class-their-professors-arent-far-behind",
+        "published": "Tue, 07 Oct 2025 04:55:05 -0400",
+        "source": "NPR — Technology"
+      },
+      {
+        "title": "NPR's Student Podcast Challenge: Here are our fourth grade winners!",
+        "link": "https://www.npr.org/2025/10/04/nx-s1-5522266/npr-student-podcast-fourth-grade-winners",
+        "published": "Sat, 04 Oct 2025 05:00:00 -0400",
+        "source": "NPR — Technology"
+      },
+      {
+        "title": "How a Yurok family played a key role in the world’s largest dam removal project",
+        "link": "https://www.sciencenews.org/article/water-remembers-cordalis-dam-removal",
+        "published": "Tue, 14 Oct 2025 17:00:54 +0000",
+        "source": "ScienceNews"
+      },
+      {
+        "title": "New wetsuit designs offer a layer of protection against shark bites",
+        "link": "https://www.sciencenews.org/article/wetsuit-designs-protection-shark-bites",
+        "published": "Tue, 14 Oct 2025 13:00:00 +0000",
+        "source": "ScienceNews"
+      },
+      {
+        "title": "Coral collapse signals Earth’s first climate tipping point",
+        "link": "https://www.sciencenews.org/article/coral-collapse-climate-tipping-point",
+        "published": "Sun, 12 Oct 2025 23:01:00 +0000",
+        "source": "ScienceNews"
+      },
+      {
+        "title": "Astronomers saw a rogue planet going through a rapid growth spurt",
+        "link": "https://www.sciencenews.org/article/rogue-planet-rapid-growth-spurt",
+        "published": "Fri, 10 Oct 2025 17:00:00 +0000",
+        "source": "ScienceNews"
+      },
+      {
+        "title": "Brain scans reveal where taste and smell become flavor",
+        "link": "https://www.sciencenews.org/article/brain-scans-flavor-insula-taste-smell",
+        "published": "Fri, 10 Oct 2025 15:00:00 +0000",
+        "source": "ScienceNews"
+      },
+      {
+        "title": "Lasers made muon beams, no massive accelerator needed",
+        "link": "https://www.sciencenews.org/article/lasers-muons-beams-accelerator",
+        "published": "Fri, 10 Oct 2025 13:00:00 +0000",
+        "source": "ScienceNews"
+      },
+      {
+        "title": "Worlds Apart Crossword",
+        "link": "https://www.sciencenews.org/article/worlds-apart-crossword-november-2025",
+        "published": "Fri, 10 Oct 2025 12:00:00 +0000",
+        "source": "ScienceNews"
+      },
+      {
+        "title": "Mic’d bats reveal midnight songbird attacks",
+        "link": "https://www.sciencenews.org/article/bats-attack-birds-halloween-night",
+        "published": "Thu, 09 Oct 2025 18:00:00 +0000",
+        "source": "ScienceNews"
+      },
+      {
+        "title": "Toy-obsessed dogs give clues to addictive behaviors",
+        "link": "https://www.sciencenews.org/article/dog-toy-addictive-behaviors",
+        "published": "Thu, 09 Oct 2025 15:00:00 +0000",
+        "source": "ScienceNews"
+      },
+      {
+        "title": "You’re probably eating enough protein, but maybe not the right mix",
+        "link": "https://www.sciencenews.org/article/protein-intake-balance-benefits",
+        "published": "Thu, 09 Oct 2025 13:00:00 +0000",
+        "source": "ScienceNews"
+      },
+      {
+        "title": "Chemistry that works like Hermione’s magic handbag wins a 2025 chemistry Nobel",
+        "link": "https://www.sciencenews.org/article/2025-chemistry-nobel-prize-hermione",
+        "published": "Wed, 08 Oct 2025 17:27:19 +0000",
+        "source": "ScienceNews"
+      },
+      {
+        "title": "Biased online images train AI bots to see women as younger, less experienced",
+        "link": "https://www.sciencenews.org/article/bias-online-images-women-ai-hiring",
+        "published": "Wed, 08 Oct 2025 15:00:00 +0000",
+        "source": "ScienceNews"
+      },
+      {
+        "title": "Are ultraprocessed foods truly addictive?",
+        "link": "https://www.sciencenews.org/article/ultraprocessed-foods-addictive",
+        "published": "Wed, 08 Oct 2025 13:00:00 +0000",
+        "source": "ScienceNews"
+      },
+      {
+        "title": "Antarctic krill eject more food when it’s contaminated with plastic",
+        "link": "https://www.sciencenews.org/article/antarctic-krill-eject-more-food-plastic",
+        "published": "Tue, 07 Oct 2025 23:01:00 +0000",
+        "source": "ScienceNews"
+      },
+      {
+        "title": "Discoveries that enabled quantum computers win the Nobel Prize in physics",
+        "link": "https://www.sciencenews.org/article/quantum-computers-2025-nobel-physics",
+        "published": "Tue, 07 Oct 2025 16:06:03 +0000",
+        "source": "ScienceNews"
+      },
+      {
+        "title": "The Sun’s hidden poles could finally reveal its greatest secrets",
+        "link": "https://www.sciencedaily.com/releases/2025/10/251014014438.htm",
+        "published": "Tue, 14 Oct 2025 06:30:56 EDT",
+        "source": "ScienceDaily — Top"
+      },
+      {
+        "title": "A telescope larger than Earth just revealed the hidden heart of a mysterious galaxy",
+        "link": "https://www.sciencedaily.com/releases/2025/10/251014014435.htm",
+        "published": "Tue, 14 Oct 2025 05:36:30 EDT",
+        "source": "ScienceDaily — Top"
+      },
+      {
+        "title": "JWST may have found the Universe’s first stars powered by dark matter",
+        "link": "https://www.sciencedaily.com/releases/2025/10/251014014430.htm",
+        "published": "Tue, 14 Oct 2025 04:35:42 EDT",
+        "source": "ScienceDaily — Top"
+      },
+      {
+        "title": "Scientists find the brain’s hidden pulse that may predict Alzheimer’s",
+        "link": "https://www.sciencedaily.com/releases/2025/10/251014014418.htm",
+        "published": "Tue, 14 Oct 2025 10:24:42 EDT",
+        "source": "ScienceDaily — Top"
+      },
+      {
+        "title": "Supercharged vitamin k could help the brain heal itself",
+        "link": "https://www.sciencedaily.com/releases/2025/10/251014014312.htm",
+        "published": "Tue, 14 Oct 2025 11:08:36 EDT",
+        "source": "ScienceDaily — Top"
+      },
+      {
+        "title": "A simple fatty acid could restore failing vision",
+        "link": "https://www.sciencedaily.com/releases/2025/10/251014014307.htm",
+        "published": "Tue, 14 Oct 2025 09:07:15 EDT",
+        "source": "ScienceDaily — Top"
+      },
+      {
+        "title": "Your brain’s power supply may hold the key to mental illness",
+        "link": "https://www.sciencedaily.com/releases/2025/10/251014014304.htm",
+        "published": "Tue, 14 Oct 2025 08:21:08 EDT",
+        "source": "ScienceDaily — Top"
+      },
+      {
+        "title": "Popular hair-loss pill linked to depression and suicide",
+        "link": "https://www.sciencedaily.com/releases/2025/10/251013040343.htm",
+        "published": "Mon, 13 Oct 2025 12:48:13 EDT",
+        "source": "ScienceDaily — Top"
+      },
+      {
+        "title": "Scientists build artificial neurons that work like real ones",
+        "link": "https://www.sciencedaily.com/releases/2025/10/251013040335.htm",
+        "published": "Tue, 14 Oct 2025 01:31:23 EDT",
+        "source": "ScienceDaily — Top"
+      },
+      {
+        "title": "This 250-year-old equation just got a quantum makeover",
+        "link": "https://www.sciencedaily.com/releases/2025/10/251013040333.htm",
+        "published": "Mon, 13 Oct 2025 12:25:08 EDT",
+        "source": "ScienceDaily — Top"
+      },
+      {
+        "title": "Your skin could warn of hidden mental health trouble",
+        "link": "https://www.sciencedaily.com/releases/2025/10/251013040328.htm",
+        "published": "Mon, 13 Oct 2025 10:58:52 EDT",
+        "source": "ScienceDaily — Top"
+      },
+      {
+        "title": "This experimental “super vaccine” stopped cancer cold in the lab",
+        "link": "https://www.sciencedaily.com/releases/2025/10/251013040323.htm",
+        "published": "Mon, 13 Oct 2025 04:03:23 EDT",
+        "source": "ScienceDaily — Top"
+      },
+      {
+        "title": "90% of science is lost. This new AI just found it",
+        "link": "https://www.sciencedaily.com/releases/2025/10/251013040314.htm",
+        "published": "Mon, 13 Oct 2025 08:46:51 EDT",
+        "source": "ScienceDaily — Top"
+      },
+      {
+        "title": "California’s next big one could be faster and far more destructive",
+        "link": "https://www.sciencedaily.com/releases/2025/10/251012054628.htm",
+        "published": "Sun, 12 Oct 2025 22:53:14 EDT",
+        "source": "ScienceDaily — Top"
+      },
+      {
+        "title": "Decades-old photosynthesis mystery finally solved",
+        "link": "https://www.sciencedaily.com/releases/2025/10/251012054624.htm",
+        "published": "Mon, 13 Oct 2025 03:50:36 EDT",
+        "source": "ScienceDaily — Top"
+      },
+      {
+        "title": "Investigating gender disparities in patent citations reveals untapped potential",
+        "link": "https://www.nature.com/articles/s41587-025-02837-z",
+        "published": "Tue, 14 Oct 2025 00:00:00 +0000",
+        "source": "Nature — Technology"
+      },
+      {
+        "title": "Digital flocks, predators allow ecologists to simulate real-world animal behaviour",
+        "link": "https://www.nature.com/articles/d41586-025-03314-y",
+        "published": "Mon, 13 Oct 2025 00:00:00 +0000",
+        "source": "Nature — Technology"
+      },
+      {
+        "title": "‘Am I redundant?’: how AI changed my career in bioinformatics",
+        "link": "https://www.nature.com/articles/d41586-025-03135-z",
+        "published": "Mon, 13 Oct 2025 00:00:00 +0000",
+        "source": "Nature — Technology"
+      },
+      {
+        "title": "Metals are key to the global economy — but three challenges threaten supply chains",
+        "link": "https://www.nature.com/articles/d41586-025-03312-0",
+        "published": "Mon, 13 Oct 2025 00:00:00 +0000",
+        "source": "Nature — Technology"
+      },
+      {
+        "title": "Insights from the Road Damage Detection Challenge Series (2018–2024)",
+        "link": "https://www.nature.com/articles/s42256-025-01132-5",
+        "published": "Mon, 13 Oct 2025 00:00:00 +0000",
+        "source": "Nature — Technology"
+      },
+      {
+        "title": "Drones switch payloads in mid-air using a flying toolbox",
+        "link": "https://www.nature.com/articles/d41586-025-03238-7",
+        "published": "Wed, 8 Oct 2025 00:00:00 +0000",
+        "source": "Nature — Technology"
+      },
+      {
+        "title": "Scale-up of complex molecular reaction system by hybrid mechanistic modeling and deep transfer learning",
+        "link": "https://www.nature.com/articles/s41467-025-63982-2",
+        "published": "Tue, 7 Oct 2025 00:00:00 +0000",
+        "source": "Nature — Technology"
+      },
+      {
+        "title": "Enhancing AI-generated fundus images through specialized training modules",
+        "link": "https://www.nature.com/articles/s41433-025-04076-7",
+        "published": "Mon, 6 Oct 2025 00:00:00 +0000",
+        "source": "Nature — Technology"
+      },
+      {
+        "title": "Will AI ever win its own Nobel? Some predict a prize-worthy science discovery soon",
+        "link": "https://www.nature.com/articles/d41586-025-03223-0",
+        "published": "Mon, 6 Oct 2025 00:00:00 +0000",
+        "source": "Nature — Technology"
+      },
+      {
+        "title": "Wonder, empathy, life: why we called our pregnancy-diagnostic company Mirvie",
+        "link": "https://www.nature.com/articles/d41586-025-02669-6",
+        "published": "Mon, 6 Oct 2025 00:00:00 +0000",
+        "source": "Nature — Technology"
+      },
+      {
+        "title": "Scooped by a cupcake business: why we called our green-cement company Sublime Systems",
+        "link": "https://www.nature.com/articles/d41586-025-02670-z",
+        "published": "Thu, 2 Oct 2025 00:00:00 +0000",
+        "source": "Nature — Technology"
+      },
+      {
+        "title": "Biothreat hunters catch dangerous DNA before it gets made",
+        "link": "https://www.nature.com/articles/d41586-025-03230-1",
+        "published": "Thu, 2 Oct 2025 00:00:00 +0000",
+        "source": "Nature — Technology"
+      },
+      {
+        "title": "Model organism databases face budget cuts and closures",
+        "link": "https://www.nature.com/articles/d41586-025-03040-5",
+        "published": "Thu, 2 Oct 2025 00:00:00 +0000",
+        "source": "Nature — Technology"
+      },
+      {
+        "title": "These laser-cut discs turn into super precise parachutes",
+        "link": "https://www.nature.com/articles/d41586-025-03207-0",
+        "published": "Wed, 1 Oct 2025 00:00:00 +0000",
+        "source": "Nature — Technology"
+      },
+      {
+        "title": "AI is dreaming up millions of new materials. Are they any good?",
+        "link": "https://www.nature.com/articles/d41586-025-03147-9",
+        "published": "Wed, 1 Oct 2025 00:00:00 +0000",
+        "source": "Nature — Technology"
       }
     ],
     "local": [
@@ -742,7 +1315,112 @@
         "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPRHI1RzdmaW1VT0poaEo1eXM0LTFGaGxvQlJhR2hhSm53VlhQVzVhU05IZGo2R0gtSG9VTFd5Z29VNDdVU2M1YTlGdkVvWmRrdjRTWi04QUlnUEI5XzVNeThkTjk2X2IzeVg4clJHR1lhcFhnNzQ5TTAwaDZjbEg3Qm5mcGFiOXNxc2JzcnlzZ3haVWpzd0tIR1FWTUtieVV1THBFd3l3aG1yekg4UTg4My1YVTVHWEh3a041N2wwYTNKVzhfekJINFE2VQ?oc=5",
         "published": "Thu, 10 Apr 2025 12:19:39 GMT",
         "source": "Google News — Northern Virginia traffic"
+      },
+      {
+        "title": "On The Market: A Georgian Colonial in Oakton for $2.2M - Northern Virginia Magazine",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNMzNrWHNBLXJFQzZEQ0JYOWpCT2RNdlUxYVd2REZfbEwtdE5RTUlLaWpLdXFWdnowUEh4Q3pMdFhGT21tYTRXbHpuclNWS3Fidm91cldtelVCbG0zeFVLRXRiWGJlNHZocXI5a0o2aUtxVEJGTElES3pyU3g4N28zQWp4eWJfamEwcW4wVGRTSXhvR1pwM09VZUdrZjBNeDdXUEdrd1FDMmNkRE9zSC0zXzdsSQ?oc=5",
+        "published": "Tue, 14 Oct 2025 19:27:49 GMT",
+        "source": "Google News — Northern Virginia"
+      },
+      {
+        "title": "TRAFFIC ALERT: Road closures take effect in DC ahead of Army 250th Birthday Parade - WJLA",
+        "link": "https://news.google.com/rss/articles/CBMigANBVV95cUxQTWhzVFRHMC1kY0dyRjBuYzA2ZGVIVnc4Y3ZlTGpHaHowTWxYRUJlS2FnT3RXLXZDb3p0MlczT0t2bmg5MXc1S0FCUXZwdk9Kb3IzeE16bXpxLVJldmxZcjlSVlR5NDJkcUlUZ0lVRmpaSUdVd0tWUWNmcmQ5S3N3aDZsdFAwYzF6QTlTdkw1aExwVm5NTXlLYm8tOHJzMEppTGJ6amx6bDFHNjJzTDJtR1Bqd1l2OEVlNW5pUzl2T2xqVm1JUEZPVjNUcDItaVRSQTVEVmZPbXpiTVRhdzlFS1J0SW1FSmZMbXRmeThEbTh0UXVOUDk4Uk9kQXJaTHp1eXloemp0ZldlQzBURU8zUlVWLUZtYlg5ZndvbGlyT1VCV3ZsUmdQU0RNbGlES3NvTmxJUUwxdnZsSjkybVlFbmt6eEZod2E3bnFGamJreEY0QUFGOGJ0eHdZa2t4eWFzY01jd1UzSXl4X3pkT2t4Q05EMGtSSlRwejB2cGVIVFc?oc=5",
+        "published": "Wed, 11 Jun 2025 07:00:00 GMT",
+        "source": "Google News — Northern Virginia traffic"
+      },
+      {
+        "title": "UPDATED: Northern Va. under winter weather advisory; VDOT urges motorists to avoid travel during storm - InsideNoVa.com",
+        "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPQ2pYeWR1RWM2UVBGNmY2SWdKR29obk1xRUE2WHlicVlrdzNWRFplU1hVdHg1dHVVT3dUMFlKcXN3YzBxRGh0NUgyZ3FmRnpCdWp3WXJhbWxLRjJqOHZ0emtjLUlRWkJOai1LWW8yYmo5cU1DSnRSS1RJZnZQVVc2MDBEc05XbWdRdDJERWdqNTVBdUs5bENVU2M1U2thMmNENUJMSENmLVF2ZFZ5LWZEUDVBcW5GMElQQ1VWbTFudDRhZDFDV2lQcm1nX3hldG9PVUZxSkhvRG9rek5QckVrWEJEc09jNTFMSVctM0FJN1lLYXdtdHg0clktdl9lYkhORmZqbTUyNA?oc=5",
+        "published": "Wed, 05 Feb 2025 08:00:00 GMT",
+        "source": "Google News — Northern Virginia weather"
+      },
+      {
+        "title": "More downpours in store for Monday - WTOP",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOM0ZBMU1STXpQTWFfc3liQk9pSWFjdnlkSWp4d1ZCSXB3V1RiWHJaZkM3N0hvU09Wc3FWRVROZDZreG1GM25kYURvUjA5cGpXLXUzTnhxdVJFZXJFWW5OOVRoMXJua05XMHljT2hGMGtYd3IwQTRLQnpvTE1YZlRfZ0NDQ2ZXakFHOUFveW5Ga3V6X3R5azJsbU95ZThTNk82Wks5ZGV5VHFzeEs3aXc4?oc=5",
+        "published": "Tue, 15 Jul 2025 07:00:00 GMT",
+        "source": "Google News — Northern Virginia weather"
+      },
+      {
+        "title": "BREAKING: Tens of thousands without power in wake of destructive storms - FFXnow",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQdXJUUUtuRExkNWp0THZsTkJNOUo3bzkxM3d0VjNhM3dHZUJ4N25zbkJPN2xrbTJWdExEbDZQSjMybDk4cnBwNTdZbGFyY1A4T19EemZjckF0eko2bXRmYWUyeGJwYUVUNnlmakdZOUwxYzM3eXIzZVFEeElXS0RaWUZmSHhfRTlKclMzZ1FRNnNMOWhCUGgwWDRhMmN1QQ?oc=5",
+        "published": "Thu, 19 Jun 2025 07:00:00 GMT",
+        "source": "Google News — Northern Virginia weather"
+      },
+      {
+        "title": "DC weather: Flash flood warning issued as showers and thunderstorms threaten evening commutes - FOX 5 DC",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNNWVXei0xR2tHZEI1M3JKUUNYSlRnMjZ0QUtWa0hNc09qVUdUODhtczFicjl5NXlrczN5VzhkUVhOaUpCUnZCRFlOM0ZpWG1majl6UlRLeUF6d3NXd2JCMGpoVjJMbHFNcTk1MDRuYnFjMW93aXRYWW54TTlyV3dfd0IyVDkzMFlfTGtYUmFlZktrMDlkMDdWNC05bVR5MlltYlhNZTZvRE1QWWg5ak9hdWFPNNIBuAFBVV95cUxOaklGcWo5Qy1yc2JXNmViYnNvS2NBRU14WEROMHhRa19BNWR6YzI0RzJLRXMyVmJad3NTTnNhM2ViU3NMdlFmVUd4SFgxd1pJZlBGdnp0TmpyUS0wRTE4cHRFSG12T3hkM1piajQyZHJOMWphYnhqMWJ5Nl9YbmpZYkoxaUZlR3pGTXJSa0NleGItUnpnTHM0cXNQY2diM0pvSDY5WGJGZG9VM1hwREx0VmdMX0JTSmZD?oc=5",
+        "published": "Wed, 13 Aug 2025 07:00:00 GMT",
+        "source": "Google News — Northern Virginia weather"
+      },
+      {
+        "title": "Winter Weather Advisory Issued For Midweek Storm In VA, DC - Patch",
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNWVRZaG1sUm9wd2R6VWhKd2hKTUlTb1k1aFRpdWZNdHBLLWVxZk95eE9Ga3RUSTY2R00tc3BQd1pmQnFEQ2VCYUdkODhySHRYalVhZEdSdFpDdWQtWTRyWE1KVG5mWlY1QlR1TlowQXAwT0lweERfVkdldUFab1E4ektOMVlHOGQxbkRnYTRDTQ?oc=5",
+        "published": "Tue, 04 Feb 2025 08:00:00 GMT",
+        "source": "Google News — Northern Virginia weather"
+      },
+      {
+        "title": "Winter Weather Advisory Outlines Counties in Northern West Virginia - WTRF",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOcEVwaDk5TE5waEpYWXllaS1GeThPTFhta2pBVXd6NFhoS044YW5MZE5meW1LTVcyRGJMdzNEYzVRYTIwY3ROd1VqNWhpTDUtVDA5Ni1nNzluN0NRZ0pKcW1ad2VLV1h4UEZNZ185SFBhaVZtam5jamZJQXp0OWhWd3ZhZW9sWVpjVlRRSHk1c3JUcG84R2ZON05VN19IcmZtQ05yTdIBqgFBVV95cUxQSUszRGJXUDJaY0phbnNNaFVGc0E3U1hiWkJ5ZHFWS1Q4ejNFOHphS3ltQ0Z0WHF0TUs1MlpQOGpPdHY4Yk9udWUzRGtjdXZMTGxaeVNPNEU5YTA4ZmY4SEZLYVBXUnJ4V09TZVE4azNMY1dwZHFIV0dWRnI3MVBhSTc1YzIzV0h5M3JQMkJyLWVSM1ZEeGFfTXBQZ3J2aDhuV2RTMGRzZ29XUQ?oc=5",
+        "published": "Tue, 11 Feb 2025 08:00:00 GMT",
+        "source": "Google News — Northern Virginia weather"
+      },
+      {
+        "title": "Two dead after severe storms blast Northern Virginia - FOX Weather",
+        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1zRzRBUHdLbW9XVEVsNTBkZ3pyY011MDIwRzZnaDhBa2xPazBsRm9BYTRuWjQzYWxOaUVweUpRX0tYNEI1a3MxUW1lT1F4Sm1JZVIycnR6SXAyVkFGeklPWHFTd3BENHR1aXJMSEJISWVkUk12aXhjTUF30gF_QVVfeXFMTi1XbGgteE1CQnZmbGZyTjR0SHJXUnVGR3l6X09EYmY3STQwaGE3c3FEcHFoTy1Yd19iZ3JDV3ZINmx3cHhqSTUxSExKUU80S1dxYjNIMUljVzFiUW45bVBDQkg3UGpIWjktNkNYaHN1T0RWdmhJSjN2SDJfMkVJOA?oc=5",
+        "published": "Fri, 16 May 2025 07:00:00 GMT",
+        "source": "Google News — Northern Virginia weather"
+      },
+      {
+        "title": "UPDATE: NWS flood watch and thunderstorm warning in effect for Augusta County - The News Leader | Staunton, VA",
+        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOTy1BOGc0OUt0SG5OeTl4bzNXdUQyUC1VZl90OUxJanllWHp5Vk9OSFJJcjhOOTJEbmhMSzFrSUdrZS1wTm9vTEpUVUpDekVHbEwyenFPMzYxUzhIZkJ4OWhfT2o0N0JndVhCaVZZcGg0UV9oejFmbXRXMkFmR3J6WURRVXBuZnFHZ0w5Ymo0YXFIenJDaW01TTlQV2I2cjE2SU9zMWs4a1d1VjdaTW1wS3B6RTB3WWdzNXVRWjBzWFhCSHdVbHVxR0RmaW83WFJiLWc?oc=5",
+        "published": "Wed, 09 Jul 2025 07:00:00 GMT",
+        "source": "Google News — Northern Virginia weather"
+      },
+      {
+        "title": "Winter storm warning issued for some counties in North Carolina and Virginia - WXII",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNR3hZcVRiYk9Tc3M2T3ZYcEhvZFJETUhJdzFtbE9xcFJfZUQxNi1BVmJjNUZYNGI0aFRMRWRYWWVIY3F6bkE4alR0RzVLS0E1Y0pSZlVoSlNrRzBKQ0hWVWg3SW10dUQ1SDU0bWtfV01BNldrQ2VBdGE4Njd4Wmo4a3Q4eWZRTHZTemVtbjBRcDhfczg3YWc?oc=5",
+        "published": "Mon, 10 Feb 2025 08:00:00 GMT",
+        "source": "Google News — Northern Virginia weather"
+      },
+      {
+        "title": "Severe thunderstorm warning expires in Hampton Roads - 13newsnow.com",
+        "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQYnUzdkxlMkdpV1FpR1ZWU2pFRThtVXZoeG9RZ0VoNDhvVlJtX2NmMzQ3dGJuc29CT3dhb183TUg0bUt5YzVPbDJpSHRkS0QxY0lzZmRmVDQzZFdrYUpXX1lEUV9oSFRaSkJhcWlvU0NWMnFNUzE5Q1o4WW8xMTE0MkF4UDZmemZ3WVY3b3Qya2psWm5sRVMzUklpMEZjZ25qSmozb2QtNVpzeXhoSWQ3MG9nU0w3VWlyLUs1SjdkTGhnd29JbnVhWko5OUZMbWV0QVh3UHVzUXRXX1ZLWWUyUWpCN3dTakpRc2F5SUx3Z1hkcGtwRGlPdVBDVXpGVnpx?oc=5",
+        "published": "Wed, 09 Jul 2025 07:00:00 GMT",
+        "source": "Google News — Northern Virginia weather"
+      },
+      {
+        "title": "UPDATED: Thousands without power after thunderstorms in Fairfax County - FFXnow",
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPN25ySno5SzZ3MzJVRU1WaGVLamc1aWJDdmN0bzh0UVRucFBVeDNjV1I1OEZnN2VVdmVyTjkzYUVaZTBvWnpuRWRyNFVCRFdqdm9Dc2pkYmg0MTlrU21BT042cFdMTGsyVUQxdmhwZTROV182UE9HTXljV003bWpraHlnRU5hZ2JSYV9vVl9fSQ?oc=5",
+        "published": "Wed, 09 Jul 2025 07:00:00 GMT",
+        "source": "Google News — Northern Virginia weather"
+      },
+      {
+        "title": "UPDATED: Northern Va. under winter storm warning Tuesday; governor declares state of emergency - InsideNoVa.com",
+        "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQaEh6OWZRS3plMVU5d09KSkZVSE94UVpTQVFjS0VmbTYyZzY1eG9VMVpTNVB6VDh4dHljcWZ1NEJXTnZtRDZNVjlCay15QV82R1BtejdiaElPT044ZUhuT2hNVmVjNndCcnNaZHJ5eFBUbzNHTWNoTW5sV2plWjBBWklndHRfbzQwcmtyWEt1YUlQdHdxMmFmOF83WEp0ZzlPY001cXY0bWR0dW54SVcwcVRkNDEwX3RCMDhsVmxtUl9GVUZJeU11bXVLYzB2SGJGSnVMSVV1NWZ5bU9PSnVlbkV0dWNOdW00bXlDckRWRFB4RDZIX0ZGNXlfcVg?oc=5",
+        "published": "Mon, 10 Feb 2025 08:00:00 GMT",
+        "source": "Google News — Northern Virginia weather"
+      },
+      {
+        "title": "2 killed in separate incidents in Virginia after severe storms swept through region - FOX 5 DC",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOOXJ0OElJZXF2dlZtU2tDaC1zSjlDcEJMMTZEdU9kQmVfWVdmc3FUTWlLR2RwOU5Nc19Hc0RFMXVrT05xS0E3TVlaSXVMNmhBazYyZXljbDB2S1Q3NXluTEE0cmRWWUgweURaUWNMT0dJb0hZR1lrRkhVNVRuUnpqSC04aEdXYjc1WkhxdHJyZUl3SFBzRWZibUxDaW3SAaIBQVVfeXFMTzFlMVl4cVloNExDS3pIQ0pkRVh5dWtXXzJ3Q0JIN2Z6NDNUWEY4VkpTWUUweXRWZVpJVnFIY2hLTnVSWjRuZlZiUUNucHF5RUc5c0tyUTRzcjZGdzBCRklENHJDdlBadkpqeS1aZ0pfVFdGcjVCX25ZTGxMd19wSUQ0SFg3QTFLT1R4TUlxNVpwSDZNYy10RzI4Nnk5UnEtN3BB?oc=5",
+        "published": "Fri, 16 May 2025 07:00:00 GMT",
+        "source": "Google News — Northern Virginia weather"
+      },
+      {
+        "title": "Thundershowers pass through DC area after hot, humid day - WTOP",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVG9HWjNjeG5QdHR6TEpXRWJJbmoxQTk4VVlCcjR4Rk1uR3ZRMmllUmVmQUgyamszQ3ZFUDhXbzJWeUJGN19VQWxpU3NfWVhQbDA2RmNCc2FHdVptdlVZLWRVU3RwSUdIUmswS0RjRTVwZnZ0bXJIOFYySWNyMEo3Vlh0UTc0ZlNrOFdYZEJwZ3labE9YbzVrV25rZTdOZVZreXc?oc=5",
+        "published": "Tue, 08 Jul 2025 07:00:00 GMT",
+        "source": "Google News — Northern Virginia weather"
+      },
+      {
+        "title": "Snow, Freezing Rain Prompt Winter Weather Advisory In NoVA - Patch",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPbGdqQ1hvSWhNYW1ITHczMjdGUDNGRzczbnd3R250OVg3Tl9haDB4MmxKZzhORkROYkp4TVdZdk8tTl9DWFV3YkUyWTY0aVJHbDVhd2h3cllxOE0xSHpEUUhqNXRuNk8xWTFxeEVkRENoOUlQQ0JXanhyVDdyT21FeEJNSWdiRUg1RmUyY0JPdTNMSkxldXJsX3lta3k?oc=5",
+        "published": "Fri, 07 Feb 2025 08:00:00 GMT",
+        "source": "Google News — Northern Virginia weather"
       }
     ]
-  }
+  },
+  "runs": [
+    "2025-10-14T19:39:08Z"
+  ]
 }
