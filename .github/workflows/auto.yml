@@ -2,7 +2,7 @@ name: Daily Garden
 
 on:
   schedule:
-    - cron: "0 9 * * *" # daily at 09:00 UTC
+    - cron: "0 9, 15, 21 * * *" # daily at 09:00 UTC
   workflow_dispatch: {} # allow manual runs
 
 permissions:

@@ -26,6 +26,7 @@ STYLE = """
 </style>
 """
 
+# NOTE: the All days link now passes ?all=1 so index.html will not redirect
 HTML_SHELL = """<!doctype html>
 <html lang="en">
 <meta charset="utf-8">
@@ -33,7 +34,7 @@ HTML_SHELL = """<!doctype html>
 <title>{title}</title>
 {style}
 <body>
-<nav><a href="../index.html">← All days</a></nav>
+<nav><a href="../index.html?all=1">← All days</a></nav>
 {content}
 <footer class="muted">Updated {updated_utc} • <a href="https://github.com/{repo}">GitHub repo</a></footer>
 </body>
@@ -62,7 +63,7 @@ INDEX_SHELL = """<!doctype html>
 # ----- Helpers
 
 def repo_slug() -> str:
-    # Hardcode for your repo (simple + robust)
+    # Hardcode for your repo
     return "jakep84/Daily-Knowledge-Garden"
 
 def get_day_dirs() -> list[Path]:
@@ -125,10 +126,10 @@ def build_index(days: list[Path], repo: str):
     if days:
         latest = days[-1].name  # newest day (sorted ascending)
         latest_block = f'<p><strong>Latest:</strong> <a href="./{latest}/">{latest}</a></p>'
-        # Add meta refresh + JS redirect for immediate jump
+        # Redirect ONLY if ?all=1 is NOT present
         redirect_snippet = (
-            f'<meta http-equiv="refresh" content="0; url=./{latest}/">\n'
-            f'<script>location.replace("./{latest}/");</script>'
+            f'<script>if(!new URLSearchParams(location.search).has("all"))'
+            f' location.replace("./{latest}/");</script>'
         )
 
     updated = dt.datetime.utcnow().strftime("%Y-%m-%d %H:%M UTC")

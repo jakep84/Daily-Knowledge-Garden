@@ -21,7 +21,7 @@ Every day it:
 
 ## 📊 Highlights
 
-<!--HIGHLIGHTS-->- **HN #1:** [NanoChat – The best ChatGPT that $100 can buy](https://github.com/karpathy/nanochat)
+<!--HIGHLIGHTS-->- **HN #1:** [Dutch government takes control of Chinese-owned chipmaker Nexperia](https://www.cnbc.com/2025/10/13/dutch-government-takes-control-of-chinese-owned-chipmaker-nexperia.html)
 - **APOD:** [](https://apod.nasa.gov/apod/astropix.html)
 - **Daily Report:** [2025-10-14/report.md](/data/2025-10-14/report.md)<!--/HIGHLIGHTS-->
 
