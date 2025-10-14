@@ -1,0 +1,47 @@
+name: Daily wrap-up email
+
+on:
+  schedule:
+    - cron: "0 * * * *" # run hourly; we gate to 22:00 in wrapup.py
+  workflow_dispatch: {}
+
+permissions:
+  contents: read
+
+env:
+  TIMEZONE: ${{ vars.TIMEZONE || 'America/New_York' }} # set repo variable TIMEZONE to your TZ
+  TO_EMAIL: "priddyjacob84@gmail.com"
+  FROM_EMAIL: ${{ secrets.SMTP_USERNAME }} # often same as username
+
+jobs:
+  wrapup:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install deps
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Run wrap-up generator (only proceeds at 22:00 in TIMEZONE)
+        id: wrap
+        env:
+          TIMEZONE: ${{ env.TIMEZONE }}
+          TO_EMAIL: ${{ env.TO_EMAIL }}
+        run: |
+          python wrapup.py || exit $?
+
+      - name: Send email via SMTP
+        if: steps.wrap.outputs.should_send == 'true'
+        env:
+          SMTP_USERNAME: ${{ secrets.SMTP_USERNAME }}
+          SMTP_PASSWORD: ${{ secrets.SMTP_PASSWORD }}
+        run: |
+          python send_email.py out/email_subject.txt out/email.html

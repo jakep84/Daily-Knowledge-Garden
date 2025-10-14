@@ -1,0 +1,111 @@
+# ================================
+# 🧠 Daily Knowledge Garden .gitignore
+# ================================
+
+# --- Python cache and artifacts ---
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+*.pyd
+*.so
+
+# Local email/test artifacts
+/out/
+*.eml
+/email.html
+/email_subject.txt
+
+
+# --- Virtual environments ---
+.venv/
+venv/
+env/
+ENV/
+*.env
+Pipfile.lock
+poetry.lock
+
+# --- Local environment variables ---
+.env
+.env.*
+
+# --- Build & output directories ---
+build/
+dist/
+out/
+*.egg-info/
+.eggs/
+
+# --- Jupyter notebooks checkpoints ---
+.ipynb_checkpoints/
+
+# --- Logs & temporary files ---
+*.log
+*.tmp
+*.bak
+*.swp
+.DS_Store
+Thumbs.db
+
+# --- VSCode / IDE settings ---
+.vscode/
+.idea/
+*.iml
+
+# --- System / OS files ---
+Desktop.ini
+Icon?
+.Spotlight-V100
+.Trashes
+
+# --- GitHub Pages output (docs folder auto-built) ---
+/docs/**/*.html
+/docs/**/*.png
+/docs/**/*.jpg
+/docs/**/*.svg
+/docs/**/*.json
+/docs/**/*.xml
+/docs/**/*.csv
+/docs/**/*.js
+/docs/**/*.css
+/docs/**/*.map
+/docs/**/index.html
+/docs/**/plots/
+!/docs/.nojekyll  # keep .nojekyll file if used for GitHub Pages
+
+# --- Data & generated content ---
+/data/**/*.json
+/data/**/*.md
+/data/**/*.png
+/data/**/*.jpg
+/data/**/*.svg
+/data/**/*.csv
+/data/**/*.xml
+/data/**/plots/
+!data/.keep  # allow an empty folder marker if needed
+
+# --- GitHub Actions working dirs ---
+/.github/workflows/__pycache__/
+/.github/actions/__pycache__/
+
+# --- Cache directories ---
+.cache/
+pytest_cache/
+.mypy_cache/
+coverage.xml
+.coverage
+htmlcov/
+
+# --- Node (if you add frontend scripts later) ---
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# --- Other ---
+# Ignore any local testing or secrets files
+*.secret
+*.credentials
+credentials.json
+secrets.json

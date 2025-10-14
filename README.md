@@ -17,13 +17,13 @@ Every day it:
 
 ---
 
-**Latest run:** <!--LATEST_RUN-->2025-10-13 (UTC)<!--/LATEST_RUN-->
+**Latest run:** <!--LATEST_RUN-->2025-10-14 (UTC)<!--/LATEST_RUN-->
 
 ## 📊 Highlights
 
-<!--HIGHLIGHTS-->- **HN #1:** [NanoChat – The best ChatGPT that $100 can buy](https://github.com/karpathy/nanochat)
+<!--HIGHLIGHTS-->- **HN #1:** [Dutch government takes control of Chinese-owned chipmaker Nexperia](https://www.cnbc.com/2025/10/13/dutch-government-takes-control-of-chinese-owned-chipmaker-nexperia.html)
 - **APOD:** [](https://apod.nasa.gov/apod/astropix.html)
-- **Daily Report:** [2025-10-13/report.md](/data/2025-10-13/report.md)<!--/HIGHLIGHTS-->
+- **Daily Report:** [2025-10-14/report.md](/data/2025-10-14/report.md)<!--/HIGHLIGHTS-->
 
 ---
 
