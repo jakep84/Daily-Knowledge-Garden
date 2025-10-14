@@ -1,6 +1,6 @@
 {
   "date": "2025-10-14",
-  "last_updated_utc": "2025-10-14T19:39:08Z",
+  "last_updated_utc": "2025-10-14T21:07:19Z",
   "hn": {
     "items": [
       {
@@ -245,16 +245,61 @@
         "num_comments": 3,
         "created_at": "2025-10-09T17:19:37Z",
         "objectID": "45530533"
+      },
+      {
+        "title": "America Is Sliding Toward Illiteracy",
+        "url": "https://www.theatlantic.com/ideas/archive/2025/10/education-decline-low-expectations/684526/",
+        "points": 185,
+        "author": "JumpCrisscross",
+        "num_comments": 185,
+        "created_at": "2025-10-14T19:23:20Z",
+        "objectID": "45583730"
+      },
+      {
+        "title": "What do Americans die from vs. what the news report on",
+        "url": "https://ourworldindata.org/does-the-news-reflect-what-we-die-from",
+        "points": 169,
+        "author": "alphabetatango",
+        "num_comments": 79,
+        "created_at": "2025-10-14T18:40:23Z",
+        "objectID": "45583336"
+      },
+      {
+        "title": "Why your boss isn't worried about AI – \"can't you just turn it off?\"",
+        "url": "https://boydkane.com/essays/boss",
+        "points": 102,
+        "author": "beyarkay",
+        "num_comments": 82,
+        "created_at": "2025-10-14T18:26:00Z",
+        "objectID": "45583180"
+      },
+      {
+        "title": "How AI hears accents: An audible visualization of accent clusters",
+        "url": "https://accent-explorer.boldvoice.com/",
+        "points": 79,
+        "author": "ilyausorov",
+        "num_comments": 20,
+        "created_at": "2025-10-14T16:07:37Z",
+        "objectID": "45581735"
+      },
+      {
+        "title": "Half of America's Voting Machines Are Now Owned by a MAGA Oligarch",
+        "url": "https://dissentinbloom.substack.com/p/half-of-americas-voting-machines",
+        "points": 77,
+        "author": "mdhb",
+        "num_comments": 16,
+        "created_at": "2025-10-14T20:18:41Z",
+        "objectID": "45584295"
       }
     ]
   },
   "wiki": {
     "today": [],
     "random": {},
-    "fetched_at": "2025-10-14T19:39:00.143826+00:00"
+    "fetched_at": "2025-10-14T21:07:09.729147+00:00"
   },
   "apod": {
-    "fetched_at": "2025-10-14T19:39:00.601831+00:00",
+    "fetched_at": "2025-10-14T21:07:10.450175+00:00",
     "entry": {
       "title": "",
       "link": "https://apod.nasa.gov/apod/astropix.html",
@@ -1133,6 +1178,30 @@
         "link": "https://www.nature.com/articles/d41586-025-03147-9",
         "published": "Wed, 1 Oct 2025 00:00:00 +0000",
         "source": "Nature — Technology"
+      },
+      {
+        "title": "Man who set fire to Pennsylvania governor’s mansion jailed",
+        "link": "https://www.bbc.com/news/articles/cdegnne8r3go?at_medium=RSS&at_campaign=rss",
+        "published": "Tue, 14 Oct 2025 16:58:35 GMT",
+        "source": "BBC — World"
+      },
+      {
+        "title": "Kenyan officer killed in bow-and-arrow attack at gate of president's residence",
+        "link": "https://www.bbc.com/news/articles/cq50dx1jdnwo?at_medium=RSS&at_campaign=rss",
+        "published": "Tue, 14 Oct 2025 07:31:52 GMT",
+        "source": "BBC — World"
+      },
+      {
+        "title": "Grains, sheep and soldiers: How one scientist is studying the physics of crowds",
+        "link": "https://www.npr.org/2025/10/14/nx-s1-5538013/grains-sheep-and-soldiers-how-one-scientist-is-studying-the-physics-of-crowds",
+        "published": "Tue, 14 Oct 2025 16:38:20 -0400",
+        "source": "NPR — Business"
+      },
+      {
+        "title": "In new memoir, John T. Edge explores Southern identity and a troubled family history",
+        "link": "https://www.npr.org/2025/10/14/nx-s1-5535817/in-new-memoir-john-t-edge-explores-southern-identity-and-a-troubled-family-history",
+        "published": "Tue, 14 Oct 2025 16:48:12 -0400",
+        "source": "NPR — Science"
       }
     ],
     "local": [
@@ -1417,10 +1486,35 @@
         "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPbGdqQ1hvSWhNYW1ITHczMjdGUDNGRzczbnd3R250OVg3Tl9haDB4MmxKZzhORkROYkp4TVdZdk8tTl9DWFV3YkUyWTY0aVJHbDVhd2h3cllxOE0xSHpEUUhqNXRuNk8xWTFxeEVkRENoOUlQQ0JXanhyVDdyT21FeEJNSWdiRUg1RmUyY0JPdTNMSkxldXJsX3lta3k?oc=5",
         "published": "Fri, 07 Feb 2025 08:00:00 GMT",
         "source": "Google News — Northern Virginia weather"
+      },
+      {
+        "title": "How Did the DC Region’s Housing Market Fare in September? - Northern Virginia Magazine",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOdnZiNllKRS1IWTBmcmd3dnJZaVB2STdWV2hSdVBFZ0tNZkduaHRMYzlnMW04N3hTeU5NUG1tYmZYNHh3WW1nd18wODFHbE12THFtRkVfaGJXTVdwaG9qQWdQbVZDWTBuOW5ubUZ4c284SWhBNnhXLUlrZ1Y2NG9sZ1BWcHdoQlExVVZpb1pqeUEyQ1FtQWpTY1JUcnhUMTFmLXhvRklMY1pHazBmc2l6WEhTckNrUjA?oc=5",
+        "published": "Tue, 14 Oct 2025 19:39:40 GMT",
+        "source": "Google News — Northern Virginia"
+      },
+      {
+        "title": "Local government resources available for federal workers in Northern Virginia - WJLA",
+        "link": "https://news.google.com/rss/articles/CBMivwJBVV95cUxQSDJxcUNveFZWNW9UckRJbXhvYkxmNFc0TEdTR1lsa2ZhbS1IaTlIc1didGwydjYzTlR0ejZ0OVVDMEtLazlqVTNzMm1udW54R2ZNaXRGOVdsdnFUYms1cU1wN1k2aUhmQ3VuLUo3OUFFX0F6UGZxUWxlNmJOZjhzazVyODQ1OEtxcFFodWpubDVaeDVhQjNoZlFxT01tSVE2dy02RjhjalBSd0hYc050ZGFEMlFLbDhiYlhaZUxZd21pMERvLXQ2bEllX0V3S2Q5VnZVUVZ5bEhOZThWOVFScm15bFdEOGVwZUhiMVNEZElMYzNiZFRvRl9SRkdCTFdFNEE1MXU1aDJxQ0xxall2V05OOGcyeGxLTF9KUUJDMFVwdXFyY3NJNzkxTlVlUllDWDNCRHc5RzZzWWNSQTQw?oc=5",
+        "published": "Tue, 14 Oct 2025 20:48:33 GMT",
+        "source": "Google News — Northern Virginia"
+      },
+      {
+        "title": "Dry Mill Road three-week closure in Clarkes Gap begins Oct. 24 - Virginia Department of Transportation (.gov)",
+        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNZW1RdlZfWnBBeTkzdldfR01iZDF5U2JQYjRGUHBqVGJGdWFzSkZ5YjRfbXRfUjRTalBSdDlRYk1LVUYzbGdaVklOb3lSS0F2SkxpaDdlMXRqb3lKRUxiUVp2TXFVdHpuaFUxeW9kOU5GdENzQ3ZMVzBtOGdBTUQ1LW14d28zTW1yV01MZ0ZoX2d0SFFmNXpCMW43WGFsRk8tTmVEQk5rWFdXR2tCM2hIYmZjMWh0Tjl1bTg1UmwxdUxubXhjZlgxU3c1RHN6N3dfdXhr?oc=5",
+        "published": "Tue, 14 Oct 2025 20:33:59 GMT",
+        "source": "Google News — Northern Virginia"
+      },
+      {
+        "title": "Dry Mill Road three-week closure in Clarkes Gap begins Oct. 24 - Virginia Department of Transportation (.gov)",
+        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQT0J0emRKS2x1aElVbzBaM2NvZ3dvQ1RJRWpWNHNJMGx5UU5vcG1oeWlneUhiSVltWGFLVHREUmhuWG1vZXcyWWRTUTgtNXZDRFRleDZwVXAtVmx3TUcwNW9qTjliN0VaUi04dVFjelpNMDZJMlNRZ3NBZGNneU5HazNlSGZrQ1dHS3gybVZIOFp4dm5vMnNadDFJMFhpQi1TcWl0cy13T1NvQmRGeENBdXVRc2EtWU9YS0RLZXM4dzM3MlhreENrWkFBVG1pZGh0?oc=5",
+        "published": "Tue, 14 Oct 2025 20:33:59 GMT",
+        "source": "Google News — Northern Virginia"
       }
     ]
   },
   "runs": [
-    "2025-10-14T19:39:08Z"
+    "2025-10-14T19:39:08Z",
+    "2025-10-14T21:07:19Z"
   ]
 }

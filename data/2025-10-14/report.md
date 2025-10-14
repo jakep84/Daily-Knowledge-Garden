@@ -37,4 +37,4 @@ _No data_
 ## 🌌 NASA APOD
 [](https://apod.nasa.gov/apod/astropix.html)
 
-<sub>Runs so far today: 1</sub>
+<sub>Runs so far today: 2</sub>
