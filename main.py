@@ -4,7 +4,8 @@ from typing import List, Dict, Any
 
 from config import DATA_DIR, IMG_DIRNAME, PLOTS_DIRNAME, RUN_DATE
 from utils.files import write_json, write_text, replace_between_markers
-from utils.summarize import summarize
+from utils.summarize import summarize, summarize_news, top_headlines
+from sources.news_common import FEED_STATUS, reset_status
 from utils.plots import bar_plot
 
 # Existing sources
@@ -65,6 +66,7 @@ def today_dir() -> Path:
 # -----------------------------------------------------------
 def fetch_all_sources() -> Dict[str, Any]:
     """Fetch a single-run snapshot from all sources."""
+    reset_status()
     hn = fetch_top()
     wiki = fetch_today_and_random(RUN_DATE.month, RUN_DATE.day)
     apod = fetch_apod()
@@ -93,6 +95,7 @@ def fetch_all_sources() -> Dict[str, Any]:
         "wiki": wiki,
         "apod": apod,
         "news": news,
+        "feed_status": list(FEED_STATUS),
     }
     return snapshot
 
@@ -107,6 +110,7 @@ def merge_day_payload(existing: Dict[str, Any], new: Dict[str, Any]) -> Dict[str
         "wiki": new.get("wiki") or {},
         "apod": new.get("apod") or {},
         "news": {"world": [], "local": []},
+        "feed_status": new.get("feed_status", []),
         "runs": (existing.get("runs") or []) + [new.get("collected_at_utc")],
     }
 
@@ -145,7 +149,7 @@ def generate_charts(latest_snapshot: Dict[str, Any], out_dir: Path) -> Dict[str,
 
     if titles:
         bar_plot("Hacker News: Top 10 stories (points)", labels, points, plot_path)
-        return {"hn_top10_points": str(plot_path.relative_to(ROOT))}
+        return {"hn_top10_points": "plots/hn_top10_points.png"}
     return {"hn_top10_points": None}
 
 
@@ -157,8 +161,8 @@ def make_markdown(payload: Dict[str, Any], charts: Dict[str, Any], out_dir: Path
         return _uniq(items, keys=["title"])[:n]
 
     # Global & Local (from combined payload)
-    world_items = _uniq_titles((payload.get("news", {}) or {}).get("world", []), 5)
-    local_items = _uniq_titles((payload.get("news", {}) or {}).get("local", []), 5)
+    world_items = top_headlines((payload.get("news", {}) or {}).get("world", []), 5)
+    local_items = top_headlines((payload.get("news", {}) or {}).get("local", []), 5)
 
     def _lines(items):
         return (
@@ -170,14 +174,14 @@ def make_markdown(payload: Dict[str, Any], charts: Dict[str, Any], out_dir: Path
     world_block = _lines(world_items)
     local_block = _lines(local_items)
 
-    # Synthesized daily summary from all titles (combined)
-    try:
-        all_titles = [w.get("title", "") for w in (payload.get("news") or {}).get("world", [])[:30]] + \
-                     [l.get("title", "") for l in (payload.get("news") or {}).get("local", [])[:15]]
-        blob = ". ".join([t for t in all_titles if t])
-        summary_text = summarize(blob, max_sentences=3)
-    except Exception:
-        summary_text = "Summary unavailable."
+    summary_text = summarize_news(payload.get("news", {}))
+    health_rows = payload.get("feed_status") or []
+    health_block = "\n".join(
+        f"- **{row.get('source', 'Unknown')}**: {row.get('status', 'unknown')} "
+        f"({row.get('count', 0)} articles)"
+        + (f" — {row['error']}" if row.get("error") else "")
+        for row in health_rows
+    ) or "_No feed health records_"
 
     # Hacker News (Top 5 from combined list)
     hn_items = (payload.get("hn") or {}).get("items", [])[:5]
@@ -221,7 +225,8 @@ def make_markdown(payload: Dict[str, Any], charts: Dict[str, Any], out_dir: Path
         f"## 🌍 Wikipedia — On This Day (selected)\n{today_block}\n\n"
         f"## 🎲 Wikipedia — Random Article\n"
         f"**{random_title}**  \n{random_blurb}\n{random_url}\n\n"
-        f"## 🌌 NASA APOD\n{apod_line}\n"
+        f"## 🌌 NASA APOD\n{apod_line}\n\n"
+        f"## Feed Health\n{health_block}\n"
         f"\n<sub>Runs so far today: {len(payload.get('runs', []))}</sub>\n"
     )
 
@@ -267,6 +272,16 @@ def main():
 
     # 1) Fetch a fresh snapshot
     snapshot = fetch_all_sources()
+
+    statuses = snapshot["feed_status"]
+    for row in statuses:
+        if row.get("status") != "ok":
+            print(f"::warning title=Feed health::{row.get('source')}: {row.get('status')} {row.get('error', '')}")
+    print(f"[HEALTH] world={len(snapshot['news']['world'])} local={len(snapshot['news']['local'])} "
+          f"healthy={sum(r.get('status') == 'ok' for r in statuses)} "
+          f"issues={sum(r.get('status') != 'ok' for r in statuses)}")
+    if not snapshot["news"]["world"] and not snapshot["news"]["local"]:
+        raise RuntimeError("News pipeline returned no global or local articles")
 
     # 2) Save this run under runs/<HHMMSS>/raw.json
     run_id = dt.datetime.utcnow().strftime("%H%M%S")

@@ -35,3 +35,45 @@ def summarize(text, max_sentences=3):
     # preserve original order
     ordered = [s for s in sentences if s in best]
     return " ".join(ordered)
+
+from datetime import datetime
+from email.utils import parsedate_to_datetime
+
+def _news_time(item):
+    published = item.get("published", "")
+    try:
+        return parsedate_to_datetime(published).timestamp()
+    except (ValueError, TypeError, IndexError, OverflowError):
+        try:
+            return datetime.fromisoformat(published.replace("Z", "+00:00")).timestamp()
+        except (ValueError, TypeError, OverflowError):
+            return 0
+
+def top_headlines(items, limit=5):
+    """Prefer fresh, distinct headlines; cap each source label at two when possible."""
+    rows = sorted((r for r in items or [] if r.get("title") and r.get("link")),
+                  key=_news_time, reverse=True)
+    seen, primary, backup, counts = set(), [], [], {}
+    for row in rows:
+        key = re.sub(r"[^a-z0-9]+", "", row["title"].lower())
+        if key in seen:
+            continue
+        seen.add(key)
+        src = row.get("source", "")
+        if counts.get(src, 0) < 2 and len(primary) < limit:
+            primary.append(row)
+            counts[src] = counts.get(src, 0) + 1
+        else:
+            backup.append(row)
+    return (primary + backup)[:limit]
+
+def summarize_news(news):
+    """Headline-only daily overview; does not invent details from full articles."""
+    global_items = top_headlines((news or {}).get("world", []), 3)
+    local_items = top_headlines((news or {}).get("local", []), 2)
+    parts = []
+    if global_items:
+        parts.append("Global coverage includes " + "; ".join(row["title"] for row in global_items) + ".")
+    if local_items:
+        parts.append("Local coverage includes " + "; ".join(row["title"] for row in local_items) + ".")
+    return " ".join(parts) or "No current news headlines were collected."
