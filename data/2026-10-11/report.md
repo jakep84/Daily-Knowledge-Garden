@@ -37,4 +37,4 @@ _No data_
 ## 🌌 NASA APOD
 Unavailable
 
-<sub>Runs so far today: 1</sub>
+<sub>Runs so far today: 2</sub>
