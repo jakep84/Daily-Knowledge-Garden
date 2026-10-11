@@ -152,7 +152,10 @@ def build_index(days):
     if days:
         # Static redirect rather than JS-only redirect; no script required.
         latest = days[-1].name
-        html = '<!doctype html><html lang="en"><head><meta charset="utf-8"><meta http-equiv="refresh" content="0;url=./' + latest + '/"><title>Daily Knowledge Garden</title></head><body><a href="./' + latest + '/">Read the latest briefing</a> · <a href="./archive.html">All days</a></body></html>'
+        html = ('<!doctype html><html lang="en"><head><meta charset="utf-8"><title>Daily Knowledge Garden</title>'
+                '<script>location.replace(new URLSearchParams(location.search).has("all") ? "./archive.html" : "./'
+                + latest + '/");</script></head><body><a href="./' + latest
+                + '/">Read the latest briefing</a> · <a href="./archive.html">All days</a></body></html>')
     else:
         html = archive
     (DOCS / "index.html").write_text(html, encoding="utf-8")
