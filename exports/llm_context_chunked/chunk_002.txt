@@ -1,0 +1,290 @@
+# AI PROJECT DIGEST CHUNK
+
+Project: Daily-Knowledge-Garden
+Goal: understand
+Chunk: 2/4
+
+## Suggested Prompt
+Explain this project clearly. Summarize its purpose, architecture, key files, main flows, and anything that looks incomplete or risky.
+
+## Project Tree
+Daily-Knowledge-Garden
+└── sources/
+    ├── ap.py
+    ├── apod.py
+    ├── bbc.py
+    ├── google_local.py
+    ├── hn.py
+    ├── news_common.py
+    ├── npr.py
+    ├── reuters.py
+    ├── science.py
+    └── wiki.py
+
+## Overview
+# Project Overview
+
+**Project:** Daily-Knowledge-Garden
+**Root Path:** C:\Users\Creator\Documents\DKG\Daily-Knowledge-Garden
+
+## Likely Languages
+- Python
+
+## Framework Hints
+- Python Project
+
+## Likely Entrypoints
+- main.py
+
+## Major Modules
+- .github
+- sources
+- utils
+
+## Risks
+- None detected
+
+## Notes
+- None detected
+
+
+## Included File Contents
+
+### FILE: sources/ap.py
+```py
+# sources/ap.py
+from .news_common import fetch_many
+
+AP_FEEDS = [
+    ("https://apnews.com/hub/apf-topnews?utm_source=apnews.com&utm_medium=referral&utm_campaign=aprss", "AP — Top"),
+    ("https://apnews.com/hub/politics?utm_source=apnews.com&utm_medium=referral&utm_campaign=aprss", "AP — Politics"),
+    ("https://apnews.com/hub/business?utm_source=apnews.com&utm_medium=referral&utm_campaign=aprss", "AP — Business"),
+]
+
+def fetch() -> list[dict]:
+    return fetch_many(AP_FEEDS)
+```
+
+### FILE: sources/apod.py
+```py
+import feedparser
+from datetime import datetime, timezone
+
+APOD_RSS = "https://apod.nasa.gov/apod.rss"
+
+def fetch_apod():
+    feed = feedparser.parse(APOD_RSS)
+    best = feed.entries[0] if feed.entries else None
+    if not best:
+        return {"fetched_at": datetime.now(timezone.utc).isoformat(), "entry": None}
+    return {
+        "fetched_at": datetime.now(timezone.utc).isoformat(),
+        "entry": {
+            "title": best.get("title"),
+            "link": best.get("link"),
+            "summary": best.get("summary"),
+            "published": best.get("published"),
+        }
+    }
+```
+
+### FILE: sources/bbc.py
+```py
+# sources/bbc.py
+from .news_common import fetch_many
+
+BBC_FEEDS = [
+    ("http://feeds.bbci.co.uk/news/world/rss.xml", "BBC — World"),
+    ("http://feeds.bbci.co.uk/news/technology/rss.xml", "BBC — Tech"),
+    ("http://feeds.bbci.co.uk/news/business/rss.xml", "BBC — Business"),
+    ("http://feeds.bbci.co.uk/news/science_and_environment/rss.xml", "BBC — Science"),
+]
+
+def fetch() -> list[dict]:
+    return fetch_many(BBC_FEEDS)
+```
+
+### FILE: sources/google_local.py
+```py
+# sources/google_local.py
+import os
+from urllib.parse import quote_plus
+from .news_common import fetch_many
+
+# Set your area once (repo variable or .env): LOCAL_QUERY="Austin, TX" (examples: "Northern Virginia", "San Francisco CA")
+LOCAL_QUERY = os.getenv("LOCAL_QUERY", "Northern Virginia")
+
+def _google_news_search(q: str):
+    # Google News RSS search; region US English
+    base = "https://news.google.com/rss/search"
+    url = f"{base}?q={quote_plus(q)}&hl=en-US&gl=US&ceid=US:en"
+    return url
+
+def fetch() -> list[dict]:
+    feeds = [
+        (_google_news_search(LOCAL_QUERY), f"Google News — {LOCAL_QUERY}"),
+        (_google_news_search(f"{LOCAL_QUERY} traffic OR transit"), f"Google News — {LOCAL_QUERY} traffic"),
+        (_google_news_search(f"{LOCAL_QUERY} weather warning OR advisory"), f"Google News — {LOCAL_QUERY} weather"),
+    ]
+    return fetch_many(feeds)
+```
+
+### FILE: sources/hn.py
+```py
+import requests
+from datetime import datetime, timezone
+
+ALGOLIA_TOP = "https://hn.algolia.com/api/v1/search?tags=front_page"
+
+def fetch_top():
+    r = requests.get(ALGOLIA_TOP, timeout=20)
+    r.raise_for_status()
+    data = r.json()
+    items = []
+    for hit in data.get("hits", []):
+        items.append({
+            "title": hit.get("title"),
+            "url": hit.get("url"),
+            "points": hit.get("points", 0),
+            "author": hit.get("author"),
+            "num_comments": hit.get("num_comments", 0),
+            "created_at": hit.get("created_at"),
+            "objectID": hit.get("objectID"),
+        })
+    return {
+        "fetched_at": datetime.now(timezone.utc).isoformat(),
+        "items": items
+    }
+```
+
+### FILE: sources/news_common.py
+```py
+# sources/news_common.py
+from __future__ import annotations
+from dataclasses import dataclass, asdict
+from typing import List, Dict, Any
+import time
+import feedparser
+
+# Normalize RSS entries into a simple shape
+@dataclass
+class NewsItem:
+    title: str
+    link: str
+    published: str
+    source: str
+
+    def to_dict(self) -> Dict[str, Any]:
+        return asdict(self)
+
+def _safe(entry: dict, key: str, default: str = "") -> str:
+    val = entry.get(key) or ""
+    if isinstance(val, list) and val:
+        val = val[0]
+    return str(val)
+
+def fetch_rss(url: str, source: str, limit: int = 15) -> List[Dict[str, Any]]:
+    # User-Agent helps some feeds
+    d = feedparser.parse(url, request_headers={"User-Agent": "DailyKnowledgeGarden/1.0 (+github)"})
+    items: List[NewsItem] = []
+    for e in d.entries[:limit]:
+        items.append(
+            NewsItem(
+                title=_safe(e, "title"),
+                link=_safe(e, "link"),
+                published=_safe(e, "published", time.strftime("%Y-%m-%dT%H:%M:%SZ")),
+                source=source,
+            )
+        )
+    return [i.to_dict() for i in items]
+
+def fetch_many(sources: List[tuple]) -> List[Dict[str, Any]]:
+    """sources = [(url, 'Label'), ...]"""
+    out: List[Dict[str, Any]] = []
+    for url, label in sources:
+        try:
+            out.extend(fetch_rss(url, label))
+        except Exception as e:
+            out.append({"title": f"(feed error from {label})", "link": "", "published": "", "source": label, "error": str(e)})
+    return out
+```
+
+### FILE: sources/npr.py
+```py
+# sources/npr.py
+from .news_common import fetch_many
+
+NPR_FEEDS = [
+    ("https://feeds.npr.org/1001/rss.xml", "NPR — Top Stories"),
+    ("https://feeds.npr.org/1019/rss.xml", "NPR — Politics"),
+    ("https://feeds.npr.org/1007/rss.xml", "NPR — Business"),
+    ("https://feeds.npr.org/1008/rss.xml", "NPR — Science"),
+    ("https://feeds.npr.org/1013/rss.xml", "NPR — Technology"),
+]
+
+def fetch() -> list[dict]:
+    return fetch_many(NPR_FEEDS)
+```
+
+### FILE: sources/reuters.py
+```py
+# sources/reuters.py
+from .news_common import fetch_many
+
+REUTERS_FEEDS = [
+    ("https://feeds.reuters.com/reuters/worldNews", "Reuters — World"),
+    ("https://feeds.reuters.com/reuters/businessNews", "Reuters — Business"),
+    ("https://feeds.reuters.com/reuters/technologyNews", "Reuters — Tech"),
+    ("https://feeds.reuters.com/reuters/scienceNews", "Reuters — Science"),
+]
+
+def fetch() -> list[dict]:
+    return fetch_many(REUTERS_FEEDS)
+```
+
+### FILE: sources/science.py
+```py
+# sources/science.py
+from .news_common import fetch_many
+
+SCI_FEEDS = [
+    ("https://www.sciencenews.org/feed", "ScienceNews"),
+    ("https://www.sciencedaily.com/rss/top/science.xml", "ScienceDaily — Top"),
+    ("https://www.nature.com/subjects/technology.rss", "Nature — Technology"),
+]
+
+def fetch() -> list[dict]:
+    return fetch_many(SCI_FEEDS)
+```
+
+### FILE: sources/wiki.py
+```py
+import requests
+from datetime import datetime, timezone
+WIKI_TODAY = "https://en.wikipedia.org/api/rest_v1/feed/onthisday/events/{month}/{day}"
+WIKI_RANDOM = "https://en.wikipedia.org/api/rest_v1/page/random/summary"
+
+def fetch_today_and_random(month: int, day: int):
+    out = {"today": [], "random": {}, "fetched_at": datetime.now(timezone.utc).isoformat()}
+    # On this day
+    r = requests.get(WIKI_TODAY.format(month=month, day=day), timeout=20)
+    if r.ok:
+        out["today"] = [
+            {
+                "year": e.get("year"),
+                "text": e.get("text"),
+                "pages": [p.get("titles", {}).get("normalized") for p in e.get("pages", [])]
+            } for e in r.json().get("events", [])[:10]
+        ]
+    # Random
+    rr = requests.get(WIKI_RANDOM, timeout=20)
+    if rr.ok:
+        j = rr.json()
+        out["random"] = {
+            "title": j.get("title"),
+            "description": j.get("description"),
+            "extract": j.get("extract"),
+            "content_urls": j.get("content_urls", {}).get("desktop", {}).get("page")
+        }
+    return out
+```

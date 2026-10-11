@@ -1,0 +1,27 @@
+{
+  "tool_name": "localingest",
+  "tool_version": "0.1.0",
+  "root_path": "C:\\Users\\Creator\\Documents\\DKG\\Daily-Knowledge-Garden",
+  "output_path": "C:\\Users\\Creator\\Documents\\DKG\\Daily-Knowledge-Garden\\exports",
+  "goal": "understand",
+  "total_files_found": 58,
+  "total_files_included": 28,
+  "total_files_skipped": 30,
+  "total_internal_ignored": 0,
+  "total_bytes_included": 46627,
+  "total_token_estimate": 11872,
+  "secrets_redacted": 2,
+  "generated_files": [
+    "tree.txt",
+    "important_files.md",
+    "overview.md",
+    "architecture.md",
+    "llm_context.txt",
+    "manifest.json",
+    "llm_context_chunked/chunk_001.txt",
+    "llm_context_chunked/chunk_002.txt",
+    "llm_context_chunked/chunk_003.txt",
+    "llm_context_chunked/chunk_004.txt"
+  ],
+  "warnings": []
+}

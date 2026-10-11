@@ -1,0 +1,1604 @@
+# AI PROJECT DIGEST
+
+Project: Daily-Knowledge-Garden
+Goal: understand
+
+## Suggested Prompt
+Explain this project clearly. Summarize its purpose, architecture, key files, main flows, and anything that looks incomplete or risky.
+
+## Project Tree
+Daily-Knowledge-Garden
+├── .github/
+│   └── workflows/
+│       ├── auto.yml
+│       └── wrapup.yml
+├── sources/
+│   ├── ap.py
+│   ├── apod.py
+│   ├── bbc.py
+│   ├── google_local.py
+│   ├── hn.py
+│   ├── news_common.py
+│   ├── npr.py
+│   ├── reuters.py
+│   ├── science.py
+│   └── wiki.py
+├── utils/
+│   ├── files.py
+│   ├── plots.py
+│   └── summarize.py
+├── .gitignore
+├── clean.py
+├── config.py
+├── main.py
+├── README.md
+├── requirements.txt
+├── send_email.py
+├── site_build.py
+└── wrapup.py
+
+## Overview
+# Project Overview
+
+**Project:** Daily-Knowledge-Garden
+**Root Path:** C:\Users\Creator\Documents\DKG\Daily-Knowledge-Garden
+
+## Likely Languages
+- Python
+
+## Framework Hints
+- Python Project
+
+## Likely Entrypoints
+- main.py
+
+## Major Modules
+- .github
+- sources
+- utils
+
+## Risks
+- None detected
+
+## Notes
+- None detected
+
+
+## Important Files
+# Important Files
+
+1. `main.py` (score=173.0, size=11498 bytes, tokens=2906)
+2. `README.md` (score=111.0, size=6197 bytes, tokens=1455)
+3. `requirements.txt` (score=95.0, size=183 bytes, tokens=81)
+4. `config.py` (score=80.0, size=230 bytes, tokens=58)
+5. `clean.py` (score=68.0, size=492 bytes, tokens=124)
+6. `send_email.py` (score=68.0, size=1504 bytes, tokens=381)
+7. `site_build.py` (score=68.0, size=5138 bytes, tokens=1390)
+8. `wrapup.py` (score=68.0, size=6345 bytes, tokens=1705)
+9. `sources/ap.py` (score=60.0, size=500 bytes, tokens=138)
+10. `sources/apod.py` (score=60.0, size=614 bytes, tokens=148)
+11. `sources/bbc.py` (score=60.0, size=449 bytes, tokens=117)
+12. `sources/google_local.py` (score=60.0, size=906 bytes, tokens=224)
+13. `sources/hn.py` (score=60.0, size=758 bytes, tokens=187)
+14. `sources/news_common.py` (score=60.0, size=1577 bytes, tokens=402)
+15. `sources/npr.py` (score=60.0, size=468 bytes, tokens=139)
+16. `sources/reuters.py` (score=60.0, size=465 bytes, tokens=112)
+17. `sources/science.py` (score=60.0, size=366 bytes, tokens=96)
+18. `sources/wiki.py` (score=60.0, size=1127 bytes, tokens=290)
+19. `utils/files.py` (score=60.0, size=762 bytes, tokens=195)
+20. `utils/plots.py` (score=60.0, size=949 bytes, tokens=231)
+21. `utils/summarize.py` (score=60.0, size=1305 bytes, tokens=338)
+22. `.gitignore` (score=41.0, size=1806 bytes, tokens=446)
+23. `.github/workflows/auto.yml` (score=38.0, size=1560 bytes, tokens=384)
+24. `.github/workflows/wrapup.yml` (score=38.0, size=1306 bytes, tokens=325)
+25. `sources/finance.py` (score=27.0, size=0 bytes, tokens=0)
+
+
+## Included File Contents
+
+### FILE: main.py
+```py
+import datetime as dt
+from pathlib import Path
+from typing import List, Dict, Any
+
+from config import DATA_DIR, IMG_DIRNAME, PLOTS_DIRNAME, RUN_DATE
+from utils.files import write_json, write_text, replace_between_markers
+from utils.summarize import summarize
+from utils.plots import bar_plot
+
+# Existing sources
+from sources.hn import fetch_top
+from sources.wiki import fetch_today_and_random
+from sources.apod import fetch_apod
+
+# Cross-source news
+from sources import reuters as src_reuters
+from sources import bbc as src_bbc
+from sources import ap as src_ap
+from sources import npr as src_npr
+from sources import science as src_science
+from sources import google_local as src_local
+
+ROOT = Path(__file__).parent.resolve()
+
+
+# -----------------------------------------------------------
+# Helpers (Growth Mode)
+# -----------------------------------------------------------
+def _uniq(items: List[Dict[str, Any]], keys: List[str]) -> List[Dict[str, Any]]:
+    """Stable de-duplication by one or more keys."""
+    seen = set()
+    out = []
+    for it in items or []:
+        key = [REDACTED]
+        if key in seen:
+            continue
+        seen.add(key)
+        out.append(it)
+    return out
+
+
+def _load_json(p: Path) -> Dict[str, Any]:
+    if p.exists():
+        try:
+            return __import__("json").loads(p.read_text(encoding="utf-8"))
+        except Exception:
+            return {}
+    return {}
+
+
+# -----------------------------------------------------------
+# Directory setup
+# -----------------------------------------------------------
+def today_dir() -> Path:
+    d = DATA_DIR / str(RUN_DATE)
+    d.mkdir(parents=True, exist_ok=True)
+    (d / IMG_DIRNAME).mkdir(exist_ok=True)
+    (d / PLOTS_DIRNAME).mkdir(exist_ok=True)
+    (d / "runs").mkdir(parents=True, exist_ok=True)
+    return d
+
+
+# -----------------------------------------------------------
+# Fetchers
+# -----------------------------------------------------------
+def fetch_all_sources() -> Dict[str, Any]:
+    """Fetch a single-run snapshot from all sources."""
+    hn = fetch_top()
+    wiki = fetch_today_and_random(RUN_DATE.month, RUN_DATE.day)
+    apod = fetch_apod()
+
+    # World news (multiple feeds)
+    world = []
+    for src in [src_reuters, src_bbc, src_ap, src_npr, src_science]:
+        try:
+            world += src.fetch()
+        except Exception as e:
+            world.append({"title": f"(Error fetching {src.__name__})", "error": str(e)})
+
+    # Local news
+    local = []
+    try:
+        local = src_local.fetch()
+    except Exception as e:
+        local.append({"title": "(Error fetching local news)", "error": str(e)})
+
+    news = {"world": world, "local": local}
+
+    snapshot = {
+        "date": str(RUN_DATE),
+        "collected_at_utc": dt.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ"),
+        "hn": hn,
+        "wiki": wiki,
+        "apod": apod,
+        "news": news,
+    }
+    return snapshot
+
+
+def merge_day_payload(existing: Dict[str, Any], new: Dict[str, Any]) -> Dict[str, Any]:
+    """Merge a new snapshot into the day's combined payload."""
+    out = {
+        "date": new.get("date"),
+        "last_updated_utc": new.get("collected_at_utc"),
+        # These will be filled below
+        "hn": {"items": []},
+        "wiki": new.get("wiki") or {},
+        "apod": new.get("apod") or {},
+        "news": {"world": [], "local": []},
+        "runs": (existing.get("runs") or []) + [new.get("collected_at_utc")],
+    }
+
+    # Merge HN items (dedupe by objectID)
+    old_hn = (existing.get("hn") or {}).get("items") or []
+    new_hn = (new.get("hn") or {}).get("items") or []
+    merged_hn = _uniq(old_hn + new_hn, keys=["objectID"])
+    out["hn"]["items"] = merged_hn[:200]  # cap for sanity
+
+    # Merge news lists (dedupe by title+link)
+    old_world = ((existing.get("news") or {}).get("world") or [])
+    old_local = ((existing.get("news") or {}).get("local") or [])
+    new_world = ((new.get("news") or {}).get("world") or [])
+    new_local = ((new.get("news") or {}).get("local") or [])
+
+    out["news"]["world"] = _uniq(old_world + new_world, keys=["title", "link"])[:300]
+    out["news"]["local"] = _uniq(old_local + new_local, keys=["title", "link"])[:200]
+
+    # Prefer the newest wiki/APOD if present; otherwise keep existing
+    if not out["wiki"]:
+        out["wiki"] = existing.get("wiki") or {}
+    if not out["apod"]:
+        out["apod"] = existing.get("apod") or {}
+
+    return out
+
+
+# -----------------------------------------------------------
+# Charts
+# -----------------------------------------------------------
+def generate_charts(latest_snapshot: Dict[str, Any], out_dir: Path) -> Dict[str, str | None]:
+    titles = [x.get("title") or "" for x in (latest_snapshot.get("hn") or {}).get("items", [])][:10]
+    points = [int(x.get("points", 0)) for x in (latest_snapshot.get("hn") or {}).get("items", [])][:10]
+    labels = [t[:18] + ("…" if len(t) > 18 else "") for t in titles]
+    plot_path = out_dir / PLOTS_DIRNAME / "hn_top10_points.png"
+
+    if titles:
+        bar_plot("Hacker News: Top 10 stories (points)", labels, points, plot_path)
+        return {"hn_top10_points": str(plot_path.relative_to(ROOT))}
+    return {"hn_top10_points": None}
+
+
+# -----------------------------------------------------------
+# Markdown builder (combined payload)
+# -----------------------------------------------------------
+def make_markdown(payload: Dict[str, Any], charts: Dict[str, Any], out_dir: Path) -> Path:
+    def _uniq_titles(items: List[Dict[str, Any]], n: int) -> List[Dict[str, Any]]:
+        return _uniq(items, keys=["title"])[:n]
+
+    # Global & Local (from combined payload)
+    world_items = _uniq_titles((payload.get("news", {}) or {}).get("world", []), 5)
+    local_items = _uniq_titles((payload.get("news", {}) or {}).get("local", []), 5)
+
+    def _lines(items):
+        return (
+            "\n".join([f"- [{it.get('title')}]({it.get('link')}) — {it.get('source')}" for it in items])
+            if items
+            else "_No data_"
+        )
+
+    world_block = _lines(world_items)
+    local_block = _lines(local_items)
+
+    # Synthesized daily summary from all titles (combined)
+    try:
+        all_titles = [w.get("title", "") for w in (payload.get("news") or {}).get("world", [])[:30]] + \
+                     [l.get("title", "") for l in (payload.get("news") or {}).get("local", [])[:15]]
+        blob = ". ".join([t for t in all_titles if t])
+        summary_text = summarize(blob, max_sentences=3)
+    except Exception:
+        summary_text = "Summary unavailable."
+
+    # Hacker News (Top 5 from combined list)
+    hn_items = (payload.get("hn") or {}).get("items", [])[:5]
+    hn_lines = []
+    for it in hn_items:
+        title = it.get("title") or "(no title)"
+        object_id = it.get("objectID")
+        url = it.get("url") or f"https://news.ycombinator.com/item?id={object_id}"
+        points = it.get("points", 0)
+        comments = it.get("num_comments", 0)
+        hn_lines.append(f"- [{title}]({url}) — {points} points, {comments} comments")
+    hn_block = "\n".join(hn_lines) if hn_lines else "_No data_"
+
+    chart_md = f"![HN Points Chart]({charts['hn_top10_points']})" if charts.get("hn_top10_points") else ""
+
+    # Wikipedia — On This Day
+    today_events = (payload.get("wiki", {}) or {}).get("today", [])[:5]
+    today_block = (
+        "\n".join([f"- **{e.get('year')}** — {e.get('text')}" for e in today_events])
+        if today_events
+        else "_No data_"
+    )
+
+    # Wikipedia Random
+    random = (payload.get("wiki", {}) or {}).get("random") or {}
+    random_title = random.get("title", "N/A")
+    random_blurb = summarize((random.get("extract") or "")[:2000], max_sentences=2)
+    random_url = random.get("content_urls") or ""
+
+    # APOD
+    apod_entry = (payload.get("apod", {}) or {}).get("entry")
+    apod_line = f"[{apod_entry['title']}]({apod_entry['link']})" if apod_entry else "Unavailable"
+
+    md = (
+        f"# Daily Knowledge Garden — {payload['date']}\n\n"
+        f"## 🧭 Daily Summary\n{summary_text}\n\n"
+        f"## 🌍 Global News (cross-source)\n{world_block}\n\n"
+        f"## 🏙️ Local News\n{local_block}\n\n"
+        f"## 🚀 Hacker News (Top 5)\n{hn_block}\n\n"
+        f"{chart_md}\n\n"
+        f"## 🌍 Wikipedia — On This Day (selected)\n{today_block}\n\n"
+        f"## 🎲 Wikipedia — Random Article\n"
+        f"**{random_title}**  \n{random_blurb}\n{random_url}\n\n"
+        f"## 🌌 NASA APOD\n{apod_line}\n"
+        f"\n<sub>Runs so far today: {len(payload.get('runs', []))}</sub>\n"
+    )
+
+    out_md = out_dir / "report.md"
+    write_text(out_md, md)
+    return out_md
+
+
+# -----------------------------------------------------------
+# README updater
+# -----------------------------------------------------------
+def update_readme(payload: Dict[str, Any], charts: Dict[str, Any], report_md_path: Path):
+    readme_path = ROOT / "README.md"
+    readme = readme_path.read_text(encoding="utf-8")
+
+    latest_run = f"{payload['date']} (UTC)"
+    readme = replace_between_markers(readme, "<!--LATEST_RUN-->", "<!--/LATEST_RUN-->", latest_run)
+
+    items = (payload.get("hn") or {}).get("items", [])
+    top = items[0] if items else {}
+    top_title = top.get("title", "N/A")
+    object_id = top.get("objectID")
+    top_url = top.get("url") or f"https://news.ycombinator.com/item?id={object_id}"
+    apod = payload.get("apod", {}).get("entry")
+    apod_title = apod.get("title") if apod else "N/A"
+    apod_link = apod.get("link") if apod else ""
+
+    highlights_md = (
+        f"- **HN #1:** [{top_title}]({top_url})\n"
+        f"- **APOD:** [{apod_title}]({apod_link})\n"
+        f"- **Daily Report:** [{payload['date']}/report.md](/data/{payload['date']}/report.md)\n"
+    )
+
+    readme = replace_between_markers(readme, "<!--HIGHLIGHTS-->", "<!--/HIGHLIGHTS-->", highlights_md.strip())
+    readme_path.write_text(readme, encoding="utf-8")
+
+
+# -----------------------------------------------------------
+# Main (Growth Mode)
+# -----------------------------------------------------------
+def main():
+    out_dir = today_dir()
+
+    # 1) Fetch a fresh snapshot
+    snapshot = fetch_all_sources()
+
+    # 2) Save this run under runs/<HHMMSS>/raw.json
+    run_id = dt.datetime.utcnow().strftime("%H%M%S")
+    run_dir = out_dir / "runs" / run_id
+    run_dir.mkdir(parents=True, exist_ok=True)
+    write_json(run_dir / "raw.json", snapshot)
+
+    # 3) Load the day's combined payload (if any) and merge
+    combined_path = out_dir / "raw.json"
+    existing = _load_json(combined_path)
+    combined = merge_day_payload(existing, snapshot)
+    write_json(combined_path, combined)
+
+    # 4) Charts from the latest snapshot (so the chart reflects the newest HN)
+    charts = generate_charts(snapshot, out_dir)
+
+    # 5) Build markdown (from combined payload so the page grows)
+    report_md = make_markdown(combined, charts, out_dir)
+
+    # 6) Update README highlights
+    update_readme(combined, charts, report_md)
+
+    print(
+        f"✅ Growth mode run complete: runs={len(combined.get('runs', []))}, "
+        f"date={combined.get('date')}, updated={combined.get('last_updated_utc')}"
+    )
+
+
+if __name__ == "__main__":
+    main()
+```
+
+### FILE: README.md
+```md
+# 🌎 Daily Knowledge Garden
+
+Your personal **automated, multi-source daily news and knowledge digest** — built entirely in Python.
+It collects the world’s top stories, science updates, local headlines, and internet trends into a single, concise daily brief — automatically generated three times per day with a nightly wrap-up emailed at **10 PM**.
+
+---
+
+## ✨ Features
+
+- **🧧 Daily Summary** — auto-generated AI paragraph summarizing the day’s biggest global and local events
+- **🌍 Global Coverage** — Reuters, BBC, AP, NPR, ScienceDaily, and Nature combined for a balanced perspective
+- **🏙️ Local Feed** — Google News search for your area (set via `LOCAL_QUERY`)
+- **🚀 Hacker News Tracker** — top 10 stories charted by points & comments
+- **📜 “On This Day” + Random Wikipedia Article** — curated learning nuggets
+- **🌌 NASA APOD** — daily Astronomy Picture of the Day
+- **📊 Charts & Markdown Reports** — saved to `/data/YYYY-MM-DD/report.md`
+- **📧 Nightly Email** — a clean HTML digest sent automatically via `send_email.py`
+
+---
+
+## 🧉 Structure
+
+```
+.
+├── main.py              # Builds daily report, markdown, and charts
+├── wrapup.py            # Creates 10 PM summary email
+├── send_email.py        # Sends prepared email via SMTP
+├── config.py            # Global paths, constants
+├── sources/             # Individual news sources (RSS & APIs)
+│   ├── hn.py
+│   ├── wiki.py
+│   ├── apod.py
+│   ├── reuters.py
+│   ├── bbc.py
+│   ├── ap.py
+│   ├── npr.py
+│   ├── science.py
+│   ├── google_local.py
+│   └── news_common.py
+├── utils/
+│   ├── summarize.py     # Uses OpenAI or local LLM summarization
+│   ├── plots.py         # Chart generation via matplotlib
+│   ├── files.py         # Safe I/O helpers
+│   └── ...
+├── data/YYYY-MM-DD/     # Daily JSON + markdown reports
+├── out/                 # Email drafts generated by wrapup.py
+├── requirements.txt
+├── .env
+└── .github/workflows/
+    ├── build.yml        # Runs main.py 3× per day
+    └── wrapup.yml       # Runs wrapup.py + send_email.py at 22:00 local
+```
+
+---
+
+## ⚙️ Setup
+
+1. **Clone & install dependencies**
+
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+2. **Create a `.env` file**
+
+   ```bash
+   TIMEZONE="America/New_York"
+   TO_EMAIL="you@example.com"
+   SMTP_USERNAME="you@example.com"
+   SMTP_PASSWORD="your_app_password"
+   LOCAL_QUERY="Northern Virginia"
+   ```
+
+3. **Run manually**
+
+   ```bash
+   python main.py
+   python wrapup.py --test
+   python send_email.py out/email_subject.txt out/email.html
+   ```
+
+---
+
+## 🧠 How It Works
+
+| Step                               | What Happens                                                                                    |
+| ---------------------------------- | ----------------------------------------------------------------------------------------------- |
+| **1. main.py**                     | Aggregates all news, science, and local feeds, generates charts & Markdown reports.             |
+| **2. GitHub Actions (3× per day)** | Runs `main.py` morning, midday, evening. Commits new data to the repo and updates the homepage. |
+| **3. wrapup.py (22:00 local)**     | Synthesizes a short “Daily Brief” and compiles an HTML email.                                   |
+| **4. send_email.py**               | Emails the report to you automatically using SMTP credentials from `.env`.                      |
+
+---
+
+## 📧 Email Example
+
+**Subject:**
+`Daily wrap-up — 2025-10-14 (Daily Knowledge Garden)`
+
+**Body:**
+
+- Concise 2-3 sentence AI-generated summary of the day
+- Global Top 5 + Local Top 5 + HN Top 10 links
+- Links to full Markdown report and GitHub Pages site
+
+---
+
+## 🔒 GitHub Secrets (for Actions)
+
+| Name            | Description                                   |
+| --------------- | --------------------------------------------- |
+| `SMTP_USERNAME` | Your email address (or app-specific username) |
+| `SMTP_PASSWORD` | App password / token                          |
+| `TIMEZONE`      | e.g. `America/New_York`                       |
+| `TO_EMAIL`      | Where to send the wrap-up                     |
+| `LOCAL_QUERY`   | e.g. `"Northern Virginia"`                    |
+
+---
+
+## 🧹 .gitignore Highlights
+
+```
+.env
+__pycache__/
+*.pyc
+data/*/raw.json
+data/*/plots/
+out/
+*.sqlite
+```
+
+---
+
+## 🛠 Development Notes
+
+- Works locally or on GitHub Actions without changes.
+- `.env` only used locally; Actions pull from repo Variables / Secrets.
+- Summarization uses the same internal LLM for markdown + email briefs.
+- Extend by adding new RSS modules under `/sources`.
+
+---
+
+## 🗓️ Schedule Summary
+
+| Time (local) | Action              | File                          |
+| ------------ | ------------------- | ----------------------------- |
+| 07:00 AM     | Morning build       | `main.py`                     |
+| 01:00 PM     | Midday update       | `main.py`                     |
+| 07:00 PM     | Evening build       | `main.py`                     |
+| 10:00 PM     | Daily wrap-up email | `wrapup.py` → `send_email.py` |
+
+---
+
+## 🚀 Example Output
+
+- **Markdown report:** [data/2025-10-14/report.md](data/2025-10-14/report.md)
+- **GitHub Pages:** [https://jakep84.github.io/Daily-Knowledge-Garden/2025-10-14/](https://jakep84.github.io/Daily-Knowledge-Garden/2025-10-14/)
+- **Chart:** `hn_top10_points.png`
+
+---
+
+## 🤝 Contributing
+
+Pull requests welcome!
+Add new RSS or API connectors to `/sources`, or improve summarization quality in `utils/summarize.py`.
+
+---
+
+## 📜 License
+
+MIT License © 2025 [Jake Priddy](https://github.com/jakep84)
+
+---
+
+<!--LATEST_RUN-->2026-10-11 (UTC)<!--/LATEST_RUN-->
+
+<!--HIGHLIGHTS-->
+
+- **HN #1:** Placeholder Title (Example)
+- **APOD:** Placeholder Title (Example)
+- **Daily Report:** [2025-10-14/report.md](/data/2025-10-14/report.md)
+
+<!--/HIGH
+```
+
+### FILE: requirements.txt
+```txt
+requests==2.32.3
+feedparser==6.0.11
+beautifulsoup4==4.12.3
+pandas==2.2.2
+matplotlib==3.9.0
+markdown==3.6
+python-dotenv==1.0.1
+feedparser>=6.0.11
+python-dateutil>=2.9.0.post0
+```
+
+### FILE: config.py
+```py
+from pathlib import Path
+import datetime as dt
+
+ROOT = Path(__file__).parent.resolve()
+DATA_DIR = ROOT / "data"
+IMG_DIRNAME = "images"
+PLOTS_DIRNAME = "plots"
+
+RUN_DATE = dt.datetime.utcnow().date()  # daily anchor (UTC)
+```
+
+### FILE: clean.py
+```py
+from pathlib import Path
+import shutil
+
+# Root of your project
+ROOT = Path(__file__).parent.resolve()
+DIRS_TO_DELETE = ["data", "docs", "out", "__pycache__"]
+
+def remove_dir(p: Path):
+    if p.exists() and p.is_dir():
+        print(f"🧹 Removing: {p}")
+        shutil.rmtree(p, ignore_errors=True)
+
+def main():
+    for d in DIRS_TO_DELETE:
+        remove_dir(ROOT / d)
+
+    print("✅ Cleanup complete — ready for a fresh run!")
+
+if __name__ == "__main__":
+    main()
+```
+
+### FILE: send_email.py
+```py
+import os, sys, smtplib
+from email.mime.text import MIMEText
+from email.utils import formataddr
+
+# Load .env locally; safe no-op in Actions
+try:
+    from dotenv import load_dotenv
+    load_dotenv()
+except Exception:
+    pass
+
+SMTP_HOST = os.getenv("SMTP_HOST", "smtp.gmail.com")
+SMTP_PORT = int(os.getenv("SMTP_PORT", "587"))
+
+def main():
+    if len(sys.argv) != 3:
+        print("Usage: send_email.py <subject_file> <html_file>")
+        sys.exit(2)
+
+    subject_path, html_path = sys.argv[1], sys.argv[2]
+    subject = open(subject_path, "r", encoding="utf-8").read().strip()
+    html = open(html_path, "r", encoding="utf-8").read()
+
+    username = os.getenv("SMTP_USERNAME")  # e.g., your full Gmail address
+    password = [REDACTED]
+    from_email = os.getenv("FROM_EMAIL", username)
+    to_email = os.getenv("TO_EMAIL", "priddyjacob84@gmail.com")
+
+    if not (username and password and to_email):
+        print("Missing SMTP_USERNAME / SMTP_PASSWORD / TO_EMAIL env vars.")
+        sys.exit(3)
+
+    msg = MIMEText(html, "html", "utf-8")
+    msg["Subject"] = subject
+    msg["From"] = formataddr(("Daily Knowledge Garden", from_email))
+    msg["To"] = to_email
+
+    with smtplib.SMTP(SMTP_HOST, SMTP_PORT) as s:
+        s.ehlo()
+        s.starttls()
+        s.login(username, password)
+        s.sendmail(from_email, [to_email], msg.as_string())
+
+    print("[email] Sent OK.")
+
+if __name__ == "__main__":
+    main()
+```
+
+### FILE: site_build.py
+```py
+from pathlib import Path
+import shutil
+import datetime as dt
+import markdown
+import re
+
+# ----- Paths & constants
+ROOT = Path(__file__).parent.resolve()
+DATA = ROOT / "data"
+DOCS = ROOT / "docs"
+DATE_RE = re.compile(r"^\d{4}-\d{2}-\d{2}$")  # only real days like 2025-10-13
+
+# ----- Styles & HTML shells
+STYLE = """
+<style>
+  :root { color-scheme: light dark; }
+  body { font-family: system-ui, -apple-system, Segoe UI, Roboto, Ubuntu, Cantarell, Noto Sans, Helvetica, Arial, "Apple Color Emoji", "Segoe UI Emoji"; margin: 24px auto; max-width: 900px; padding: 0 16px; line-height: 1.6; }
+  h1,h2,h3 { line-height: 1.25; }
+  nav { margin: 16px 0 24px; }
+  .muted { opacity: .7; }
+  .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(220px, 1fr)); gap: 8px 14px; }
+  a { text-decoration: none; }
+  a:hover { text-decoration: underline; }
+  .card { border: 1px solid #4444; border-radius: 12px; padding: 12px 14px; }
+  footer { margin: 48px 0 16px; font-size: 0.9em; }
+</style>
+"""
+
+# NOTE: the All days link now passes ?all=1 so index.html will not redirect
+HTML_SHELL = """<!doctype html>
+<html lang="en">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>{title}</title>
+{style}
+<body>
+<nav><a href="../index.html?all=1">← All days</a></nav>
+{content}
+<footer class="muted">Updated {updated_utc} • <a href="https://github.com/{repo}">GitHub repo</a></footer>
+</body>
+</html>
+"""
+
+INDEX_SHELL = """<!doctype html>
+<html lang="en">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Daily Knowledge Garden — Archive</title>
+{style}
+<body>
+<h1>🌱 Daily Knowledge Garden — Archive</h1>
+<p class="muted">Autonomous daily reports generated by GitHub Actions.</p>
+{latest_block}
+<h2>All Days</h2>
+<div class="grid">
+{links}
+</div>
+<footer class="muted">Updated {updated_utc} • <a href="https://github.com/{repo}">GitHub repo</a></footer>
+</body>
+</html>
+"""
+
+# ----- Helpers
+
+def repo_slug() -> str:
+    # Hardcode for your repo
+    return "jakep84/Daily-Knowledge-Garden"
+
+def get_day_dirs() -> list[Path]:
+    """Return only folders named like YYYY-MM-DD, sorted ascending."""
+    if not DATA.exists():
+        return []
+    return sorted(
+        p for p in DATA.iterdir()
+        if p.is_dir() and DATE_RE.match(p.name)
+    )
+
+def convert_md_to_html(md_text: str) -> str:
+    return markdown.markdown(md_text, extensions=["extra", "tables", "sane_lists"])
+
+# ----- Build functions
+
+def build_day(day_dir: Path, repo: str):
+    """Create docs/YYYY-MM-DD/index.html and copy assets so relative links work."""
+    day = day_dir.name
+    out_dir = DOCS / day
+    out_dir.mkdir(parents=True, exist_ok=True)
+
+    # Copy plots/ and images/ if present
+    for sub in ["plots", "images"]:
+        src = day_dir / sub
+        dst = out_dir / sub
+        if src.exists():
+            if dst.exists():
+                shutil.rmtree(dst)
+            shutil.copytree(src, dst)
+
+    # Convert report.md → index.html (skip if missing)
+    report_md_path = day_dir / "report.md"
+    if not report_md_path.exists():
+        print(f"Skipping {day}: no report.md")
+        return
+
+    report_md = report_md_path.read_text(encoding="utf-8")
+    report_html = convert_md_to_html(report_md)
+    updated = dt.datetime.utcnow().strftime("%Y-%m-%d %H:%M UTC")
+    html = HTML_SHELL.format(
+        title=f"Daily Knowledge Garden — {day}",
+        style=STYLE,
+        content=report_html,
+        updated_utc=updated,
+        repo=repo
+    )
+    (out_dir / "index.html").write_text(html, encoding="utf-8")
+
+def build_index(days: list[Path], repo: str):
+    # Build the archive list
+    links = [
+        f'<a class="card" href="./{d.name}/"><strong>{d.name}</strong><br><span class="muted">Daily report</span></a>'
+        for d in days
+    ]
+    links_html = "\n".join(links)
+
+    latest_block = ""
+    redirect_snippet = ""   # injected when a real latest exists
+    if days:
+        latest = days[-1].name  # newest day (sorted ascending)
+        latest_block = f'<p><strong>Latest:</strong> <a href="./{latest}/">{latest}</a></p>'
+        # Redirect ONLY if ?all=1 is NOT present
+        redirect_snippet = (
+            f'<script>if(!new URLSearchParams(location.search).has("all"))'
+            f' location.replace("./{latest}/");</script>'
+        )
+
+    updated = dt.datetime.utcnow().strftime("%Y-%m-%d %H:%M UTC")
+    html = INDEX_SHELL.format(
+        style=STYLE, links=links_html, updated_utc=updated, repo=repo, latest_block=latest_block
+    )
+    if redirect_snippet:
+        html = html.replace("<body>", f"<body>\n{redirect_snippet}\n")
+    (DOCS / "index.html").write_text(html, encoding="utf-8")
+
+# ----- Entry point
+
+def main():
+    DOCS.mkdir(exist_ok=True)
+    days = get_day_dirs()
+    repo = repo_slug()
+
+    for d in days:
+        build_day(d, repo)
+
+    build_index(days, repo)
+    print("Site built into /docs")
+
+if __name__ == "__main__":
+    main()
+```
+
+### FILE: wrapup.py
+```py
+from __future__ import annotations
+import os, sys, json, datetime as dt
+from pathlib import Path
+
+# --- Load .env locally; harmless in Actions where vars come from secrets/vars
+try:
+    from dotenv import load_dotenv
+    load_dotenv()  # loads .env if present
+except Exception:
+    pass
+
+try:
+    from zoneinfo import ZoneInfo  # py3.9+
+except Exception:
+    from backports.zoneinfo import ZoneInfo  # unlikely on Actions
+
+from utils.summarize import summarize
+
+ROOT = Path(__file__).parent.resolve()
+DATA = ROOT / "data"
+OUT = ROOT / "out"
+OUT.mkdir(exist_ok=True)
+
+TZ = os.getenv("TIMEZONE", "America/New_York")
+TO_EMAIL = os.getenv("TO_EMAIL", "priddyjacob84@gmail.com")  # default for convenience
+
+
+# ---------------------------
+# Helpers
+# ---------------------------
+def now_local():
+    return dt.datetime.now(ZoneInfo(TZ))
+
+def today_dir() -> Path | None:
+    today = now_local().date().isoformat()
+    d = DATA / today
+    return d if d.exists() else None
+
+def load_raw(d: Path) -> dict:
+    p = d / "raw.json"
+    return json.loads(p.read_text(encoding="utf-8")) if p.exists() else {}
+
+def _uniq(items, key="title"):
+    seen, out = set(), []
+    for it in items or []:
+        k = (it or {}).get(key) or ""
+        if not k or k in seen:
+            continue
+        seen.add(k)
+        out.append(it)
+    return out
+
+def _fmt_list(items, take=5, with_source=True):
+    items = _uniq(items)[:take]
+    if not items:
+        return "<p><em>No data</em></p>"
+    lis = []
+    for it in items:
+        title = (it or {}).get("title") or "(no title)"
+        link = (it or {}).get("link") or "#"
+        src  = (it or {}).get("source") or ""
+        suffix = f" — {src}" if (with_source and src) else ""
+        lis.append(f'<li><a href="{link}">{title}</a>{suffix}</li>')
+    return "<ol>\n" + "\n".join(lis) + "\n</ol>"
+
+def synthesize_day(raw: dict) -> str:
+    """
+    Create a short, neutral daily brief (2–3 sentences) from
+    global + local news headlines, with HN titles as context.
+    """
+    news = (raw.get("news") or {})
+    world = news.get("world") or []
+    local = news.get("local") or []
+    hn_items = (raw.get("hn") or {}).get("items", []) or []
+
+    titles = []
+    # Prioritize world + local for the day’s brief
+    titles += [ (it or {}).get("title") or "" for it in world[:40] ]
+    titles += [ (it or {}).get("title") or "" for it in local[:20] ]
+    # Add a bit of HN context (tech/industry pulse)
+    titles += [ (it or {}).get("title") or "" for it in hn_items[:15] ]
+
+    blob = ". ".join([t for t in titles if t]).strip()
+    if not blob:
+        return "Today’s coverage was light. See the links below for details."
+
+    # Produce a crisp 2–3 sentence neutral brief
+    brief = summarize(blob, max_sentences=3)
+    return brief or "A cross-section of global, local, and technology headlines shaped today’s coverage."
+
+def build_email_payload(raw: dict) -> tuple[str, str]:
+    date = raw.get("date") or now_local().date().isoformat()
+
+    # Sections: Global, Local, Hacker News
+    news = (raw.get("news") or {})
+    world = news.get("world") or []
+    local = news.get("local") or []
+    hn_items = (raw.get("hn") or {}).get("items", []) or []
+
+    # Dedup + take N
+    world_block = _fmt_list(world, take=5, with_source=True)
+    local_block = _fmt_list(local, take=5, with_source=True)
+
+    # HN Top 10 (dedup by objectID)
+    seen_ids, hn_top = set(), []
+    for it in hn_items:
+        oid = (it or {}).get("objectID")
+        if oid in seen_ids:
+            continue
+        seen_ids.add(oid)
+        hn_top.append(it)
+        if len(hn_top) >= 10:
+            break
+
+    if hn_top:
+        lis = []
+        for it in hn_top:
+            title = it.get("title") or "(no title)"
+            url = it.get("url") or f"https://news.ycombinator.com/item?id={it.get('objectID')}"
+            pts = it.get("points", 0)
+            c = it.get("num_comments", 0)
+            lis.append(f'<li><a href="{url}">{title}</a> — {pts} points, {c} comments</li>')
+        hn_block = "<ol>\n" + "\n".join(lis) + "\n</ol>"
+    else:
+        hn_block = "<p><em>No data</em></p>"
+
+    # Daily brief
+    daily_brief = synthesize_day(raw)
+
+    # Links to artifacts
+    report_link = f"https://github.com/jakep84/Daily-Knowledge-Garden/blob/master/data/{date}/report.md"
+    site_link = f"https://jakep84.github.io/Daily-Knowledge-Garden/{date}/"
+
+    # Build HTML
+    lines = []
+    lines.append(f"<h2>Daily Knowledge Garden — {date}</h2>")
+    lines.append(f"<p><strong>Daily Brief:</strong> {daily_brief}</p>")
+
+    lines.append("<h3>🌍 Global — Top 5</h3>")
+    lines.append(world_block)
+
+    lines.append("<h3>🏙️ Local — Top 5</h3>")
+    lines.append(local_block)
+
+    lines.append("<h3>🚀 Hacker News — Top 10</h3>")
+    lines.append(hn_block)
+
+    lines.append(f'<p>Full report: <a href="{report_link}">report.md</a></p>')
+    lines.append(f'<p>Live site: <a href="{site_link}">Daily Knowledge Garden — {date}</a></p>')
+
+    subject = f"Daily wrap-up — {date} (Daily Knowledge Garden)"
+    html = "\n".join(lines)
+    return subject, html
+
+
+# ---------------------------
+# Main
+# ---------------------------
+def main():
+    # Allow local testing anytime with --test
+    force_test = ("--test" in sys.argv)
+
+    # Gate to 22:00 local (top of the hour), unless --test provided
+    nl = now_local()
+    should_send = force_test or (nl.hour == 22)
+
+    # Expose to GitHub Actions as an output
+    gh_out = os.getenv("GITHUB_OUTPUT")
+    if gh_out:
+        with open(gh_out, "a", encoding="utf-8") as f:
+            f.write(f"should_send={'true' if should_send else 'false'}\n")
+
+    if not should_send:
+        print(f"[wrapup] Not 22:00 in {TZ} (now {nl}). Skipping.")
+        return
+
+    d = today_dir()
+    if not d:
+        print("[wrapup] No data folder for today; skipping email.")
+        return
+
+    raw = load_raw(d)
+    subject, html = build_email_payload(raw)
+
+    (OUT / "email_subject.txt").write_text(subject, encoding="utf-8")
+    (OUT / "email.html").write_text(html, encoding="utf-8")
+    print("[wrapup] Email prepared at out/email.html")
+
+if __name__ == "__main__":
+    main()
+```
+
+### FILE: sources/ap.py
+```py
+# sources/ap.py
+from .news_common import fetch_many
+
+AP_FEEDS = [
+    ("https://apnews.com/hub/apf-topnews?utm_source=apnews.com&utm_medium=referral&utm_campaign=aprss", "AP — Top"),
+    ("https://apnews.com/hub/politics?utm_source=apnews.com&utm_medium=referral&utm_campaign=aprss", "AP — Politics"),
+    ("https://apnews.com/hub/business?utm_source=apnews.com&utm_medium=referral&utm_campaign=aprss", "AP — Business"),
+]
+
+def fetch() -> list[dict]:
+    return fetch_many(AP_FEEDS)
+```
+
+### FILE: sources/apod.py
+```py
+import feedparser
+from datetime import datetime, timezone
+
+APOD_RSS = "https://apod.nasa.gov/apod.rss"
+
+def fetch_apod():
+    feed = feedparser.parse(APOD_RSS)
+    best = feed.entries[0] if feed.entries else None
+    if not best:
+        return {"fetched_at": datetime.now(timezone.utc).isoformat(), "entry": None}
+    return {
+        "fetched_at": datetime.now(timezone.utc).isoformat(),
+        "entry": {
+            "title": best.get("title"),
+            "link": best.get("link"),
+            "summary": best.get("summary"),
+            "published": best.get("published"),
+        }
+    }
+```
+
+### FILE: sources/bbc.py
+```py
+# sources/bbc.py
+from .news_common import fetch_many
+
+BBC_FEEDS = [
+    ("http://feeds.bbci.co.uk/news/world/rss.xml", "BBC — World"),
+    ("http://feeds.bbci.co.uk/news/technology/rss.xml", "BBC — Tech"),
+    ("http://feeds.bbci.co.uk/news/business/rss.xml", "BBC — Business"),
+    ("http://feeds.bbci.co.uk/news/science_and_environment/rss.xml", "BBC — Science"),
+]
+
+def fetch() -> list[dict]:
+    return fetch_many(BBC_FEEDS)
+```
+
+### FILE: sources/google_local.py
+```py
+# sources/google_local.py
+import os
+from urllib.parse import quote_plus
+from .news_common import fetch_many
+
+# Set your area once (repo variable or .env): LOCAL_QUERY="Austin, TX" (examples: "Northern Virginia", "San Francisco CA")
+LOCAL_QUERY = os.getenv("LOCAL_QUERY", "Northern Virginia")
+
+def _google_news_search(q: str):
+    # Google News RSS search; region US English
+    base = "https://news.google.com/rss/search"
+    url = f"{base}?q={quote_plus(q)}&hl=en-US&gl=US&ceid=US:en"
+    return url
+
+def fetch() -> list[dict]:
+    feeds = [
+        (_google_news_search(LOCAL_QUERY), f"Google News — {LOCAL_QUERY}"),
+        (_google_news_search(f"{LOCAL_QUERY} traffic OR transit"), f"Google News — {LOCAL_QUERY} traffic"),
+        (_google_news_search(f"{LOCAL_QUERY} weather warning OR advisory"), f"Google News — {LOCAL_QUERY} weather"),
+    ]
+    return fetch_many(feeds)
+```
+
+### FILE: sources/hn.py
+```py
+import requests
+from datetime import datetime, timezone
+
+ALGOLIA_TOP = "https://hn.algolia.com/api/v1/search?tags=front_page"
+
+def fetch_top():
+    r = requests.get(ALGOLIA_TOP, timeout=20)
+    r.raise_for_status()
+    data = r.json()
+    items = []
+    for hit in data.get("hits", []):
+        items.append({
+            "title": hit.get("title"),
+            "url": hit.get("url"),
+            "points": hit.get("points", 0),
+            "author": hit.get("author"),
+            "num_comments": hit.get("num_comments", 0),
+            "created_at": hit.get("created_at"),
+            "objectID": hit.get("objectID"),
+        })
+    return {
+        "fetched_at": datetime.now(timezone.utc).isoformat(),
+        "items": items
+    }
+```
+
+### FILE: sources/news_common.py
+```py
+# sources/news_common.py
+from __future__ import annotations
+from dataclasses import dataclass, asdict
+from typing import List, Dict, Any
+import time
+import feedparser
+
+# Normalize RSS entries into a simple shape
+@dataclass
+class NewsItem:
+    title: str
+    link: str
+    published: str
+    source: str
+
+    def to_dict(self) -> Dict[str, Any]:
+        return asdict(self)
+
+def _safe(entry: dict, key: str, default: str = "") -> str:
+    val = entry.get(key) or ""
+    if isinstance(val, list) and val:
+        val = val[0]
+    return str(val)
+
+def fetch_rss(url: str, source: str, limit: int = 15) -> List[Dict[str, Any]]:
+    # User-Agent helps some feeds
+    d = feedparser.parse(url, request_headers={"User-Agent": "DailyKnowledgeGarden/1.0 (+github)"})
+    items: List[NewsItem] = []
+    for e in d.entries[:limit]:
+        items.append(
+            NewsItem(
+                title=_safe(e, "title"),
+                link=_safe(e, "link"),
+                published=_safe(e, "published", time.strftime("%Y-%m-%dT%H:%M:%SZ")),
+                source=source,
+            )
+        )
+    return [i.to_dict() for i in items]
+
+def fetch_many(sources: List[tuple]) -> List[Dict[str, Any]]:
+    """sources = [(url, 'Label'), ...]"""
+    out: List[Dict[str, Any]] = []
+    for url, label in sources:
+        try:
+            out.extend(fetch_rss(url, label))
+        except Exception as e:
+            out.append({"title": f"(feed error from {label})", "link": "", "published": "", "source": label, "error": str(e)})
+    return out
+```
+
+### FILE: sources/npr.py
+```py
+# sources/npr.py
+from .news_common import fetch_many
+
+NPR_FEEDS = [
+    ("https://feeds.npr.org/1001/rss.xml", "NPR — Top Stories"),
+    ("https://feeds.npr.org/1019/rss.xml", "NPR — Politics"),
+    ("https://feeds.npr.org/1007/rss.xml", "NPR — Business"),
+    ("https://feeds.npr.org/1008/rss.xml", "NPR — Science"),
+    ("https://feeds.npr.org/1013/rss.xml", "NPR — Technology"),
+]
+
+def fetch() -> list[dict]:
+    return fetch_many(NPR_FEEDS)
+```
+
+### FILE: sources/reuters.py
+```py
+# sources/reuters.py
+from .news_common import fetch_many
+
+REUTERS_FEEDS = [
+    ("https://feeds.reuters.com/reuters/worldNews", "Reuters — World"),
+    ("https://feeds.reuters.com/reuters/businessNews", "Reuters — Business"),
+    ("https://feeds.reuters.com/reuters/technologyNews", "Reuters — Tech"),
+    ("https://feeds.reuters.com/reuters/scienceNews", "Reuters — Science"),
+]
+
+def fetch() -> list[dict]:
+    return fetch_many(REUTERS_FEEDS)
+```
+
+### FILE: sources/science.py
+```py
+# sources/science.py
+from .news_common import fetch_many
+
+SCI_FEEDS = [
+    ("https://www.sciencenews.org/feed", "ScienceNews"),
+    ("https://www.sciencedaily.com/rss/top/science.xml", "ScienceDaily — Top"),
+    ("https://www.nature.com/subjects/technology.rss", "Nature — Technology"),
+]
+
+def fetch() -> list[dict]:
+    return fetch_many(SCI_FEEDS)
+```
+
+### FILE: sources/wiki.py
+```py
+import requests
+from datetime import datetime, timezone
+WIKI_TODAY = "https://en.wikipedia.org/api/rest_v1/feed/onthisday/events/{month}/{day}"
+WIKI_RANDOM = "https://en.wikipedia.org/api/rest_v1/page/random/summary"
+
+def fetch_today_and_random(month: int, day: int):
+    out = {"today": [], "random": {}, "fetched_at": datetime.now(timezone.utc).isoformat()}
+    # On this day
+    r = requests.get(WIKI_TODAY.format(month=month, day=day), timeout=20)
+    if r.ok:
+        out["today"] = [
+            {
+                "year": e.get("year"),
+                "text": e.get("text"),
+                "pages": [p.get("titles", {}).get("normalized") for p in e.get("pages", [])]
+            } for e in r.json().get("events", [])[:10]
+        ]
+    # Random
+    rr = requests.get(WIKI_RANDOM, timeout=20)
+    if rr.ok:
+        j = rr.json()
+        out["random"] = {
+            "title": j.get("title"),
+            "description": j.get("description"),
+            "extract": j.get("extract"),
+            "content_urls": j.get("content_urls", {}).get("desktop", {}).get("page")
+        }
+    return out
+```
+
+### FILE: utils/files.py
+```py
+import json
+from pathlib import Path
+from typing import Any, Dict
+
+def write_json(path: Path, obj: Dict[str, Any]):
+    path.parent.mkdir(parents=True, exist_ok=True)
+    with path.open("w", encoding="utf-8") as f:
+        json.dump(obj, f, ensure_ascii=False, indent=2)
+
+def write_text(path: Path, text: str):
+    path.parent.mkdir(parents=True, exist_ok=True)
+    with path.open("w", encoding="utf-8") as f:
+        f.write(text)
+
+def replace_between_markers(text: str, marker_start: str, marker_end: str, new_content: str) -> str:
+    start = text.find(marker_start)
+    end = text.find(marker_end)
+    if start == -1 or end == -1 or end <= start:
+        return text
+    return text[:start + len(marker_start)] + new_content + text[end:]
+```
+
+### FILE: utils/plots.py
+```py
+# utils/plots.py
+from pathlib import Path
+
+# Try to import Matplotlib in a headless-safe way; fall back to no-op if it fails
+try:
+    import matplotlib
+    matplotlib.use("Agg")  # headless backend
+    from matplotlib import pyplot as plt
+    _PLOTS_OK = True
+except Exception as e:
+    print(f"[plots] Matplotlib unavailable ({e}). Charts will be skipped locally.")
+    plt = None
+    _PLOTS_OK = False
+
+def bar_plot(title: str, labels: list[str], values: list[float], out_path: Path):
+    if not _PLOTS_OK or plt is None:
+        # No-op fallback: just return without raising, so the rest of the run succeeds
+        return
+    out_path = Path(out_path)
+    out_path.parent.mkdir(parents=True, exist_ok=True)
+    plt.figure()
+    plt.bar(range(len(values)), values)
+    plt.xticks(range(len(labels)), labels, rotation=45, ha="right")
+    plt.title(title)
+    plt.tight_layout()
+    plt.savefig(out_path)
+    plt.close()
+```
+
+### FILE: utils/summarize.py
+```py
+import re
+from collections import Counter
+
+_WORD = re.compile(r"[A-Za-z][A-Za-z'\-]+")
+_SENT = re.compile(r"(?<=[.!?])\s+")
+
+def tokenize(text):
+    return _WORD.findall(text or "")
+
+def sentence_split(text):
+    # keep sentence separators minimal assumptions
+    return [s.strip() for s in _SENT.split(text or "") if s.strip()]
+
+def summarize(text, max_sentences=3):
+    """Simple frequency-based extractive summary (no external models)."""
+    if not text:
+        return ""
+    sentences = sentence_split(text)
+    if len(sentences) <= max_sentences:
+        return " ".join(sentences)
+
+    words = [w.lower() for w in tokenize(text)]
+    freq = Counter(words)
+    # ignore very common short words
+    for stop in ["the","a","an","and","or","of","to","in","on","for","with","is","are","was","were","by","from","as","at","that","this","it","be"]:
+        freq.pop(stop, None)
+
+    scores = []
+    for s in sentences:
+        sw = [w.lower() for w in tokenize(s)]
+        score = sum(freq.get(w, 0) for w in sw) / (len(sw) + 1e-9)
+        scores.append((score, s))
+
+    best = [s for _, s in sorted(scores, key=lambda x: x[0], reverse=True)[:max_sentences]]
+    # preserve original order
+    ordered = [s for s in sentences if s in best]
+    return " ".join(ordered)
+```
+
+### FILE: .gitignore
+```txt
+# ================================
+# 🧠 Daily Knowledge Garden .gitignore
+# ================================
+
+# --- Python cache and artifacts ---
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+*.pyd
+*.so
+
+# Local email/test artifacts
+/out/
+*.eml
+/email.html
+/email_subject.txt
+
+
+# --- Virtual environments ---
+.venv/
+venv/
+env/
+ENV/
+*.env
+Pipfile.lock
+poetry.lock
+
+# --- Local environment variables ---
+.env
+.env.*
+
+# --- Build & output directories ---
+build/
+dist/
+out/
+*.egg-info/
+.eggs/
+
+# --- Jupyter notebooks checkpoints ---
+.ipynb_checkpoints/
+
+# --- Logs & temporary files ---
+*.log
+*.tmp
+*.bak
+*.swp
+.DS_Store
+Thumbs.db
+
+# --- VSCode / IDE settings ---
+.vscode/
+.idea/
+*.iml
+
+# --- System / OS files ---
+Desktop.ini
+Icon?
+.Spotlight-V100
+.Trashes
+
+# --- GitHub Pages output (docs folder auto-built) ---
+/docs/**/*.html
+/docs/**/*.png
+/docs/**/*.jpg
+/docs/**/*.svg
+/docs/**/*.json
+/docs/**/*.xml
+/docs/**/*.csv
+/docs/**/*.js
+/docs/**/*.css
+/docs/**/*.map
+/docs/**/index.html
+/docs/**/plots/
+!/docs/.nojekyll  # keep .nojekyll file if used for GitHub Pages
+
+# --- Data & generated content ---
+/data/**/*.json
+/data/**/*.md
+/data/**/*.png
+/data/**/*.jpg
+/data/**/*.svg
+/data/**/*.csv
+/data/**/*.xml
+/data/**/plots/
+!data/.keep  # allow an empty folder marker if needed
+
+# --- GitHub Actions working dirs ---
+/.github/workflows/__pycache__/
+/.github/actions/__pycache__/
+
+# --- Cache directories ---
+.cache/
+pytest_cache/
+.mypy_cache/
+coverage.xml
+.coverage
+htmlcov/
+
+# --- Node (if you add frontend scripts later) ---
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# --- Other ---
+# Ignore any local testing or secrets files
+*.secret
+*.credentials
+credentials.json
+secrets.json
+```
+
+### FILE: .github/workflows/auto.yml
+```yml
+name: Daily Garden
+
+on:
+  schedule:
+    - cron: "0 9,15,21 * * *" # daily at 09:00 UTC
+  workflow_dispatch: {} # allow manual runs
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: false # we'll push with a token below
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install deps
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Run generator
+        run: python main.py
+
+      - name: Build Pages site (docs/)
+        run: |
+          python site_build.py
+          echo "Built docs/"
+
+      - name: Commit changes (if any)
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          if [[ -n "$(git status --porcelain)" ]]; then
+            git add -A
+            git commit -m "chore: daily update $(date -u +'%Y-%m-%d')"
+          else
+            echo "No changes to commit."
+          fi
+
+      - name: Push
+        if: ${{ success() }}
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          if git rev-parse --verify HEAD >/dev/null 2>&1; then
+            git push https://x-access-token:${GH_TOKEN}@github.com/${{ github.repository }} HEAD:${{ github.ref }}
+          fi
+```
+
+### FILE: .github/workflows/wrapup.yml
+```yml
+name: Daily wrap-up email
+
+on:
+  schedule:
+    - cron: "0 * * * *" # run hourly; we gate to 22:00 in wrapup.py
+  workflow_dispatch: {}
+
+permissions:
+  contents: read
+
+env:
+  TIMEZONE: ${{ vars.TIMEZONE || 'America/New_York' }} # set repo variable TIMEZONE to your TZ
+  TO_EMAIL: "priddyjacob84@gmail.com"
+  FROM_EMAIL: ${{ secrets.SMTP_USERNAME }} # often same as username
+
+jobs:
+  wrapup:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install deps
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Run wrap-up generator (only proceeds at 22:00 in TIMEZONE)
+        id: wrap
+        env:
+          TIMEZONE: ${{ env.TIMEZONE }}
+          TO_EMAIL: ${{ env.TO_EMAIL }}
+        run: |
+          python wrapup.py || exit $?
+
+      - name: Send email via SMTP
+        if: steps.wrap.outputs.should_send == 'true'
+        env:
+          SMTP_USERNAME: ${{ secrets.SMTP_USERNAME }}
+          SMTP_PASSWORD: ${{ secrets.SMTP_PASSWORD }}
+        run: |
+          python send_email.py out/email_subject.txt out/email.html
+```

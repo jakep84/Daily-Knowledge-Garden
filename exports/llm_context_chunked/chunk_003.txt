@@ -1,0 +1,140 @@
+# AI PROJECT DIGEST CHUNK
+
+Project: Daily-Knowledge-Garden
+Goal: understand
+Chunk: 3/4
+
+## Suggested Prompt
+Explain this project clearly. Summarize its purpose, architecture, key files, main flows, and anything that looks incomplete or risky.
+
+## Project Tree
+Daily-Knowledge-Garden
+└── utils/
+    ├── files.py
+    ├── plots.py
+    └── summarize.py
+
+## Overview
+# Project Overview
+
+**Project:** Daily-Knowledge-Garden
+**Root Path:** C:\Users\Creator\Documents\DKG\Daily-Knowledge-Garden
+
+## Likely Languages
+- Python
+
+## Framework Hints
+- Python Project
+
+## Likely Entrypoints
+- main.py
+
+## Major Modules
+- .github
+- sources
+- utils
+
+## Risks
+- None detected
+
+## Notes
+- None detected
+
+
+## Included File Contents
+
+### FILE: utils/files.py
+```py
+import json
+from pathlib import Path
+from typing import Any, Dict
+
+def write_json(path: Path, obj: Dict[str, Any]):
+    path.parent.mkdir(parents=True, exist_ok=True)
+    with path.open("w", encoding="utf-8") as f:
+        json.dump(obj, f, ensure_ascii=False, indent=2)
+
+def write_text(path: Path, text: str):
+    path.parent.mkdir(parents=True, exist_ok=True)
+    with path.open("w", encoding="utf-8") as f:
+        f.write(text)
+
+def replace_between_markers(text: str, marker_start: str, marker_end: str, new_content: str) -> str:
+    start = text.find(marker_start)
+    end = text.find(marker_end)
+    if start == -1 or end == -1 or end <= start:
+        return text
+    return text[:start + len(marker_start)] + new_content + text[end:]
+```
+
+### FILE: utils/plots.py
+```py
+# utils/plots.py
+from pathlib import Path
+
+# Try to import Matplotlib in a headless-safe way; fall back to no-op if it fails
+try:
+    import matplotlib
+    matplotlib.use("Agg")  # headless backend
+    from matplotlib import pyplot as plt
+    _PLOTS_OK = True
+except Exception as e:
+    print(f"[plots] Matplotlib unavailable ({e}). Charts will be skipped locally.")
+    plt = None
+    _PLOTS_OK = False
+
+def bar_plot(title: str, labels: list[str], values: list[float], out_path: Path):
+    if not _PLOTS_OK or plt is None:
+        # No-op fallback: just return without raising, so the rest of the run succeeds
+        return
+    out_path = Path(out_path)
+    out_path.parent.mkdir(parents=True, exist_ok=True)
+    plt.figure()
+    plt.bar(range(len(values)), values)
+    plt.xticks(range(len(labels)), labels, rotation=45, ha="right")
+    plt.title(title)
+    plt.tight_layout()
+    plt.savefig(out_path)
+    plt.close()
+```
+
+### FILE: utils/summarize.py
+```py
+import re
+from collections import Counter
+
+_WORD = re.compile(r"[A-Za-z][A-Za-z'\-]+")
+_SENT = re.compile(r"(?<=[.!?])\s+")
+
+def tokenize(text):
+    return _WORD.findall(text or "")
+
+def sentence_split(text):
+    # keep sentence separators minimal assumptions
+    return [s.strip() for s in _SENT.split(text or "") if s.strip()]
+
+def summarize(text, max_sentences=3):
+    """Simple frequency-based extractive summary (no external models)."""
+    if not text:
+        return ""
+    sentences = sentence_split(text)
+    if len(sentences) <= max_sentences:
+        return " ".join(sentences)
+
+    words = [w.lower() for w in tokenize(text)]
+    freq = Counter(words)
+    # ignore very common short words
+    for stop in ["the","a","an","and","or","of","to","in","on","for","with","is","are","was","were","by","from","as","at","that","this","it","be"]:
+        freq.pop(stop, None)
+
+    scores = []
+    for s in sentences:
+        sw = [w.lower() for w in tokenize(s)]
+        score = sum(freq.get(w, 0) for w in sw) / (len(sw) + 1e-9)
+        scores.append((score, s))
+
+    best = [s for _, s in sorted(scores, key=lambda x: x[0], reverse=True)[:max_sentences]]
+    # preserve original order
+    ordered = [s for s in sentences if s in best]
+    return " ".join(ordered)
+```

@@ -22,20 +22,43 @@ def _safe(entry: dict, key: str, default: str = "") -> str:
         val = val[0]
     return str(val)
 
-def fetch_rss(url: str, source: str, limit: int = 15) -> List[Dict[str, Any]]:
-    # User-Agent helps some feeds
-    d = feedparser.parse(url, request_headers={"User-Agent": "DailyKnowledgeGarden/1.0 (+github)"})
-    items: List[NewsItem] = []
-    for e in d.entries[:limit]:
-        items.append(
-            NewsItem(
-                title=_safe(e, "title"),
-                link=_safe(e, "link"),
-                published=_safe(e, "published", time.strftime("%Y-%m-%dT%H:%M:%SZ")),
-                source=source,
-            )
+
+def fetch_rss(url: str, source: str, limit: int = 15) -> list[dict]:
+    import requests
+    import feedparser
+
+    response = requests.get(
+        url,
+        headers={"User-Agent": "DailyKnowledgeGarden/1.0"},
+        timeout=20,
+    )
+    response.raise_for_status()
+
+    feed = feedparser.parse(response.content)
+
+    if feed.bozo and not feed.entries:
+        raise ValueError(
+            f"Invalid feed: {feed.bozo_exception}"
         )
-    return [i.to_dict() for i in items]
+
+    if not feed.entries:
+        print(f"[WARNING] {source}: zero articles")
+        return []
+
+    articles = [
+        {
+            "title": entry.get("title", ""),
+            "link": entry.get("link", ""),
+            "published": entry.get("published", ""),
+            "source": source,
+        }
+        for entry in feed.entries[:limit]
+        if entry.get("title") and entry.get("link")
+    ]
+
+    print(f"[OK] {source}: {len(articles)} articles")
+    return articles
+
 
 def fetch_many(sources: List[tuple]) -> List[Dict[str, Any]]:
     """sources = [(url, 'Label'), ...]"""
@@ -44,5 +67,5 @@ def fetch_many(sources: List[tuple]) -> List[Dict[str, Any]]:
         try:
             out.extend(fetch_rss(url, label))
         except Exception as e:
-            out.append({"title": f"(feed error from {label})", "link": "", "published": "", "source": label, "error": str(e)})
-    return out
+            print(f"[ERROR] {label}: {type(e).__name__}: {e}")
+        return out
