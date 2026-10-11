@@ -1,4 +1,4 @@
-"""AP headlines via publisher-filtered Google News RSS (not an official AP feed)."""
+"""AP news via Google News publisher-restricted RSS, not an official AP feed."""
 from urllib.parse import quote_plus
 from .news_common import fetch_many
 
@@ -7,8 +7,8 @@ def google_rss(query):
 
 AP_FEEDS = [
     (google_rss("site:apnews.com when:2d"), "AP — Headlines (Google News)"),
-    (google_rss("site:apnews.com/hub/politics when:2d"), "AP — Politics (Google News)"),
-    (google_rss("site:apnews.com/hub/business when:2d"), "AP — Business (Google News)"),
+    (google_rss("site:apnews.com politics when:2d"), "AP — Politics (Google News)"),
+    (google_rss("site:apnews.com business economy when:2d"), "AP — Business (Google News)"),
 ]
 
 def fetch() -> list[dict]:
