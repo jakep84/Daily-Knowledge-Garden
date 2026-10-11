@@ -1,6 +1,6 @@
 {
   "date": "2026-10-11",
-  "last_updated_utc": "2026-10-11T20:16:46Z",
+  "last_updated_utc": "2026-10-11T20:30:49Z",
   "hn": {
     "items": [
       {
@@ -299,6 +299,15 @@
         "num_comments": 0,
         "created_at": "2026-10-11T19:43:32Z",
         "objectID": "50047055"
+      },
+      {
+        "title": "A Cray-1 supercomputer replica from 30 \"obsolete\" Mac Minis",
+        "url": "https://arstechnica.com/gadgets/2026/10/a-cray-1-supercomputer-replica-from-30-obsolete-mac-minis/",
+        "points": 39,
+        "author": "pseudolus",
+        "num_comments": 18,
+        "created_at": "2026-10-10T00:34:34Z",
+        "objectID": "50028264"
       }
     ]
   },
@@ -385,11 +394,11 @@
       }
     ],
     "random": {
-      "title": "Bushy Creek Trail",
-      "extract": "The Bushy Creek Trail is a shared use path for cyclists and pedestrians in the inner eastern suburb of Box Hill North in Melbourne, Victoria, Australia.\nThe trail has some short road sections including an unshared path along Springfield Road.",
-      "content_urls": "https://en.wikipedia.org/wiki/Bushy_Creek_Trail"
+      "title": "Yūtoku Inari Shrine",
+      "extract": "Yūtoku Inari Shrine (祐徳稲荷神社, Yūtoku Inari Jinja) is a shrine located in Kashima City, Saga Prefecture. It is one of the most famous Inari shrines in Japan.\n\n",
+      "content_urls": "https://en.wikipedia.org/wiki/Y%C5%ABtoku_Inari_Shrine"
     },
-    "fetched_at": "2026-10-11T20:16:37.975776+00:00",
+    "fetched_at": "2026-10-11T20:30:40.673210+00:00",
     "status": [
       {
         "source": "Wikipedia — On This Day",
@@ -404,7 +413,7 @@
     ]
   },
   "apod": {
-    "fetched_at": "2026-10-11T20:16:38.256961+00:00",
+    "fetched_at": "2026-10-11T20:30:42.594084+00:00",
     "entry": {
       "title": "Ice Fishing for Cosmic Neutrinos",
       "link": "https://science.nasa.gov/image-article/apod-2026-october-11-ice-fishing-for-cosmic-neutrinos/",
@@ -1856,6 +1865,12 @@
         "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPaFRUVktxZDVXNFg2cnlBekxIbUI0a09XUkdBRVBfRVIxdUxBclVzM3lQRW5IUVRfcmI0VE13QkRLUEs3dnFDYmlnNUtVSE0zS18zQmtrbTlGZUdlMHVYQzlrYWFTZ3I1a1ZQYnRVS0tISHRobTlSYVc2OU1oS29JNmlBaE5SX2Y5ZTRzeXFhWFBPLTJ0Z181NnVxS1BvUHJnaVlaN0JtWlFlaTg?oc=5",
         "published": "Sun, 11 Oct 2026 19:10:00 GMT",
         "source": "AP — Business (Google News)"
+      },
+      {
+        "title": "Mexico's Sheinbaum urges coastal residents to remain indoors as Hurricane Simon nears coast - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPQTVIZ3E1QmFPdVhfeHhERWNMSHMzckVTck8za2p1b1A5ajNIT1VCa1dBUVhNTVhadXhKZV9CclF4aEswTGRxanNxa1FzSnVDd0kxSWlGZF9EakUybFhISzJhRmtCeDV4VExwcC12Q1dkVDhDV1B2eENwODdtM0F0MUJQVGtEbDNYN3pZU1UzeUo5NnNlVlE1TTgwTlFjUGMyb2hNOXFGc09EdFZBbTctTlRCM19ZbDczelFhZ0xIdmVwT014cURLcnFFcjBfeE9J?oc=5",
+        "published": "Sun, 11 Oct 2026 19:08:29 GMT",
+        "source": "Reuters — Headlines (Google News)"
       }
     ],
     "local": [
@@ -2179,147 +2194,147 @@
       "url": "https://news.google.com/rss/search?q=site%3Areuters.com+when%3A2d&hl=en-US&gl=US&ceid=US:en",
       "status": "ok",
       "count": 15,
-      "checked_at_utc": "2026-10-11T20:16:39.221332+00:00"
+      "checked_at_utc": "2026-10-11T20:30:43.493816+00:00"
     },
     {
       "source": "Reuters — World (Google News)",
       "url": "https://news.google.com/rss/search?q=site%3Areuters.com%2Fworld+when%3A2d&hl=en-US&gl=US&ceid=US:en",
       "status": "ok",
       "count": 15,
-      "checked_at_utc": "2026-10-11T20:16:39.817596+00:00"
+      "checked_at_utc": "2026-10-11T20:30:44.007141+00:00"
     },
     {
       "source": "Reuters — Business (Google News)",
       "url": "https://news.google.com/rss/search?q=site%3Areuters.com%2Fbusiness+when%3A2d&hl=en-US&gl=US&ceid=US:en",
       "status": "ok",
       "count": 15,
-      "checked_at_utc": "2026-10-11T20:16:40.211398+00:00"
+      "checked_at_utc": "2026-10-11T20:30:44.387236+00:00"
     },
     {
       "source": "BBC — World",
       "url": "http://feeds.bbci.co.uk/news/world/rss.xml",
       "status": "ok",
       "count": 15,
-      "checked_at_utc": "2026-10-11T20:16:40.581808+00:00"
+      "checked_at_utc": "2026-10-11T20:30:44.698030+00:00"
     },
     {
       "source": "BBC — Tech",
       "url": "http://feeds.bbci.co.uk/news/technology/rss.xml",
       "status": "ok",
       "count": 15,
-      "checked_at_utc": "2026-10-11T20:16:40.868200+00:00"
+      "checked_at_utc": "2026-10-11T20:30:44.822603+00:00"
     },
     {
       "source": "BBC — Business",
       "url": "http://feeds.bbci.co.uk/news/business/rss.xml",
       "status": "ok",
       "count": 15,
-      "checked_at_utc": "2026-10-11T20:16:41.121449+00:00"
+      "checked_at_utc": "2026-10-11T20:30:44.937157+00:00"
     },
     {
       "source": "BBC — Science",
       "url": "http://feeds.bbci.co.uk/news/science_and_environment/rss.xml",
       "status": "ok",
       "count": 15,
-      "checked_at_utc": "2026-10-11T20:16:41.324654+00:00"
+      "checked_at_utc": "2026-10-11T20:30:45.017662+00:00"
     },
     {
       "source": "AP — Headlines (Google News)",
       "url": "https://news.google.com/rss/search?q=site%3Aapnews.com+when%3A2d&hl=en-US&gl=US&ceid=US:en",
       "status": "ok",
       "count": 15,
-      "checked_at_utc": "2026-10-11T20:16:41.520938+00:00"
+      "checked_at_utc": "2026-10-11T20:30:45.552994+00:00"
     },
     {
       "source": "AP — Politics (Google News)",
       "url": "https://news.google.com/rss/search?q=site%3Aapnews.com+politics+when%3A2d&hl=en-US&gl=US&ceid=US:en",
       "status": "ok",
       "count": 15,
-      "checked_at_utc": "2026-10-11T20:16:42.090652+00:00"
+      "checked_at_utc": "2026-10-11T20:30:46.079211+00:00"
     },
     {
       "source": "AP — Business (Google News)",
       "url": "https://news.google.com/rss/search?q=site%3Aapnews.com+business+economy+when%3A2d&hl=en-US&gl=US&ceid=US:en",
       "status": "ok",
       "count": 15,
-      "checked_at_utc": "2026-10-11T20:16:42.644346+00:00"
+      "checked_at_utc": "2026-10-11T20:30:46.669801+00:00"
     },
     {
       "source": "NPR — Top Stories",
       "url": "https://feeds.npr.org/1001/rss.xml",
       "status": "ok",
       "count": 10,
-      "checked_at_utc": "2026-10-11T20:16:42.988625+00:00"
+      "checked_at_utc": "2026-10-11T20:30:46.966755+00:00"
     },
     {
       "source": "NPR — Politics",
       "url": "https://feeds.npr.org/1019/rss.xml",
       "status": "ok",
       "count": 10,
-      "checked_at_utc": "2026-10-11T20:16:43.173565+00:00"
+      "checked_at_utc": "2026-10-11T20:30:47.042230+00:00"
     },
     {
       "source": "NPR — Business",
       "url": "https://feeds.npr.org/1007/rss.xml",
       "status": "ok",
       "count": 10,
-      "checked_at_utc": "2026-10-11T20:16:43.241259+00:00"
+      "checked_at_utc": "2026-10-11T20:30:47.141148+00:00"
     },
     {
       "source": "NPR — Science",
       "url": "https://feeds.npr.org/1008/rss.xml",
       "status": "ok",
       "count": 10,
-      "checked_at_utc": "2026-10-11T20:16:43.303714+00:00"
+      "checked_at_utc": "2026-10-11T20:30:47.178667+00:00"
     },
     {
       "source": "NPR — Technology",
       "url": "https://feeds.npr.org/1013/rss.xml",
       "status": "ok",
       "count": 10,
-      "checked_at_utc": "2026-10-11T20:16:43.518832+00:00"
+      "checked_at_utc": "2026-10-11T20:30:47.207188+00:00"
     },
     {
       "source": "ScienceNews",
       "url": "https://www.sciencenews.org/feed",
       "status": "ok",
       "count": 15,
-      "checked_at_utc": "2026-10-11T20:16:43.759950+00:00"
+      "checked_at_utc": "2026-10-11T20:30:47.422766+00:00"
     },
     {
       "source": "ScienceDaily — Top",
       "url": "https://www.sciencedaily.com/rss/top/science.xml",
       "status": "ok",
       "count": 15,
-      "checked_at_utc": "2026-10-11T20:16:43.899843+00:00"
+      "checked_at_utc": "2026-10-11T20:30:47.755297+00:00"
     },
     {
       "source": "Nature — Technology",
       "url": "https://www.nature.com/subjects/technology.rss",
       "status": "ok",
       "count": 15,
-      "checked_at_utc": "2026-10-11T20:16:44.183052+00:00"
+      "checked_at_utc": "2026-10-11T20:30:47.939222+00:00"
     },
     {
       "source": "Google News — Northern Virginia",
       "url": "https://news.google.com/rss/search?q=Northern+Virginia&hl=en-US&gl=US&ceid=US:en",
       "status": "ok",
       "count": 15,
-      "checked_at_utc": "2026-10-11T20:16:44.522626+00:00"
+      "checked_at_utc": "2026-10-11T20:30:48.037762+00:00"
     },
     {
       "source": "Google News — Northern Virginia traffic",
       "url": "https://news.google.com/rss/search?q=Northern+Virginia+traffic+OR+transit&hl=en-US&gl=US&ceid=US:en",
       "status": "ok",
       "count": 15,
-      "checked_at_utc": "2026-10-11T20:16:45.170406+00:00"
+      "checked_at_utc": "2026-10-11T20:30:48.531085+00:00"
     },
     {
       "source": "Google News — Northern Virginia weather",
       "url": "https://news.google.com/rss/search?q=Northern+Virginia+weather+warning+OR+advisory&hl=en-US&gl=US&ceid=US:en",
       "status": "ok",
       "count": 15,
-      "checked_at_utc": "2026-10-11T20:16:45.776975+00:00"
+      "checked_at_utc": "2026-10-11T20:30:49.075067+00:00"
     },
     {
       "source": "Wikipedia — On This Day",
@@ -2343,6 +2358,7 @@
     "2026-10-11T17:45:58Z",
     "2026-10-11T18:20:23Z",
     "2026-10-11T18:44:54Z",
-    "2026-10-11T20:16:46Z"
+    "2026-10-11T20:16:46Z",
+    "2026-10-11T20:30:49Z"
   ]
 }
