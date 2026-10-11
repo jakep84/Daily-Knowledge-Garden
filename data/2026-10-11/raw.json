@@ -1,0 +1,536 @@
+{
+  "date": "2026-10-11",
+  "last_updated_utc": "2026-10-11T16:22:05Z",
+  "hn": {
+    "items": [
+      {
+        "title": "2D Vehicles",
+        "url": "https://patkerr.co.uk/2d-vehicles/",
+        "points": 570,
+        "author": "Michelangelo11",
+        "num_comments": 109,
+        "created_at": "2026-10-07T12:30:40Z",
+        "objectID": "49991852"
+      },
+      {
+        "title": "The Lightbulb Computer",
+        "url": "https://lightbulbcomputer.com/",
+        "points": 521,
+        "author": "oskarth",
+        "num_comments": 83,
+        "created_at": "2026-10-10T04:12:26Z",
+        "objectID": "50029487"
+      },
+      {
+        "title": "A city-building game in which the city would prefer you didn't",
+        "url": "https://housing.over.pizza/",
+        "points": 457,
+        "author": "JumpCrisscross",
+        "num_comments": 154,
+        "created_at": "2026-10-10T20:31:50Z",
+        "objectID": "50036864"
+      },
+      {
+        "title": "Build your own decision model",
+        "url": "https://nishtahir.com/build-your-own-decision-model/",
+        "points": 412,
+        "author": "softwaredoug",
+        "num_comments": 95,
+        "created_at": "2026-10-10T22:50:10Z",
+        "objectID": "50037949"
+      },
+      {
+        "title": "Talorys – A self-hosted personal AI agent on Cloudflare's free tier",
+        "url": "https://github.com/rociiu/talorys",
+        "points": 312,
+        "author": "rociiu",
+        "num_comments": 144,
+        "created_at": "2026-10-10T10:52:09Z",
+        "objectID": "50031614"
+      },
+      {
+        "title": "Nitter: Update Oct 10th seeking funding and legal help",
+        "url": "https://nitter.net",
+        "points": 304,
+        "author": "ForHackernews",
+        "num_comments": 141,
+        "created_at": "2026-10-11T10:37:55Z",
+        "objectID": "50041682"
+      },
+      {
+        "title": "LineageOS 24.0",
+        "url": "https://lineageos.org/Changelog-32/",
+        "points": 278,
+        "author": "timschumi",
+        "num_comments": 93,
+        "created_at": "2026-10-11T06:18:59Z",
+        "objectID": "50040276"
+      },
+      {
+        "title": "Internal files add to evidence of an ExxonMobil climate deception campaign",
+        "url": "https://insideclimatenews.org/news/07102026/exxonmobil-climate-deception-new-evidence/",
+        "points": 248,
+        "author": "gumby",
+        "num_comments": 121,
+        "created_at": "2026-10-11T14:28:39Z",
+        "objectID": "50043682"
+      },
+      {
+        "title": "Nix wrote half of my debugger",
+        "url": "https://fzakaria.com/2026/10/07/nix-wrote-half-of-my-debugger",
+        "points": 223,
+        "author": "ingve",
+        "num_comments": 53,
+        "created_at": "2026-10-09T07:29:08Z",
+        "objectID": "50017247"
+      },
+      {
+        "title": "Knuth reward check",
+        "url": "https://www.thomas-huehn.com/knuth-reward-check/",
+        "points": 216,
+        "author": "Curiositry",
+        "num_comments": 76,
+        "created_at": "2026-10-10T15:47:01Z",
+        "objectID": "50034081"
+      },
+      {
+        "title": "IRCv3",
+        "url": "https://ircv3.net/",
+        "points": 213,
+        "author": "basilikum",
+        "num_comments": 195,
+        "created_at": "2026-10-11T10:11:27Z",
+        "objectID": "50041540"
+      },
+      {
+        "title": "I paid people to try and follow my README",
+        "url": "https://shkspr.mobi/blog/2026/10/i-paid-people-to-try-and-follow-my-readme/",
+        "points": 211,
+        "author": "edent",
+        "num_comments": 110,
+        "created_at": "2026-10-11T11:47:29Z",
+        "objectID": "50042219"
+      },
+      {
+        "title": "Five months treating bugs like patients and coding agents like a medical team",
+        "url": "https://www.cockroachlabs.com/blog/experiment-running-hospital-code/",
+        "points": 186,
+        "author": "rafiss",
+        "num_comments": 78,
+        "created_at": "2026-10-09T15:26:33Z",
+        "objectID": "50021899"
+      },
+      {
+        "title": "The RAM shortage is bringing back DDR4",
+        "url": "https://www.theverge.com/games/1009140/ram-shortage-intel-amd-ddr4-comeback",
+        "points": 162,
+        "author": "1potato",
+        "num_comments": 147,
+        "created_at": "2026-10-10T01:37:08Z",
+        "objectID": "50028647"
+      },
+      {
+        "title": "PSPi 6 – Raspberry Pi in a PSP",
+        "url": "https://github.com/othermod/PSPi-Version-6",
+        "points": 121,
+        "author": "therepanic",
+        "num_comments": 12,
+        "created_at": "2026-10-11T00:45:49Z",
+        "objectID": "50038623"
+      },
+      {
+        "title": "Terence Tao: Math 2.0 [pdf]",
+        "url": "https://teorth.github.io/tao-web/slides/math-2-0-caltech-2026.pdf",
+        "points": 115,
+        "author": "Anon84",
+        "num_comments": 146,
+        "created_at": "2026-10-11T13:16:45Z",
+        "objectID": "50043026"
+      },
+      {
+        "title": "The tilde in your PATH may not be your HOME",
+        "url": "https://disconnect3d.pl//2026/10/02/dont-put-tilde-in-your-path/",
+        "points": 103,
+        "author": "arusekk",
+        "num_comments": 59,
+        "created_at": "2026-10-11T12:13:13Z",
+        "objectID": "50042425"
+      },
+      {
+        "title": "Retrofitting language models to operate over bytes",
+        "url": "https://www.nature.com/articles/s41586-026-11111-4",
+        "points": 95,
+        "author": "theanonymousone",
+        "num_comments": 18,
+        "created_at": "2026-10-08T02:15:16Z",
+        "objectID": "50001234"
+      },
+      {
+        "title": "Show HN: Happy Hangul Day! An RNN for Generating Korean Handwriting Strokes",
+        "url": "https://hangul.ink/blog/hangul-day",
+        "points": 81,
+        "author": "jbaudanza",
+        "num_comments": 16,
+        "created_at": "2026-10-09T03:58:16Z",
+        "objectID": "50015833"
+      },
+      {
+        "title": "How big is a Git commit?",
+        "url": "https://ratfactor.com/cards/git-commit-size",
+        "points": 67,
+        "author": "theanonymousone",
+        "num_comments": 26,
+        "created_at": "2026-10-09T08:13:44Z",
+        "objectID": "50017548"
+      }
+    ]
+  },
+  "wiki": {
+    "today": [],
+    "random": {},
+    "fetched_at": "2026-10-11T16:22:03.200417+00:00"
+  },
+  "apod": {
+    "fetched_at": "2026-10-11T16:22:03.547144+00:00",
+    "entry": null
+  },
+  "news": {
+    "world": [
+      {
+        "title": "Ukraine strikes Yandex data centre in third attack on Russian tech giant",
+        "link": "https://www.bbc.co.uk/news/articles/cw0k0g57mk3zo?at_medium=RSS&at_campaign=rss",
+        "published": "Sun, 11 Oct 2026 14:38:10 GMT",
+        "source": "BBC — World"
+      },
+      {
+        "title": "Pope Leo to have surgery after lump found on lung",
+        "link": "https://www.bbc.co.uk/news/articles/c6m2dnngvw8xo?at_medium=RSS&at_campaign=rss",
+        "published": "Sun, 11 Oct 2026 13:38:55 GMT",
+        "source": "BBC — World"
+      },
+      {
+        "title": "Homes and bridges swept away as fresh floods hit Nepal",
+        "link": "https://www.bbc.co.uk/news/articles/ck86zppejjw3o?at_medium=RSS&at_campaign=rss",
+        "published": "Sun, 11 Oct 2026 12:03:52 GMT",
+        "source": "BBC — World"
+      },
+      {
+        "title": "Children among 139 dead after boat capsizes off Djibouti, UN says",
+        "link": "https://www.bbc.co.uk/news/articles/cwy7lxx60dg5o?at_medium=RSS&at_campaign=rss",
+        "published": "Sun, 11 Oct 2026 15:32:23 GMT",
+        "source": "BBC — World"
+      },
+      {
+        "title": "Poland stabbings driven by online glorification of violence, Tusk says",
+        "link": "https://www.bbc.co.uk/news/articles/ckp8gyd65z2go?at_medium=RSS&at_campaign=rss",
+        "published": "Sun, 11 Oct 2026 15:18:52 GMT",
+        "source": "BBC — World"
+      },
+      {
+        "title": "US justice department investigates TV networks over Trump pool coverage",
+        "link": "https://www.bbc.co.uk/news/articles/c9vgregzk6gro?at_medium=RSS&at_campaign=rss",
+        "published": "Sun, 11 Oct 2026 05:05:43 GMT",
+        "source": "BBC — World"
+      },
+      {
+        "title": "Expedition hopes to find aviator Amelia Earhart's plane on remote island",
+        "link": "https://www.bbc.co.uk/news/articles/c3y0e871rk4vo?at_medium=RSS&at_campaign=rss",
+        "published": "Sat, 10 Oct 2026 18:22:29 GMT",
+        "source": "BBC — World"
+      },
+      {
+        "title": "Delhi sees more protests as freed 'cockroach' group's leaders vow to fight on",
+        "link": "https://www.bbc.co.uk/news/articles/c84g179n2393o?at_medium=RSS&at_campaign=rss",
+        "published": "Sun, 11 Oct 2026 11:11:42 GMT",
+        "source": "BBC — World"
+      },
+      {
+        "title": "US murderer Christa Pike discharged from hospital 10 days after failed execution",
+        "link": "https://www.bbc.co.uk/news/articles/cmlyle97pqd7o?at_medium=RSS&at_campaign=rss",
+        "published": "Sat, 10 Oct 2026 17:44:26 GMT",
+        "source": "BBC — World"
+      },
+      {
+        "title": "Headmaster detained after BBC investigation into alleged sexual abuse of students",
+        "link": "https://www.bbc.co.uk/news/articles/cwy8lx1r2vrro?at_medium=RSS&at_campaign=rss",
+        "published": "Sat, 10 Oct 2026 12:28:51 GMT",
+        "source": "BBC — World"
+      },
+      {
+        "title": "Woman injures three people in third Poland school knife attack in a week",
+        "link": "https://www.bbc.co.uk/news/articles/cv8ezd246z1wo?at_medium=RSS&at_campaign=rss",
+        "published": "Sat, 10 Oct 2026 14:58:55 GMT",
+        "source": "BBC — World"
+      },
+      {
+        "title": "Russian glide bomb attack on Zaporizhzhia kills at least 20 people",
+        "link": "https://www.bbc.co.uk/news/articles/cwvgdpv642g5o?at_medium=RSS&at_campaign=rss",
+        "published": "Sat, 10 Oct 2026 20:51:12 GMT",
+        "source": "BBC — World"
+      },
+      {
+        "title": "Nobel peace laureate says US sanctions on ICC 'unacceptable'",
+        "link": "https://www.bbc.co.uk/news/articles/cqkgjrpmr47vo?at_medium=RSS&at_campaign=rss",
+        "published": "Sat, 10 Oct 2026 15:23:47 GMT",
+        "source": "BBC — World"
+      },
+      {
+        "title": "Rogue Anthropic AI agent gave police fake tip in unsolved murder case",
+        "link": "https://www.bbc.co.uk/news/articles/cqkg50j1yd5lo?at_medium=RSS&at_campaign=rss",
+        "published": "Sat, 10 Oct 2026 10:06:23 GMT",
+        "source": "BBC — World"
+      },
+      {
+        "title": "Drone strike by Sudan paramilitary kills 41 near Ethiopian border, rights group says",
+        "link": "https://www.bbc.co.uk/news/articles/c8vgx9ew571wo?at_medium=RSS&at_campaign=rss",
+        "published": "Sat, 10 Oct 2026 14:49:32 GMT",
+        "source": "BBC — World"
+      },
+      {
+        "title": "Pope Leo XIV to undergo lung surgery this week",
+        "link": "https://www.npr.org/2026/10/11/nx-s1-5998027/pope-leo-xiv-to-undergo-lung-surgery-this-week",
+        "published": "Sun, 11 Oct 2026 08:54:25 -0400",
+        "source": "NPR — Top Stories"
+      },
+      {
+        "title": "Hurricane Simon nears Mexico with 155 mph winds and flooding fears",
+        "link": "https://www.npr.org/2026/10/11/nx-s1-5998022/hurricane-simon-nears-mexico-155-mph-winds-flooding-fears",
+        "published": "Sun, 11 Oct 2026 08:10:54 -0400",
+        "source": "NPR — Top Stories"
+      },
+      {
+        "title": "Don't be scared: Being afraid is outright fun, and maybe useful",
+        "link": "https://www.npr.org/2026/10/11/nx-s1-5973128/dont-be-scared-being-afraid-is-outright-fun-and-maybe-useful",
+        "published": "Sun, 11 Oct 2026 08:00:00 -0400",
+        "source": "NPR — Top Stories"
+      },
+      {
+        "title": "She was a global star: Teen bikes 700 miles carrying injured dad. Where is she now?",
+        "link": "https://www.npr.org/2026/10/11/g-s1-147267/bicycle-teenager-india-pandemic",
+        "published": "Sun, 11 Oct 2026 07:28:15 -0400",
+        "source": "NPR — Top Stories"
+      },
+      {
+        "title": "Sweating the details: Sauna's potential health benefits draw scientists' interest",
+        "link": "https://www.npr.org/2026/10/11/nx-s1-5996655/heat-therapy-sauna-thermoregulation-health-benefits",
+        "published": "Sun, 11 Oct 2026 06:00:00 -0400",
+        "source": "NPR — Top Stories"
+      },
+      {
+        "title": "Reshaped civil rights mission at Justice Department transforms its work, workforce",
+        "link": "https://www.npr.org/2026/10/11/g-s1-145063/justice-department-civil-rights-transformed",
+        "published": "Sun, 11 Oct 2026 05:00:00 -0400",
+        "source": "NPR — Top Stories"
+      },
+      {
+        "title": "It's taking longer to find a new job after losing one",
+        "link": "https://www.npr.org/2026/10/11/nx-s1-5995238/jobs-employment-economy-unemployment-benefits",
+        "published": "Sun, 11 Oct 2026 05:00:00 -0400",
+        "source": "NPR — Top Stories"
+      },
+      {
+        "title": "In one of the country's most competitive districts, a Democrat tries to keep her seat",
+        "link": "https://www.npr.org/2026/10/11/nx-s1-5968691/midterm-elections-washington-congressional-district",
+        "published": "Sun, 11 Oct 2026 05:00:00 -0400",
+        "source": "NPR — Top Stories"
+      },
+      {
+        "title": "Attack on Riyadh airport killed 12 people and wounded over 300 more, Saudi authorities say",
+        "link": "https://www.npr.org/2026/10/10/g-s1-147682/attack-on-riyadh-airport-killed-12-people-and-wounded-over-300-more-saudi-authorities-say",
+        "published": "Sat, 10 Oct 2026 19:44:15 -0400",
+        "source": "NPR — Top Stories"
+      },
+      {
+        "title": "Christa Pike discharged from the hospital and back in prison",
+        "link": "https://www.npr.org/2026/10/10/nx-s1-5997504/christa-pike-hospital-prison-after-botched-execution",
+        "published": "Sat, 10 Oct 2026 18:15:04 -0400",
+        "source": "NPR — Top Stories"
+      },
+      {
+        "title": "How the Grand Canyon could have lost 1 billion years of geologic history",
+        "link": "https://www.sciencenews.org/article/grand-canyon-lost-history-giant-cliff",
+        "published": "Fri, 09 Oct 2026 15:00:00 +0000",
+        "source": "ScienceNews"
+      },
+      {
+        "title": "Here’s a look at the Nobel Prizes for science",
+        "link": "https://www.sciencenews.org/article/nobel-2026-physics-chemistry-medicine",
+        "published": "Fri, 09 Oct 2026 13:00:00 +0000",
+        "source": "ScienceNews"
+      },
+      {
+        "title": "Kilauea’s display is revealing why volcanoes spew like a fountain show",
+        "link": "https://www.sciencenews.org/article/kilauea-why-volcanoes-spew-fountains",
+        "published": "Thu, 08 Oct 2026 18:05:31 +0000",
+        "source": "ScienceNews"
+      },
+      {
+        "title": "An experimental drug kills fat cells, rather than shrinking them",
+        "link": "https://www.sciencenews.org/article/experimental-drug-kills-fat-cells",
+        "published": "Thu, 08 Oct 2026 13:00:00 +0000",
+        "source": "ScienceNews"
+      },
+      {
+        "title": "Gene therapy and special goggles give some blind people limited sight",
+        "link": "https://www.sciencenews.org/article/cells-detect-light-blind-vision",
+        "published": "Wed, 07 Oct 2026 21:00:00 +0000",
+        "source": "ScienceNews"
+      },
+      {
+        "title": "A quake on Mars may have set these rocks rolling",
+        "link": "https://www.sciencenews.org/article/mars-quakes-falling-boulders",
+        "published": "Wed, 07 Oct 2026 15:00:00 +0000",
+        "source": "ScienceNews"
+      },
+      {
+        "title": "Remember the ‘caregiving kills’ study? Reality is more nuanced",
+        "link": "https://www.sciencenews.org/article/caregiving-kills-nuance-benefit",
+        "published": "Wed, 07 Oct 2026 13:00:00 +0000",
+        "source": "ScienceNews"
+      },
+      {
+        "title": "An extinct crocodilian was found among rocks that built the Great Sphinx",
+        "link": "https://www.sciencenews.org/article/extinct-crocodilian-rocks-great-sphinx",
+        "published": "Tue, 06 Oct 2026 23:05:00 +0000",
+        "source": "ScienceNews"
+      },
+      {
+        "title": "‘A Mother’s Brain’ explores the neuroscience of motherhood",
+        "link": "https://www.sciencenews.org/article/mommy-brain-neuroscience-book",
+        "published": "Tue, 06 Oct 2026 15:00:00 +0000",
+        "source": "ScienceNews"
+      },
+      {
+        "title": "The world’s loudest bird could drown out a rock concert",
+        "link": "https://www.sciencenews.org/article/worlds-loudest-bird-jackhammer-volume",
+        "published": "Tue, 06 Oct 2026 13:00:00 +0000",
+        "source": "ScienceNews"
+      },
+      {
+        "title": "Your voice is more than sound. It’s part of who you are",
+        "link": "https://www.sciencenews.org/article/deep-end-voice-more-sound-identity",
+        "published": "Tue, 06 Oct 2026 11:00:00 +0000",
+        "source": "ScienceNews"
+      },
+      {
+        "title": "Scientists may have seen dark matter. If they did, what exactly is it?",
+        "link": "https://www.sciencenews.org/article/dark-matter-supersymmetry-higgsino",
+        "published": "Mon, 05 Oct 2026 17:00:00 +0000",
+        "source": "ScienceNews"
+      },
+      {
+        "title": "A ‘phoenix’ planet was born from the ashes of its dead star",
+        "link": "https://www.sciencenews.org/article/baby-planet-from-dead-star-phoenix",
+        "published": "Mon, 05 Oct 2026 15:00:00 +0000",
+        "source": "ScienceNews"
+      },
+      {
+        "title": "Astronomers say they’ve spotted the first miniature quasar pointed at Earth",
+        "link": "https://www.sciencenews.org/article/first-miniature-quasar-earth",
+        "published": "Mon, 05 Oct 2026 13:00:00 +0000",
+        "source": "ScienceNews"
+      },
+      {
+        "title": "Young Yosemite toads survive winter, then emerge with a deadly fungus",
+        "link": "https://www.sciencenews.org/article/yosemite-toads-fungus-chytrid-winter",
+        "published": "Fri, 02 Oct 2026 16:00:00 +0000",
+        "source": "ScienceNews"
+      }
+    ],
+    "local": [
+      {
+        "title": "Beer festival and Army Ten-Miler bring weekend road closures to DC and Northern Virginia - WTOP News",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQX1dRaWdNOFk0NTh0SkFlTHdPY2NKN0ZXNWZ4U0FXMlZqUkZlLVp3UTJuMGpGV0oxNXBYdFZvQWM1VnBlVWVaRkkwak91VUFLQTZuZ0ZRVDlhRTlJWFpsZE9sU2ZMUi1vZ2NxejJPN3Q2V3FzbHl0cFhwbkEtVkNKdDQtN3RfZzBDcXZmWXZTZG5za3ctODNnMk5MMlBVekUzZ0dSVg?oc=5",
+        "published": "Fri, 09 Oct 2026 13:46:44 GMT",
+        "source": "Google News — Northern Virginia"
+      },
+      {
+        "title": "MS-13 gang member sentenced for double murder; Maryland man convicted of deadly I-70 shooting - FOX 5 DC",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOMjAzQWJjQnNnbS13U3pXV0JabG1hVFo4WkU3TkxkSDZCZXZqQ0pHaXNqcXZ3NHNLanRYTkdtZVVkbHJyc1lwRTlKbW0zMlNSc3d2NnZpaFJFaTY3MVFNNTctaUJDU3F3d3U4SFQ3dkdvM1ZVcW53djhFVDBPWU9ERXY4OUdVY0pySGhiMEpMbmdOdXlWNTZj0gGcAUFVX3lxTE9sSHRsbUJ6U1A2T1VKYTdUbUhjWVRLVEozVzF6YXFGMEYzaUwwR1VmWVp6OV96QzhBd05mQ256dkJmTkxEbzRmQ2FlREt6aE5vOVRrMG4yTklIUmpMU0tsLW95R2NiRjItQ2FxY0pjeUZkN2ZLRzdvc21XaE45SV93LUlBcVM3NWhRYkhiUlRvTUt0RUQ4eEZQaGVhQw?oc=5",
+        "published": "Sat, 10 Oct 2026 02:25:21 GMT",
+        "source": "Google News — Northern Virginia"
+      },
+      {
+        "title": "Police shut down 6 Northern Virginia massage parlors in human-trafficking probe - NBC4 Washington",
+        "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNV0pKNDBjWVFvRWwzU1lhOHNuTm5GNktRekFmYlJCbEFiS0JHU1NaT0lmdkVtOTVmXzRvQzZYQUdrV2pQcWZZdzVHUkdYQzJKcWNTODlUREJtMThWeG9tVU9LYzNxOHg4RjBJR1lybnZCbUVfakVVSGhrODFkLVJCWWJ6LTczbDh0U0JkNTZQMUc5a25UZEVUZjAtN2hoQUlETjZ4ekhxb3J5UWVDVmpvc1JyODkyY3U1OG9QVWFlZXFqMFZqOW9LNVJ4dnI4QlQ2UnhkbVFpbDl6TVpCLS1qbdIB6AFBVV95cUxQMnp4MUFsRmM2Wm1FYnZ3eE0yQWVrZWdBNFYtdnN5V2NndjhhLW5oeU1HMVpnLWw4WTJLeHU4UFdWRGg3cmFHOWRLNTA1SEVXSnFVVFVyYjVZbTV0UGdwV0xiMno1Ri1BYS1mcFVWbXZheFRRNkpTUExycnNzdEpCSnlpaGtfaGR4QzJzT1pmVElHcW95MmVwMHdhZWJZZ1JzdWt2aU91SEpIZ2ZTU04xc0xvQ0hKUFpPaFRINnZlM3V2b1RMSEw3aEpuLWtkQkxJS1BaOUVicGstWW1ZN1RJZ2pLQTZDNHhR?oc=5",
+        "published": "Fri, 09 Oct 2026 21:55:15 GMT",
+        "source": "Google News — Northern Virginia"
+      },
+      {
+        "title": "Northern Virginia high school football scores for Oct. 9 - InsideNoVa.com",
+        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNYzNNN0tySkNFRmYtSlZDMjg1bTZjR1ltN2Q1LUI4YnlEYTNSOFlhZFdOUXRDUFRldzdyTERVb0ZrWHFDQnNERlBVWThqUUpvR2xSNEtJelUwVzN1U2t0UnY0cVZCVGZVc1NMbnJpcXp0UjhnNHlJUm9ZT2xwZ3JYbVU5Nnk5MzJkZUsyYy03eVdJd2NkcUtzMG1pTm10UEpucm9kRjBXY3o5cGxmQmJqbjdNYlJBWTdIb2VVYVk4X05PSGRYd2d0c3doTklJa0QwcU0zOHE4MFR3dw?oc=5",
+        "published": "Sat, 10 Oct 2026 11:12:00 GMT",
+        "source": "Google News — Northern Virginia"
+      },
+      {
+        "title": "Northern Virginia county sues to block Trump from building his arch - The Detroit News",
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPSEZWMDBIeEhvRUxOMkpzUHV4c3JVWkhuMkNfZFpyWm1tYVFCSmpQUnNCOWxhSW1PMVQ2S0tMRDdER2RtaUtFYlVSc01ucGlXWHoyVExtSk1mcEhKRDdRMXpmWEM4Z3duN213YzY1NjhfOWV4WXFTQXRNRTBFaDl6bVk3ZVlRWHlpYTNDSEdUM2ZOZnl5bDlQa1dZRUYyYlJEVHFNZlVqZU9DenRQRUVTUVFtNmVYZU5mYjdiRW1OUlF0SmRrZE43WA?oc=5",
+        "published": "Fri, 09 Oct 2026 13:33:00 GMT",
+        "source": "Google News — Northern Virginia"
+      },
+      {
+        "title": "12 New Northern Virginia Dessert and Candy Shops Serving Up Sweet Treats - Northern Virginia Magazine",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRElkb2JZS3kyVlBPdXNiUVRYcTI2Z0ZHU2hWRHN2djV4V1hWUmx6cmtzVjVNenUwdHczZkRfMkx1MDA3X1VEMlJwVVBPUVFEdlpUN0x5dkUxTlFSeElGaXBfUldjWXRDc19zUUhmNVBJUFZYUDBZMTUzdGc1ZmM5RWlMeVFKXzF3eEhQS09NLTJjanBTVDB6RDlqV1N1WTRlV0dFQWJ6d3ppYjQ?oc=5",
+        "published": "Fri, 09 Oct 2026 11:00:00 GMT",
+        "source": "Google News — Northern Virginia"
+      },
+      {
+        "title": "Northern Virginia defense tech firm plans to increase staff by 25% or more - WTOP News",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPd0J1RGQ2OElFUjhoUmZRd1pQTlNHRXM0MU4tMFdnRnRxSHk0YkdVOWgzTS1qQ3phdURXSU9PLUtSQWxjVjZGZ3pBVmNHbVdaSWt3YmZWUnZLWVFtSUppWE1sWGVnWk1ZT0NpS09ZbEJnU253YzVsSUNmZko0TlRGZHEyVzRLU3B5OTZWS25xMHh6N2E2NmVsd3dpV01wVGs3SWx3ampCTlhOeW0yaVdFSml4Z2c?oc=5",
+        "published": "Sat, 10 Oct 2026 12:04:51 GMT",
+        "source": "Google News — Northern Virginia"
+      },
+      {
+        "title": "Data center light and noise pollution rankle Reston residents - NBC4 Washington",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPcUl6azF6UVNLQTZLMUxmU0E3MHVxRzBoRGxKTHdua3JTR2NzWkRnSV9YSkJWeGtfSXpkQTh4MlpoTjluaVlTMHNwSW9nT0E1aXd2NV9ic044aXJkQU9TdDBkZHNuMDVtNWRncUE1Y3JfMjRiY3lWV1gyMTFjc1RaZ1lvQm04b01rdmFDV0dSTTl6bHZ2MjZGUEZWb2VHc3FXQTlQSk0xY0Vsd2ROcy1odndNSDM1ZC1wckHSAcIBQVVfeXFMUF9kbE9jRl9zWjctOWpaOUlOVnVKSl94S0VPY21UWTRkVjZNQ1p6dUZnTkJzczlySmZHYlZEbXJPZ1BOY2dLR1B0Um9QTVRaZzZ4MkFtRnNBZk5UdEJOb2hZY0NWajdPM2tLZUVHdXQyNEdvOHNGM2p5VXpwRVVLdU1sV21BTXRTR3ctLVBzWWdyLTZGU1JmWGRFTk1UM2tta3pNd2EzSVBra2NVMW95ZG81TWxBU0FBbm50X0dvRGZob0E?oc=5",
+        "published": "Fri, 09 Oct 2026 04:49:02 GMT",
+        "source": "Google News — Northern Virginia"
+      },
+      {
+        "title": "Find Fall Fun at These 11 Northern Virginia Farms - Northern Virginia Magazine",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNeFhqdF9Vc1RvNl9JYkxqV3dIMEVMTTJZdC1NT284RFlvVXdTY0N2UUZuQnNJRU13NUw4cS1xLTU1YjFrZUhEc21BaXc3aTVrVTl1Z0xicVcxVXpUY0p0czR5R2hMQ1ZEczA2WWJSZ2FwaUoyMmZNaWFacWhJQklLdjZOVmUyN0pfRHlLN1M0anZoOHdCSF9TRmxJa2hwSkRlRU1nSU1VUU5Gdw?oc=5",
+        "published": "Thu, 08 Oct 2026 13:03:44 GMT",
+        "source": "Google News — Northern Virginia"
+      },
+      {
+        "title": "Fairfax County Parkway northbound nighttime lane closures in Fairfax Station tonight - Virginia Department of Transportation (.gov)",
+        "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxON1ZEZERFMUZMNm54TFk4UHpVcG5NeFZuQWtDYjlhU2VTamdHbmpuTXNBcFprcUpDb0R6Ty0zTEY4SXhGQVM5Y2MySnpWdGtxcGtkVzRTQ1JvbXJhS3A3VTR0UEw4RTNpNW94c2wyWVhyR3FXQ3VlZ1dQekR5RWFGOVVEZTNCTUJYOWc2RzJjMnpyYUYtbUZ3X3ltZk1FeFRJTnUtZFhKRzRRZzF0NXZDU0pzcVVZQmpCWUVLdmJmc3RYM1p6TjFHdFczY19mV1JoSDJ5QzVfZ254WWxha1dYTlBOTjEtQmltVmJCN2tGRQ?oc=5",
+        "published": "Fri, 09 Oct 2026 20:04:46 GMT",
+        "source": "Google News — Northern Virginia"
+      },
+      {
+        "title": "Escape the Rain at These 7 Indoor Attractions in Northern Virginia - Northern Virginia Magazine",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPQVVxaGxkZklES05GZkd1RjRvN3U1Z1BjdmQzcXdSem9JSmJSS1RXNkhUeGpZOXItWGxmeDNITHNRVjI5YXoxc1ZkTG5FMDdsa19wNXRUNGlVbzVjQ1ZFTm5vdUFQcGhXUmotS0EwdVR4WFZjTS1CX1hrdTktT1Nidk5mbGw0Q3d0aEVFN2xlZUZhaTg5X0hsa1R3b1VvVmtPdk15X2pCRDkxUnJKZVdjbUhqUUFmdlNhVFNMVnM4bV8?oc=5",
+        "published": "Thu, 08 Oct 2026 13:29:11 GMT",
+        "source": "Google News — Northern Virginia"
+      },
+      {
+        "title": "Northern Virginia county sues to block Trump from building his arch - The Washington Post",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxObklWRjdDUUdEVnJLeTRnampjTjN6N3hRWlhMMm1KR1lEVzdxWUlkV2l6OU5VRVNvTkdqZzVJTlpqSmUtZDhEdm5uT3FMcG0yRGhBN0p2SEdGdHZxdnppVmZsQzV3VzB3eFhaRlhzb1g1VVhKVGEtalpSTG9HMTZIeWFXZENjYTdXVVp0UmpYcUxBSlJhcWJaeUxZdGRwUjE3eGc2NA?oc=5",
+        "published": "Fri, 09 Oct 2026 05:50:24 GMT",
+        "source": "Google News — Northern Virginia"
+      },
+      {
+        "title": "Boo! Your 2026 guide to Halloween across Northern Virginia - InsideNoVa.com",
+        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNRHdyX2RCdFpmdzBFNUlxUlh1VjZPOTlzdllPUVNvVFMzZjZaUGJDTEFUYUR6ZkQ1OHIxMTdNY3V2RERuWVBVTlZUcHJaTlFPQ19HclB4ZDNkdmJpMFo1Y29YSzczSmNIWVd1UzBMSDBuWkF3a0FFQUFHeGVQeUNsVGowNndwUm5LX3FfRWN0YmYzakdOWHhJRWFaMURjYWNBQW5nWDBTdko2UGNoTFdVRVVQd1pTR1REQjBDR2JjUWY1X1VJYTZrWE5MMTlnMUNpTzU4bVh3TVc0SGk1?oc=5",
+        "published": "Sat, 10 Oct 2026 15:00:00 GMT",
+        "source": "Google News — Northern Virginia"
+      },
+      {
+        "title": "World Day of Remembrance for Road Traffic Victims - FFXnow",
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPdmNpRV90eHBLUTdCWHY4dlFqLUZ3S3luUlJFQmphc21JMGphaGdfT203bnN2aGxzMTdMcEdYTkJxR09pd2xGQXBQUE5lMTNnMnViLUFhQXBLcW1maVJoUXF3dmNHMXlrdHl5eWNfOTlsbXJDUEZZMmtfMHVfQWxSa0NHSWM0b1k2anA1bXc3b0E?oc=5",
+        "published": "Sun, 11 Oct 2026 08:24:56 GMT",
+        "source": "Google News — Northern Virginia"
+      },
+      {
+        "title": "3 arrested, 6 massage parlors shut down in Manassas human trafficking investigation: Police - DC News Now",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPUlNDLUwzRVJHcmZpQlNNUkJ6UjB6alZJc3hDZWlLdGNRNWtuVkliQUpwTjhHSVJIOFA4WlFTMTczSkRsTGl0NGNZZnl1TklXcng5Q1FDNURKQXFZRnkxaHJyRjhCTS1UNXdvdEJyNktoOG5VNkVSTVJiWWFwTVBxVU1BRlBIRGRUenQ4QUh4WUJMTVJFMm1NZmw5ZGo2Skthc3k40gGoAUFVX3lxTFBvQkRzYW5kZlBxSHgybXZldEVIWWpzbUdQSWhtSkFoWGYzXzJTZm5vaEJuWDFFYU1GMl9JRTBXOGpQYkJ1YWxSTzdad21wa2tZZkc3YkxnSHdmZTV2d00tYzRpNWVZd2J1c3hTWVFOWmROOENDd3gtdHB1N2dWeF9JLW9TNXFxdzg1OWVrT2RVTGZJOGVHWFdjTThZemw3QVVJM0ZFVkxFeg?oc=5",
+        "published": "Thu, 08 Oct 2026 22:38:00 GMT",
+        "source": "Google News — Northern Virginia"
+      }
+    ]
+  },
+  "runs": [
+    "2026-10-11T16:22:05Z"
+  ]
+}
