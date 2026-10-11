@@ -1,6 +1,6 @@
 {
   "date": "2026-10-11",
-  "last_updated_utc": "2026-10-11T17:01:58Z",
+  "last_updated_utc": "2026-10-11T17:45:58Z",
   "hn": {
     "items": [
       {
@@ -209,16 +209,25 @@
         "num_comments": 31,
         "created_at": "2026-10-11T12:06:22Z",
         "objectID": "50042362"
+      },
+      {
+        "title": "Show HN: BetterWispr – Free, open-source dictation for Mac",
+        "url": "https://betterwispr.com/",
+        "points": 71,
+        "author": "kartik017",
+        "num_comments": 38,
+        "created_at": "2026-10-11T12:01:28Z",
+        "objectID": "50042333"
       }
     ]
   },
   "wiki": {
     "today": [],
     "random": {},
-    "fetched_at": "2026-10-11T17:01:51.768355+00:00"
+    "fetched_at": "2026-10-11T17:45:51.693106+00:00"
   },
   "apod": {
-    "fetched_at": "2026-10-11T17:01:52.167848+00:00",
+    "fetched_at": "2026-10-11T17:45:52.405085+00:00",
     "entry": null
   },
   "news": {
@@ -1380,6 +1389,30 @@
         "link": "https://www.nature.com/articles/d41586-026-03005-2",
         "published": "Fri, 25 Sep 2026 00:00:00 +0000",
         "source": "Nature — Technology"
+      },
+      {
+        "title": "Trump announces Ukraine energy ceasefire with Russia, surprising Zelenskiy - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPTEo5WEZxUk5OcWNWU1Z1Z0g4SGlFQmxKckFxbS05WFd6UUxDNE0xa0NZRzZoR004Tms3azQ3aTVfUVIwNXlTU1ljcW9HLTREUGZBVVFiWlpVWXI3V1c3Zmt2UEJ2ME43azRMb0Vlei1iQUNPbzk4bV94bkRGTzBmREMydnBCRzVSclBoVkhrWkx4TFJ2YWdsRS1COGVOWU9pRDJqSUFNRk1pUnpQM2dlQ3o0eGpYSHYzbWdDX3dtQWtYT2Zz?oc=5",
+        "published": "Sun, 11 Oct 2026 17:21:10 GMT",
+        "source": "Reuters — Headlines (Google News)"
+      },
+      {
+        "title": "Poland detains man suspected of planning assassination of PM Tusk",
+        "link": "https://www.bbc.co.uk/news/articles/c6n9rvynl5p5o?at_medium=RSS&at_campaign=rss",
+        "published": "Sun, 11 Oct 2026 17:27:24 GMT",
+        "source": "BBC — World"
+      },
+      {
+        "title": "Citroen revives the 2CV for an electric age",
+        "link": "https://www.bbc.co.uk/news/articles/c620r33plgppo?at_medium=RSS&at_campaign=rss",
+        "published": "Sun, 11 Oct 2026 17:00:05 GMT",
+        "source": "BBC — Business"
+      },
+      {
+        "title": "A third school attack in less than a week shakes Poland - AP News",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNVV9vWmZTTlZuQkZ5ZmxKdjFfUE92YXcxSVJOQjBJbDFWNWdLY2U3SEpBcXd5b2hQcVlQa1doMmpTZ3ctdFJHWlFhX3AwbVZwQzdkSFpQMEZReVdjeVJUQmJIcEdwYUFaYk9Qb2doRmtCNlFPZXFvUktGWWhOVDJuTUpkOTBxTnBFM0Z2c096S2Jnal9YbzU0c05TNERfWUZ4alBlc0pn?oc=5",
+        "published": "Sat, 10 Oct 2026 19:04:30 GMT",
+        "source": "AP — Headlines (Google News)"
       }
     ],
     "local": [
@@ -1664,11 +1697,179 @@
         "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQN0FjRFlNOEdHR1JJNmNHbUNrdUdzQngzcndCWFh2elhPN2x0aHpESVM3bUFYaE4xU3NkVV9Xak1SVkhUT3FBUkc4MzRTOWpLWHhWbjR0RFlzUEhMQTBDXzBfWkszMnNha2U0QXFZbjRYT1dLZTNaczIzTnBvY1JjdW5tdUwzV2ZORERObGRoOE9KZUxwUVRwUS1vZnA0eGgzTEpqUWEtSHRUOU1JRXhaY3ZoOFZiTHowRjdJaHJOVzNOUmhrVVZjZERwRjJaM0U5eDBFbEllVTR5YzJLYmlJ?oc=5",
         "published": "Thu, 04 Dec 2025 08:00:00 GMT",
         "source": "Google News — Northern Virginia weather"
+      },
+      {
+        "title": "Fairfax County students learn traffic rules on school playground - NBC4 Washington",
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOWFdlOWFJc2NOX2xFdTBZSmkxRWZ1ZFpNZWVHUlpCdlZzMGNpWjhhOUFKbGhYOV9hYkVvS3p6ZTE0TUJpMENhTm9vSXZpVnNsUFFnUU5uSWlnNm15SnR6V2c5SGVQYzBHbmZadjgzYlZfNkVCN0RGQVBVeEw4WUZuTnRGZ1EwUHlxeEt1M2xBOUJVUndlMjluRjI0NUY2RldFY0tiS3RaU0dTUHZVS1FFb010bEJXQVFuVjRYUHc4dU1GcktiN0piMWNoWTXSAdQBQVVfeXFMTThKTnlZMllkZlJyMDBlWHZ4RmdRajhkZTV1cmtUWjdtRFdMOWphQmJWUVdGT3lqRTI0bktNVXc5ZjFlXzZnREQzU3FQaHJJWjNzTmZuTUZCVjQ4MkJhV1JyY1g5Vm0zSlY0Y2JrRV9HSFNrLTgxd1QyUXdZNGRJWXI2MkNKZ3dVM01YTzRqWXp2REczNnNlNDdfWTQ3ajdWUE5Cd0dOeldkUERNRjVrNzgyb3hHZ0N6RGVTSE5jUTBQZHNZNzhPNlNlZ2gwcHk5R2swSDg?oc=5",
+        "published": "Tue, 15 Sep 2026 07:00:00 GMT",
+        "source": "Google News — Northern Virginia traffic"
+      },
+      {
+        "title": "Regional transportation agency lays out plan for bus rapid transit - Prince William Times",
+        "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNQ3pZM2hhcHAtRUxsWnozSm4wVWZzRmRydXYtZmV4OEl5WXc3SkV2ckQ5b0ZIZnRUbnBSTlpSUVZYWk9QSFVydTZnZEx4QUZoOFZpaTNzdE51eGxVWS13RExFUU5nVnFIeEJoYS1nZVR4Z0hvZDd2TUFOYTBnSHFsQTU0bDQxV0VLSTZQdDB3TlBCQXNNZ2dmV0ZTWDVoanVBXzlmdTc4SVVBUWtGVjFEaHdBcHNBNEcyM29QajYweVA5WUo5NmNXSG9ZQXVKSlVOZjBmV1Y4MW1uQ3BvN1BMcTI2M1NydEY3WkNSM19iNjRXRm8?oc=5",
+        "published": "Thu, 16 Jul 2026 07:00:00 GMT",
+        "source": "Google News — Northern Virginia traffic"
+      },
+      {
+        "title": "DASH Ridership Jumps 10%—Now Virginia Is Considering a Regional Merger - thezebra.org",
+        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNWWxuZUpPYWJpWGRZRTVkaEY1dElJTVl5NGUzWGViWFVDb2paZFJNUURCbFdZdkhzR2FTbEFxbXFyVkljZk1mcjJlV3kzU2VXYU5LYmUtdy1xRGV5NjFRVkpDaDNQS2loOU5iSEwwV182QkNmQ3FTa3M0Z0dtSzhiZU5OV3FySlZuQ0E?oc=5",
+        "published": "Sun, 13 Sep 2026 07:00:00 GMT",
+        "source": "Google News — Northern Virginia traffic"
       }
     ]
   },
+  "feed_status": [
+    {
+      "source": "Reuters — Headlines (Google News)",
+      "url": "https://news.google.com/rss/search?q=site%3Areuters.com+when%3A2d&hl=en-US&gl=US&ceid=US:en",
+      "status": "ok",
+      "count": 15,
+      "checked_at_utc": "2026-10-11T17:45:52.405108+00:00"
+    },
+    {
+      "source": "Reuters — World (Google News)",
+      "url": "https://news.google.com/rss/search?q=site%3Areuters.com%2Fworld+when%3A2d&hl=en-US&gl=US&ceid=US:en",
+      "status": "ok",
+      "count": 15,
+      "checked_at_utc": "2026-10-11T17:45:52.924234+00:00"
+    },
+    {
+      "source": "Reuters — Business (Google News)",
+      "url": "https://news.google.com/rss/search?q=site%3Areuters.com%2Fbusiness+when%3A2d&hl=en-US&gl=US&ceid=US:en",
+      "status": "ok",
+      "count": 15,
+      "checked_at_utc": "2026-10-11T17:45:53.268415+00:00"
+    },
+    {
+      "source": "BBC — World",
+      "url": "http://feeds.bbci.co.uk/news/world/rss.xml",
+      "status": "ok",
+      "count": 15,
+      "checked_at_utc": "2026-10-11T17:45:53.543338+00:00"
+    },
+    {
+      "source": "BBC — Tech",
+      "url": "http://feeds.bbci.co.uk/news/technology/rss.xml",
+      "status": "ok",
+      "count": 15,
+      "checked_at_utc": "2026-10-11T17:45:53.694326+00:00"
+    },
+    {
+      "source": "BBC — Business",
+      "url": "http://feeds.bbci.co.uk/news/business/rss.xml",
+      "status": "ok",
+      "count": 15,
+      "checked_at_utc": "2026-10-11T17:45:53.941783+00:00"
+    },
+    {
+      "source": "BBC — Science",
+      "url": "http://feeds.bbci.co.uk/news/science_and_environment/rss.xml",
+      "status": "ok",
+      "count": 15,
+      "checked_at_utc": "2026-10-11T17:45:54.034920+00:00"
+    },
+    {
+      "source": "AP — Headlines (Google News)",
+      "url": "https://news.google.com/rss/search?q=site%3Aapnews.com+when%3A2d&hl=en-US&gl=US&ceid=US:en",
+      "status": "ok",
+      "count": 15,
+      "checked_at_utc": "2026-10-11T17:45:54.533607+00:00"
+    },
+    {
+      "source": "AP — Politics (Google News)",
+      "url": "https://news.google.com/rss/search?q=site%3Aapnews.com%2Fhub%2Fpolitics+when%3A2d&hl=en-US&gl=US&ceid=US:en",
+      "status": "empty",
+      "count": 0,
+      "checked_at_utc": "2026-10-11T17:45:55.024340+00:00"
+    },
+    {
+      "source": "AP — Business (Google News)",
+      "url": "https://news.google.com/rss/search?q=site%3Aapnews.com%2Fhub%2Fbusiness+when%3A2d&hl=en-US&gl=US&ceid=US:en",
+      "status": "empty",
+      "count": 0,
+      "checked_at_utc": "2026-10-11T17:45:55.206936+00:00"
+    },
+    {
+      "source": "NPR — Top Stories",
+      "url": "https://feeds.npr.org/1001/rss.xml",
+      "status": "ok",
+      "count": 10,
+      "checked_at_utc": "2026-10-11T17:45:55.402074+00:00"
+    },
+    {
+      "source": "NPR — Politics",
+      "url": "https://feeds.npr.org/1019/rss.xml",
+      "status": "ok",
+      "count": 10,
+      "checked_at_utc": "2026-10-11T17:45:55.698708+00:00"
+    },
+    {
+      "source": "NPR — Business",
+      "url": "https://feeds.npr.org/1007/rss.xml",
+      "status": "ok",
+      "count": 10,
+      "checked_at_utc": "2026-10-11T17:45:55.722352+00:00"
+    },
+    {
+      "source": "NPR — Science",
+      "url": "https://feeds.npr.org/1008/rss.xml",
+      "status": "ok",
+      "count": 10,
+      "checked_at_utc": "2026-10-11T17:45:55.748373+00:00"
+    },
+    {
+      "source": "NPR — Technology",
+      "url": "https://feeds.npr.org/1013/rss.xml",
+      "status": "ok",
+      "count": 10,
+      "checked_at_utc": "2026-10-11T17:45:55.888114+00:00"
+    },
+    {
+      "source": "ScienceNews",
+      "url": "https://www.sciencenews.org/feed",
+      "status": "ok",
+      "count": 15,
+      "checked_at_utc": "2026-10-11T17:45:55.913203+00:00"
+    },
+    {
+      "source": "ScienceDaily — Top",
+      "url": "https://www.sciencedaily.com/rss/top/science.xml",
+      "status": "ok",
+      "count": 15,
+      "checked_at_utc": "2026-10-11T17:45:56.265310+00:00"
+    },
+    {
+      "source": "Nature — Technology",
+      "url": "https://www.nature.com/subjects/technology.rss",
+      "status": "ok",
+      "count": 15,
+      "checked_at_utc": "2026-10-11T17:45:56.525936+00:00"
+    },
+    {
+      "source": "Google News — Northern Virginia",
+      "url": "https://news.google.com/rss/search?q=Northern+Virginia&hl=en-US&gl=US&ceid=US:en",
+      "status": "ok",
+      "count": 15,
+      "checked_at_utc": "2026-10-11T17:45:56.817105+00:00"
+    },
+    {
+      "source": "Google News — Northern Virginia traffic",
+      "url": "https://news.google.com/rss/search?q=Northern+Virginia+traffic+OR+transit&hl=en-US&gl=US&ceid=US:en",
+      "status": "ok",
+      "count": 15,
+      "checked_at_utc": "2026-10-11T17:45:57.312563+00:00"
+    },
+    {
+      "source": "Google News — Northern Virginia weather",
+      "url": "https://news.google.com/rss/search?q=Northern+Virginia+weather+warning+OR+advisory&hl=en-US&gl=US&ceid=US:en",
+      "status": "ok",
+      "count": 15,
+      "checked_at_utc": "2026-10-11T17:45:57.899914+00:00"
+    }
+  ],
   "runs": [
     "2026-10-11T16:22:05Z",
-    "2026-10-11T17:01:58Z"
+    "2026-10-11T17:01:58Z",
+    "2026-10-11T17:45:58Z"
   ]
 }
