@@ -49,17 +49,33 @@ def _news_time(item):
         except (ValueError, TypeError, OverflowError):
             return 0
 
-def top_headlines(items, limit=5):
-    """Prefer fresh, distinct headlines; cap each source label at two when possible."""
+def _headline_key(row):
+    """Prefer stable article identity, then normalize headline punctuation."""
+    from urllib.parse import urlsplit, urlunsplit
+    link = row.get("link", "")
+    if link:
+        url = urlsplit(link)
+        if url.netloc and "news.google.com" not in url.netloc:
+            return "url:" + url.netloc.lower() + url.path.rstrip("/").lower()
+    title = row.get("title", "")
+    title = re.sub(r"\s+-\s+[^-]{2,60}$", "", title)
+    title = re.sub(r"\b(the|a|an)\b", "", title.lower())
+    return "title:" + re.sub(r"[^a-z0-9]+", "", title)
+
+def top_headlines(items, limit=5, max_age_hours=72):
+    """Fresh, diverse, deduplicated headlines; unknown dates retained as fallback."""
+    from datetime import timezone
+    now = datetime.now(timezone.utc).timestamp()
     rows = sorted((r for r in items or [] if r.get("title") and r.get("link")),
                   key=_news_time, reverse=True)
+    fresh = [r for r in rows if not _news_time(r) or 0 <= now - _news_time(r) <= max_age_hours * 3600]
     seen, primary, backup, counts = set(), [], [], {}
-    for row in rows:
-        key = re.sub(r"[^a-z0-9]+", "", row["title"].lower())
+    for row in fresh:
+        key = _headline_key(row)
         if key in seen:
             continue
         seen.add(key)
-        src = row.get("source", "")
+        src = row.get("source", "").split(" — ")[0]
         if counts.get(src, 0) < 2 and len(primary) < limit:
             primary.append(row)
             counts[src] = counts.get(src, 0) + 1
