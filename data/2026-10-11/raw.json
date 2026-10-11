@@ -1,6 +1,6 @@
 {
   "date": "2026-10-11",
-  "last_updated_utc": "2026-10-11T18:20:23Z",
+  "last_updated_utc": "2026-10-11T18:44:54Z",
   "hn": {
     "items": [
       {
@@ -236,6 +236,15 @@
         "num_comments": 2,
         "created_at": "2026-10-10T07:10:17Z",
         "objectID": "50030470"
+      },
+      {
+        "title": "YouTuber builds 'Flock-like' camera to track police vehicles, gets police visit",
+        "url": "https://www.tomshardware.com/tech-industry/cyber-security/canadian-youtuber-builds-flock-like-camera-to-exclusively-track-police-vehicles-officers-visit-his-home-to-express-privacy-concerns",
+        "points": 46,
+        "author": "ljf",
+        "num_comments": 17,
+        "created_at": "2026-10-11T17:40:42Z",
+        "objectID": "50045735"
       }
     ]
   },
@@ -322,11 +331,11 @@
       }
     ],
     "random": {
-      "title": "Student Space Exploration & Technology Initiative",
-      "extract": "The Student Space Exploration & Technology Initiative (SSETI) is a unique project put into execution by students from  different universities spread over European countries. In collaboration with space industry they aim to build microsatellites together.\nMost universities do not have capabilities to build their own complete satellite. The SSETI aims to combine different academic capabilities to realise pan-European student missions. Space projects, which are beyond the local existing capabilities, will be made possible through the fragmentation and redistribution of many small, locally achievable tasks. Ambitious projects, such as a lunar lander, may be realised by this distributed development.",
-      "content_urls": "https://en.wikipedia.org/wiki/Student_Space_Exploration_%26_Technology_Initiative"
+      "title": "Stock Exchange Center",
+      "extract": "The Stock Exchange Center (Polish: Centrum Giełdowe) is an office building in Warsaw, Poland, at 4 Książęca Street, within the South Downtown neighbourhood. It was opened in 2000, and houses the headquarters of the Warsaw Stock Exchange, National Securities Depository, and Power Exchange.",
+      "content_urls": "https://en.wikipedia.org/wiki/Stock_Exchange_Center"
     },
-    "fetched_at": "2026-10-11T18:20:16.398843+00:00",
+    "fetched_at": "2026-10-11T18:44:46.715058+00:00",
     "status": [
       {
         "source": "Wikipedia — On This Day",
@@ -341,7 +350,7 @@
     ]
   },
   "apod": {
-    "fetched_at": "2026-10-11T18:20:16.577181+00:00",
+    "fetched_at": "2026-10-11T18:44:47.391611+00:00",
     "entry": {
       "title": "Ice Fishing for Cosmic Neutrinos",
       "link": "https://science.nasa.gov/image-article/apod-2026-october-11-ice-fishing-for-cosmic-neutrinos/",
@@ -1720,6 +1729,18 @@
         "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE14cmpvQUJHVjlsSjVVdzJUM0J1eXhnTU1ZLVRkS1IzOGRsOGRwaG5ER2ZITExjOTJ2MjI3Qk94V3J5QQ?oc=5",
         "published": "Sat, 10 Oct 2026 17:53:46 GMT",
         "source": "AP — Business (Google News)"
+      },
+      {
+        "title": "Shooting leaves 9 dead including suspect in Erie, Pennsylvania, police say - AP News",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdDlfNkVpRUN6UE1fSVJzM3htbVFTcThFOHl4clZ1UFd1XzFwTGNRYW8wdGswdnFwSnViSlV5RVZjbkZUYlMzX0RXaEI4ZzY0TWR4eE9GWTRTOU50NDVacTdWZUliN0pDYkJCcHVPc2FKbTZKNkhoNXM3YVUzeEtwWEZENTByOWpSRUlGTnlDcmt4dDJXRmlPT3QyZlpSQ3c?oc=5",
+        "published": "Sat, 10 Oct 2026 22:57:00 GMT",
+        "source": "AP — Headlines (Google News)"
+      },
+      {
+        "title": "World News: Top & Breaking World News Today - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE1PRFY2SmRjOGtzcEdoNlUzaU5aR2c4MnhydnlTTm9ZR3lOaEFNbzVhZGd3Zmh2S0IySTVERXRBX3pfTjA?oc=5",
+        "published": "Sun, 11 Oct 2026 16:09:11 GMT",
+        "source": "AP — Business (Google News)"
       }
     ],
     "local": [
@@ -2043,147 +2064,147 @@
       "url": "https://news.google.com/rss/search?q=site%3Areuters.com+when%3A2d&hl=en-US&gl=US&ceid=US:en",
       "status": "ok",
       "count": 15,
-      "checked_at_utc": "2026-10-11T18:20:17.400071+00:00"
+      "checked_at_utc": "2026-10-11T18:44:48.207218+00:00"
     },
     {
       "source": "Reuters — World (Google News)",
       "url": "https://news.google.com/rss/search?q=site%3Areuters.com%2Fworld+when%3A2d&hl=en-US&gl=US&ceid=US:en",
       "status": "ok",
       "count": 15,
-      "checked_at_utc": "2026-10-11T18:20:17.959503+00:00"
+      "checked_at_utc": "2026-10-11T18:44:48.781973+00:00"
     },
     {
       "source": "Reuters — Business (Google News)",
       "url": "https://news.google.com/rss/search?q=site%3Areuters.com%2Fbusiness+when%3A2d&hl=en-US&gl=US&ceid=US:en",
       "status": "ok",
       "count": 15,
-      "checked_at_utc": "2026-10-11T18:20:18.340959+00:00"
+      "checked_at_utc": "2026-10-11T18:44:49.128755+00:00"
     },
     {
       "source": "BBC — World",
       "url": "http://feeds.bbci.co.uk/news/world/rss.xml",
       "status": "ok",
       "count": 15,
-      "checked_at_utc": "2026-10-11T18:20:18.700646+00:00"
+      "checked_at_utc": "2026-10-11T18:44:49.375278+00:00"
     },
     {
       "source": "BBC — Tech",
       "url": "http://feeds.bbci.co.uk/news/technology/rss.xml",
       "status": "ok",
       "count": 15,
-      "checked_at_utc": "2026-10-11T18:20:18.872580+00:00"
+      "checked_at_utc": "2026-10-11T18:44:49.539263+00:00"
     },
     {
       "source": "BBC — Business",
       "url": "http://feeds.bbci.co.uk/news/business/rss.xml",
       "status": "ok",
       "count": 15,
-      "checked_at_utc": "2026-10-11T18:20:18.937139+00:00"
+      "checked_at_utc": "2026-10-11T18:44:50.042806+00:00"
     },
     {
       "source": "BBC — Science",
       "url": "http://feeds.bbci.co.uk/news/science_and_environment/rss.xml",
       "status": "ok",
       "count": 15,
-      "checked_at_utc": "2026-10-11T18:20:19.026129+00:00"
+      "checked_at_utc": "2026-10-11T18:44:50.201287+00:00"
     },
     {
       "source": "AP — Headlines (Google News)",
       "url": "https://news.google.com/rss/search?q=site%3Aapnews.com+when%3A2d&hl=en-US&gl=US&ceid=US:en",
       "status": "ok",
       "count": 15,
-      "checked_at_utc": "2026-10-11T18:20:19.472087+00:00"
+      "checked_at_utc": "2026-10-11T18:44:50.350323+00:00"
     },
     {
       "source": "AP — Politics (Google News)",
       "url": "https://news.google.com/rss/search?q=site%3Aapnews.com+politics+when%3A2d&hl=en-US&gl=US&ceid=US:en",
       "status": "ok",
       "count": 15,
-      "checked_at_utc": "2026-10-11T18:20:20.002001+00:00"
+      "checked_at_utc": "2026-10-11T18:44:50.827482+00:00"
     },
     {
       "source": "AP — Business (Google News)",
       "url": "https://news.google.com/rss/search?q=site%3Aapnews.com+business+economy+when%3A2d&hl=en-US&gl=US&ceid=US:en",
       "status": "ok",
       "count": 15,
-      "checked_at_utc": "2026-10-11T18:20:20.518925+00:00"
+      "checked_at_utc": "2026-10-11T18:44:51.360876+00:00"
     },
     {
       "source": "NPR — Top Stories",
       "url": "https://feeds.npr.org/1001/rss.xml",
       "status": "ok",
       "count": 10,
-      "checked_at_utc": "2026-10-11T18:20:20.872184+00:00"
+      "checked_at_utc": "2026-10-11T18:44:51.829300+00:00"
     },
     {
       "source": "NPR — Politics",
       "url": "https://feeds.npr.org/1019/rss.xml",
       "status": "ok",
       "count": 10,
-      "checked_at_utc": "2026-10-11T18:20:21.135147+00:00"
+      "checked_at_utc": "2026-10-11T18:44:51.933609+00:00"
     },
     {
       "source": "NPR — Business",
       "url": "https://feeds.npr.org/1007/rss.xml",
       "status": "ok",
       "count": 10,
-      "checked_at_utc": "2026-10-11T18:20:21.336678+00:00"
+      "checked_at_utc": "2026-10-11T18:44:51.971725+00:00"
     },
     {
       "source": "NPR — Science",
       "url": "https://feeds.npr.org/1008/rss.xml",
       "status": "ok",
       "count": 10,
-      "checked_at_utc": "2026-10-11T18:20:21.380200+00:00"
+      "checked_at_utc": "2026-10-11T18:44:52.025089+00:00"
     },
     {
       "source": "NPR — Technology",
       "url": "https://feeds.npr.org/1013/rss.xml",
       "status": "ok",
       "count": 10,
-      "checked_at_utc": "2026-10-11T18:20:21.425382+00:00"
+      "checked_at_utc": "2026-10-11T18:44:52.113894+00:00"
     },
     {
       "source": "ScienceNews",
       "url": "https://www.sciencenews.org/feed",
       "status": "ok",
       "count": 15,
-      "checked_at_utc": "2026-10-11T18:20:21.510128+00:00"
+      "checked_at_utc": "2026-10-11T18:44:52.207355+00:00"
     },
     {
       "source": "ScienceDaily — Top",
       "url": "https://www.sciencedaily.com/rss/top/science.xml",
       "status": "ok",
       "count": 15,
-      "checked_at_utc": "2026-10-11T18:20:21.664497+00:00"
+      "checked_at_utc": "2026-10-11T18:44:52.326427+00:00"
     },
     {
       "source": "Nature — Technology",
       "url": "https://www.nature.com/subjects/technology.rss",
       "status": "ok",
       "count": 15,
-      "checked_at_utc": "2026-10-11T18:20:21.888401+00:00"
+      "checked_at_utc": "2026-10-11T18:44:52.724112+00:00"
     },
     {
       "source": "Google News — Northern Virginia",
       "url": "https://news.google.com/rss/search?q=Northern+Virginia&hl=en-US&gl=US&ceid=US:en",
       "status": "ok",
       "count": 15,
-      "checked_at_utc": "2026-10-11T18:20:22.134539+00:00"
+      "checked_at_utc": "2026-10-11T18:44:53.079735+00:00"
     },
     {
       "source": "Google News — Northern Virginia traffic",
       "url": "https://news.google.com/rss/search?q=Northern+Virginia+traffic+OR+transit&hl=en-US&gl=US&ceid=US:en",
       "status": "ok",
       "count": 15,
-      "checked_at_utc": "2026-10-11T18:20:22.668278+00:00"
+      "checked_at_utc": "2026-10-11T18:44:53.602355+00:00"
     },
     {
       "source": "Google News — Northern Virginia weather",
       "url": "https://news.google.com/rss/search?q=Northern+Virginia+weather+warning+OR+advisory&hl=en-US&gl=US&ceid=US:en",
       "status": "ok",
       "count": 15,
-      "checked_at_utc": "2026-10-11T18:20:23.302872+00:00"
+      "checked_at_utc": "2026-10-11T18:44:54.091825+00:00"
     },
     {
       "source": "Wikipedia — On This Day",
@@ -2205,6 +2226,7 @@
     "2026-10-11T16:22:05Z",
     "2026-10-11T17:01:58Z",
     "2026-10-11T17:45:58Z",
-    "2026-10-11T18:20:23Z"
+    "2026-10-11T18:20:23Z",
+    "2026-10-11T18:44:54Z"
   ]
 }
