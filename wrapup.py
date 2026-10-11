@@ -14,7 +14,7 @@ try:
 except Exception:
     from backports.zoneinfo import ZoneInfo  # unlikely on Actions
 
-from utils.summarize import summarize
+from utils.summarize import summarize_news, top_headlines
 
 ROOT = Path(__file__).parent.resolve()
 DATA = ROOT / "data"
@@ -73,20 +73,7 @@ def synthesize_day(raw: dict) -> str:
     local = news.get("local") or []
     hn_items = (raw.get("hn") or {}).get("items", []) or []
 
-    titles = []
-    # Prioritize world + local for the day’s brief
-    titles += [ (it or {}).get("title") or "" for it in world[:40] ]
-    titles += [ (it or {}).get("title") or "" for it in local[:20] ]
-    # Add a bit of HN context (tech/industry pulse)
-    titles += [ (it or {}).get("title") or "" for it in hn_items[:15] ]
-
-    blob = ". ".join([t for t in titles if t]).strip()
-    if not blob:
-        return "Today’s coverage was light. See the links below for details."
-
-    # Produce a crisp 2–3 sentence neutral brief
-    brief = summarize(blob, max_sentences=3)
-    return brief or "A cross-section of global, local, and technology headlines shaped today’s coverage."
+    return summarize_news(news)
 
 def build_email_payload(raw: dict) -> tuple[str, str]:
     date = raw.get("date") or now_local().date().isoformat()
@@ -98,8 +85,8 @@ def build_email_payload(raw: dict) -> tuple[str, str]:
     hn_items = (raw.get("hn") or {}).get("items", []) or []
 
     # Dedup + take N
-    world_block = _fmt_list(world, take=5, with_source=True)
-    local_block = _fmt_list(local, take=5, with_source=True)
+    world_block = _fmt_list(top_headlines(world, 5), take=5, with_source=True)
+    local_block = _fmt_list(top_headlines(local, 5), take=5, with_source=True)
 
     # HN Top 10 (dedup by objectID)
     seen_ids, hn_top = set(), []
@@ -180,6 +167,8 @@ def main():
         return
 
     raw = load_raw(d)
+    if not ((raw.get("news") or {}).get("world") or (raw.get("news") or {}).get("local")):
+        raise RuntimeError("Refusing to send empty daily news email")
     subject, html = build_email_payload(raw)
 
     (OUT / "email_subject.txt").write_text(subject, encoding="utf-8")
