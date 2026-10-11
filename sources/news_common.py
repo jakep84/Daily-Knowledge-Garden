@@ -1,71 +1,50 @@
-# sources/news_common.py
+"""RSS collection with observable per-feed status."""
 from __future__ import annotations
-from dataclasses import dataclass, asdict
-from typing import List, Dict, Any
-import time
+from datetime import datetime, timezone
+from typing import Any
 import feedparser
+import requests
 
-# Normalize RSS entries into a simple shape
-@dataclass
-class NewsItem:
-    title: str
-    link: str
-    published: str
-    source: str
+FEED_STATUS: list[dict[str, Any]] = []
 
-    def to_dict(self) -> Dict[str, Any]:
-        return asdict(self)
-
-def _safe(entry: dict, key: str, default: str = "") -> str:
-    val = entry.get(key) or ""
-    if isinstance(val, list) and val:
-        val = val[0]
-    return str(val)
-
+def reset_status() -> None:
+    FEED_STATUS.clear()
 
 def fetch_rss(url: str, source: str, limit: int = 15) -> list[dict]:
-    import requests
-    import feedparser
-
     response = requests.get(
         url,
-        headers={"User-Agent": "DailyKnowledgeGarden/1.0"},
+        headers={"User-Agent": "DailyKnowledgeGarden/1.1 (+https://github.com/jakep84/Daily-Knowledge-Garden)"},
         timeout=20,
     )
     response.raise_for_status()
+    parsed = feedparser.parse(response.content)
+    if parsed.bozo and not parsed.entries:
+        raise ValueError(f"Malformed feed: {parsed.bozo_exception}")
 
-    feed = feedparser.parse(response.content)
-
-    if feed.bozo and not feed.entries:
-        raise ValueError(
-            f"Invalid feed: {feed.bozo_exception}"
-        )
-
-    if not feed.entries:
-        print(f"[WARNING] {source}: zero articles")
-        return []
-
-    articles = [
-        {
-            "title": entry.get("title", ""),
-            "link": entry.get("link", ""),
-            "published": entry.get("published", ""),
-            "source": source,
-        }
-        for entry in feed.entries[:limit]
-        if entry.get("title") and entry.get("link")
+    items = [
+        {"title": str(e.get("title", "")).strip(),
+         "link": str(e.get("link", "")).strip(),
+         "published": str(e.get("published", "")),
+         "source": source}
+        for e in parsed.entries[:limit]
+        if e.get("title") and e.get("link")
     ]
+    return items
 
-    print(f"[OK] {source}: {len(articles)} articles")
-    return articles
-
-
-def fetch_many(sources: List[tuple]) -> List[Dict[str, Any]]:
-    """sources = [(url, 'Label'), ...]"""
-    out: List[Dict[str, Any]] = []
+def fetch_many(sources: list[tuple[str, str]]) -> list[dict]:
+    articles: list[dict] = []
     for url, label in sources:
+        checked_at = datetime.now(timezone.utc).isoformat()
         try:
-            out.extend(fetch_rss(url, label))
-        except Exception as e:
-            print(f"[ERROR] {label}: {type(e).__name__}: {e}")
-        return out
+            items = fetch_rss(url, label)
+            status = "ok" if items else "empty"
+            FEED_STATUS.append({"source": label, "url": url, "status": status,
+                                "count": len(items), "checked_at_utc": checked_at})
+            print(f"[FEED] {status.upper():5} {label}: {len(items)} articles", flush=True)
+            articles.extend(items)
+        except Exception as exc:
+            message = f"{type(exc).__name__}: {exc}"
+            FEED_STATUS.append({"source": label, "url": url, "status": "error",
+                                "count": 0, "error": message, "checked_at_utc": checked_at})
+            print(f"::warning title=Feed failed::{label}: {message}", flush=True)
+    return articles
