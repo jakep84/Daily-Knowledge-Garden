@@ -1,6 +1,6 @@
 {
   "date": "2026-10-11",
-  "last_updated_utc": "2026-10-11T20:30:49Z",
+  "last_updated_utc": "2026-10-11T20:55:52Z",
   "hn": {
     "items": [
       {
@@ -308,6 +308,24 @@
         "num_comments": 18,
         "created_at": "2026-10-10T00:34:34Z",
         "objectID": "50028264"
+      },
+      {
+        "title": "Akhetonics Photonic Computing: 1,000x Faster CPUs",
+        "url": "https://medium.com/@timventura/akhetonics-photonic-computing-1-000x-faster-cpus-b9e91c470079",
+        "points": 42,
+        "author": "peter_d_sherman",
+        "num_comments": 23,
+        "created_at": "2026-10-08T17:08:05Z",
+        "objectID": "50008566"
+      },
+      {
+        "title": "apsw: Another Python SQLite Wrapper",
+        "url": "https://github.com/rogerbinns/apsw",
+        "points": 41,
+        "author": "tosh",
+        "num_comments": 11,
+        "created_at": "2026-10-11T16:58:22Z",
+        "objectID": "50045273"
       }
     ]
   },
@@ -394,11 +412,11 @@
       }
     ],
     "random": {
-      "title": "Yūtoku Inari Shrine",
-      "extract": "Yūtoku Inari Shrine (祐徳稲荷神社, Yūtoku Inari Jinja) is a shrine located in Kashima City, Saga Prefecture. It is one of the most famous Inari shrines in Japan.\n\n",
-      "content_urls": "https://en.wikipedia.org/wiki/Y%C5%ABtoku_Inari_Shrine"
+      "title": "Alameda del Valle",
+      "extract": "Alameda del Valle is a municipality in Spain, 92 kilometres (57 mi) northeast of Madrid.",
+      "content_urls": "https://en.wikipedia.org/wiki/Alameda_del_Valle"
     },
-    "fetched_at": "2026-10-11T20:30:40.673210+00:00",
+    "fetched_at": "2026-10-11T20:55:45.210741+00:00",
     "status": [
       {
         "source": "Wikipedia — On This Day",
@@ -413,7 +431,7 @@
     ]
   },
   "apod": {
-    "fetched_at": "2026-10-11T20:30:42.594084+00:00",
+    "fetched_at": "2026-10-11T20:55:45.568312+00:00",
     "entry": {
       "title": "Ice Fishing for Cosmic Neutrinos",
       "link": "https://science.nasa.gov/image-article/apod-2026-october-11-ice-fishing-for-cosmic-neutrinos/",
@@ -1871,6 +1889,18 @@
         "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPQTVIZ3E1QmFPdVhfeHhERWNMSHMzckVTck8za2p1b1A5ajNIT1VCa1dBUVhNTVhadXhKZV9CclF4aEswTGRxanNxa1FzSnVDd0kxSWlGZF9EakUybFhISzJhRmtCeDV4VExwcC12Q1dkVDhDV1B2eENwODdtM0F0MUJQVGtEbDNYN3pZU1UzeUo5NnNlVlE1TTgwTlFjUGMyb2hNOXFGc09EdFZBbTctTlRCM19ZbDczelFhZ0xIdmVwT014cURLcnFFcjBfeE9J?oc=5",
         "published": "Sun, 11 Oct 2026 19:08:29 GMT",
         "source": "Reuters — Headlines (Google News)"
+      },
+      {
+        "title": "Russian attacks kill six people in two Ukrainian cities - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOWWV5d3JyTHZnTzJMQk5Dbm5fQ0tBb1hnOUhJc3hhNDJqb3NMSTFaTWNVelN6Z1FXdWpJSHBpOU1icE95Z1hKcEJJQmRkWXdtWGRBSkpBVVZ5aENPaEZWNnJPaVppYjBCVzFQS1FMYlhQZHFsZTQ1V25MMnVKQjNKVl90TENLSXFYUkstblpkZkFtWGtUU0t3Y1NR?oc=5",
+        "published": "Sun, 11 Oct 2026 19:05:43 GMT",
+        "source": "Reuters — Headlines (Google News)"
+      },
+      {
+        "title": "'Prepare for the unthinkable' warning over autumn flooding",
+        "link": "https://www.bbc.co.uk/news/articles/cm4g1pqyqzqwo?at_medium=RSS&at_campaign=rss",
+        "published": "Sun, 11 Oct 2026 20:51:30 GMT",
+        "source": "BBC — Science"
       }
     ],
     "local": [
@@ -2194,147 +2224,147 @@
       "url": "https://news.google.com/rss/search?q=site%3Areuters.com+when%3A2d&hl=en-US&gl=US&ceid=US:en",
       "status": "ok",
       "count": 15,
-      "checked_at_utc": "2026-10-11T20:30:43.493816+00:00"
+      "checked_at_utc": "2026-10-11T20:55:46.692621+00:00"
     },
     {
       "source": "Reuters — World (Google News)",
       "url": "https://news.google.com/rss/search?q=site%3Areuters.com%2Fworld+when%3A2d&hl=en-US&gl=US&ceid=US:en",
       "status": "ok",
       "count": 15,
-      "checked_at_utc": "2026-10-11T20:30:44.007141+00:00"
+      "checked_at_utc": "2026-10-11T20:55:47.221782+00:00"
     },
     {
       "source": "Reuters — Business (Google News)",
       "url": "https://news.google.com/rss/search?q=site%3Areuters.com%2Fbusiness+when%3A2d&hl=en-US&gl=US&ceid=US:en",
       "status": "ok",
       "count": 15,
-      "checked_at_utc": "2026-10-11T20:30:44.387236+00:00"
+      "checked_at_utc": "2026-10-11T20:55:47.543038+00:00"
     },
     {
       "source": "BBC — World",
       "url": "http://feeds.bbci.co.uk/news/world/rss.xml",
       "status": "ok",
       "count": 15,
-      "checked_at_utc": "2026-10-11T20:30:44.698030+00:00"
+      "checked_at_utc": "2026-10-11T20:55:47.771246+00:00"
     },
     {
       "source": "BBC — Tech",
       "url": "http://feeds.bbci.co.uk/news/technology/rss.xml",
       "status": "ok",
       "count": 15,
-      "checked_at_utc": "2026-10-11T20:30:44.822603+00:00"
+      "checked_at_utc": "2026-10-11T20:55:47.931007+00:00"
     },
     {
       "source": "BBC — Business",
       "url": "http://feeds.bbci.co.uk/news/business/rss.xml",
       "status": "ok",
       "count": 15,
-      "checked_at_utc": "2026-10-11T20:30:44.937157+00:00"
+      "checked_at_utc": "2026-10-11T20:55:48.098388+00:00"
     },
     {
       "source": "BBC — Science",
       "url": "http://feeds.bbci.co.uk/news/science_and_environment/rss.xml",
       "status": "ok",
       "count": 15,
-      "checked_at_utc": "2026-10-11T20:30:45.017662+00:00"
+      "checked_at_utc": "2026-10-11T20:55:48.313800+00:00"
     },
     {
       "source": "AP — Headlines (Google News)",
       "url": "https://news.google.com/rss/search?q=site%3Aapnews.com+when%3A2d&hl=en-US&gl=US&ceid=US:en",
       "status": "ok",
       "count": 15,
-      "checked_at_utc": "2026-10-11T20:30:45.552994+00:00"
+      "checked_at_utc": "2026-10-11T20:55:48.497834+00:00"
     },
     {
       "source": "AP — Politics (Google News)",
       "url": "https://news.google.com/rss/search?q=site%3Aapnews.com+politics+when%3A2d&hl=en-US&gl=US&ceid=US:en",
       "status": "ok",
       "count": 15,
-      "checked_at_utc": "2026-10-11T20:30:46.079211+00:00"
+      "checked_at_utc": "2026-10-11T20:55:48.993276+00:00"
     },
     {
       "source": "AP — Business (Google News)",
       "url": "https://news.google.com/rss/search?q=site%3Aapnews.com+business+economy+when%3A2d&hl=en-US&gl=US&ceid=US:en",
       "status": "ok",
       "count": 15,
-      "checked_at_utc": "2026-10-11T20:30:46.669801+00:00"
+      "checked_at_utc": "2026-10-11T20:55:49.485319+00:00"
     },
     {
       "source": "NPR — Top Stories",
       "url": "https://feeds.npr.org/1001/rss.xml",
       "status": "ok",
       "count": 10,
-      "checked_at_utc": "2026-10-11T20:30:46.966755+00:00"
+      "checked_at_utc": "2026-10-11T20:55:49.745126+00:00"
     },
     {
       "source": "NPR — Politics",
       "url": "https://feeds.npr.org/1019/rss.xml",
       "status": "ok",
       "count": 10,
-      "checked_at_utc": "2026-10-11T20:30:47.042230+00:00"
+      "checked_at_utc": "2026-10-11T20:55:50.067019+00:00"
     },
     {
       "source": "NPR — Business",
       "url": "https://feeds.npr.org/1007/rss.xml",
       "status": "ok",
       "count": 10,
-      "checked_at_utc": "2026-10-11T20:30:47.141148+00:00"
+      "checked_at_utc": "2026-10-11T20:55:50.105917+00:00"
     },
     {
       "source": "NPR — Science",
       "url": "https://feeds.npr.org/1008/rss.xml",
       "status": "ok",
       "count": 10,
-      "checked_at_utc": "2026-10-11T20:30:47.178667+00:00"
+      "checked_at_utc": "2026-10-11T20:55:50.175137+00:00"
     },
     {
       "source": "NPR — Technology",
       "url": "https://feeds.npr.org/1013/rss.xml",
       "status": "ok",
       "count": 10,
-      "checked_at_utc": "2026-10-11T20:30:47.207188+00:00"
+      "checked_at_utc": "2026-10-11T20:55:50.219669+00:00"
     },
     {
       "source": "ScienceNews",
       "url": "https://www.sciencenews.org/feed",
       "status": "ok",
       "count": 15,
-      "checked_at_utc": "2026-10-11T20:30:47.422766+00:00"
+      "checked_at_utc": "2026-10-11T20:55:50.265984+00:00"
     },
     {
       "source": "ScienceDaily — Top",
       "url": "https://www.sciencedaily.com/rss/top/science.xml",
       "status": "ok",
       "count": 15,
-      "checked_at_utc": "2026-10-11T20:30:47.755297+00:00"
+      "checked_at_utc": "2026-10-11T20:55:50.680948+00:00"
     },
     {
       "source": "Nature — Technology",
       "url": "https://www.nature.com/subjects/technology.rss",
       "status": "ok",
       "count": 15,
-      "checked_at_utc": "2026-10-11T20:30:47.939222+00:00"
+      "checked_at_utc": "2026-10-11T20:55:51.060895+00:00"
     },
     {
       "source": "Google News — Northern Virginia",
       "url": "https://news.google.com/rss/search?q=Northern+Virginia&hl=en-US&gl=US&ceid=US:en",
       "status": "ok",
       "count": 15,
-      "checked_at_utc": "2026-10-11T20:30:48.037762+00:00"
+      "checked_at_utc": "2026-10-11T20:55:51.358551+00:00"
     },
     {
       "source": "Google News — Northern Virginia traffic",
       "url": "https://news.google.com/rss/search?q=Northern+Virginia+traffic+OR+transit&hl=en-US&gl=US&ceid=US:en",
       "status": "ok",
       "count": 15,
-      "checked_at_utc": "2026-10-11T20:30:48.531085+00:00"
+      "checked_at_utc": "2026-10-11T20:55:51.861683+00:00"
     },
     {
       "source": "Google News — Northern Virginia weather",
       "url": "https://news.google.com/rss/search?q=Northern+Virginia+weather+warning+OR+advisory&hl=en-US&gl=US&ceid=US:en",
       "status": "ok",
       "count": 15,
-      "checked_at_utc": "2026-10-11T20:30:49.075067+00:00"
+      "checked_at_utc": "2026-10-11T20:55:52.376870+00:00"
     },
     {
       "source": "Wikipedia — On This Day",
@@ -2359,6 +2389,7 @@
     "2026-10-11T18:20:23Z",
     "2026-10-11T18:44:54Z",
     "2026-10-11T20:16:46Z",
-    "2026-10-11T20:30:49Z"
+    "2026-10-11T20:30:49Z",
+    "2026-10-11T20:55:52Z"
   ]
 }
