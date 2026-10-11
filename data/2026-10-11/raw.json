@@ -1,6 +1,6 @@
 {
   "date": "2026-10-11",
-  "last_updated_utc": "2026-10-11T18:44:54Z",
+  "last_updated_utc": "2026-10-11T20:16:46Z",
   "hn": {
     "items": [
       {
@@ -245,6 +245,60 @@
         "num_comments": 17,
         "created_at": "2026-10-11T17:40:42Z",
         "objectID": "50045735"
+      },
+      {
+        "title": "NYC's \"Click to Cancel\" rule is now in effect",
+        "url": "https://www.nyc.gov/main/click-to-cancel",
+        "points": 164,
+        "author": "gregsadetsky",
+        "num_comments": 61,
+        "created_at": "2026-10-11T18:01:16Z",
+        "objectID": "50045946"
+      },
+      {
+        "title": "Total Annihilation, rebuilt for modern computers",
+        "url": "https://nanolathe.gg",
+        "points": 144,
+        "author": "jttnr",
+        "num_comments": 67,
+        "created_at": "2026-10-11T18:04:47Z",
+        "objectID": "50045984"
+      },
+      {
+        "title": "How to Build Wealth as a Career Person",
+        "url": "https://asheradeniyi.com/2026/04/10/how-to-build-wealth-as-a-career-person/",
+        "points": 79,
+        "author": "doppp",
+        "num_comments": 80,
+        "created_at": "2026-10-11T16:03:58Z",
+        "objectID": "50044715"
+      },
+      {
+        "title": "How I reverse engineered a commercial spatial audio effect",
+        "url": "http://epestr.com/blog/reverse-engineering-a-commercial-spatial-audio-effect/",
+        "points": 59,
+        "author": "epestr",
+        "num_comments": 22,
+        "created_at": "2026-10-11T15:21:58Z",
+        "objectID": "50044272"
+      },
+      {
+        "title": "Plumbers, chains, and famous painters: The history of the pipe operator in R",
+        "url": "http://adolfoalvarez.cl/blog/2021-09-16-plumbers-chains-and-famous-painters-the-history-of-the-pipe-operator-in-r/",
+        "points": 44,
+        "author": "sinnsro",
+        "num_comments": 2,
+        "created_at": "2026-10-09T11:20:49Z",
+        "objectID": "50018929"
+      },
+      {
+        "title": "Be The Onion's Hero for Once",
+        "url": "https://mailchi.mp/email.theonion.com/archivehunt",
+        "points": 42,
+        "author": "mooreds",
+        "num_comments": 0,
+        "created_at": "2026-10-11T19:43:32Z",
+        "objectID": "50047055"
       }
     ]
   },
@@ -331,11 +385,11 @@
       }
     ],
     "random": {
-      "title": "Stock Exchange Center",
-      "extract": "The Stock Exchange Center (Polish: Centrum Giełdowe) is an office building in Warsaw, Poland, at 4 Książęca Street, within the South Downtown neighbourhood. It was opened in 2000, and houses the headquarters of the Warsaw Stock Exchange, National Securities Depository, and Power Exchange.",
-      "content_urls": "https://en.wikipedia.org/wiki/Stock_Exchange_Center"
+      "title": "Bushy Creek Trail",
+      "extract": "The Bushy Creek Trail is a shared use path for cyclists and pedestrians in the inner eastern suburb of Box Hill North in Melbourne, Victoria, Australia.\nThe trail has some short road sections including an unshared path along Springfield Road.",
+      "content_urls": "https://en.wikipedia.org/wiki/Bushy_Creek_Trail"
     },
-    "fetched_at": "2026-10-11T18:44:46.715058+00:00",
+    "fetched_at": "2026-10-11T20:16:37.975776+00:00",
     "status": [
       {
         "source": "Wikipedia — On This Day",
@@ -350,10 +404,11 @@
     ]
   },
   "apod": {
-    "fetched_at": "2026-10-11T18:44:47.391611+00:00",
+    "fetched_at": "2026-10-11T20:16:38.256961+00:00",
     "entry": {
       "title": "Ice Fishing for Cosmic Neutrinos",
       "link": "https://science.nasa.gov/image-article/apod-2026-october-11-ice-fishing-for-cosmic-neutrinos/",
+      "image_url": "https://assets.science.nasa.gov/content/dam/science/cds/apod/apod/2026/october/deephole_icecube_4000.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
       "summary": "<strong>Explanation:</strong> Scientists are melting holes in the bottom of the world. In fact, almost 100 holes melted near the <a href=\"https://science.nasa.gov/image-article/apod-2000-december-23-summer-at-the-south-pole/\">South Pole</a> are now being used as an astronomical observatory. Astronomers with the <a href=\"https://icecube.wisc.edu/\">IceCube Neutrino Observatory</a> lowered a long string knotted with basketball-sized light detectors into each vertical lake. The water in each hole soon refreezes. The detectors attached to the strings are sensitive to <a href=\"https://en.wikipedia.org/wiki/Cherenkov_radiation\">blue light</a> emitted in the surrounding <a href=\"https://science.nasa.gov/image-article/apod-2011-december-11-searching-for-meteorites-in-antarctica/\">clear ice</a>. Such light results from fast-moving <a href=\"https://en.wikipedia.org/wiki/Muon\">secondary particles</a> liberated when high-energy <a href=\"https://science.nasa.gov/universe/stories/quick-reads/youre-always-surrounded-by-neutrinos/\">neutrinos</a> emitted by <a href=\"https://svs.gsfc.nasa.gov/20281/\">powerful processes</a> out in the universe collide with ice molecules. <a href=\"https://icecube.wisc.edu/about-us/overview/\">IceCube</a> has now detected many illuminating neutrinos. Pictured in 2010, one of the last of IceCube's <a href=\"https://icecube.wisc.edu/science/icecube/\">detector strings</a> is lowered into the <a href=\"https://science.nasa.gov/image-article/apod-2015-april-12-sentinels-of-the-arctic/\">freezing abyss</a>, making IceCube the largest <a href=\"https://en.wikipedia.org/wiki/Neutrino_detector#Neutrino_telescopes\">neutrino detector</a> ever created. In recognition of <a href=\"https://icecube.wisc.edu/science/research/\">unprecedented discoveries</a>, it was announced earlier this week that <a href=\"https://icecube.wisc.edu/news/awards/2026/10/francis-halzen-icecube-principal-investigator-wins-2026-physics-nobel-prize/\">a founding leader</a><a> of the </a><a href=\"https://icecube.wisc.edu/collaboration/meet-the-collaboration/\">IceCube Collaboration</a> will be awarded the <a href=\"https://www.nobelprize.org/prizes/lists/all-nobel-prizes-in-physics/\">Nobel Prize in Physics</a>.<br><br><strong>Tomorrow's picture:</strong> Moons Planet",
       "published": "2026-10-11",
       "media_type": "image"
@@ -1741,6 +1796,66 @@
         "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE1PRFY2SmRjOGtzcEdoNlUzaU5aR2c4MnhydnlTTm9ZR3lOaEFNbzVhZGd3Zmh2S0IySTVERXRBX3pfTjA?oc=5",
         "published": "Sun, 11 Oct 2026 16:09:11 GMT",
         "source": "AP — Business (Google News)"
+      },
+      {
+        "title": "Ukraine awaits details of ceasefire proposals from US, Russia maintains attacks, Zelenskiy says - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNZTR1Z25uRUdFdldVQ2h6clhMSlEyZVB4cHJ6QTlsNlpIM0Qzbi0zOXlFZFk5MjFCcVV6RnFrV0JmY2RfRlQ0bzhwQ1ZkMUxaTDl4SGR0VWtFZWQtQ2FxdjZocnNDMEMyTjZtTnNWdmhGc0o0ZlJCYmRaSzF1LVg2NUNOMlc2ZDVidWlxS0VYZ1NZMzVLdG9ZNlBVZU9mT2REdzM0SmR6ZlBXdzdTVTRsYjlhb1ZqSW80bjhEc24xRWNaNjZUbUlrQw?oc=5",
+        "published": "Sun, 11 Oct 2026 18:22:07 GMT",
+        "source": "Reuters — Headlines (Google News)"
+      },
+      {
+        "title": "Glucksmann wins centre-left ticket for France's presidential election - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZm5uVy1lOUtnaFNBS0NrQ2Z3XzhKakFTLTlISS1wWm5raHJvR0VHUXN3ODk0anh1VkZNLUl0OE53dEtLZS1CVnNncEZuN09FRGJDVi1ZSGMxVk01MmVrVF9vN2lIZV8zZkp2SGlJU0NkT0FwVGFzenFLVDRxVk9jODZYYVRPamotaVo5NkVCVGh3TVQ4eG1FQUd2TG04YzlubUtqRURsaG0zdw?oc=5",
+        "published": "Sun, 11 Oct 2026 17:23:45 GMT",
+        "source": "Reuters — Headlines (Google News)"
+      },
+      {
+        "title": "Prominent Republican senator says Trump's Russian diesel deal may be illegal - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPcDdtenR1Q0JlMzNKUUlHb0ROcUkwZHVpRlQ4ZDFDT2d2WlJndmVVMldTdC1EZkp6TUhSSHNNOWU3SFh3YnJVVk1wTFZIRl9nQTh5OEhHaGtUd1ZOUmJyaGtUOFJIZkFOb2E2N1VtREhDVEZFaHVPMXdaM3pRYlVLWUxTUW45WEllbmNVQ3RQTjZBSDltRXJIbUtJVHJGcU9lVEtNMTgtT0l5VWh2Tk5YQWdma0piSGhMWDQyYkhtc0tkZ2tNelE?oc=5",
+        "published": "Sun, 11 Oct 2026 19:10:09 GMT",
+        "source": "Reuters — Headlines (Google News)"
+      },
+      {
+        "title": "Stellantis bets on small affordable EVs for European comeback - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNQ3Vnc21nNnBpSEFHQW5rSEIweVpPVHU1aHNfLXhscElQQ3NZU21kOGNOMXlVVWdiTE1raXhHdjhKMDJpYUhqZURGM2NyS21MVjdzQVl1ckVJdkk2U3MzcVFLX05QU05rUG1VNWZMcDBFYmd4NVNoNzF6aVk2QVNyMjhEYk9xb0d1bnlsZkpKdFJBaGYxamd3QVB1Z25BVGFhQjM4Wkw1Y1NCUktQVHJWMWljZlVDNld3UlUyNw?oc=5",
+        "published": "Sun, 11 Oct 2026 19:42:05 GMT",
+        "source": "Reuters — Headlines (Google News)"
+      },
+      {
+        "title": "US threatens to block arms for Ukraine over refinery attacks, FT reports - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPaUx0a0pvZmw1VkxoRkUyc1VTemRoQV9zWEFZMmpFd3ozM0Ytdy1QMnM1Rjg1Z0FnaklEZlktUWI3Z05mMlVYQmx0c3h3X29aMUIwN01ETml6cDVhNi1TUmVWMHZicnlHdHhHc0xXZ0Z6M0QwUEJEeE1ld3BWWHI2VlpRY2Z1QW44U0xnNTVXYVJBdkxGbThsWkVqVHdXbUxmNTI5NjZKaEpteDBYTlNkbmRSMA?oc=5",
+        "published": "Sun, 11 Oct 2026 18:23:43 GMT",
+        "source": "Reuters — Headlines (Google News)"
+      },
+      {
+        "title": "Polish police detain man over threat to PM and defence minister - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQM3Zhb3YxM0h0Nm9Cd1E0Q3NNempnci1DZG9CMXNxdUx4TFJvSkwxRnAtZEdJT3BTTnZrMlROOE1JdjdlbXI2OGtGRlhlQXNLY0hKNnVIUHpQal9zcXF0cjd6TUFLUklFM0g5cUs5T3hWNHhPWlQ2Ni1fVkZJc1VBZ0JGX251MkV0Ty1SOTBRcl9ZeE5qOU5vbDhUUHhTMHVBVkJRZGNSMkZlVXNtSkJYMVpYX3JwRHpVRnp4VXBjanVlWFk?oc=5",
+        "published": "Sun, 11 Oct 2026 18:43:25 GMT",
+        "source": "Reuters — World (Google News)"
+      },
+      {
+        "title": "Orangutans released back into Borneo forest after devastating fires",
+        "link": "https://www.bbc.co.uk/news/articles/cwvgde0m2d73o?at_medium=RSS&at_campaign=rss",
+        "published": "Sun, 11 Oct 2026 19:08:04 GMT",
+        "source": "BBC — World"
+      },
+      {
+        "title": "Pakistani president suspends provincial government led by Khan’s party ahead of march - AP News",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNWmdLcnFXLWZKdHNHNzFwVklpTS1OYUZDMnVZZDV4cjVOX2daQTZoM3FEWUdmVEJQRVRuZVk0NWpKcGlid2JkbmMwQmlObkZEMWh2bmpNVXctdEJSczJFaUdNN0ZtMVpTdDZOVUU5RDJFbTFUOHJ5VnlhZDlGRjF2U2x6ZE9MYm01c2NHSnZfRWVNNm5WMlVvQVlZcnJrdnc?oc=5",
+        "published": "Sun, 11 Oct 2026 18:13:00 GMT",
+        "source": "AP — Headlines (Google News)"
+      },
+      {
+        "title": "Mike Ditka tributes pour in from President Trump, former President Obama, Chicago and the NFL - AP News",
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOWll1S0p0Zks4WnZJVVlpelNweFctSk5yQnRYNUhILWd4UXZSR284SEV2em8zZU11aWVNeDNiNFJYb2FmUGpvcUszaDFpbnREbEhQOGlreloyOFFpd0E5RVpEbmN3SmdxbnRnN0VDNy1zT3Z2Qm9DMVU2S01oZVk1T2JEVXZRcG80ZFJTOA?oc=5",
+        "published": "Sat, 10 Oct 2026 02:19:00 GMT",
+        "source": "AP — Politics (Google News)"
+      },
+      {
+        "title": "France’s far-left presidential candidate cheers Gen Z school protests - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPaFRUVktxZDVXNFg2cnlBekxIbUI0a09XUkdBRVBfRVIxdUxBclVzM3lQRW5IUVRfcmI0VE13QkRLUEs3dnFDYmlnNUtVSE0zS18zQmtrbTlGZUdlMHVYQzlrYWFTZ3I1a1ZQYnRVS0tISHRobTlSYVc2OU1oS29JNmlBaE5SX2Y5ZTRzeXFhWFBPLTJ0Z181NnVxS1BvUHJnaVlaN0JtWlFlaTg?oc=5",
+        "published": "Sun, 11 Oct 2026 19:10:00 GMT",
+        "source": "AP — Business (Google News)"
       }
     ],
     "local": [
@@ -2064,147 +2179,147 @@
       "url": "https://news.google.com/rss/search?q=site%3Areuters.com+when%3A2d&hl=en-US&gl=US&ceid=US:en",
       "status": "ok",
       "count": 15,
-      "checked_at_utc": "2026-10-11T18:44:48.207218+00:00"
+      "checked_at_utc": "2026-10-11T20:16:39.221332+00:00"
     },
     {
       "source": "Reuters — World (Google News)",
       "url": "https://news.google.com/rss/search?q=site%3Areuters.com%2Fworld+when%3A2d&hl=en-US&gl=US&ceid=US:en",
       "status": "ok",
       "count": 15,
-      "checked_at_utc": "2026-10-11T18:44:48.781973+00:00"
+      "checked_at_utc": "2026-10-11T20:16:39.817596+00:00"
     },
     {
       "source": "Reuters — Business (Google News)",
       "url": "https://news.google.com/rss/search?q=site%3Areuters.com%2Fbusiness+when%3A2d&hl=en-US&gl=US&ceid=US:en",
       "status": "ok",
       "count": 15,
-      "checked_at_utc": "2026-10-11T18:44:49.128755+00:00"
+      "checked_at_utc": "2026-10-11T20:16:40.211398+00:00"
     },
     {
       "source": "BBC — World",
       "url": "http://feeds.bbci.co.uk/news/world/rss.xml",
       "status": "ok",
       "count": 15,
-      "checked_at_utc": "2026-10-11T18:44:49.375278+00:00"
+      "checked_at_utc": "2026-10-11T20:16:40.581808+00:00"
     },
     {
       "source": "BBC — Tech",
       "url": "http://feeds.bbci.co.uk/news/technology/rss.xml",
       "status": "ok",
       "count": 15,
-      "checked_at_utc": "2026-10-11T18:44:49.539263+00:00"
+      "checked_at_utc": "2026-10-11T20:16:40.868200+00:00"
     },
     {
       "source": "BBC — Business",
       "url": "http://feeds.bbci.co.uk/news/business/rss.xml",
       "status": "ok",
       "count": 15,
-      "checked_at_utc": "2026-10-11T18:44:50.042806+00:00"
+      "checked_at_utc": "2026-10-11T20:16:41.121449+00:00"
     },
     {
       "source": "BBC — Science",
       "url": "http://feeds.bbci.co.uk/news/science_and_environment/rss.xml",
       "status": "ok",
       "count": 15,
-      "checked_at_utc": "2026-10-11T18:44:50.201287+00:00"
+      "checked_at_utc": "2026-10-11T20:16:41.324654+00:00"
     },
     {
       "source": "AP — Headlines (Google News)",
       "url": "https://news.google.com/rss/search?q=site%3Aapnews.com+when%3A2d&hl=en-US&gl=US&ceid=US:en",
       "status": "ok",
       "count": 15,
-      "checked_at_utc": "2026-10-11T18:44:50.350323+00:00"
+      "checked_at_utc": "2026-10-11T20:16:41.520938+00:00"
     },
     {
       "source": "AP — Politics (Google News)",
       "url": "https://news.google.com/rss/search?q=site%3Aapnews.com+politics+when%3A2d&hl=en-US&gl=US&ceid=US:en",
       "status": "ok",
       "count": 15,
-      "checked_at_utc": "2026-10-11T18:44:50.827482+00:00"
+      "checked_at_utc": "2026-10-11T20:16:42.090652+00:00"
     },
     {
       "source": "AP — Business (Google News)",
       "url": "https://news.google.com/rss/search?q=site%3Aapnews.com+business+economy+when%3A2d&hl=en-US&gl=US&ceid=US:en",
       "status": "ok",
       "count": 15,
-      "checked_at_utc": "2026-10-11T18:44:51.360876+00:00"
+      "checked_at_utc": "2026-10-11T20:16:42.644346+00:00"
     },
     {
       "source": "NPR — Top Stories",
       "url": "https://feeds.npr.org/1001/rss.xml",
       "status": "ok",
       "count": 10,
-      "checked_at_utc": "2026-10-11T18:44:51.829300+00:00"
+      "checked_at_utc": "2026-10-11T20:16:42.988625+00:00"
     },
     {
       "source": "NPR — Politics",
       "url": "https://feeds.npr.org/1019/rss.xml",
       "status": "ok",
       "count": 10,
-      "checked_at_utc": "2026-10-11T18:44:51.933609+00:00"
+      "checked_at_utc": "2026-10-11T20:16:43.173565+00:00"
     },
     {
       "source": "NPR — Business",
       "url": "https://feeds.npr.org/1007/rss.xml",
       "status": "ok",
       "count": 10,
-      "checked_at_utc": "2026-10-11T18:44:51.971725+00:00"
+      "checked_at_utc": "2026-10-11T20:16:43.241259+00:00"
     },
     {
       "source": "NPR — Science",
       "url": "https://feeds.npr.org/1008/rss.xml",
       "status": "ok",
       "count": 10,
-      "checked_at_utc": "2026-10-11T18:44:52.025089+00:00"
+      "checked_at_utc": "2026-10-11T20:16:43.303714+00:00"
     },
     {
       "source": "NPR — Technology",
       "url": "https://feeds.npr.org/1013/rss.xml",
       "status": "ok",
       "count": 10,
-      "checked_at_utc": "2026-10-11T18:44:52.113894+00:00"
+      "checked_at_utc": "2026-10-11T20:16:43.518832+00:00"
     },
     {
       "source": "ScienceNews",
       "url": "https://www.sciencenews.org/feed",
       "status": "ok",
       "count": 15,
-      "checked_at_utc": "2026-10-11T18:44:52.207355+00:00"
+      "checked_at_utc": "2026-10-11T20:16:43.759950+00:00"
     },
     {
       "source": "ScienceDaily — Top",
       "url": "https://www.sciencedaily.com/rss/top/science.xml",
       "status": "ok",
       "count": 15,
-      "checked_at_utc": "2026-10-11T18:44:52.326427+00:00"
+      "checked_at_utc": "2026-10-11T20:16:43.899843+00:00"
     },
     {
       "source": "Nature — Technology",
       "url": "https://www.nature.com/subjects/technology.rss",
       "status": "ok",
       "count": 15,
-      "checked_at_utc": "2026-10-11T18:44:52.724112+00:00"
+      "checked_at_utc": "2026-10-11T20:16:44.183052+00:00"
     },
     {
       "source": "Google News — Northern Virginia",
       "url": "https://news.google.com/rss/search?q=Northern+Virginia&hl=en-US&gl=US&ceid=US:en",
       "status": "ok",
       "count": 15,
-      "checked_at_utc": "2026-10-11T18:44:53.079735+00:00"
+      "checked_at_utc": "2026-10-11T20:16:44.522626+00:00"
     },
     {
       "source": "Google News — Northern Virginia traffic",
       "url": "https://news.google.com/rss/search?q=Northern+Virginia+traffic+OR+transit&hl=en-US&gl=US&ceid=US:en",
       "status": "ok",
       "count": 15,
-      "checked_at_utc": "2026-10-11T18:44:53.602355+00:00"
+      "checked_at_utc": "2026-10-11T20:16:45.170406+00:00"
     },
     {
       "source": "Google News — Northern Virginia weather",
       "url": "https://news.google.com/rss/search?q=Northern+Virginia+weather+warning+OR+advisory&hl=en-US&gl=US&ceid=US:en",
       "status": "ok",
       "count": 15,
-      "checked_at_utc": "2026-10-11T18:44:54.091825+00:00"
+      "checked_at_utc": "2026-10-11T20:16:45.776975+00:00"
     },
     {
       "source": "Wikipedia — On This Day",
@@ -2227,6 +2342,7 @@
     "2026-10-11T17:01:58Z",
     "2026-10-11T17:45:58Z",
     "2026-10-11T18:20:23Z",
-    "2026-10-11T18:44:54Z"
+    "2026-10-11T18:44:54Z",
+    "2026-10-11T20:16:46Z"
   ]
 }

@@ -1,14 +1,14 @@
 # Daily Knowledge Garden — 2026-10-11
 
 ## 🧭 Daily Summary
-Global coverage includes Saudi Arabia reports injuries in new attack at Riyadh airport, day after strike kills 13 - Reuters; Poland detains man suspected of planning assassination of PM Tusk; Trump announces Ukraine energy ceasefire with Russia, surprising Zelenskiy - Reuters. Local coverage includes World Day of Remembrance for Road Traffic Victims - FFXnow; Boo! Your 2026 guide to Halloween across Northern Virginia - InsideNoVa.com.
+Global coverage includes Stellantis bets on small affordable EVs for European comeback - Reuters; Prominent Republican senator says Trump's Russian diesel deal may be illegal - Reuters; France’s far-left presidential candidate cheers Gen Z school protests - AP News. Local coverage includes World Day of Remembrance for Road Traffic Victims - FFXnow; Boo! Your 2026 guide to Halloween across Northern Virginia - InsideNoVa.com.
 
 ## 🌍 Global News (cross-source)
-- [Saudi Arabia reports injuries in new attack at Riyadh airport, day after strike kills 13 - Reuters](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQSEo0VkFTZkY2VzMzeFV0OVRVbWN4aHFzaXFjV0FBN05uaEFONHhQVTN2a3JJM09NdFBzY1R3MnRrUFZOeFZfUDItOUd1NkxiT3dfOWduTHJKTlBzSGsyN3VCYTNkWG1ZTWlZMUpzbDdrc1dOZUs3VDRwa0lHN21tNnFNdFhQYUxoNmdfN1Zyb3FMRm04RzRVei0zY3FKN0FoY2JYTGFodjYtemdITVpKVXk3NlR2QXFIMU9YMnUtX004QW1GZ0UzZA?oc=5) — Reuters — Headlines (Google News)
-- [Poland detains man suspected of planning assassination of PM Tusk](https://www.bbc.co.uk/news/articles/c6n9rvynl5p5o?at_medium=RSS&at_campaign=rss) — BBC — World
-- [Trump announces Ukraine energy ceasefire with Russia, surprising Zelenskiy - Reuters](https://news.google.com/rss/articles/CBMixAFBVV95cUxPTEo5WEZxUk5OcWNWU1Z1Z0g4SGlFQmxKckFxbS05WFd6UUxDNE0xa0NZRzZoR004Tms3azQ3aTVfUVIwNXlTU1ljcW9HLTREUGZBVVFiWlpVWXI3V1c3Zmt2UEJ2ME43azRMb0Vlei1iQUNPbzk4bV94bkRGTzBmREMydnBCRzVSclBoVkhrWkx4TFJ2YWdsRS1COGVOWU9pRDJqSUFNRk1pUnpQM2dlQ3o0eGpYSHYzbWdDX3dtQWtYT2Zz?oc=5) — Reuters — Headlines (Google News)
-- [Passenger terminal at Riyadh airport is struck again, a day after 12 were killed - AP News](https://news.google.com/rss/articles/CBMimAFBVV95cUxObXk0VFduYU1ldGM0N3RTZGlUVEFiOV9GdHBJTExieVVQT0preW1GRGVHLUZHN3VyZ3pYUzdXbGYzVHdHdUsweFFUekY3Nk13LTl3dWtmdmpiMDh5ZXR3Sm9kZ1VvbFlZNFU3UXgzYlJEaml0VGNHS09ia0E3QUJERDcwRkRsd2UzNWZYWjZlUDJWYUtoZlh6Ng?oc=5) — AP — Headlines (Google News)
-- [Citroen revives historic 2CV for an electric age](https://www.bbc.co.uk/news/articles/c620r33plgppo?at_medium=RSS&at_campaign=rss) — BBC — Business
+- [Stellantis bets on small affordable EVs for European comeback - Reuters](https://news.google.com/rss/articles/CBMivAFBVV95cUxNQ3Vnc21nNnBpSEFHQW5rSEIweVpPVHU1aHNfLXhscElQQ3NZU21kOGNOMXlVVWdiTE1raXhHdjhKMDJpYUhqZURGM2NyS21MVjdzQVl1ckVJdkk2U3MzcVFLX05QU05rUG1VNWZMcDBFYmd4NVNoNzF6aVk2QVNyMjhEYk9xb0d1bnlsZkpKdFJBaGYxamd3QVB1Z25BVGFhQjM4Wkw1Y1NCUktQVHJWMWljZlVDNld3UlUyNw?oc=5) — Reuters — Headlines (Google News)
+- [Prominent Republican senator says Trump's Russian diesel deal may be illegal - Reuters](https://news.google.com/rss/articles/CBMixgFBVV95cUxPcDdtenR1Q0JlMzNKUUlHb0ROcUkwZHVpRlQ4ZDFDT2d2WlJndmVVMldTdC1EZkp6TUhSSHNNOWU3SFh3YnJVVk1wTFZIRl9nQTh5OEhHaGtUd1ZOUmJyaGtUOFJIZkFOb2E2N1VtREhDVEZFaHVPMXdaM3pRYlVLWUxTUW45WEllbmNVQ3RQTjZBSDltRXJIbUtJVHJGcU9lVEtNMTgtT0l5VWh2Tk5YQWdma0piSGhMWDQyYkhtc0tkZ2tNelE?oc=5) — Reuters — Headlines (Google News)
+- [France’s far-left presidential candidate cheers Gen Z school protests - AP News](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPaFRUVktxZDVXNFg2cnlBekxIbUI0a09XUkdBRVBfRVIxdUxBclVzM3lQRW5IUVRfcmI0VE13QkRLUEs3dnFDYmlnNUtVSE0zS18zQmtrbTlGZUdlMHVYQzlrYWFTZ3I1a1ZQYnRVS0tISHRobTlSYVc2OU1oS29JNmlBaE5SX2Y5ZTRzeXFhWFBPLTJ0Z181NnVxS1BvUHJnaVlaN0JtWlFlaTg?oc=5) — AP — Business (Google News)
+- [Orangutans released back into Borneo forest after devastating fires](https://www.bbc.co.uk/news/articles/cwvgde0m2d73o?at_medium=RSS&at_campaign=rss) — BBC — World
+- [Pakistani president suspends provincial government led by Khan’s party ahead of march - AP News](https://news.google.com/rss/articles/CBMinwFBVV95cUxNWmdLcnFXLWZKdHNHNzFwVklpTS1OYUZDMnVZZDV4cjVOX2daQTZoM3FEWUdmVEJQRVRuZVk0NWpKcGlid2JkbmMwQmlObkZEMWh2bmpNVXctdEJSczJFaUdNN0ZtMVpTdDZOVUU5RDJFbTFUOHJ5VnlhZDlGRjF2U2x6ZE9MYm01c2NHSnZfRWVNNm5WMlVvQVlZcnJrdnc?oc=5) — AP — Headlines (Google News)
 
 ## 🏙️ Local News
 - [World Day of Remembrance for Road Traffic Victims - FFXnow](https://news.google.com/rss/articles/CBMikAFBVV95cUxPdmNpRV90eHBLUTdCWHY4dlFqLUZ3S3luUlJFQmphc21JMGphaGdfT203bnN2aGxzMTdMcEdYTkJxR09pd2xGQXBQUE5lMTNnMnViLUFhQXBLcW1maVJoUXF3dmNHMXlrdHl5eWNfOTlsbXJDUEZZMmtfMHVfQWxSa0NHSWM0b1k2anA1bXc3b0E?oc=5) — Google News — Northern Virginia
@@ -34,9 +34,9 @@ Global coverage includes Saudi Arabia reports injuries in new attack at Riyadh a
 - **2000** — NASA launches STS-92, the 100th Space Shuttle mission.
 
 ## 🎲 Wikipedia — Random Article
-**Stock Exchange Center**  
-The Stock Exchange Center (Polish: Centrum Giełdowe) is an office building in Warsaw, Poland, at 4 Książęca Street, within the South Downtown neighbourhood. It was opened in 2000, and houses the headquarters of the Warsaw Stock Exchange, National Securities Depository, and Power Exchange.
-https://en.wikipedia.org/wiki/Stock_Exchange_Center
+**Bushy Creek Trail**  
+The Bushy Creek Trail is a shared use path for cyclists and pedestrians in the inner eastern suburb of Box Hill North in Melbourne, Victoria, Australia. The trail has some short road sections including an unshared path along Springfield Road.
+https://en.wikipedia.org/wiki/Bushy_Creek_Trail
 
 ## 🌌 NASA APOD
 [Ice Fishing for Cosmic Neutrinos](https://science.nasa.gov/image-article/apod-2026-october-11-ice-fishing-for-cosmic-neutrinos/)
@@ -67,4 +67,4 @@ https://en.wikipedia.org/wiki/Stock_Exchange_Center
 - **Wikipedia — Random**: ok (1 articles)
 - **NASA — APOD**: ok (1 articles)
 
-<sub>Runs so far today: 5</sub>
+<sub>Runs so far today: 6</sub>
