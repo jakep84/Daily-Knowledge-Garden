@@ -95,7 +95,7 @@ def fetch_all_sources() -> Dict[str, Any]:
         "wiki": wiki,
         "apod": apod,
         "news": news,
-        "feed_status": list(FEED_STATUS),
+        "feed_status": list(FEED_STATUS) + wiki.get("status", []) + apod.get("status", []),
     }
     return snapshot
 
@@ -129,11 +129,13 @@ def merge_day_payload(existing: Dict[str, Any], new: Dict[str, Any]) -> Dict[str
     out["news"]["world"] = _uniq(old_world + new_world, keys=["title", "link"])[:300]
     out["news"]["local"] = _uniq(old_local + new_local, keys=["title", "link"])[:200]
 
-    # Prefer the newest wiki/APOD if present; otherwise keep existing
-    if not out["wiki"]:
-        out["wiki"] = existing.get("wiki") or {}
-    if not out["apod"]:
-        out["apod"] = existing.get("apod") or {}
+    # Do not overwrite useful history/astronomy content with empty responses.
+    if not out["wiki"].get("today"):
+        out["wiki"]["today"] = (existing.get("wiki") or {}).get("today", [])
+    if not out["wiki"].get("random"):
+        out["wiki"]["random"] = (existing.get("wiki") or {}).get("random", {})
+    if not out["apod"].get("entry"):
+        out["apod"]["entry"] = (existing.get("apod") or {}).get("entry")
 
     return out
 
