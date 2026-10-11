@@ -39,6 +39,7 @@ h2{font-size:1.42rem;margin:28px 0 14px}h3{font-size:1.06rem;line-height:1.35;ma
 .good{color:var(--accent)}.warn{color:#ffcd86}.report{margin-top:36px;padding-top:20px;border-top:1px solid var(--line)}
 .report details{padding:18px;background:var(--surface);border-radius:14px}.report summary{cursor:pointer}
 .related{margin-top:12px;border-top:1px solid var(--line);padding-top:10px;font-size:.87rem}.related ul{padding-left:18px}.related li{margin:4px 0}.report img{max-width:100%}.report a{overflow-wrap:anywhere}footer{border-top:1px solid var(--line);color:var(--muted);padding:22px 0;margin-top:38px}
+.topics{display:flex;flex-wrap:wrap;gap:8px;margin:18px 0}.topics button{cursor:pointer;border:1px solid var(--line);border-radius:25px;padding:8px 13px;background:var(--surface);color:var(--ink)}.topics button[aria-pressed=true]{background:var(--accent);color:#082018}.trend-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(190px,1fr));gap:10px}.trend{background:var(--surface);border:1px solid var(--line);padding:14px;border-radius:12px}.trend strong,.trend span{display:block}.trend span{color:var(--muted);font-size:.85rem}[hidden]{display:none!important}
 @media(max-width:760px){.columns{grid-template-columns:1fr}.tiles{grid-template-columns:1fr}.health-list{grid-template-columns:1fr}.feature{display:block}.feature img{width:100%;max-width:100%}}
 </style>
 """
@@ -53,9 +54,95 @@ def link(url):
 def day_dirs():
     return sorted((p for p in DATA.iterdir() if p.is_dir() and DAY.fullmatch(p.name))) if DATA.exists() else []
 
+
+TOPICS = {
+    "AI": ("artificial intelligence", " ai ", "openai", "llm", "machine learning", "model"),
+    "Cybersecurity": ("cyber", "hack", "ransomware", "security", "breach", "malware"),
+    "Technology": ("technology", "software", "startup", "chip", "comput", "robot", "tech"),
+    "Space": ("space", "nasa", "rocket", "moon", "mars", "satellite", "astronom"),
+    "Business": ("business", "market", "economy", "stock", "company", "trade", "finance"),
+    "World": ("world", "war", "government", "election", "minister", "military", "international"),
+    "Northern Virginia": ("virginia", "fairfax", "alexandria", "arlington", "loudoun", "prince william"),
+}
+
+def article_topics(item, local=False):
+    value = " " + str(item.get("title", "")).lower() + " "
+    found = [label for label, words in TOPICS.items() if any(word in value for word in words)]
+    if local and "Northern Virginia" not in found:
+        found.append("Northern Virginia")
+    return found or ["World"]
+
+def topic_controls():
+    buttons = ''.join('<button type="button" data-filter="' + e(x) + '" aria-pressed="false">' + e(x) + '</button>' for x in TOPICS)
+    return ('<div class="topics" aria-label="Filter news by topic"><button type="button" data-filter="All" aria-pressed="true">All topics</button>'
+            + buttons + '</div>')
+
+FILTER_SCRIPT = """
+<script>
+(function(){
+ const buttons = document.querySelectorAll('[data-filter]');
+ const cards = document.querySelectorAll('[data-topics]');
+ const key = 'dkg-topic-v1';
+ function apply(topic) {
+   if (![...buttons].some(b=>b.dataset.filter===topic)) topic='All';
+   buttons.forEach(b=>b.setAttribute('aria-pressed', String(b.dataset.filter===topic)));
+   cards.forEach(c=>{c.hidden=topic!=='All' && !(c.dataset.topics||'').split('|').includes(topic)});
+   document.querySelectorAll('[data-filter-empty]').forEach(m=>{
+     const section=m.closest('section');
+     m.hidden=[...(section?.querySelectorAll('[data-topics]')||[])].some(c=>!c.hidden);
+   });
+   try {localStorage.setItem(key,topic)} catch(e){}
+ }
+ buttons.forEach(b=>b.addEventListener('click',()=>apply(b.dataset.filter)));
+ let saved='All'; try{saved=localStorage.getItem(key)||'All'}catch(e){}
+ apply(saved);
+})();
+</script>
+"""
+
+def linked_brief(news):
+    global_items=top_headlines((news or {}).get("world", []), 2)
+    local_items=top_headlines((news or {}).get("local", []), 2)
+    blocks=[]
+    for heading, items in (("Global watch",global_items),("Northern Virginia",local_items)):
+        if items:
+            links=', '.join('<a href="'+link(x.get("link"))+'" target="_blank" rel="noopener noreferrer">'+e(x.get("title"))+'</a>' for x in items)
+            blocks.append('<p><strong>'+heading+':</strong> '+links+'.</p>')
+    return ''.join(blocks) or '<p>No recent news coverage available.</p>'
+
+def trend_counts(day_folders, max_days=7):
+    """Counts only available archived daily data, not inferred trends."""
+    recent=day_folders[-max_days:]
+    result=[]
+    for folder in recent:
+        path=folder/"raw.json"
+        if not path.exists():
+            continue
+        try:
+            raw=json.loads(path.read_text(encoding="utf-8"))
+            news=raw.get("news") or {}
+            stories=(news.get("world") or [])+(news.get("local") or [])
+            counts={topic:sum(topic in article_topics(article, article in (news.get("local") or [])) for article in stories) for topic in TOPICS}
+            result.append((folder.name,counts))
+        except (ValueError,OSError,TypeError):
+            continue
+    return result
+
+def trend_panel(history):
+    if len(history)<2:
+        return '<p class="meta">Trends will appear when at least two days of reports have been collected.</p>'
+    latest=history[-1][1]
+    before=history[-2][1]
+    cards=[]
+    for topic in TOPICS:
+        current=latest[topic]
+        change=current-before[topic]
+        cards.append('<div class="trend"><strong>'+e(topic)+'</strong><span>'+str(current)+' headlines · '+('+' if change>0 else '')+str(change)+' vs prior report</span></div>')
+    return '<div class="trend-grid">'+''.join(cards)+'</div><p class="meta">Headline counts are based on keyword matches in available daily archives, not article importance or unique real-world events.</p>'
+
 def render_cards(items, limit=6):
     return "\n".join(
-        '<article class="card"><small>' + e(row.get("source", "News")) + '</small>'
+        '<article class="card" data-topics="' + e('|'.join(article_topics(row, 'Northern Virginia' in str(row.get('source', ''))))) + '"><small>' + e(row.get("source", "News")) + '</small>'
         + '<h3><a href="' + link(row.get("link")) + '" target="_blank" rel="noopener noreferrer">'
         + e(row.get("title")) + '</a></h3>'
         + ('<span class="time">' + e(row.get("published")) + '</span>' if row.get("published") else '')
@@ -103,7 +190,7 @@ def render_stories(items, limit=8):
                         + ''.join('<li><a href="' + link(x.get("link")) + '" target="_blank" rel="noopener noreferrer">'
                                   + e(x.get("title")) + '</a></li>' for x in group["coverage"][1:])
                         + '</ul></div>') if multi else ''
-        html.append('<article class="card"><small>GLOBAL STORY</small><h3><a href="'
+        html.append('<article class="card" data-topics="' + e('|'.join(article_topics(row))) + '"><small>GLOBAL STORY</small><h3><a href="'
                     + link(row.get("link")) + '" target="_blank" rel="noopener noreferrer">'
                     + e(row.get("title")) + '</a></h3>' + coverage + alternatives + '</article>')
     return "\n".join(html) or '<p class="meta">No recent stories available.</p>'
@@ -147,7 +234,7 @@ def build_day(folder, repo):
     hn = ((raw.get("hn") or {}).get("items") or [])
     apod = ((raw.get("apod") or {}).get("entry") or {})
     wiki = raw.get("wiki") or {}
-    day_brief = summarize_news(news)
+    day_brief = linked_brief(news)
     updated = raw.get("last_updated_utc") or raw.get("collected_at_utc") or day
     entries = ((raw.get("feed_status") or []))
     healthy = sum(s.get("status") == "ok" for s in entries)
@@ -175,20 +262,21 @@ def build_day(folder, repo):
 <div class="container"><nav class="nav"><a class="brand" href="../index.html">🌱 Daily Knowledge Garden</a>
 <a href="../archive.html">View archive</a></nav>
 <header class="hero"><p class="tag">YOUR DAILY INTELLIGENCE BRIEF · {e(day)}</p>
-<h1>The world, in focus.</h1><p class="lead">{e(day_brief)}</p>
+<h1>The world, in focus.</h1><div class="lead">{day_brief}</div>{topic_controls()}
 <p class="meta">Last collected: {e(updated)} · Headlines are links to reporting, not verified full-article summaries.</p></header>
 <div class="tiles"><div class="tile"><strong>{len(world)}</strong><span>Global headlines</span></div>
 <div class="tile"><strong>{len(local)}</strong><span>Local headlines</span></div>
 <div class="tile"><strong>{healthy}/{len(entries)}</strong><span>Sources reporting normally</span></div></div>
-<div class="columns"><section><h2>🌍 Global coverage</h2><div class="cards">{render_stories(world, 8)}</div></section>
-<aside><section><h2>🏙️ Northern Virginia</h2><div class="cards">{render_cards(local, 6)}</div></section>
-<section><h2>🚀 Technology pulse</h2><div class="cards">{render_cards(hn_rows, 4)}</div></section></aside></div>
+<div class="columns"><section><h2>🌍 Global coverage</h2><div class="cards">{render_stories(world, 8)}<p data-filter-empty hidden class="meta">No stories match this topic.</p></div></section>
+<aside><section><h2>🏙️ Northern Virginia</h2><div class="cards">{render_cards(local, 6)}<p data-filter-empty hidden class="meta">No stories match this topic.</p></div></section>
+<section><h2>🚀 Technology pulse</h2><div class="cards">{render_cards(hn_rows, 4)}<p data-filter-empty hidden class="meta">No stories match this topic.</p></div></section></aside></div>
 <section class="full"><h2>🌌 Beyond Earth</h2>{apod_html}</section>
 <section class="full"><h2>📜 On this day</h2><ul>{history or '<li>No historical events available.</li>'}</ul></section>
+<section class="full"><h2>📈 Topic activity</h2>{trend_panel(trend_counts(day_dirs()))}</section>
 <section class="full">{health_box(raw)}</section>
 <section class="report"><details><summary>View original detailed report</summary>{report_html}</details></section>
 <footer>Generated from public feeds · <a href="https://github.com/{e(repo)}">Source code</a> · {e(day)}</footer>
-</div></body></html>"""
+</div>{FILTER_SCRIPT}</body></html>"""
     (out / "index.html").write_text(html, encoding="utf-8")
 
 def build_index(days):
