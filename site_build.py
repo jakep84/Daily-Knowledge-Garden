@@ -38,7 +38,7 @@ h2{font-size:1.42rem;margin:28px 0 14px}h3{font-size:1.06rem;line-height:1.35;ma
 .health summary{cursor:pointer;font-weight:700}.health-list{margin-top:14px;display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:6px}
 .good{color:var(--accent)}.warn{color:#ffcd86}.report{margin-top:36px;padding-top:20px;border-top:1px solid var(--line)}
 .report details{padding:18px;background:var(--surface);border-radius:14px}.report summary{cursor:pointer}
-.report img{max-width:100%}.report a{overflow-wrap:anywhere}footer{border-top:1px solid var(--line);color:var(--muted);padding:22px 0;margin-top:38px}
+.related{margin-top:12px;border-top:1px solid var(--line);padding-top:10px;font-size:.87rem}.related ul{padding-left:18px}.related li{margin:4px 0}.report img{max-width:100%}.report a{overflow-wrap:anywhere}footer{border-top:1px solid var(--line);color:var(--muted);padding:22px 0;margin-top:38px}
 @media(max-width:760px){.columns{grid-template-columns:1fr}.tiles{grid-template-columns:1fr}.health-list{grid-template-columns:1fr}.feature{display:block}.feature img{width:100%;max-width:100%}}
 </style>
 """
@@ -62,6 +62,51 @@ def render_cards(items, limit=6):
         + '</article>'
         for row in top_headlines(items, limit)
     ) or '<p class="meta">No recent stories available.</p>'
+
+
+STOPWORDS = set("the and with from for after before into over says said that this about again amid are was were new news day its his her their have has".split())
+
+def story_groups(items, limit=8):
+    """Conservative title-keyword clustering. No semantic claims or fabricated text."""
+    selected = top_headlines(items, 60)
+    groups = []
+    for item in selected:
+        title = item.get("title", "")
+        words = set(re.findall(r"[a-z0-9]{3,}", title.lower())) - STOPWORDS
+        match = None
+        for group in groups:
+            common = len(words & group["words"])
+            smaller = min(len(words), len(group["words"]))
+            if smaller >= 4 and common >= 4 and common / smaller >= .70:
+                match = group
+                break
+        if match is None:
+            groups.append({"headline": item, "coverage": [item], "words": words})
+        elif len(match["coverage"]) < 5:
+            match["coverage"].append(item)
+    return groups[:limit]
+
+def render_stories(items, limit=8):
+    html = []
+    for group in story_groups(items, limit):
+        row = group["headline"]
+        sources = []
+        for item in group["coverage"]:
+            label = str(item.get("source") or "Publisher")
+            if label not in sources:
+                sources.append(label)
+        multi = len(group["coverage"]) > 1
+        coverage = ('<div class="pills"><span class="pill">' + str(len(group["coverage"]))
+                    + ' related headlines</span>' + ''.join('<span class="pill">' + e(src) + '</span>' for src in sources)
+                    + '</div>') if multi else '<div class="pills"><span class="pill">' + e(sources[0]) + '</span></div>'
+        alternatives = ('<div class="related"><strong>More coverage</strong><ul>'
+                        + ''.join('<li><a href="' + link(x.get("link")) + '" target="_blank" rel="noopener noreferrer">'
+                                  + e(x.get("title")) + '</a></li>' for x in group["coverage"][1:])
+                        + '</ul></div>') if multi else ''
+        html.append('<article class="card"><small>GLOBAL STORY</small><h3><a href="'
+                    + link(row.get("link")) + '" target="_blank" rel="noopener noreferrer">'
+                    + e(row.get("title")) + '</a></h3>' + coverage + alternatives + '</article>')
+    return "\n".join(html) or '<p class="meta">No recent stories available.</p>'
 
 def health_box(raw):
     statuses = raw.get("feed_status") or []
@@ -115,9 +160,14 @@ def build_day(folder, repo):
     ]
     events = (wiki.get("today") or [])[:4]
     history = ''.join('<li><strong>' + e(x.get("year")) + '</strong> ' + e(x.get("text")) + '</li>' for x in events)
-    apod_html = ('<div class="feature"><div><span class="tag">NASA PICTURE OF THE DAY</span><h3><a href="'
+    preview = apod.get("image_url", "")
+    picture = ('<img loading="lazy" alt="NASA Astronomy Picture of the Day preview" src="'
+               + link(preview) + '">') if preview and link(preview) != "#" else ""
+    apod_html = ('<div class="feature">' + picture
+                 + '<div><span class="tag">NASA PICTURE OF THE DAY</span><h3><a href="'
                  + link(apod.get("link")) + '">' + e(apod.get("title")) + '</a></h3>'
-                 + '<p class="meta">Explore the image and its explanation on NASA.</p></div></div>') if apod.get("title") else '<p class="meta">NASA APOD unavailable.</p>'
+                 + '<p class="meta">See the original image and explanation on NASA.</p></div></div>'
+                 ) if apod.get("title") else '<p class="meta">NASA APOD unavailable.</p>'
     report_html = markdown.markdown(report.read_text(encoding="utf-8"), extensions=["extra", "tables", "sane_lists"])
     html = f"""<!doctype html>
 <html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
@@ -130,7 +180,7 @@ def build_day(folder, repo):
 <div class="tiles"><div class="tile"><strong>{len(world)}</strong><span>Global headlines</span></div>
 <div class="tile"><strong>{len(local)}</strong><span>Local headlines</span></div>
 <div class="tile"><strong>{healthy}/{len(entries)}</strong><span>Sources reporting normally</span></div></div>
-<div class="columns"><section><h2>🌍 Global coverage</h2><div class="cards">{render_cards(world, 8)}</div></section>
+<div class="columns"><section><h2>🌍 Global coverage</h2><div class="cards">{render_stories(world, 8)}</div></section>
 <aside><section><h2>🏙️ Northern Virginia</h2><div class="cards">{render_cards(local, 6)}</div></section>
 <section><h2>🚀 Technology pulse</h2><div class="cards">{render_cards(hn_rows, 4)}</div></section></aside></div>
 <section class="full"><h2>🌌 Beyond Earth</h2>{apod_html}</section>
