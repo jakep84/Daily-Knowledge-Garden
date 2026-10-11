@@ -1,10 +1,14 @@
-# sources/ap.py
+"""AP headlines via publisher-filtered Google News RSS (not an official AP feed)."""
+from urllib.parse import quote_plus
 from .news_common import fetch_many
 
+def google_rss(query):
+    return "https://news.google.com/rss/search?q=" + quote_plus(query) + "&hl=en-US&gl=US&ceid=US:en"
+
 AP_FEEDS = [
-    ("https://apnews.com/hub/apf-topnews?utm_source=apnews.com&utm_medium=referral&utm_campaign=aprss", "AP — Top"),
-    ("https://apnews.com/hub/politics?utm_source=apnews.com&utm_medium=referral&utm_campaign=aprss", "AP — Politics"),
-    ("https://apnews.com/hub/business?utm_source=apnews.com&utm_medium=referral&utm_campaign=aprss", "AP — Business"),
+    (google_rss("site:apnews.com when:2d"), "AP — Headlines (Google News)"),
+    (google_rss("site:apnews.com/hub/politics when:2d"), "AP — Politics (Google News)"),
+    (google_rss("site:apnews.com/hub/business when:2d"), "AP — Business (Google News)"),
 ]
 
 def fetch() -> list[dict]:
