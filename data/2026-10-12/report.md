@@ -1,21 +1,21 @@
 # Daily Knowledge Garden — 2026-10-12
 
 ## 🧭 Daily Summary
-Global coverage includes Tropical Storm Rachel downgraded as high winds and rain turn inward; Watch: Endangered orangutans released back into the wild after Borneo fires; Roofing scammers con homeowners out of thousands of pounds. Local coverage includes Weather Tornado warning in Virginia, North Carolina as Hurricane Isaias brings heavy rainfall, flooding - The Economic Times; No. 14 Virginia delivers dominant offensive performance against SMU, 5-1. - cbs19news.com.
+Global coverage includes US immigration authorities raid Democratic congresswoman Ilhan Omar's home - Reuters; US stocks hover near their latest record in mixed trading on Wall Street - AP News; Fridges in French supermarkets hit by cyber attack. Local coverage includes 2026 Northern Virginia Veterans Parade - Prince William Living; Northern Virginia Local Arts Agencies and NYFA to Offer Five Free Professional Development Workshops - BroadwayWorld.
 
 ## 🌍 Global News (cross-source)
-- [Tropical Storm Rachel downgraded as high winds and rain turn inward](https://www.npr.org/2026/10/11/nx-s1-5998124/tropical-storm-rachel-downgraded-as-high-winds-and-rain-turn-inward) — NPR — Top Stories
-- [Watch: Endangered orangutans released back into the wild after Borneo fires](https://www.bbc.co.uk/news/videos/c6073z5rvrk3o?at_medium=RSS&at_campaign=rss) — BBC — Science
-- [Roofing scammers con homeowners out of thousands of pounds](https://www.bbc.co.uk/news/articles/c6x29kydnzv0o?at_medium=RSS&at_campaign=rss) — BBC — Business
-- [Saudi Arabia reports injuries in new attack at Riyadh airport, day after strike kills 13 - Reuters](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQSEo0VkFTZkY2VzMzeFV0OVRVbWN4aHFzaXFjV0FBN05uaEFONHhQVTN2a3JJM09NdFBzY1R3MnRrUFZOeFZfUDItOUd1NkxiT3dfOWduTHJKTlBzSGsyN3VCYTNkWG1ZTWlZMUpzbDdrc1dOZUs3VDRwa0lHN21tNnFNdFhQYUxoNmdfN1Zyb3FMRm04RzRVei0zY3FKN0FoY2JYTGFodjYtemdITVpKVXk3NlR2QXFIMU9YMnUtX004QW1GZ0UzZA?oc=5) — Reuters — World (Google News)
-- [Saudi airport passenger terminal is struck again, a day after 12 were killed - AP News](https://news.google.com/rss/articles/CBMimAFBVV95cUxObXk0VFduYU1ldGM0N3RTZGlUVEFiOV9GdHBJTExieVVQT0preW1GRGVHLUZHN3VyZ3pYUzdXbGYzVHdHdUsweFFUekY3Nk13LTl3dWtmdmpiMDh5ZXR3Sm9kZ1VvbFlZNFU3UXgzYlJEaml0VGNHS09ia0E3QUJERDcwRkRsd2UzNWZYWjZlUDJWYUtoZlh6Ng?oc=5) — AP — Headlines (Google News)
+- [US immigration authorities raid Democratic congresswoman Ilhan Omar's home - Reuters](https://news.google.com/rss/articles/CBMizAFBVV95cUxOMDJQVmVIaFZGdTRES18xTGZOQTgtMzMyWGVOb2VxOUxpWUpQNDlhXzZIdXU0bE81bHVqZ2dRcnVqeE1NWkhtNXNQMTZHb0RtWUhibjBiVkF5MWdSTHJZLW0yNjJrWFYxRVpHQjBnZHJDWGhwVTBIanpDak5iLWc0Y1NIVjN1VmRhTVV2WXE1X0VHQ2gwZXNwb2FIQlEwaGtDWFVnMGpDTlQzLVd2SlNXcVB6dmpDYzJmMURtbUdQYmVra3dtc0ViRWl6NU4?oc=5) — Reuters — Headlines (Google News)
+- [US stocks hover near their latest record in mixed trading on Wall Street - AP News](https://news.google.com/rss/articles/CBMimAFBVV95cUxQcWs0OFJBbUxDSUJpUEhoaTEwSmlNRVdmWFgwX19pUnc2YWlrdnNTUUJ1VjZsUnNJQ3Vfc0lxMVhMNkdWVjVsdzJVbFlQaHhoRlNsOWtIUHBGVUVyMUxQcmEwLWp3dEZwZkt4aGEySmNmZS1XRVhhWHB1S0dZZlRkWlVDeEVtUm95cVZpanpxNGhsUWcyZU9NRQ?oc=5) — AP — Headlines (Google News)
+- [Fridges in French supermarkets hit by cyber attack](https://www.bbc.co.uk/news/articles/crq5nzxv9q4yo?at_medium=RSS&at_campaign=rss) — BBC — World
+- [Agents search Rep. Omar's Washington home in criminal probe as she vows she won't 'be silenced' - AP News](https://news.google.com/rss/articles/CBMijAFBVV95cUxNQjdzXzdVOVh5OVVkeXRrSlNpQXBuMTBWQzhqRDUtbG9uY1ZET0trR0xXNmlIQUhBY1hRS1BsVm8yRENMUE1MZTRxaEtsUmFoaEFUSXFuTXpqeVpqMHd5a1ZYOEtnT3ZvV1NhNmZYMUg0WnlGenFVal82aFp3c2psT25Fc0dRSUNWbkNobw?oc=5) — AP — Headlines (Google News)
+- [Hurricane Simon crawls along Mexico's Pacific coast, bringing floods and evacuations - Reuters](https://news.google.com/rss/articles/CBMi0AFBVV95cUxNaElqa3NPZERzOHYyU3NVZmRTSkpYY1U4SzM5ZTZzQzlGbFBhTlhhWHNUN014M3JVWV80c19kRVFWaFRXRWRUVnFOLUV4eVlVWVdlbUVReWFRY1RsUVhvQjhET0dtN2I4ZmRuT1hmU01GY1JmS2hQUG0ycXN6ZWRRUjZpR3VvRTBLYXJxVEx1QUluN001Wjd5Yi1LMFpHQ1RQb0pMbGgtekJvaEpBVzJEOWxMZEtUUVVTQUUxamk3SzNlQlJvb1pXeHJkT1dCSUZG?oc=5) — Reuters — Headlines (Google News)
 
 ## 🏙️ Local News
-- [Weather Tornado warning in Virginia, North Carolina as Hurricane Isaias brings heavy rainfall, flooding - The Economic Times](https://news.google.com/rss/articles/CBMiiAJBVV95cUxQbnR6NXhMNjFzX1V2SWVnUFE1clBaVDdqbEZzRFl0WVA0QUI4UTZvUmVFQjZEQmxCazF6YTNyUE1aV2pmdDhSRTlqYlVYd1M0Qk8wSF9nTjc2SE5hdzczVEE3aVF2MFRVd3NmbjlIY3d6blQ2UXI4Mm1EREl3bzNZcTZ2WEtJLUc4bDdkNGE4b2p5U1V4VXBfOHNUbkVhZVllOG5Ib2xRNktHaDBCVWVEcDVESWt3Z0dLMVBCbGtiVkFSa3U1MGhWTHctX1M1WkFER1ZOUHY3VVVaWVRBRUdfRVY4cHdZd0l4WjVGU0R5M0lJVXo2R0pZYWJUVnV3VjJ4cVNUbTg1TF8?oc=5) — Google News — Northern Virginia weather
-- [No. 14 Virginia delivers dominant offensive performance against SMU, 5-1. - cbs19news.com](https://news.google.com/rss/articles/CBMi6AFBVV95cUxORnhCOUt5blROZmZGZUZLbThfdHdWY0JjSWRrVF8taXNjVFNiTG1rUnFGbE9PRGo4QkwxNnJweWVSUEkyUTZCZmZFYzBFVUplWFpIdUVtQ1ZZNS1mZUUwYlZUbUFxQVRHS3ZMVUcxOV9rQWZCaV9vT1ZzanFXN3Fxa2M2Tk1OY29JQ2xEcW5aV1Bja1pxRlNKX2Y3aUNHZ0pKLVd5bUVPRGV6VzJkbUROeE9veXFzbU1Wb0FUbkZUT0paOURqcEo1VDdDU21MdGVBekM2a0pleVdOMHhGQjJHdWtvUkdiYUdn?oc=5) — Google News — Northern Virginia
-- [Boo! Your 2026 guide to Halloween across Northern Virginia - InsideNoVa.com](https://news.google.com/rss/articles/CBMi3AFBVV95cUxNRHdyX2RCdFpmdzBFNUlxUlh1VjZPOTlzdllPUVNvVFMzZjZaUGJDTEFUYUR6ZkQ1OHIxMTdNY3V2RERuWVBVTlZUcHJaTlFPQ19HclB4ZDNkdmJpMFo1Y29YSzczSmNIWVd1UzBMSDBuWkF3a0FFQUFHeGVQeUNsVGowNndwUm5LX3FfRWN0YmYzakdOWHhJRWFaMURjYWNBQW5nWDBTdko2UGNoTFdVRVVQd1pTR1REQjBDR2JjUWY1X1VJYTZrWE5MMTlnMUNpTzU4bVh3TVc0SGk1?oc=5) — Google News — Northern Virginia
-- [Northern Virginia defense tech firm plans to increase staff by 25% or more - WTOP News](https://news.google.com/rss/articles/CBMitAFBVV95cUxPd0J1RGQ2OElFUjhoUmZRd1pQTlNHRXM0MU4tMFdnRnRxSHk0YkdVOWgzTS1qQ3phdURXSU9PLUtSQWxjVjZGZ3pBVmNHbVdaSWt3YmZWUnZLWVFtSUppWE1sWGVnWk1ZT0NpS09ZbEJnU253YzVsSUNmZko0TlRGZHEyVzRLU3B5OTZWS25xMHh6N2E2NmVsd3dpV01wVGs3SWx3ampCTlhOeW0yaVdFSml4Z2c?oc=5) — Google News — Northern Virginia
-- [Northern Virginia high school football scores for Oct. 9 - InsideNoVa.com](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNYzNNN0tySkNFRmYtSlZDMjg1bTZjR1ltN2Q1LUI4YnlEYTNSOFlhZFdOUXRDUFRldzdyTERVb0ZrWHFDQnNERlBVWThqUUpvR2xSNEtJelUwVzN1U2t0UnY0cVZCVGZVc1NMbnJpcXp0UjhnNHlJUm9ZT2xwZ3JYbVU5Nnk5MzJkZUsyYy03eVdJd2NkcUtzMG1pTm10UEpucm9kRjBXY3o5cGxmQmJqbjdNYlJBWTdIb2VVYVk4X05PSGRYd2d0c3doTklJa0QwcU0zOHE4MFR3dw?oc=5) — Google News — Northern Virginia
+- [2026 Northern Virginia Veterans Parade - Prince William Living](https://news.google.com/rss/articles/CBMie0FVX3lxTFBzdU1UR1NnY202NmdVU3BBNmZ0NHllSTJJcG5jUExhcTk0aUdTV25PQmg2WmFOZEVfTFRTalF2alFySjRMRWp0dWFaM21qNThWOU8ydmhpMklISUhaSVIxMUF0Q3hYZjNZaENPcnNGSGlUOVlDcU4tZ1Z6VQ?oc=5) — Google News — Northern Virginia
+- [Northern Virginia Local Arts Agencies and NYFA to Offer Five Free Professional Development Workshops - BroadwayWorld](https://news.google.com/rss/articles/CBMi6wFBVV95cUxPUTVaa05DZFEtaGtCcDVwdUVmcFJrWllPWlhDZjRIT0wyZmJ3Z1BHVkRzS2hnZEJySXhEUC1hRXlyS1FSdGtWWDNhNm56TjJpZTNsWVBuOTVXWkFhTGdrWlZnTGhIckdvYmlyZXpvUGtGclRTZnM4WF9uTjVJclRYaGVfaHBlc2dpdlV1M3RwWW03eEYtNElmYkJlX2tINnE1MWN2M1k0d25wbEJ2TDRSZ2wyOWxzTlVwVmR1ZkpXT2poanJvUFpsMFpVTjB2LVpJdC1UUExoWHczSmhJQVFNOVVmRXhXVW00MnJn?oc=5) — Google News — Northern Virginia
+- [New Documentary About Fraternity Hazing Features Loudoun County Family - Northern Virginia Magazine](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQX2xGcjh0V0ZrWWVTZlhCT0hkbEF5eEdTQllLZHk4Nk9OdlpicDlvWWdzYmxCWFFqNGpmN2F6TXNNMzFfanlud2EtYzdXME0xeWQ0NW93S3BVZHVmcUVQUGJ5dmYyZFd0a2M1bVA4V2t5MjltQU1zUlVEQlFwelNpY0J4VkdrTExhWS1EaTV3ZWpmcUxoRGF4NlVhWEVIVGVvQXdCTXZSVXFKYWFWcW1BZ0hQOUd0NXl2bmhn?oc=5) — Google News — Northern Virginia
+- [Vindman faces crowded field and economic pressures in Virginia's 7th District Congressional race - Virginia Mercury](https://news.google.com/rss/articles/CBMi0AFBVV95cUxNaEl3RF8tbkZSWDRtYUV1MEVzOTZIU3BDWWlIckhrbmtjUE05aVhvNndRVm1UdFpCc0xhLXd6NHI1bFJ4X29NNWkwRE1xNkFHOWlGd0x6WDB5NDJqY3dYQi0tbDkzQW5UblhxNVFzVEdDaEdRX1EtTWtYZlozWVlxcUpqaDVpNWd2NC1Ya2haS09rX2lzZ2pFXzRra19aeDhTb3puVlV5VFJUWU9BalhGLWl1NzZ2eGR2dTk3OFROUHlLY1VpT1hoX3NEWnEzQzlo?oc=5) — Google News — Northern Virginia
+- [As Virginia voters continue early voting, Warner, Mizusawa highlight differences in forum - WTKR](https://news.google.com/rss/articles/CBMitwFBVV95cUxNaV9nczRSTHUyakp6SFZkWkVkeHVoZ0F4Y0Z3a1ZOVkdhT1V4dWNXNUZZdmhucUlMYThBcmdrNDZIQmFlem0yXzc1cjhxZVROejdWN0VybHJJSHZFQ1JRRWsydnZDLVp2NkdfR2Y5VWp2NnlRVXljSWx1SDUzZXVlY1RiaW1adTRyY0tMMlVIZUZOcEs5aUFwUVQ4TUlueHNsSHk5SFBQbTkwcjlUQ2ZtZDlic2l2RU0?oc=5) — Google News — Northern Virginia
 
 ## 🚀 Hacker News (Top 5)
 - [IRCv3](https://ircv3.net/) — 341 points, 289 comments
@@ -34,14 +34,12 @@ Global coverage includes Tropical Storm Rachel downgraded as high winds and rain
 - **2017** — The United States announces its decision to withdraw from UNESCO. Israel immediately follows.
 
 ## 🎲 Wikipedia — Random Article
-**List of political entities in the 19th century BC**  
-Political entities in the 20th century BC – Political entities in the 18th century BC – Political entities by century
-
-This is a list of political entities in the 19th century BC.
-https://en.wikipedia.org/wiki/List_of_political_entities_in_the_19th_century_BC
+**European Shooting Championships**  
+The European Shooting Championships are the continental championships for ISSF sport shooting disciplines in Europe, including 10m air rifle and air pistol, cartridge rifle (50m and 300m) and pistol (25m and 50m). Sometimes the competition also includes trap shooting, skeet and running target shooting events, usually organized in special championships.
+https://en.wikipedia.org/wiki/European_Shooting_Championships
 
 ## 🌌 NASA APOD
-[Ice Fishing for Cosmic Neutrinos](https://science.nasa.gov/image-article/apod-2026-october-11-ice-fishing-for-cosmic-neutrinos/)
+[Jupiter and the Moons](https://science.nasa.gov/image-article/apod-2026-october-12-jupiter-and-the-moons/)
 
 ## Feed Health
 - **Reuters — Headlines (Google News)**: ok (15 articles)
@@ -69,4 +67,4 @@ https://en.wikipedia.org/wiki/List_of_political_entities_in_the_19th_century_BC
 - **Wikipedia — Random**: ok (1 articles)
 - **NASA — APOD**: ok (1 articles)
 
-<sub>Runs so far today: 1</sub>
+<sub>Runs so far today: 2</sub>
