@@ -1,21 +1,21 @@
 # Daily Knowledge Garden — 2026-10-13
 
 ## 🧭 Daily Summary
-Global coverage includes UK growth upgraded but energy prices and rates to bite in 2027; Bumble shares soar after report dating firm in $1bn takeover talks; Agents search Rep. Omar's Washington home in criminal probe as she vows she won't 'be silenced' - AP News. Local coverage includes Lucia Wilson Obituary (2026) - Berryville, VA - Northern Virginia Daily - Legacy | Obituary; High School Football Top 25 (D.C., Maryland, and Northern Virginia) - The MoCo Show -.
+Global coverage includes Trump is heading all the way to Alaska in a sign of just how close its Senate race may be - AP News; Pope admitted to hospital for surgery to remove lump on his lung; Trump's ambassador to Greece, Kimberly Guilfoyle, resigns after allegations of improper conduct - AP News. Local coverage includes Northern Virginia Halloween Haunt - FOX 5 DC; Virginia seeing big increases in early voting numbers. What does that mean? - WUSA9.
 
 ## 🌍 Global News (cross-source)
-- [UK growth upgraded but energy prices and rates to bite in 2027](https://www.bbc.co.uk/news/articles/cmglw0r21zexo?at_medium=RSS&at_campaign=rss) — BBC — Business
-- [Bumble shares soar after report dating firm in $1bn takeover talks](https://www.bbc.co.uk/news/articles/cm9qzwjgnjxlo?at_medium=RSS&at_campaign=rss) — BBC — Tech
-- [Agents search Rep. Omar's Washington home in criminal probe as she vows she won't 'be silenced' - AP News](https://news.google.com/rss/articles/CBMijAFBVV95cUxNQjdzXzdVOVh5OVVkeXRrSlNpQXBuMTBWQzhqRDUtbG9uY1ZET0trR0xXNmlIQUhBY1hRS1BsVm8yRENMUE1MZTRxaEtsUmFoaEFUSXFuTXpqeVpqMHd5a1ZYOEtnT3ZvV1NhNmZYMUg0WnlGenFVal82aFp3c2psT25Fc0dRSUNWbkNobw?oc=5) — AP — Headlines (Google News)
-- [Washington - AP News](https://news.google.com/rss/articles/CBMiSEFVX3lxTE5QR3huWGxwNU5TM3lzQ2VHTXc0UWR5VURxMmNIQjlsQkRfeklWc21VazJCYkQ1UHRmOEhENEVJdW9COUt3WGdMTg?oc=5) — AP — Business (Google News)
-- [Oil ticks lower as Russia diesel supply prospects counter Gulf supply risks - Reuters](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPa2sxWTVlekZ2bXloVXNiOUltMm5iODVOMW9NTUo4Q016ZU02OFQ5TU9relFTcUZSaW8xV0c2YmNVbE5jWW5uQjhKeXNKaWxBcE92SU1fQUU0R2RVamdNUzRhTER3NzEzMFUtRVd3bzVnZ1g0ZmtRek95VHdYbVNNMmNacmlDd3dLTThmaGF2VVJDYTc4c1hQeUZfX0ZGQzZjTXlpLU52U3JuUGpjOHJjWndoS19LandSX0dtMmdUMzNKZw?oc=5) — Reuters — Headlines (Google News)
+- [Trump is heading all the way to Alaska in a sign of just how close its Senate race may be - AP News](https://news.google.com/rss/articles/CBMinwFBVV95cUxOZndZOXVHelR1M3hqMFp1NHAxbl9HTW9QVTRWeWZsOXhNTGRYYUp3VTFhSFdQOTluQjZSc0FoUDU5b3RWWWR1RTJPNGdmcTBJeUZqalozOFhoVTRGVnFOaE1jXzRVQUhINDFqRWVXcmVnbUN1b3d1Q0hfRmJCd1E1WmdvRm9jSEV0dHVTaXlxcTdTaFVYZ3dQcUQza1ZUUW8?oc=5) — AP — Politics (Google News)
+- [Pope admitted to hospital for surgery to remove lump on his lung](https://www.bbc.co.uk/news/articles/ck1wvd9dvv22o?at_medium=RSS&at_campaign=rss) — BBC — World
+- [Trump's ambassador to Greece, Kimberly Guilfoyle, resigns after allegations of improper conduct - AP News](https://news.google.com/rss/articles/CBMimAFBVV95cUxPak5ZbXdiNVNTR2dUSG5BaXVDZlgyWEdLYVNWU2FiTTl6QmRQTk1BcmJ4VXFNWHVtYUFBOVdlRnpaUlNnV1ZFRkJtVDRXQ3JzeEUxMVkyUVhKRF9qQ2hQdFBJcEVTVWhCempCTGZ6cmpTME5RTHU0SWdGd0s1QnQ1R2hlUEFRc3RudnlLd0ZKd2w0VDZVU0I2Ng?oc=5) — AP — Politics (Google News)
+- [Saudi Arabia strikes Yemen capital as Houthis vow to retaliate - Reuters](https://news.google.com/rss/articles/CBMiygFBVV95cUxPUHZtMnk3dUVFWmVkT2FmZVRqNWNrUUc5YkNkWVJMOEhWMmo1dnc2S3FlUlExbjFscTdlY3NQcExPejdxUlF1clZ5S1BKQ1JLdjhzaFdXT2l1YVBmN2VVSkFOSlJNNmlTR2w5d082MDR2b3RkY1VrTTlwWFhuclBteVRaTmtMRUczY0VPaWxBeVV1RE9vUE9kRFZaUlZEX0NnOXZqVnNtNlJIcFU3cnE2VVFTNzhfNVZ0TzZiQWFtSUJCdXJXYU5rU0JB?oc=5) — Reuters — Headlines (Google News)
+- [Bumble swipes right on $1.3 billion go-private deal amid online dating industry reset - Reuters](https://news.google.com/rss/articles/CBMihwFBVV95cUxNUWdqT0RjejJkVkRMa3B2MHFQSDJsRmgzOXZRalc5cGlqSWNlX0s5S3lyUjhobXB6VTFETGk3ZndzeHhwNFQwMGxUQ2pBOE03eUg1a05sWC1DRVBvRmJWSmpnaEJEUnJSSEdYY3RHSklEZFptcUZLWGF3VkRYSUQxRFFCRUxxRDg?oc=5) — Reuters — Headlines (Google News)
 
 ## 🏙️ Local News
+- [Northern Virginia Halloween Haunt - FOX 5 DC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1Nc1FIVzNubUQtNEJrazRoSUJNdXhwVXY0TU1Yd0lBQ1RsdGMybFlpTHZkZUlTSmU3b3JBN1lMUG5VQlRsZXZuc3B4clhXTy10MmtJYzFIanEtajlaNHfSAWNBVV95cUxQOU9IZGstTzV4YVIyY2N0ZE5Nb1RYOWs1cjFSam9UbF95dWhqdmZjenMtNWRhVnM0MkFrMDdITWMwRjM4Ql9CS0wzSDBPR2ZBT1NOTjg5eW05bzduNFJmX3Z4TDg?oc=5) — Google News — Northern Virginia
+- [Virginia seeing big increases in early voting numbers. What does that mean? - WUSA9](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQQlhPSG9SYWV4YldWY2RXdWI1VlhrRmJXLUtUUXNMQ3JsMGlER3Y5ZlRoZE1MMUM4b1RWc2trU1U4NmdhLUhpaDBzVGdWVFBJb0wyMms4Vm9FZGtkWGhYMXRsWm8xZnZHa0RxeVlGOHhXQmJlanQwWm5vZC1fd0ZleDJKNzdIX0Q4c1cxcVRwMkZCN2RPUWhwX0lmeFVSQ0FtQUhHTEw0Y3BMSXpNSkk1S1VBLUR5UENFM045X0o5QVU?oc=5) — Google News — Northern Virginia
+- [GazetteLeader archives available on FFXnow, adding to past Fairfax coverage - FFXnow](https://news.google.com/rss/articles/CBMirgFBVV95cUxOWGJsWDVWd1hyUmZwLXhkSmVhR3NMNTZHemdiTTNWVWhHVDR4Q0xKamtXR092UTZzNVNBaDN0WGRZNFZSWlVWVnhRS0FPanIzOVJSRzFLUkhCVWJlOUtwckMzN2M5UDItTnJzY3pWcy1hanBtYXExQlloTVM2aGlGYldGaFpVZl9UbEpQcnNGYUd4ekc0YjRCQjVzY1pUNDIwak5Wb0NBVjdTWFdUNHc?oc=5) — Google News — Northern Virginia
 - [Lucia Wilson Obituary (2026) - Berryville, VA - Northern Virginia Daily - Legacy | Obituary](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNcTBvOTdLc19YU0lvdXRwcG93bms1NjJyVHN5V2VDT2xaR2FoejBrRDBxZl9RekhWMXdOMkJiSjZ2VzBOQkNaMk1QSXl3d3BJNXR3S1d5NmI4WHZRQ0U0X0JYR0xhS19xVWlnaUlQTDNNLTFrUUdVZmRSQnhRcno1aDl6RFJkVVpYQUlF?oc=5) — Google News — Northern Virginia
 - [High School Football Top 25 (D.C., Maryland, and Northern Virginia) - The MoCo Show -](https://news.google.com/rss/articles/CBMimwFBVV95cUxOemw0UEZhckpPMFdwTVJxaTlZRS1vdy1zR0NJdkd6dmpUeVhCWmdfN2x2QzNMel9ZYTNBSksybFZ4aFBJNl9qTWZoNmJ4MDViUHBYTnM2NWE2OFNnRXliU2hlYVNfTjJxdHEzUE9iUFNrV2JiWFpTVEdTRTNhZWVvcloySzFuemRzYWpaLTlFOVhQTFhVRHkzVHNEaw?oc=5) — Google News — Northern Virginia
-- [Is the future of data centers underground? Here's one engineer's vision - NBC4 Washington](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQczRXU01QYWdVWkZEbFNXWUt0QUZQSF9CeWVwcFZjWUdsYk5WV0MteGtXdUh1ZDVhSTAzNmZkNmtYYmlkbk1GM20xa0ZzZzJvMWRpQ0xqQmZTOHQ1RlRvU0xhcElIUExqSDlBcW1rRG9NeWx0Y1dFWUJudlBmMUNnRFc2QVNEdXRXT3VWTHVWd1g4eUgtcExiSU5GaEM2YTB6UWgtSVNXam5KQ2tXS0xRT1ZfcXNyNTFnZUNKbVhWaElnTV9PVmdYZDJXSWlzV05STHfSAdoBQVVfeXFMT0h3dlFqMl9sM1lldVJfMzc1a3ZuZmpIZHloVW9fT2d0ODNGLU5VS0ZtSlE0Z2J0OTFfeEgwcllsc25qRDlleGxlYnVMNldTZ3hqNWsyQ3N3UzVJQTN0VFNhOVIzaUgtWWVhN2UzamlhLXpCYkM3cU5EMThweThESHNPb2M1Ry1OQ0s0blVMTzVZV3FuQ2xFbHRoSjhCdjBydmNrUDJ4WW1hUWFtbWNpNjlqVjl0S3h5eWNKWkxibC1rUVhUdU1DbklOSGVEOVVVXzlnZlBrODF4ZFE?oc=5) — Google News — Northern Virginia
-- [2026 Northern Virginia Veterans Parade - Prince William Living](https://news.google.com/rss/articles/CBMie0FVX3lxTFBzdU1UR1NnY202NmdVU3BBNmZ0NHllSTJJcG5jUExhcTk0aUdTV25PQmg2WmFOZEVfTFRTalF2alFySjRMRWp0dWFaM21qNThWOU8ydmhpMklISUhaSVIxMUF0Q3hYZjNZaENPcnNGSGlUOVlDcU4tZ1Z6VQ?oc=5) — Google News — Northern Virginia
-- [See How Virginia’s Public Universities Stack Up in the 2027 Rankings - Northern Virginia Magazine](https://news.google.com/rss/articles/CBMixwFBVV95cUxPa1o1eDRYak82eUdMWS05dzB5SW1jZkhBQUwyZDlzQ0d3dml0N1NOQkpTOHRKNXFJaW5IbjdLSDJ6Mms2Rmt6R3JzM1pyOFdZNk9PSTQzU2Q0Rk5Rdk1jVmUyQkgxOVgzMG4tT1B2cDdRa2x4a2JDd1hRd1gySGVrVkJBTlAxdmJiQnEwNXdCZ2NvZHlYaFQxelc0UHFRcThyUWJobFFqaU5ZMzJmY1FNUV94bDRqcDdKUGcyYWVYUUdUMjd3dk80?oc=5) — Google News — Northern Virginia
 
 ## 🚀 Hacker News (Top 5)
 - [Muse Wonder](https://research.meta.ai/blog/muse-wonder) — 534 points, 299 comments
@@ -34,12 +34,12 @@ Global coverage includes UK growth upgraded but energy prices and rates to bite 
 - **1993** — At least 60 people die in eastern Papua New Guinea when a series of earthquakes rock the Finisterre Range, triggering massive landslides.
 
 ## 🎲 Wikipedia — Random Article
-**2026 European Shotgun Championships**  
-The 2026 European Shotgun Championships is the 55th edition of the global shotgun competition, European Shotgun Championships, organised by the European Shooting Confederation.
-https://en.wikipedia.org/wiki/2026_European_Shotgun_Championships
+**Yepifan**  
+Population:  2,237 (2010 census); 2,377 (2002 census); 2,457 (1989 Soviet census). Yepifan was founded by Knyaz Ivan Mstislavsky (Ivan the Terrible's cousin) as a fort (Yepifan Fortress) against the Crimean Tatars (see Great Abatis Border).
+https://en.wikipedia.org/wiki/Yepifan
 
 ## 🌌 NASA APOD
-[Jupiter and the Moons](https://science.nasa.gov/image-article/apod-2026-october-12-jupiter-and-the-moons/)
+[Desert Stairway to Heaven](https://science.nasa.gov/image-article/apod-2026-october-13-desert-stairway-to-heaven/)
 
 ## Feed Health
 - **Reuters — Headlines (Google News)**: ok (15 articles)
@@ -67,4 +67,4 @@ https://en.wikipedia.org/wiki/2026_European_Shotgun_Championships
 - **Wikipedia — Random**: ok (1 articles)
 - **NASA — APOD**: ok (1 articles)
 
-<sub>Runs so far today: 1</sub>
+<sub>Runs so far today: 2</sub>
