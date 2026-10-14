@@ -1,21 +1,21 @@
 # Daily Knowledge Garden — 2026-10-14
 
 ## 🧭 Daily Summary
-Global coverage includes Gales and heavy rain to impact UK as yellow wind warning issued; Germany puts Ukrainian on trial accused of blowing up Nord Stream pipelines; Cornell suspends fraternity parties, gives state police role in investigating campus assault reports - AP News. Local coverage includes Northern Virginia animal cruelty case leads to renewed call for industry regulation - WJLA; Calamo Street multi-week closure in Springfield begins Oct. 14 - Virginia Department of Transportation (.gov).
+Global coverage includes Burnham - Rosebank and Jackdaw oil and gas decisions coming 'shortly'; US inflation heats up in September; Fed rate hike this month back on table - Reuters; Associated Press News: Breaking News | Latest News Today - AP News. Local coverage includes Powering the AI Decade 2026 | Data Centers & Energy Policy Forum | Tysons, VA | Free - InsideNoVa.com; Home remodeling firm moves HQ to Vienna, replacing longstanding beauty spa - FFXnow.
 
 ## 🌍 Global News (cross-source)
-- [Gales and heavy rain to impact UK as yellow wind warning issued](https://www.bbc.co.uk/weather/articles/cxvgdq0jj8d2o?at_medium=RSS&at_campaign=rss) — BBC — Science
-- [Germany puts Ukrainian on trial accused of blowing up Nord Stream pipelines](https://www.bbc.co.uk/news/articles/cw99zpmnxzmjo?at_medium=RSS&at_campaign=rss) — BBC — World
-- [Cornell suspends fraternity parties, gives state police role in investigating campus assault reports - AP News](https://news.google.com/rss/articles/CBMiowFBVV95cUxQN0hlOWdLdXpsRFVLdTZoNXN0NWxfMXlTSHRTRXBJa2xBeERmME5WMUhuWXlTc2RhNThCREt4ZjBmRngzbThSYnR6Q0ZVdEM4eHpMalpHTXo5dWxQN0d1WHFSTHViT1NJZzZNbWV3MjBsYVdhclBSMnZSOHJYUGRBcGVhcXRZYmwyaHM1ekV2NjNIQmlGeHpnNnZUajN4cVV5aC1n?oc=5) — AP — Headlines (Google News)
-- [Trump says US still sharing intel, even as Ukraine reports attacks with no warnings - Reuters](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRVA2WjlXNVNqR1RhTzFnOFd4bGstWUFZMDhCbXBNUEsxNzU4b2N2Tktwck9tMlFvSERMbFVwcnNkMUFTSVBxMjlia2VhMlQwZVllRlo5ZFpaUnl6aWFxSWJGaXhIeFJFcVA1ZUUxRHJqWjNqalNrU1UwMUtfX1hKTXhtN3pNVHdOSW93WGh5NlRuZW5KdVJPOGtsWWVHbG9UMy1tUjZrcWxEWGZkUldicFVURDFjdmdza3Q0?oc=5) — Reuters — Business (Google News)
-- [Six Flags closes 9 North American roller coasters after families watch man fall to his death - AP News](https://news.google.com/rss/articles/CBMinwFBVV95cUxPZkNtdXlMaTZnbUtyRWxELS1kWDYwRVdpbUozWnRCUWJab2NXRDF2YmxocTY5Wm9BaHp3UDdxVkFoWE9XNEUzWlNXdVJQaTFPbWpJUjlrWEl3a3JtNFBSNGp0SkFfRjJZU2F4cmZBUnRpd2VCeUxGc0FFak5jRjZ2MUd0V3NBdG9xUWtCaHZwbmx5U1ZYeHpma3lLcHQtLTA?oc=5) — AP — Headlines (Google News)
+- [Burnham - Rosebank and Jackdaw oil and gas decisions coming 'shortly'](https://www.bbc.co.uk/news/articles/c92031m6knljo?at_medium=RSS&at_campaign=rss) — BBC — Science
+- [US inflation heats up in September; Fed rate hike this month back on table - Reuters](https://news.google.com/rss/articles/CBMiugFBVV95cUxNX3hkV3J5em1xWWY4V0hQODFTamFtU3NvdkpPRUUzMGY0TnlKaVlneXZPc0J6bFpWdDZWb2hLRkZZaHhZVElDSXNFbGNYMVVBRGR6c1RlNDA4cEhkMEcwck5VMFRtZ1QxOFJqNTkyaGJzWWFLSXp2Z0l1Z19vMDh5bGd6N1FJSkJFR2tZUXd1UWUzeVlvZi1xNTVONk00ejJ5cE0xSGY4THFsaUo0RGxPV3dpaW4tbEZseUE?oc=5) — Reuters — Headlines (Google News)
+- [Associated Press News: Breaking News | Latest News Today - AP News](https://news.google.com/rss/articles/CBMiNkFVX3lxTE1JRTBkY0d6emFJTklfMk1FZkEtdnc2dmtQVGhJQUcxb3cxdVZNajFoUnMxbGx1UQ?oc=5) — AP — Business (Google News)
+- [Driving test waits fall to two-year low - but still average 20 weeks](https://www.bbc.co.uk/news/articles/c94g1kvz006ko?at_medium=RSS&at_campaign=rss) — BBC — Business
+- [World prays for Pope Leo after lung cancer diagnosis - Reuters](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZEhjR1JvdVhXeEhEaEZla2JHSkZ5bHFoeWtBTmxpcWgwS3hhMVdCMExHVzdYalFtZFp5VGhYYldPTU5MZWt1QkE3QXNrSU02ZWhkbEtfVE14RW4zZGZwa0VTUmRwUXo5VjRMVlNrc0ZqS1lhcE5QLUlsak9WODRybU5peXp2ei11N2M0M0hBdFdweEdsOU9Xb21TbTJ4T2NRMTh4UkVvSmVxbWM?oc=5) — Reuters — World (Google News)
 
 ## 🏙️ Local News
+- [Powering the AI Decade 2026 | Data Centers & Energy Policy Forum | Tysons, VA | Free - InsideNoVa.com](https://news.google.com/rss/articles/CBMi3AFBVV95cUxORVNwYVRhWGlwcEIzQm1lTi13alduUWxzUW84b05yLXlNMGQ2WXVmanh0dlJuTy1XOXEtcnhlekRkTW12bXVYVmlxSThXeW45VzAxY0xWYlYyNm5GWHB6RWVGbG02UjRjWGNReWd5QmQyYUJRd21XTkRJOUoydHdYenRrb3RTS290N3JORHV6cG9kd3hUTlVGWXRLRXU5ZGxvZVM0bVFuWFRSV0FHVWtHQWtpczU4cGtIYUFSTTkzcTBHR2pQWTMxWG1YTktHSktMc2dmNUZEY09VMU5l?oc=5) — Google News — Northern Virginia
+- [Home remodeling firm moves HQ to Vienna, replacing longstanding beauty spa - FFXnow](https://news.google.com/rss/articles/CBMirAFBVV95cUxPLUlfcUZGNk92TXJhUFpCWFFFNVVJeDdaRGt4T2J6OWhESDgxNlo4VWRvNzBHd0xRcXdweEl4YmQxLTJSbG14Q2dYRGgta3dqSzNiQlZzYjZ6WHZqX2JmUmJwdkI4bm1OdWtWREFITmxHLXF5OGxIbjRodVRuMW9tYi0zN3Y5TV9CSmxQQ284VUxKeUdYWmV5UzV2MzFocW9ZY08wUWdhejBpNFRW?oc=5) — Google News — Northern Virginia
+- [Morning Notes for October 14, 2026 - FFXnow](https://news.google.com/rss/articles/CBMid0FVX3lxTFAzNHphR0pKMm1qRU9ETDB0OVd3UEpNaFkzcEdLZHRyUGVsbUFTeHhWWFNiSlRTaTF2NDNQSTk1bnYyRmgtaHp0cEQzTEhvOUJINEVzbk1leVkwRjIybVNlMHQ4RzRYME5TSGkzQ2lxRk9ZeDdya20w?oc=5) — Google News — Northern Virginia
+- [Fairfax County Public Schools enrollment declines by thousands - NBC4 Washington](https://news.google.com/rss/articles/CBMiygFBVV95cUxOQ0trbmJGWVJ5SHNUemNtdXpTOGlkenJLTGNYQ2FpMjZja28tWDEwQmpvV1RHYzFZa2t1NFhtaFBPSk9QcFpmQ3RNSEItOXBzc2c2Wlo1R052VFgzbXYwNGhZbEtjbVdaMUtNN3NYa0dTN2lfOTltTHJyVG1CeXM4N2tiZmhacDh4N0tWMENCeFRoMUExVm83bWlJVHNBX1htVktXRkFNY2RoZ3hnSnU2Wm1lUGNhT2wtT2dLQlFudW53SVV0dXZWMHBB0gHSAUFVX3lxTE1Td1RvS2xIdWFlUHR6Ym1VT0tWaFFHWHQ2V24wblR4REI4ekV6OVNic0p4OUhFTG5wQVNkSERpSjlUM3hKX0dDRllMbVZucE45Ul96Sngwak56TGxxT2QxY0I3aHdvTTJwYTJWcUQ1VlpTNTZQeDljNlhJckZ5RkVJR0l4OGlXS1lhNmRSMC1SVWtvV0czeTJ0MVdVaFBJczFMc01FZU9FMnRPR3lhMmdFTHVlYW0zSWFWdkdPMmdXX0diN3AxM2FOYVhxd3FBTW9IUQ?oc=5) — Google News — Northern Virginia
 - [Northern Virginia animal cruelty case leads to renewed call for industry regulation - WJLA](https://news.google.com/rss/articles/CBMipgJBVV95cUxQZENIdXN6RV85TkNTa3F1eXE5Qm9JLUNhZVFDU2ZxQmJFaE1lUllKX1lvcVFhOFliRy1WazNoSUtZSHFxMkpRWjZMdHJVeFFZc18zQWJfR3BMVDFGQlZaSlF1TXNfUWNha3l5Ylhmc29pcnRDbGZlQ1E3S1JsT0J4VkRWNzVreE9YeURuU1Bib1p3clh6bG9tZGdsSlNDLWJQeGZFWnNRRWgtSTJJZVZIT3hBTnhRVW5SNHVrZmtSQm8xOTA1MnFDNVd4OTJHNzNZWjRYVi1yZUJxZDVSRkdwd3VxMjJnbGZMb0hxZHpYbHhmeVQyaWxtMW40eFAyZmRlMnNHRWRhY1dYTjdBTHJoT3U0LUE1ajlwTzdBMmdVaEd4WkdPREE?oc=5) — Google News — Northern Virginia
-- [Calamo Street multi-week closure in Springfield begins Oct. 14 - Virginia Department of Transportation (.gov)](https://news.google.com/rss/articles/CBMi0AFBVV95cUxOSGYzMXp2NjFjYS1KUWNHX2JyR3hOMUMxaDRVNjUtYnR3YlFYNWJzckV2dEtxVWhsUU1SZnFKSUt5M0gxOWlrTzBDOTc5UWc4a2dURE1WSG5rd1A0Q19XODRZR2dyb0xRdnR0UTFqV01kakhzRkptTFVtNm9BYjcwejhiOTNTbHpneThsTDBVaFhqakQxV015aDRpdUtnZkZNdEdiVmZhbzc5S3BiUENlTkpTMkZ2X3gxZ1RrQ3hmcUc0UDZyY1YyMGZ4d09WOTZQ?oc=5) — Google News — Northern Virginia
-- [Northern Virginia Halloween Haunt - FOX 5 DC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1Nc1FIVzNubUQtNEJrazRoSUJNdXhwVXY0TU1Yd0lBQ1RsdGMybFlpTHZkZUlTSmU3b3JBN1lMUG5VQlRsZXZuc3B4clhXTy10MmtJYzFIanEtajlaNHfSAWNBVV95cUxQOU9IZGstTzV4YVIyY2N0ZE5Nb1RYOWs1cjFSam9UbF95dWhqdmZjenMtNWRhVnM0MkFrMDdITWMwRjM4Ql9CS0wzSDBPR2ZBT1NOTjg5eW05bzduNFJmX3Z4TDg?oc=5) — Google News — Northern Virginia
-- [10 Houses with the Best Halloween Decorations in Northern Virginia - Northern Virginia Magazine](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPT29ZM0ZyRGVSSEo3dDJTQ1JtMVZ6Q1dDWUJlcm5VQkp4dnlIaXMtSmxjRi1xX2tuMU5rZ09VM2tsM2Z2VVFFdjRxSkN1dEp0X1NLcm9OVU5TUDBxa2VlVWdGX0JYTjBVSVE2QlRIVTZ0QlJBWHY4NmpZOGJNQm8tLU1Pajgtbzd3X2VnR1poUF9XWmJQQ19ZTjU0Q3dfSy1SanRXVXpLNllpSWRJSDgxSmhSNFNaczdm?oc=5) — Google News — Northern Virginia
-- [12 New and Coming Soon Stores and Restaurants at One Loudoun - Northern Virginia Magazine](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNUWVibVJ5QWhILUFIa1N0Mk5JbUh3MjhUUkpVSnBQRFJjekszSC1KNEtremNjS3Q0NkhGQ3VONmJzZkFVZ29VYm1CQkN6SjZ6T3JjRldtLVp2Tk1US2ZiLXJST1ZXNzAxTmFacFg3SDhkU1NnczdVMlRmYTJfeHdBNEI0YmJJTzA5QW1sQXBVNGMydG1HS1BSUEN1MkdXdVhBem5UTy13UzFTRTFnQ1BtejJVRGVyckJWSzFN?oc=5) — Google News — Northern Virginia
 
 ## 🚀 Hacker News (Top 5)
 - [Gemini 4 Argon](https://deepmind.google/models/gemini/) — 926 points, 713 comments
@@ -34,12 +34,12 @@ Global coverage includes Gales and heavy rain to impact UK as yellow wind warnin
 - **2015** — A suicide bomb attack in Tonsa, Pakistan kills at least seven people and injures 13 others.
 
 ## 🎲 Wikipedia — Random Article
-**Beddgelert railway station**  
-Beddgelert railway station is a railway station on the narrow gauge Welsh Highland Railway in North Wales. The rebuilt station was officially opened by Lord Elis-Thomas on 7 April 2009.
-https://en.wikipedia.org/wiki/Beddgelert_railway_station
+**Xenares (Peloponnesian War)**  
+Thucydides mentions the name Xenares (Ancient Greek: Ξενάρης) on two separate occasions in his account of the Peloponnesian War, most likely referring to two different Spartans rather than the same individual.
+https://en.wikipedia.org/wiki/Xenares_(Peloponnesian_War)
 
 ## 🌌 NASA APOD
-[Desert Stairway to Heaven](https://science.nasa.gov/image-article/apod-2026-october-13-desert-stairway-to-heaven/)
+[Mars and the Beehive Under an Aurora](https://science.nasa.gov/image-article/apod-2026-october-14-mars-and-the-beehive-under-an-aurora/)
 
 ## Feed Health
 - **Reuters — Headlines (Google News)**: ok (15 articles)
@@ -67,4 +67,4 @@ https://en.wikipedia.org/wiki/Beddgelert_railway_station
 - **Wikipedia — Random**: ok (1 articles)
 - **NASA — APOD**: ok (1 articles)
 
-<sub>Runs so far today: 1</sub>
+<sub>Runs so far today: 2</sub>
