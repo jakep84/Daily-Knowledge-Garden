@@ -1,6 +1,6 @@
 {
   "date": "2026-10-14",
-  "last_updated_utc": "2026-10-14T14:25:54Z",
+  "last_updated_utc": "2026-10-14T19:15:07Z",
   "hn": {
     "items": [
       {
@@ -317,6 +317,141 @@
         "num_comments": 29,
         "created_at": "2026-10-12T21:09:08Z",
         "objectID": "50063104"
+      },
+      {
+        "title": "AI agents aren't 'going rogue.' Frontier labs are skipping security basics",
+        "url": "https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html",
+        "points": 398,
+        "author": "latexr",
+        "num_comments": 165,
+        "created_at": "2026-10-14T17:45:23Z",
+        "objectID": "50091788"
+      },
+      {
+        "title": "ICE Planning $100M 'Nightmare' Domestic Spy Program",
+        "url": "https://prospect.org/2026/10/14/ice-planning-nightmare-domestic-spy-program-ero-one/",
+        "points": 303,
+        "author": "bhrlady",
+        "num_comments": 132,
+        "created_at": "2026-10-14T16:24:11Z",
+        "objectID": "50090246"
+      },
+      {
+        "title": "Google is silently linking your phone number across all signed-in accounts",
+        "url": "https://www.androidauthority.com/google-auto-phone-number-verification-android-3723117/",
+        "points": 137,
+        "author": "Brajeshwar",
+        "num_comments": 30,
+        "created_at": "2026-10-14T16:28:51Z",
+        "objectID": "50090349"
+      },
+      {
+        "title": "TV4 postpones show after AI agent erases edited material",
+        "url": "https://swedenherald.com/article/tv4-postpones-the-challenge-until-2027-after-technical-failure-erases-edited-footage",
+        "points": 119,
+        "author": "tobr",
+        "num_comments": 68,
+        "created_at": "2026-10-14T10:28:26Z",
+        "objectID": "50085323"
+      },
+      {
+        "title": "Better HTTP/1 connection reuse in Go 1.27",
+        "url": "https://go.dev/blog/http-connection-reuse",
+        "points": 97,
+        "author": "allddd",
+        "num_comments": 18,
+        "created_at": "2026-10-14T16:29:33Z",
+        "objectID": "50090369"
+      },
+      {
+        "title": "Submarine cable resilience",
+        "url": "https://blog.apnic.net/2026/10/14/submarine-cable-resilience/",
+        "points": 88,
+        "author": "speckx",
+        "num_comments": 21,
+        "created_at": "2026-10-14T15:31:15Z",
+        "objectID": "50089229"
+      },
+      {
+        "title": "How the Military Will Hack the Election",
+        "url": "https://www.kenklippenstein.com/p/how-the-military-will-hack-the-election",
+        "points": 70,
+        "author": "pavel_lishin",
+        "num_comments": 14,
+        "created_at": "2026-10-14T18:43:57Z",
+        "objectID": "50092847"
+      },
+      {
+        "title": "Tesla's Robotaxis Blow Through School Zones, NHTSA Petition Alleges",
+        "url": "https://www.extremetech.com/cars/teslas-robotaxis-blow-through-school-zones-nhtsa-petition-alleges",
+        "points": 63,
+        "author": "speckx",
+        "num_comments": 42,
+        "created_at": "2026-10-14T16:45:19Z",
+        "objectID": "50090662"
+      },
+      {
+        "title": "Running Windows desktop tests from Linux with disposable VMs",
+        "url": "https://www.qawolf.com/blog/how-we-solved-windows-desktop-automation",
+        "points": 57,
+        "author": "jadenlemmon",
+        "num_comments": 24,
+        "created_at": "2026-10-14T14:55:19Z",
+        "objectID": "50088643"
+      },
+      {
+        "title": "The Gold-Bug: Edgar Allan Poe's story that taught me about cryptography (2024)",
+        "url": "https://robotsinplainenglish.com/e/2024-01-21-gold-bug.html",
+        "points": 50,
+        "author": "ripe",
+        "num_comments": 12,
+        "created_at": "2026-10-12T12:44:42Z",
+        "objectID": "50055632"
+      },
+      {
+        "title": "Has AI Tells",
+        "url": "https://theconsensus.dev/blog/2026/10/14/has-ai-tells.html?focus=1",
+        "points": 46,
+        "author": "7777777phil",
+        "num_comments": 37,
+        "created_at": "2026-10-14T16:52:42Z",
+        "objectID": "50090799"
+      },
+      {
+        "title": "Nvidia's first GPU: GeForce 256",
+        "url": "https://dfarq.homeip.net/nvidias-first-gpu-geforce-256/",
+        "points": 42,
+        "author": "ibobev",
+        "num_comments": 27,
+        "created_at": "2026-10-14T12:05:44Z",
+        "objectID": "50086363"
+      },
+      {
+        "title": "LittleJS is 2D and 3D now",
+        "url": "https://frankforce.com/littlejs-is-2d-and-3d-now/",
+        "points": 40,
+        "author": "dmit",
+        "num_comments": 8,
+        "created_at": "2026-10-13T01:50:17Z",
+        "objectID": "50065572"
+      },
+      {
+        "title": "Banks are now trying to offload the AI data center debt they just underwrote",
+        "url": "https://startupfortune.com/banks-are-now-trying-to-offload-the-ai-data-center-debt-they-just-underwrote/",
+        "points": 39,
+        "author": "smartmic",
+        "num_comments": 11,
+        "created_at": "2026-10-14T18:32:52Z",
+        "objectID": "50092664"
+      },
+      {
+        "title": "US report details extent of 'devastating' dating-app scams",
+        "url": "https://www.theguardian.com/us-news/2026/oct/14/dating-app-scams-us-congress",
+        "points": 35,
+        "author": "PaulHoule",
+        "num_comments": 35,
+        "created_at": "2026-10-14T17:31:24Z",
+        "objectID": "50091519"
       }
     ]
   },
@@ -402,11 +537,11 @@
       }
     ],
     "random": {
-      "title": "Xenares (Peloponnesian War)",
-      "extract": "Thucydides mentions the name Xenares (Ancient Greek: Ξενάρης) on two separate occasions in his account of the Peloponnesian War, most likely referring to two different Spartans rather than the same individual.",
-      "content_urls": "https://en.wikipedia.org/wiki/Xenares_(Peloponnesian_War)"
+      "title": "Yefim Pushkin",
+      "extract": "Yefim Grigoryevich Pushkin (Russian: Ефим Григорьевич Пушкин; 28 January 1899 – 11 March 1944) was a Red Army lieutenant general and a Hero of the Soviet Union.",
+      "content_urls": "https://en.wikipedia.org/wiki/Yefim_Pushkin"
     },
-    "fetched_at": "2026-10-14T14:25:45.241793+00:00",
+    "fetched_at": "2026-10-14T19:14:54.594039+00:00",
     "status": [
       {
         "source": "Wikipedia — On This Day",
@@ -421,7 +556,7 @@
     ]
   },
   "apod": {
-    "fetched_at": "2026-10-14T14:25:45.425221+00:00",
+    "fetched_at": "2026-10-14T19:14:56.612413+00:00",
     "entry": {
       "title": "Mars and the Beehive Under an Aurora",
       "link": "https://science.nasa.gov/image-article/apod-2026-october-14-mars-and-the-beehive-under-an-aurora/",
@@ -2601,6 +2736,36 @@
         "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNaVI3VmJtRUtNbkFBbkZXdUVJLXh6WmpUYUpwSnE1SlBVMkw1eGN1RUpPZVp0SFpxbGw1VkU5N01tOG1uV2w5am94S0tsdDQ4b3hmSnZSTUNMdXZjdmhtaktvMTNnUjd3MkpSanRZT2VWc1Q4NE9jaXY3bDh1VmlmUDgwd2JNSzBoeGZiVm5zUkNIXzdTOEpvdzZBbjh0WEl2WVNFU0dWcmFjSUNiVjM5LWhn?oc=5",
         "published": "Sun, 16 Aug 2026 07:00:00 GMT",
         "source": "Google News — Northern Virginia weather"
+      },
+      {
+        "title": "Ernest Bowers Obituary (2026) - Woodstock, VA - Northern Virginia Daily - Legacy | Obituary",
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNc3ZCbmVyMndIa3hWWHJhOHVqY3lMbXRpUTFqelFTVEFXa2RXSkRLRl9fQjhLMFdLX1pJUk93M0lIMW9ZcFhNNGlGOUloRUNySzJYbmRLYWJEYjFCOTRjWm8teV9XNXdGS29RMjliRkZhVVhxRDNzS3BYVms4U0tTaC0xT0owNHNfQUhCLQ?oc=5",
+        "published": "Wed, 14 Oct 2026 00:22:15 GMT",
+        "source": "Google News — Northern Virginia"
+      },
+      {
+        "title": "On the Market: A Scandinavian-Inspired Midcentury Modern Home in Falls Church - Northern Virginia Magazine",
+        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPejVyb2lhMU51UXdCbkFuUG15WGNvRlRlZkhTUEpwcnFibjdqd2ZFSTJuem1rdmQ1OGp1ZzZTbDNjOTF5WThsSmdKcTNBYVU2RVZVd1RyVWc3SWZRQjcxWndKd2tkUFY5NVNOYkVCWXVMT0FsWVB0MGt2RDEtcjVRXy1fcjZvMkZXQ1RlbnRUV3RtQ1dDaXZ0VHFnRDlTOVctdGE5N2FKUXBEdUdTQmYwWXZLTzJ0Ykdzd2lsLTl3Qzd0aXVpbFpTaHJQRGdsaEt5QUFr?oc=5",
+        "published": "Tue, 13 Oct 2026 12:09:42 GMT",
+        "source": "Google News — Northern Virginia"
+      },
+      {
+        "title": "Willard Clem Obituary (2026) - Strasburg, VA - Northern Virginia Daily - Legacy | Obituary",
+        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQRXRpMXFOYU9BRWhoamtNZnJfRVJVNGFrWlJ1T3E3SjNTckxSU1FxZTlhdXYwTnVwS01ZYnRmSFBWTFZNRG1QY050aVJ1aVBGWlItQWtxdHZFTnloOW1ZM3ZhYWVxX3dsLWd3WGhYOWpxVjVvZE1BSDNrdHZFTWVCVDFvZW5TQzl4UjVV?oc=5",
+        "published": "Tue, 13 Oct 2026 22:19:28 GMT",
+        "source": "Google News — Northern Virginia"
+      },
+      {
+        "title": "Popular Maryland Restaurant Expanding to Northern Virginia - The MoCo Show -",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQaXNUeEYxUmFjN2FlZ1dpZUktYjNTMnk1S280TklLODBvTFJCTTE5ODBRbHlBWExVUVBLQXo1WGhCbXppbmIxV3Z1RzNjcTBFRF9ZanhGNUtNZ1RxTndQU1RpeW1qR01JbGU3OE40NXQ2R1RXcTJ5VWp5ZmdTeE9vTkxwUVpURkR4NmZYZXNrWVUwaFBoU3c?oc=5",
+        "published": "Wed, 14 Oct 2026 17:00:21 GMT",
+        "source": "Google News — Northern Virginia"
+      },
+      {
+        "title": "Woman speaks out after ICE officer pulls out gun during traffic stop - WJLA",
+        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNeldCbDVhUkhrNlpiSW5HYTB5U1pyZlBBZ296NS1QbVZCdkRRSGRoQXhQM2R3Qm5PRmNOem5oOE9CaHJqa09vSGpKMlJtVnVoLXZ2cm4xZ0EzU205SzhsX2ktWGFESE14VzAtUmtBLXVaZ0tqeS12eHYzbFVuRU13Vy1iX2FNbktHTUw1TVRDVVV5Sk1fRFVMc2htb1g3MFptUjBMZjYtUWFFODFZMTBlUnZ3akcyWGRJeThnNDJySUJxaW51VGc5RlZUT0FoSVRpMVJoM3NtbnFhYmM?oc=5",
+        "published": "Wed, 12 Aug 2026 07:00:00 GMT",
+        "source": "Google News — Northern Virginia traffic"
       }
     ]
   },
@@ -2610,147 +2775,147 @@
       "url": "https://news.google.com/rss/search?q=site%3Areuters.com+when%3A2d&hl=en-US&gl=US&ceid=US:en",
       "status": "ok",
       "count": 15,
-      "checked_at_utc": "2026-10-14T14:25:47.587272+00:00"
+      "checked_at_utc": "2026-10-14T19:14:59.258517+00:00"
     },
     {
       "source": "Reuters — World (Google News)",
       "url": "https://news.google.com/rss/search?q=site%3Areuters.com%2Fworld+when%3A2d&hl=en-US&gl=US&ceid=US:en",
       "status": "ok",
       "count": 15,
-      "checked_at_utc": "2026-10-14T14:25:48.148238+00:00"
+      "checked_at_utc": "2026-10-14T19:14:59.963932+00:00"
     },
     {
       "source": "Reuters — Business (Google News)",
       "url": "https://news.google.com/rss/search?q=site%3Areuters.com%2Fbusiness+when%3A2d&hl=en-US&gl=US&ceid=US:en",
       "status": "ok",
       "count": 15,
-      "checked_at_utc": "2026-10-14T14:25:48.601236+00:00"
+      "checked_at_utc": "2026-10-14T19:15:00.472208+00:00"
     },
     {
       "source": "BBC — World",
       "url": "http://feeds.bbci.co.uk/news/world/rss.xml",
       "status": "ok",
       "count": 15,
-      "checked_at_utc": "2026-10-14T14:25:49.018181+00:00"
+      "checked_at_utc": "2026-10-14T19:15:00.934611+00:00"
     },
     {
       "source": "BBC — Tech",
       "url": "http://feeds.bbci.co.uk/news/technology/rss.xml",
       "status": "ok",
       "count": 15,
-      "checked_at_utc": "2026-10-14T14:25:49.211346+00:00"
+      "checked_at_utc": "2026-10-14T19:15:01.323835+00:00"
     },
     {
       "source": "BBC — Business",
       "url": "http://feeds.bbci.co.uk/news/business/rss.xml",
       "status": "ok",
       "count": 15,
-      "checked_at_utc": "2026-10-14T14:25:49.290231+00:00"
+      "checked_at_utc": "2026-10-14T19:15:01.511268+00:00"
     },
     {
       "source": "BBC — Science",
       "url": "http://feeds.bbci.co.uk/news/science_and_environment/rss.xml",
       "status": "ok",
       "count": 15,
-      "checked_at_utc": "2026-10-14T14:25:49.504549+00:00"
+      "checked_at_utc": "2026-10-14T19:15:01.703528+00:00"
     },
     {
       "source": "AP — Headlines (Google News)",
       "url": "https://news.google.com/rss/search?q=site%3Aapnews.com+when%3A2d&hl=en-US&gl=US&ceid=US:en",
       "status": "ok",
       "count": 15,
-      "checked_at_utc": "2026-10-14T14:25:49.888577+00:00"
+      "checked_at_utc": "2026-10-14T19:15:01.845751+00:00"
     },
     {
       "source": "AP — Politics (Google News)",
       "url": "https://news.google.com/rss/search?q=site%3Aapnews.com+politics+when%3A2d&hl=en-US&gl=US&ceid=US:en",
       "status": "ok",
       "count": 15,
-      "checked_at_utc": "2026-10-14T14:25:50.477363+00:00"
+      "checked_at_utc": "2026-10-14T19:15:02.403601+00:00"
     },
     {
       "source": "AP — Business (Google News)",
       "url": "https://news.google.com/rss/search?q=site%3Aapnews.com+business+economy+when%3A2d&hl=en-US&gl=US&ceid=US:en",
       "status": "ok",
       "count": 15,
-      "checked_at_utc": "2026-10-14T14:25:51.177981+00:00"
+      "checked_at_utc": "2026-10-14T19:15:03.212704+00:00"
     },
     {
       "source": "NPR — Top Stories",
       "url": "https://feeds.npr.org/1001/rss.xml",
       "status": "ok",
       "count": 10,
-      "checked_at_utc": "2026-10-14T14:25:51.684203+00:00"
+      "checked_at_utc": "2026-10-14T19:15:03.674825+00:00"
     },
     {
       "source": "NPR — Politics",
       "url": "https://feeds.npr.org/1019/rss.xml",
       "status": "ok",
       "count": 10,
-      "checked_at_utc": "2026-10-14T14:25:51.921106+00:00"
+      "checked_at_utc": "2026-10-14T19:15:04.016642+00:00"
     },
     {
       "source": "NPR — Business",
       "url": "https://feeds.npr.org/1007/rss.xml",
       "status": "ok",
       "count": 10,
-      "checked_at_utc": "2026-10-14T14:25:51.995751+00:00"
+      "checked_at_utc": "2026-10-14T19:15:04.056046+00:00"
     },
     {
       "source": "NPR — Science",
       "url": "https://feeds.npr.org/1008/rss.xml",
       "status": "ok",
       "count": 10,
-      "checked_at_utc": "2026-10-14T14:25:52.083116+00:00"
+      "checked_at_utc": "2026-10-14T19:15:04.095826+00:00"
     },
     {
       "source": "NPR — Technology",
       "url": "https://feeds.npr.org/1013/rss.xml",
       "status": "ok",
       "count": 10,
-      "checked_at_utc": "2026-10-14T14:25:52.198266+00:00"
+      "checked_at_utc": "2026-10-14T19:15:04.147823+00:00"
     },
     {
       "source": "ScienceNews",
       "url": "https://www.sciencenews.org/feed",
       "status": "ok",
       "count": 15,
-      "checked_at_utc": "2026-10-14T14:25:52.339017+00:00"
+      "checked_at_utc": "2026-10-14T19:15:04.610708+00:00"
     },
     {
       "source": "ScienceDaily — Top",
       "url": "https://www.sciencedaily.com/rss/top/science.xml",
       "status": "ok",
       "count": 15,
-      "checked_at_utc": "2026-10-14T14:25:52.478975+00:00"
+      "checked_at_utc": "2026-10-14T19:15:04.732009+00:00"
     },
     {
       "source": "Nature — Technology",
       "url": "https://www.nature.com/subjects/technology.rss",
       "status": "ok",
       "count": 15,
-      "checked_at_utc": "2026-10-14T14:25:52.817443+00:00"
+      "checked_at_utc": "2026-10-14T19:15:05.091446+00:00"
     },
     {
       "source": "Google News — Northern Virginia",
       "url": "https://news.google.com/rss/search?q=Northern+Virginia&hl=en-US&gl=US&ceid=US:en",
       "status": "ok",
       "count": 15,
-      "checked_at_utc": "2026-10-14T14:25:52.973377+00:00"
+      "checked_at_utc": "2026-10-14T19:15:05.437179+00:00"
     },
     {
       "source": "Google News — Northern Virginia traffic",
       "url": "https://news.google.com/rss/search?q=Northern+Virginia+traffic+OR+transit&hl=en-US&gl=US&ceid=US:en",
       "status": "ok",
       "count": 15,
-      "checked_at_utc": "2026-10-14T14:25:53.557362+00:00"
+      "checked_at_utc": "2026-10-14T19:15:05.988729+00:00"
     },
     {
       "source": "Google News — Northern Virginia weather",
       "url": "https://news.google.com/rss/search?q=Northern+Virginia+weather+warning+OR+advisory&hl=en-US&gl=US&ceid=US:en",
       "status": "ok",
       "count": 15,
-      "checked_at_utc": "2026-10-14T14:25:54.227973+00:00"
+      "checked_at_utc": "2026-10-14T19:15:06.575653+00:00"
     },
     {
       "source": "Wikipedia — On This Day",
@@ -2770,6 +2935,7 @@
   ],
   "runs": [
     "2026-10-14T00:13:23Z",
-    "2026-10-14T14:25:54Z"
+    "2026-10-14T14:25:54Z",
+    "2026-10-14T19:15:07Z"
   ]
 }
