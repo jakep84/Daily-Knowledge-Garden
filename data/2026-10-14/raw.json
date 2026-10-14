@@ -1,6 +1,6 @@
 {
   "date": "2026-10-14",
-  "last_updated_utc": "2026-10-14T19:15:07Z",
+  "last_updated_utc": "2026-10-14T23:48:36Z",
   "hn": {
     "items": [
       {
@@ -452,6 +452,114 @@
         "num_comments": 35,
         "created_at": "2026-10-14T17:31:24Z",
         "objectID": "50091519"
+      },
+      {
+        "title": "Things to know when you get cancer – 2026 Edition",
+        "url": "https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/",
+        "points": 622,
+        "author": "jjmaxwell4",
+        "num_comments": 163,
+        "created_at": "2026-10-14T19:26:30Z",
+        "objectID": "50093568"
+      },
+      {
+        "title": "Passkeys are not a trap",
+        "url": "https://scotthelme.co.uk/passkeys-are-not-a-trap/",
+        "points": 425,
+        "author": "speckx",
+        "num_comments": 602,
+        "created_at": "2026-10-14T15:15:45Z",
+        "objectID": "50088935"
+      },
+      {
+        "title": "Do dentists know what they're doing?",
+        "url": "https://mapwriting.substack.com/p/dentists",
+        "points": 337,
+        "author": "doitLP",
+        "num_comments": 261,
+        "created_at": "2026-10-12T02:21:54Z",
+        "objectID": "50050553"
+      },
+      {
+        "title": "Fire at Starlink site in Bulgaria after suspected sabotage in Poland",
+        "url": "https://dpa-international.com/politics/urn:newsml:dpa.com:20090101:261014-930-839530/",
+        "points": 262,
+        "author": "ilamont",
+        "num_comments": 192,
+        "created_at": "2026-10-14T18:37:21Z",
+        "objectID": "50092730"
+      },
+      {
+        "title": "OpenCode 2.0",
+        "url": "https://anoma.ly/notes/opencode-2-0/",
+        "points": 212,
+        "author": "gmays",
+        "num_comments": 81,
+        "created_at": "2026-10-14T20:48:24Z",
+        "objectID": "50094994"
+      },
+      {
+        "title": "Suicide rates highest ever among middle-aged men",
+        "url": "https://www.telegraph.co.uk/news/2026/10/13/suicide-rates-highest-ever-among-middle-aged-men/",
+        "points": 210,
+        "author": "ivewonyoung",
+        "num_comments": 266,
+        "created_at": "2026-10-14T19:03:58Z",
+        "objectID": "50093180"
+      },
+      {
+        "title": "Anthropic's Scion is heavily inspired by Mononoke",
+        "url": "https://sunshowers.io/posts/anthropic-mononoke/",
+        "points": 210,
+        "author": "sunshowers",
+        "num_comments": 93,
+        "created_at": "2026-10-14T20:30:54Z",
+        "objectID": "50094694"
+      },
+      {
+        "title": "Yandex outage: data shows that instead of going dark, malicious bots moved",
+        "url": "https://blog.cloudflare.com/yandex-outage/",
+        "points": 188,
+        "author": "coloneltcb",
+        "num_comments": 57,
+        "created_at": "2026-10-14T20:29:13Z",
+        "objectID": "50094673"
+      },
+      {
+        "title": "Why is every rationalist blog post way too long?",
+        "url": "https://alexwennerberg.com/blog/2026-10-13-long.html",
+        "points": 158,
+        "author": "epestr",
+        "num_comments": 125,
+        "created_at": "2026-10-14T06:02:16Z",
+        "objectID": "50083028"
+      },
+      {
+        "title": "Americans' social activity has steeply declined in the past 30 years",
+        "url": "https://www.dataforprogress.org/blog/2026/9/29/americans-social-activity-has-steeply-declined-in-the-past-30-years",
+        "points": 156,
+        "author": "hubraumhugo",
+        "num_comments": 218,
+        "created_at": "2026-10-14T16:09:00Z",
+        "objectID": "50089921"
+      },
+      {
+        "title": "America didn't lose its rare earth industry, it sold it",
+        "url": "https://www.lawfaremedia.org/article/america-didn-t-lose-its-rare-earth-industry.-it-sold-it",
+        "points": 140,
+        "author": "speckx",
+        "num_comments": 68,
+        "created_at": "2026-10-14T17:50:26Z",
+        "objectID": "50091875"
+      },
+      {
+        "title": "We’re releasing Jev 1.14.0 along with experimental features for dreamers",
+        "url": "https://typesafe.ai/blog/jev-1-14",
+        "points": 134,
+        "author": "emschwartz",
+        "num_comments": 51,
+        "created_at": "2026-10-14T21:11:03Z",
+        "objectID": "50095353"
       }
     ]
   },
@@ -537,11 +645,11 @@
       }
     ],
     "random": {
-      "title": "Yefim Pushkin",
-      "extract": "Yefim Grigoryevich Pushkin (Russian: Ефим Григорьевич Пушкин; 28 January 1899 – 11 March 1944) was a Red Army lieutenant general and a Hero of the Soviet Union.",
-      "content_urls": "https://en.wikipedia.org/wiki/Yefim_Pushkin"
+      "title": "George (bishop of Veszprém)",
+      "extract": "George (Hungarian: György) was a Hungarian prelate in the 11th century, who served as Bishop of Veszprém around 1061.",
+      "content_urls": "https://en.wikipedia.org/wiki/George_(bishop_of_Veszpr%C3%A9m)"
     },
-    "fetched_at": "2026-10-14T19:14:54.594039+00:00",
+    "fetched_at": "2026-10-14T23:48:23.353461+00:00",
     "status": [
       {
         "source": "Wikipedia — On This Day",
@@ -556,7 +664,7 @@
     ]
   },
   "apod": {
-    "fetched_at": "2026-10-14T19:14:56.612413+00:00",
+    "fetched_at": "2026-10-14T23:48:28.307917+00:00",
     "entry": {
       "title": "Mars and the Beehive Under an Aurora",
       "link": "https://science.nasa.gov/image-article/apod-2026-october-14-mars-and-the-beehive-under-an-aurora/",
@@ -2766,6 +2874,84 @@
         "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNeldCbDVhUkhrNlpiSW5HYTB5U1pyZlBBZ296NS1QbVZCdkRRSGRoQXhQM2R3Qm5PRmNOem5oOE9CaHJqa09vSGpKMlJtVnVoLXZ2cm4xZ0EzU205SzhsX2ktWGFESE14VzAtUmtBLXVaZ0tqeS12eHYzbFVuRU13Vy1iX2FNbktHTUw1TVRDVVV5Sk1fRFVMc2htb1g3MFptUjBMZjYtUWFFODFZMTBlUnZ3akcyWGRJeThnNDJySUJxaW51VGc5RlZUT0FoSVRpMVJoM3NtbnFhYmM?oc=5",
         "published": "Wed, 12 Aug 2026 07:00:00 GMT",
         "source": "Google News — Northern Virginia traffic"
+      },
+      {
+        "title": "‘No Kings’ Vote Early Events Planned Throughout Northern Virginia - Northern Virginia Magazine",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSmlYdFpyTTBGVkd4Qmw4QUxmeFJqTDNXVFlDT0pTY3V2eThDcXh0NWtzLVZCdUtVakk5VHFXTmJWLV9aRm5hNmtHTV9zdGZxT2V0VDRoTENRcjk5TGpxbTJYQl9vYjdNUDZuNUcxb1N3a1RNMDluZkZ5M3MwRGozODNfaXJ6T0dvUGgwdjVBMGxqMEZuOUNyUG1wYm5kMV94VHdHMHVLU0F5MGR1VDJfQTZR?oc=5",
+        "published": "Wed, 14 Oct 2026 12:09:59 GMT",
+        "source": "Google News — Northern Virginia"
+      },
+      {
+        "title": "Northern Virginia, Maryland meetings set for proposed Valley North power line - WJLA",
+        "link": "https://news.google.com/rss/articles/CBMijgNBVV95cUxNa19OVUNObzhORVFpcmdmT3FuTnVuc0Q2eGdNakQxVk92NE5Fc290UEJoS0xhUzB5b1VHX0xTaGp6NC03YzNKMERHWkdmSTltUXRHc1R5S1MwbUJlWFBZVG1rcDM4ZWNySXlENlNzV2oyNDVXSzd4Vmg5c2FnZV9CQllGOTd6MG8yNUs0eDZxdWM3TnZ6UUZ5cS1xY1BUTXZrOU4wdWNxU2x4VlBVV2t1Rjlac25uVlZ4VzYtVk5jRDg5Ti1ILVR4T3JTM0lBSkhfM09rVzcwcUswdHYzRllpcGpiTEpDdGM4YzV3WVRubWlra2Y0SFpWUjBmNkNBS1ZxZ3B1Q1RMSll1TWNJRnJXX1Q3bjZtbHMxbklPT0x5eGZhWVFqQzkxYlhyaXo5cHZjclNOWnF2UGNZWC13NHFZdVVlSnhrV2NJdFozQ1NBZVM0am81X25SSzVnWDNwUkE4QTRvU05Yd2drOVcyZk5jWmdEQkVXdHFMM0liaXgxb19ENVBxUENuSjBKbmZjQQ?oc=5",
+        "published": "Wed, 14 Oct 2026 21:22:30 GMT",
+        "source": "Google News — Northern Virginia"
+      },
+      {
+        "title": "Northern Virginia, Maryland meetings set for proposed Valley North power line - WJLA",
+        "link": "https://news.google.com/rss/articles/CBMimANBVV95cUxOX0JrNi0zeG44aVJVQ2hvZWc1SXBjaXZKaERLZy03bUFFeW16b1BydE1xSUVKcFZuRi1vb05XVXlxTFpwQ0ZWa0VTSjhMLThNYlZSTjluTEFqNXpFSFNMNmlnLThuUjhZQ0VQcTlxZ3l3Q0gxU0hjZF9Yam5rUGdWdGc2VjVJUHhwVkJFZnV4X0ZUbEpFSUJLbU56SlZDdXBwZVFLRlRvT0FIbV93bzl5WVdWanlFdkFOWVlsQXpIOXNWSk9ibjlaNnVLNnc0TTlHdnkwcS02VDZWSjJKWWFFU1Rad01ydzg0bTY4azE1V0dvYlJweEhkbUlfcTdkblFqc0NDYXhsellIbmk1ZGt3STFqTVk3QlhtTTBrLTBRRjlldmpjRG94bWNLMUxEcjdiVDIyQ0h5eHlNdUNQODI3NjhFbWFxV0NnY0Rralk0eFB4X2JKdk9kNzkzYXBhQmwtUmhkZWZ6YVR6ck5zXzJKemt4dkR2a0szNTByUEd4UjZ4eUhmRy0tYkNxNFJWeUh1cE9iOTNxeFo?oc=5",
+        "published": "Wed, 14 Oct 2026 21:33:26 GMT",
+        "source": "Google News — Northern Virginia"
+      },
+      {
+        "title": "Northern Virginia, Maryland meetings set for proposed Valley North power line - WJLA",
+        "link": "https://news.google.com/rss/articles/CBMilgNBVV95cUxQR3E4V3l5X0lBVmZPcUJfQ0VuaVk0bThidzVxMFh6QnFrVjg3OUFEY0hFUVFoM3EzODNGbWtZYjVrV0dxYmkzTVl1OWk1czdJX21veHc3ZUREWjdFUG9aanNrNXFoT0FYekJTaGppdUhJSExGS0MwU0t2b25KM0IydEx2V09QbV84TURVaVpQVXA3R00yVGI3QmpRaHFFMGpOelRMX1BVTEtGQ25BWFRXYzhrSVFUUVpmSHdTUjFJMU1mN1A3dDMxY1FPNFNFeW4tbzVMYXFMb3phRUhPTGNmSWR0TGhsWHJxdEEyMHJTa1VuNmwwMkU1bENJZmxxUVhxTzRUcGN2V0ttaG10dkE4b2lQTmZicGZ4NHZ3SWQxN3ZGWmF4RjRwYWlORVY5VnJ6bUhRT2FBX3loSjBxZWdORUgwSEtPNjJSaTg3bEZRd2RVZDBPdkRYSjU0bnNwUk5xeDczeU1ULURXZmUwc0tGbXQ0Z0FPYTJKSWdjaWdVUXFGejRSZUQ5UnZic3dDZ2NhWUh6S0dn?oc=5",
+        "published": "Wed, 14 Oct 2026 22:36:50 GMT",
+        "source": "Google News — Northern Virginia"
+      },
+      {
+        "title": "Fairfax County police sound the alarm about unsafe driving - NBC4 Washington",
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQWnhnY2RINEYtU1ZqZDR5NmoxUVlKbkdQRHVneDZvZFVyZWczMnZoZlpTNFRwSkZBMWNMNGFyNzNWdFNacmtfZlhoQk5EaWozM0pDR3dBTGh6RnpqMVpZU1dTdC1mejlxNHN1Y1VjdDFBaThpZWVadi1NdHA2Vmc1Q3o4Z0pFTHI4ejhOTFpWdG0tMFAwcE9jdWI0VDZkZmR4cURQcDMtaXBWb0h6UFA0NEI3S2dZSXZKc0V5X052dVZCanY1NlVyWkF6d1TSAdQBQVVfeXFMTWtYT3RuYVV2QndxYTBPV3JieGlzdWRsbVNfalA3Ynh0NHRuRVVSNWRsejE3ZEh0cmNnZnZlY3N1S0xDNGlncjVNMVFqaVRyOTBacXE0NVlhbFdaV28wc2lzYmthX2hrN18tVzdYZXh1Rm9kVjVrakk4bTVQU2RUZ3k3eGl3cGRHdExYN0lvd3lodnh5UXRkZTl6bHQxZFFGVnFxNklDbjRmZ252T2ZiYmpFUlg2MzYxYjFoNkwxVEpac2J3TEU0R2NVYklwOGFXMkd4WDY?oc=5",
+        "published": "Wed, 14 Oct 2026 22:17:37 GMT",
+        "source": "Google News — Northern Virginia"
+      },
+      {
+        "title": "Alexandria’s DASH ridership climbs as state evaluates Northern Virginia bus merger - ALXnow",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOX1o2M3lSZDB3b3VndDZsNzMxU0o1U0MyRkxnSUlTWE55bGF0WldybV9tdlFYUXFKWEY3Z1VXOVRYWVNJenJNTnBsTHgyejJ1ek43SVRtdnFwRm5ISTY2cmk4ajBpUmhjVGVTdkdwcWpVc3NQVkhOdFhVci1DTm9UNzNFdVYySG1Qd3R6MjVseDFvbkQ1YWN2MThvTUZBNlVpU3NVMy1CSHlnVFQzYVhmbnVVREM0MHc?oc=5",
+        "published": "Thu, 10 Sep 2026 07:00:00 GMT",
+        "source": "Google News — Northern Virginia traffic"
+      },
+      {
+        "title": "UPDATED: Winter storm warning issued for Loudoun; winter weather advisory for the rest of Northern Virginia - InsideNoVa.com",
+        "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPclNUUm5lZ19KVW0xck0ydERrTlFlcHFTS3VzbUVaWV9hUVRsYndiZDh0X09QSDg2Rk5FelRLWXVhaGtSWG1nMkk5SzY1UlBrVEZiNHF4YWE4emZhZ2dOSi1PU3JhSnBpNlBoSXdrRWdhcXZnY1FWUzZLNndHaU1WVG83UzlDbHRTT2kyZFI2RFpldW1ndHFUT0p4QUZLbWZkeS14N3FEMm9RbzRaekRlTFR6X3BHUnNtZzVGSENyT0JXQ19SR2tvLU00WXhCSkVPNHMzcjBvVDNlYzJnUkNqSEh0dU1ZY0FCYnEyaHV2ZlI5VEc5X3BfVmpmM2RqbnhQd0lIWVQ3N2NldHNMMDZXZQ?oc=5",
+        "published": "Sat, 21 Feb 2026 08:00:00 GMT",
+        "source": "Google News — Northern Virginia weather"
+      },
+      {
+        "title": "Winter weather alerts in effect for Sunday - WTVR.com",
+        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9oaEFXQ0pLQWhhSTl4VWRYQjQ3SUlsbF9pbkstVEdxLW1hcTRZYXNQQnA2Wm9SWkZGMnl1ZTBmektMdndFRmZzaDZpTFpEMWk1b21hYjJKM19mNFBmQVJrSTdPXzY1YWluUkcyMXdsamxzMWhBUy1MMVlSY1hBQkk?oc=5",
+        "published": "Sat, 21 Feb 2026 08:00:00 GMT",
+        "source": "Google News — Northern Virginia weather"
+      },
+      {
+        "title": "Tornado warning issued in Northern Virginia - DC News Now",
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQZVJ3c2dDVkZwZ0VBYTF4WXBOeDhid0pYbUlWbGlLdzdzZGQ3c0JCN2ZRejlUM3lMbERGLW9FWVRoSVFiNXlJUXdEYmt2RTNuUGZ5bERKRm8wQkZrV3pEajFMYmFQLXFlOG5pcnR6Z2lneHdLMnJEMlJ6QWpCUXVDQWU5eHVQYmhtVDZ0d2tn?oc=5",
+        "published": "Mon, 16 Mar 2026 14:58:40 GMT",
+        "source": "Google News — Northern Virginia weather"
+      },
+      {
+        "title": "Severe storms batter Virginia & North Carolina, prompting tornado, thunderstorm warnings - WTKR",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQczVpTmFwOUxfQ2JuZ2ZHaG9XckVvWFY5ZlVqREVCbUVDdEVHLUZZWC1za05TTlJGOFpVRHpWb3NQMUhPa0I0SnZ2UERVM1RFOHNjdFgzX1lrV18xYS1yQWFKbm5ObXdVbEJ0SVF1MVRnVXdYQXBFVDdEX1RWYVVRd01HMExwRGZzdGdlWG1UcXdzQ0h5cFlrS1NQWHlTbHRDVTRKNEhGN0FrQQ?oc=5",
+        "published": "Mon, 16 Mar 2026 07:00:00 GMT",
+        "source": "Google News — Northern Virginia weather"
+      },
+      {
+        "title": "Tornado warning in Carroll, Frederick County - FOX 5 DC",
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQOG9kRWNYMkx2bVlfN0ZmbExmRUVFM1hkNmFaaFhfNmpqOXAwS0JIQ0JqS3hoaU5za3NuVVJPajhFOXZ0czJHZDZ6cHRTQ0ZzUEY2ZFVXZGFraXhRQnpjR3RKXzhBRmtTN0t6LWRyVWtZMXN4MHR2dm9obTFyVjAxd0d4YlhlaFU1ZDZ0SG5zb9IBlAFBVV95cUxPRXczS2JoVGhKZDItODNEWXFxZmtaUmJBQ1ZGOUhCVDhieUt4cV9qTVJaajl6RXNjUTJscjFsakozWnQxcEpfb09HWjdDTURMMU45Zzk3RlhHeGlNSlJlazZpX09OdHJFWTZxZWJvbUR2cVRYcTZNOVQwOVRROFBtLWdlQjJBMlBsV3ZaSWJVcmxWME5Z?oc=5",
+        "published": "Wed, 11 Mar 2026 07:00:00 GMT",
+        "source": "Google News — Northern Virginia weather"
+      },
+      {
+        "title": "Winter weather advisory in effect tonight; snow and freezing rain expected - InsideNoVa.com",
+        "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNX3l2YmMtai00R2ZhX0lNY1hPdlNsN3BQbGUyLXp6Vm4tQll2VThrbXFLX0xVVnNxVXJPT1k1MlNUTGJXOU9JTjQ5VU5lalJSMC00T1B1SVZDVEVkbXVlQXhKNVUwOEZEU3dzZXlxZ21jb0otaEY3SmVMa3IwVHFyNFhRc2dESWU0N2NaNlM3T3BDekRWZ2VMWnc0M08ySWlCZ0l5czY1ZzZoeUhKd0REN29nWVhjcUJmd1h5T25iY1hKcmxhV2h4M3Boc1gzS0xYaW1jRWRyWTZIb1hzbGFVUWlaTGZjZWM0VlFJZ3kta1ZXUQ?oc=5",
+        "published": "Mon, 02 Mar 2026 08:00:00 GMT",
+        "source": "Google News — Northern Virginia weather"
+      },
+      {
+        "title": "Winter storm warning issued for Northern Virginia; up to 14 inches of snow, sleet possible - InsideNoVa.com",
+        "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPSVE0eUhwQ1o0cWVlUWh6Slo3a2JacUhreXh6RVExU0JBaUVRVEV2NmhuMlppbTRYNU9hMk13X2R1U2hSV0NFTUNicE5ZU0k1RXkwbE10MTA4Yy1kQ3hIem9JVHR1d1pteDR2Rm1IakhLa2N0TkJiYkRfR1ByVklITTUydVFXem5WQVlYLXRRYUQzVl9tbXlQc3Y4aFpLSUc3LUl0eFNzcUN2VHNZMDZHc1BSNENNcGVVWU1LT0E1eS0yYUVmLUZaZWhadDBUdEtxaWpuY0J2VWpPUjd0YURwSmQtUXNlLU1DdUN0a1A4OFFkVjdIT1dXaDk3bDBrUXZOTVZiMzZ3?oc=5",
+        "published": "Fri, 23 Jan 2026 08:00:00 GMT",
+        "source": "Google News — Northern Virginia weather"
       }
     ]
   },
@@ -2775,147 +2961,147 @@
       "url": "https://news.google.com/rss/search?q=site%3Areuters.com+when%3A2d&hl=en-US&gl=US&ceid=US:en",
       "status": "ok",
       "count": 15,
-      "checked_at_utc": "2026-10-14T19:14:59.258517+00:00"
+      "checked_at_utc": "2026-10-14T23:48:29.388796+00:00"
     },
     {
       "source": "Reuters — World (Google News)",
       "url": "https://news.google.com/rss/search?q=site%3Areuters.com%2Fworld+when%3A2d&hl=en-US&gl=US&ceid=US:en",
       "status": "ok",
       "count": 15,
-      "checked_at_utc": "2026-10-14T19:14:59.963932+00:00"
+      "checked_at_utc": "2026-10-14T23:48:29.969745+00:00"
     },
     {
       "source": "Reuters — Business (Google News)",
       "url": "https://news.google.com/rss/search?q=site%3Areuters.com%2Fbusiness+when%3A2d&hl=en-US&gl=US&ceid=US:en",
       "status": "ok",
       "count": 15,
-      "checked_at_utc": "2026-10-14T19:15:00.472208+00:00"
+      "checked_at_utc": "2026-10-14T23:48:30.464427+00:00"
     },
     {
       "source": "BBC — World",
       "url": "http://feeds.bbci.co.uk/news/world/rss.xml",
       "status": "ok",
       "count": 15,
-      "checked_at_utc": "2026-10-14T19:15:00.934611+00:00"
+      "checked_at_utc": "2026-10-14T23:48:30.933714+00:00"
     },
     {
       "source": "BBC — Tech",
       "url": "http://feeds.bbci.co.uk/news/technology/rss.xml",
       "status": "ok",
       "count": 15,
-      "checked_at_utc": "2026-10-14T19:15:01.323835+00:00"
+      "checked_at_utc": "2026-10-14T23:48:31.116797+00:00"
     },
     {
       "source": "BBC — Business",
       "url": "http://feeds.bbci.co.uk/news/business/rss.xml",
       "status": "ok",
       "count": 15,
-      "checked_at_utc": "2026-10-14T19:15:01.511268+00:00"
+      "checked_at_utc": "2026-10-14T23:48:31.320582+00:00"
     },
     {
       "source": "BBC — Science",
       "url": "http://feeds.bbci.co.uk/news/science_and_environment/rss.xml",
       "status": "ok",
       "count": 15,
-      "checked_at_utc": "2026-10-14T19:15:01.703528+00:00"
+      "checked_at_utc": "2026-10-14T23:48:31.561971+00:00"
     },
     {
       "source": "AP — Headlines (Google News)",
       "url": "https://news.google.com/rss/search?q=site%3Aapnews.com+when%3A2d&hl=en-US&gl=US&ceid=US:en",
       "status": "ok",
       "count": 15,
-      "checked_at_utc": "2026-10-14T19:15:01.845751+00:00"
+      "checked_at_utc": "2026-10-14T23:48:31.712366+00:00"
     },
     {
       "source": "AP — Politics (Google News)",
       "url": "https://news.google.com/rss/search?q=site%3Aapnews.com+politics+when%3A2d&hl=en-US&gl=US&ceid=US:en",
       "status": "ok",
       "count": 15,
-      "checked_at_utc": "2026-10-14T19:15:02.403601+00:00"
+      "checked_at_utc": "2026-10-14T23:48:32.327322+00:00"
     },
     {
       "source": "AP — Business (Google News)",
       "url": "https://news.google.com/rss/search?q=site%3Aapnews.com+business+economy+when%3A2d&hl=en-US&gl=US&ceid=US:en",
       "status": "ok",
       "count": 15,
-      "checked_at_utc": "2026-10-14T19:15:03.212704+00:00"
+      "checked_at_utc": "2026-10-14T23:48:32.899799+00:00"
     },
     {
       "source": "NPR — Top Stories",
       "url": "https://feeds.npr.org/1001/rss.xml",
       "status": "ok",
       "count": 10,
-      "checked_at_utc": "2026-10-14T19:15:03.674825+00:00"
+      "checked_at_utc": "2026-10-14T23:48:33.256810+00:00"
     },
     {
       "source": "NPR — Politics",
       "url": "https://feeds.npr.org/1019/rss.xml",
       "status": "ok",
       "count": 10,
-      "checked_at_utc": "2026-10-14T19:15:04.016642+00:00"
+      "checked_at_utc": "2026-10-14T23:48:33.527919+00:00"
     },
     {
       "source": "NPR — Business",
       "url": "https://feeds.npr.org/1007/rss.xml",
       "status": "ok",
       "count": 10,
-      "checked_at_utc": "2026-10-14T19:15:04.056046+00:00"
+      "checked_at_utc": "2026-10-14T23:48:33.562282+00:00"
     },
     {
       "source": "NPR — Science",
       "url": "https://feeds.npr.org/1008/rss.xml",
       "status": "ok",
       "count": 10,
-      "checked_at_utc": "2026-10-14T19:15:04.095826+00:00"
+      "checked_at_utc": "2026-10-14T23:48:33.602117+00:00"
     },
     {
       "source": "NPR — Technology",
       "url": "https://feeds.npr.org/1013/rss.xml",
       "status": "ok",
       "count": 10,
-      "checked_at_utc": "2026-10-14T19:15:04.147823+00:00"
+      "checked_at_utc": "2026-10-14T23:48:34.036450+00:00"
     },
     {
       "source": "ScienceNews",
       "url": "https://www.sciencenews.org/feed",
       "status": "ok",
       "count": 15,
-      "checked_at_utc": "2026-10-14T19:15:04.610708+00:00"
+      "checked_at_utc": "2026-10-14T23:48:34.090160+00:00"
     },
     {
       "source": "ScienceDaily — Top",
       "url": "https://www.sciencedaily.com/rss/top/science.xml",
       "status": "ok",
       "count": 15,
-      "checked_at_utc": "2026-10-14T19:15:04.732009+00:00"
+      "checked_at_utc": "2026-10-14T23:48:34.432550+00:00"
     },
     {
       "source": "Nature — Technology",
       "url": "https://www.nature.com/subjects/technology.rss",
       "status": "ok",
       "count": 15,
-      "checked_at_utc": "2026-10-14T19:15:05.091446+00:00"
+      "checked_at_utc": "2026-10-14T23:48:34.639916+00:00"
     },
     {
       "source": "Google News — Northern Virginia",
       "url": "https://news.google.com/rss/search?q=Northern+Virginia&hl=en-US&gl=US&ceid=US:en",
       "status": "ok",
       "count": 15,
-      "checked_at_utc": "2026-10-14T19:15:05.437179+00:00"
+      "checked_at_utc": "2026-10-14T23:48:34.922194+00:00"
     },
     {
       "source": "Google News — Northern Virginia traffic",
       "url": "https://news.google.com/rss/search?q=Northern+Virginia+traffic+OR+transit&hl=en-US&gl=US&ceid=US:en",
       "status": "ok",
       "count": 15,
-      "checked_at_utc": "2026-10-14T19:15:05.988729+00:00"
+      "checked_at_utc": "2026-10-14T23:48:35.395337+00:00"
     },
     {
       "source": "Google News — Northern Virginia weather",
       "url": "https://news.google.com/rss/search?q=Northern+Virginia+weather+warning+OR+advisory&hl=en-US&gl=US&ceid=US:en",
       "status": "ok",
       "count": 15,
-      "checked_at_utc": "2026-10-14T19:15:06.575653+00:00"
+      "checked_at_utc": "2026-10-14T23:48:36.070758+00:00"
     },
     {
       "source": "Wikipedia — On This Day",
@@ -2936,6 +3122,7 @@
   "runs": [
     "2026-10-14T00:13:23Z",
     "2026-10-14T14:25:54Z",
-    "2026-10-14T19:15:07Z"
+    "2026-10-14T19:15:07Z",
+    "2026-10-14T23:48:36Z"
   ]
 }
