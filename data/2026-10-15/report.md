@@ -1,21 +1,21 @@
 # Daily Knowledge Garden — 2026-10-15
 
 ## 🧭 Daily Summary
-Global coverage includes Nandy 'minded to intervene' in Sky's £1.6bn takeover of ITV entertainment arm; Just over half of candidates in key US Senate races say they will accept results, others hedge - Reuters; Healey says surprise UK growth is 'sign of resilience' ahead of Budget. Local coverage includes Alleged auto fraud scheme targets Henrico, Northern Virginia man arrested: criminal complaint - WRIC ABC 8News; New Northern Virginia group helps new moms find their village - Axios.
+Global coverage includes America's historic preservation law is in peril, advocates say. Here's what's at stake; DOJ sues California to block votes from alleged noncitizens - Reuters; Suspected fly tippers shamed with online photos. Local coverage includes News | Northern Virginia housing authority plans affordable residences at mixed-use project - CoStar; USTA Mid-Atlantic Foundation honors local leaders at Tennis Creates Gala - ALXnow.
 
 ## 🌍 Global News (cross-source)
-- [Nandy 'minded to intervene' in Sky's £1.6bn takeover of ITV entertainment arm](https://www.bbc.co.uk/news/articles/cm79pe5yej7no?at_medium=RSS&at_campaign=rss) — BBC — Business
-- [Just over half of candidates in key US Senate races say they will accept results, others hedge - Reuters](https://news.google.com/rss/articles/CBMixgFBVV95cUxQbkx3Y2ZQNjVuMjhITGZoWTRPdUJxaE00cWdLR3ZuRllkaWtFdzFkWXlwTjRZWmRxbEJtVXZ1dTc3X3Q4NXlzdzlBcXdZS1FkemJMR2IzNzQteW0wQS05bVZ6U0NGN2FRWTlDWjUza2V2bkRfUTJyS25QYThSVGpEMXdrWXo4VE5GR2JEVUxZTWVTbl9kSGp1WEt1ekQtS1B1c1NmY29DazZGbzktbHZYdkZzc1hUUG9lNGhaaEphMzFJYmVScmc?oc=5) — Reuters — Headlines (Google News)
-- [Healey says surprise UK growth is 'sign of resilience' ahead of Budget](https://www.bbc.co.uk/news/articles/ck8dz1me439no?at_medium=RSS&at_campaign=rss) — BBC — Business
-- [EXCLUSIVE: WEF could appoint Lagarde as early as November, sources say - Reuters](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQNExHamNuVlEwYUJMR1pmbjhxVFpNYURJVDNqU2wydDRMSDV3WkNSajkweDMzTU9FRGpsclhFLWFJVVRzcWxpMWlZN0VkYkNyUVlOWmhoZ1BNNXA5M2s4WU1EUEZVMDRWM3ktWUtaTmM2UkhfMEdSZ29oXzBZMFJyUngxN05NYjYzUUVQVksxaHBjSzFyVjNHLVpaaFZweTVlUkMtNnQ3dUI?oc=5) — Reuters — Headlines (Google News)
-- [Brain implants are helping people who’ve lost their voice](https://www.sciencenews.org/article/brain-implants-restore-voices-injuries) — ScienceNews
+- [America's historic preservation law is in peril, advocates say. Here's what's at stake](https://www.npr.org/2026/10/15/nx-s1-6001504/section-106-historic-preservation-act-threats-anniversary) — NPR — Top Stories
+- [DOJ sues California to block votes from alleged noncitizens - Reuters](https://news.google.com/rss/articles/CBMingFBVV95cUxOa2l3Nl9uOTQ5Qm16OWFRT09Ta19PQW9JYVBZRmQxLTJGdTRiOEdrZERrX3JfS1hMODhGbEdaaU9DelJ3dEw1LUJGSXpFeDJvVmgwT18yOE01VTNpQjhIa1k5WFJ4S0oxbEtvQ2hSX3pyT0VwWENuaGc1MG9yZkFkc3hVeHM4R0xKdEVmd3ppRjB4aWt4S3FzMHRhSmpnUQ?oc=5) — Reuters — Headlines (Google News)
+- [Suspected fly tippers shamed with online photos](https://www.bbc.co.uk/news/articles/cqgm0jepyl01o?at_medium=RSS&at_campaign=rss) — BBC — Science
+- [Wholesale inflation reaches levels last seen in 2022 - AP News](https://news.google.com/rss/articles/CBMimAFBVV95cUxQNExzSHEyWDFGWnpSTkR2V3NndkhQTmU1dzE3M2pTWENyU3RPRTAyb0JQQXNqbENPTjJneHRsYWpMMXFPUXg3dnZfekhEM1VoSFNIRTM4U29QR1l0TGhzeVd6WkZIamdXWDkwcmdlR3k5eExLZFd3SUc0MHFQc1NoQlIwRWw5MzM5OVpndWJKa3NIZFNJRGx5YQ?oc=5) — AP — Business (Google News)
+- [Yemen's Houthis hit palace in Aden, coalition details attacks on Saudi infrastructure - Reuters](https://news.google.com/rss/articles/CBMixgFBVV95cUxQODZXb0UtbHJiTHdmLTZhUENYcXNNeVptZDFGV1pUUEpuS3A0RzROVlBWSGw2V2tvdjNabmlnX1llVmh1Tno5TW5jUjhLWm5BY3VOREdYTnd5Q2RpdmdyVnVzR0lFTlp4SDV4a3JzNWo0US1xdER1eUkybkRtOHlBT2U4RE43NFI2dGVnb29fSmdPVmVPaDY3NG5fNXRabFR5dkJBU0pwNDFZSkN0NkxaU2lEd2c1Mk9HbUNUYTROV3BJUnh3TEE?oc=5) — Reuters — Headlines (Google News)
 
 ## 🏙️ Local News
+- [News | Northern Virginia housing authority plans affordable residences at mixed-use project - CoStar](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOczJOcGZWVjVILXE0WGxGZFppUVZCTTMxVDlBdzlYY0NNeE0tT2RRcWJabXc0YmUyY1BfLTItNjU2QTkzb0p5aFhyYzVCNmFhUFhPdVpIV25fLV9OR2N5aGdfQ1l6SmhDTnJ5bmFRdGNtd1lIRW53cnZqSTdGT0Rsckp4b0o3X0N4bGZzcHFIbVg0dS1mUThfcS1YanpkWHZRaXB2TzVTTTc2eDZNTXNTbDRyY0h4Y19DZE1ZLUo0N2lyeVU?oc=5) — Google News — Northern Virginia
+- [USTA Mid-Atlantic Foundation honors local leaders at Tennis Creates Gala - ALXnow](https://news.google.com/rss/articles/CBMisgFBVV95cUxONl9IQ1FqSlo2R0MwZzFCSHMyMS1lWkxFV1dNRHhMZjZkczMzXzZVRWdTMFFJTzFZMy1LMEFMdlFWSm9XVTFHNlNsNUp5N0FwQWlDbmRsWGhBbDFjZVREWnBKNW5IS0ZtNXNfUk1PMExRWXdNdWV5amhBbllIYUhwX0pWRzhKSXJiT01hcktXZ2hLakhLLWpGbW5jaG03NGhDcDU2UkZYckx2bHFodDlPX01n?oc=5) — Google News — Northern Virginia
+- [Five N. Va. restaurants ranked among region’s 40 best by new WaPo food critic - FFXnow](https://news.google.com/rss/articles/CBMisgFBVV95cUxPWXdWZUFOb29fNHA5RWoyWDZmbXVVMjBURGdLUnpRek9kVktIZGlkVFllN21QNU1HdzNEUjdZNUF1QXhyNTA0WDRLN2YzU3BORTVvclFYcVM5SjBvcHN5RWNkV0x1NlVEVU9kTG5XQk9zRWZQVDAtUW9zZlN6ZE1RemU3ejktYjg2emxkOGljOEw3VG9pUzc1aldKN3hoX3hOSXdOei1BdV8zbjloX3FrU3Fn?oc=5) — Google News — Northern Virginia
 - [Alleged auto fraud scheme targets Henrico, Northern Virginia man arrested: criminal complaint - WRIC ABC 8News](https://news.google.com/rss/articles/CBMinAFBVV95cUxQTy1fcjUzb1dyaWNTMlBmYWZLNlpNSnJBZV8tZGdpbnZoVkswdzdaUkdYNDNaY2dfcGo5ZlZGQVJUYjBGZTRibzc3XzJHTFkzZERIZU1mV085ZTBseGItRnNIcERFd19xWHlNalNQNUlnYVFETk5TVzRvVHhBT1dGNlZIWXVrcHpvNFFuakgxMEV6MVJRV2JMSXNmbVrSAaIBQVVfeXFMTlRrc1pMM2NWeVpwOHpqMzVsTTMxT3lSLXlHbVZpM0lqX3B2aU8zSjJFbnZTQUtQUmlES1djQl9JZ29BT3BvNE9ENlltdkRWRW1CQ0NIbkxseFBVMUM0TW5YRV81Y1pEWEs0eTFaMzVRRXpFdi11ZGgwTkpzYk1jeHhsbWRSbDBnWlNSaWR0WnY4UnFxVWVvT3liNk1QSXBiUzh3?oc=5) — Google News — Northern Virginia
 - [New Northern Virginia group helps new moms find their village - Axios](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRjlKdDI1djR4clN0TnJIWnFVUW5Fd0lNcHoyUDk5WmNqSGpSbUVkME9lV3ZKOUI3T190QnoyLTA1MEhUUjlnMHdlZ0tIcUEtS0ZvZUpNZ2ZVcE5ZZ2tPUkpxUS11M0lEaVMyNGlwZXFqd1BvSlZveDNWaTRSbFZrNXlGeUs1S2YxZV92NG1iNnFrTlBfY0sxZ3hHNnBiOG54dUwycXBWS1ZVcE0?oc=5) — Google News — Northern Virginia
-- [Maryland Mexican Restaurant Ranked 6th Best in D.C., Maryland and Northern Virginia by Washington Post - The MoCo Show -](https://news.google.com/rss/articles/CBMizgFBVV95cUxPdG5IYTIyeTBrWW5Rb04tanpOaEZPWUpNOGQwWlZ5RUZESXB3Tlp4ZjByMEg4aG9SZWtlZkZZRFhXX3Jhd0hmWmF2WlpQZERVVHJjT1JLVU11VjlVQmI1dEhqSzRSZGYtS21yOGZVOUpja1FMZW95LU1ZMEVtczY5RDAtXzhuRENWQ2o2dExvZEVSWkVmWHgxM3VkQXpsdXlEY1FmekJfbDl0QUloTkxSb0ExM3dubXpNRmFnTFJXdHZ4UlQtNDdHM1dDMURVZw?oc=5) — Google News — Northern Virginia
-- [Keith Walls Obituary (2026) - Berryville, VA - Northern Virginia Daily - Legacy | Obituary](https://news.google.com/rss/articles/CBMiigFBVV95cUxNNFcyaE11eFlDRUFHbW5Kc0JrVUlHVFZ6X1d0bFVnSUZqTmgtN0pTSkgxWlRsVWtzRlRNbjMxb3RJTktzak9FSFBIbVJkZjhSai1NUm10TndoaWlxbkZhQ0dNd25tejBtN2Q5cEVKcG9IMXhEUDgwcXJCcmR6RWlOXzBiUDB3M1BOVWc?oc=5) — Google News — Northern Virginia
-- [Northern Virginia, Maryland meetings set for proposed Valley North power line - WJLA](https://news.google.com/rss/articles/CBMijgNBVV95cUxNa19OVUNObzhORVFpcmdmT3FuTnVuc0Q2eGdNakQxVk92NE5Fc290UEJoS0xhUzB5b1VHX0xTaGp6NC03YzNKMERHWkdmSTltUXRHc1R5S1MwbUJlWFBZVG1rcDM4ZWNySXlENlNzV2oyNDVXSzd4Vmg5c2FnZV9CQllGOTd6MG8yNUs0eDZxdWM3TnZ6UUZ5cS1xY1BUTXZrOU4wdWNxU2x4VlBVV2t1Rjlac25uVlZ4VzYtVk5jRDg5Ti1ILVR4T3JTM0lBSkhfM09rVzcwcUswdHYzRllpcGpiTEpDdGM4YzV3WVRubWlra2Y0SFpWUjBmNkNBS1ZxZ3B1Q1RMSll1TWNJRnJXX1Q3bjZtbHMxbklPT0x5eGZhWVFqQzkxYlhyaXo5cHZjclNOWnF2UGNZWC13NHFZdVVlSnhrV2NJdFozQ1NBZVM0am81X25SSzVnWDNwUkE4QTRvU05Yd2drOVcyZk5jWmdEQkVXdHFMM0liaXgxb19ENVBxUENuSjBKbmZjQQ?oc=5) — Google News — Northern Virginia
 
 ## 🚀 Hacker News (Top 5)
 - [Things to know when you get cancer](https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/) — 1654 points, 393 comments
@@ -34,9 +34,9 @@ Global coverage includes Nandy 'minded to intervene' in Sky's £1.6bn takeover o
 - **2007** — Seventeen activists in New Zealand are arrested in the country's first post-9/11 anti-terrorism raids.
 
 ## 🎲 Wikipedia — Random Article
-**Department of Film (Nazi Germany)**  
-The head of the Department of Film (called Reichsamtsleiter) was Karl Neumann. The importance of film propaganda is underscored by the fact that 45 million people attended the film shows put on by the NSDAP.
-https://en.wikipedia.org/wiki/Department_of_Film_(Nazi_Germany)
+**Jacques de Sieyes**  
+Jacques Edouard de Plan de Sieyes de Veynes (21 July 1891 — 25 June 1949) was a Legion of honor decorated captain who acted for de Gaulle against Vichy. His parents were Raoul de Plan de Sieyès de Veynes (1848 - 1944), lawyer, Joan of Indy (1856 - 1943).
+https://en.wikipedia.org/wiki/Jacques_de_Sieyes
 
 ## 🌌 NASA APOD
 [The Milky Way over Manhattan](https://science.nasa.gov/image-article/apod-2026-october-15-the-milky-way-over-manhattan/)
@@ -67,4 +67,4 @@ https://en.wikipedia.org/wiki/Department_of_Film_(Nazi_Germany)
 - **Wikipedia — Random**: ok (1 articles)
 - **NASA — APOD**: ok (1 articles)
 
-<sub>Runs so far today: 1</sub>
+<sub>Runs so far today: 2</sub>
