@@ -1,14 +1,14 @@
 # Daily Knowledge Garden — 2026-10-17
 
 ## 🧭 Daily Summary
-Global coverage includes 'Wait Wait' for October 17, 2026: We celebrate fall with our coziest guests!; Pope Leo returns to Vatican four days after cancer surgery - Reuters; Scuffles and fires break out as protesters rally across France, joining students. Local coverage includes New Nor'easter Forms Off Atlantic Coast: How It Could Impact VA - Patch; Frost Advisory Issued For Parts of Maryland and Northern Virginia - The MoCo Show -.
+Global coverage includes Oregon governor Tina Kotek reacts to Silver Rail Elementary school shooting; Photos show luxury boat with 50m pool and water slides near Kim Jong Un's summer retreat; Hurricane Trudy strengthens to Category 2 as it approaches Mexico coast - AP News. Local coverage includes New Nor'easter Forms Off Atlantic Coast: How It Could Impact VA - Patch; Frost Advisory Issued For Parts of Maryland and Northern Virginia - The MoCo Show -.
 
 ## 🌍 Global News (cross-source)
-- ['Wait Wait' for October 17, 2026: We celebrate fall with our coziest guests!](https://www.npr.org/2026/10/17/g-s1-148411/wait-wait-for-october-17-2026-we-celebrate-fall-with-our-coziest-guests) — NPR — Science
-- [Pope Leo returns to Vatican four days after cancer surgery - Reuters](https://news.google.com/rss/articles/CBMikgFBVV95cUxQMEhiTWpBVEdDa1JjQmtQUDBZR1RGVHF4VmxwaTEzRHhtczZOcHlJZE9idHNKOFpxdnpndFYwLUk5Zy1lZFRFWTUtaHlEdW44aVZKZjlXenBveTRvN29sRzI1RG1JVm0wMGlRcFpoeS1hX0dCZE1WVGdVc3plR3FZay0xeUtSYjg2dk9SZVpUSEJUdw?oc=5) — Reuters — World (Google News)
-- [Scuffles and fires break out as protesters rally across France, joining students](https://www.npr.org/2026/10/17/nx-s1-6006773/student-protests-france) — NPR — Top Stories
-- [Albanian police fire rubber bullets as student protests rage - Reuters](https://news.google.com/rss/articles/CBMirgFBVV95cUxPVlJCekoweVlrYktkQmJZZ2V4aFFnRFpHdnRBMlYzZDlJS0xFS1JWQVMtOVNvbURNdUNHU09BTnBkNjBwdi0yaFVNR2Nqbm9sTUxHTFZQQk1PWkU2ZzdVeC04UVdLb2lJNFoxWHVsSWJJQTlrNXBYZ0NfNWJ4YTdENjlBYmwtdDlOMHhMOWtJY2NxUDJHRlJ1emtpa2h4UmFwZlBOQ0dEQlBORTREQ0E?oc=5) — Reuters — Headlines (Google News)
-- [Zelenskyy urges support for new US sanctions on Russia after Trump puts them on hold - AP News](https://news.google.com/rss/articles/CBMiowFBVV95cUxOUGNSbDZNbm5wY2VNaTRTRDZiMHFqMW9rbnpvNk1tU0JBdjlTQng0YXhGQTN4bWtRaUNPUUdxY0dHVEhOajRFem5jUFdSVm5QYnkyU1QtcGZuM3BBQnBqTnFYdlBrTHYyampsUEtDMDB5RUdIYVpJZVY5eHBlank0T1BhLW1OSWo5bnNNVUdCR0FJQjRRLVEtNVFqeHlZQjc2Mm1n?oc=5) — AP — Business (Google News)
+- [Oregon governor Tina Kotek reacts to Silver Rail Elementary school shooting](https://www.npr.org/2026/10/17/nx-s1-6005814/oregon-governor-tina-kotek-reacts-to-silver-rail-elementary-school-shooting) — NPR — Top Stories
+- [Photos show luxury boat with 50m pool and water slides near Kim Jong Un's summer retreat](https://www.bbc.co.uk/news/articles/cmy4xnyyg1lyo?at_medium=RSS&at_campaign=rss) — BBC — World
+- [Hurricane Trudy strengthens to Category 2 as it approaches Mexico coast - AP News](https://news.google.com/rss/articles/CBMipAFBVV95cUxPSlJRdElHVjVoLTVtTE01UWdmVjRrNkh4TnllLXNhNXZ1Y1c1RDRyWXVQUlBPQTJLZmVkM0RlNkhHdk1KMXRsZ2pnY05RZ19EdTVrNWZVbVJBNThZVmxPSkRlaGJ3T1RtMk0zY3lxQ3ItVHNWOTFndnpQLWRJTEVLX2VFRmtjekpRZkxfMmx0dzlhb2xkZlVWY0lPczFwVC1OX2poZw?oc=5) — AP — Headlines (Google News)
+- [Anti-government protesters battle with police in Albania](https://www.bbc.co.uk/news/articles/crwydey50xeno?at_medium=RSS&at_campaign=rss) — BBC — World
+- [No Kings rallies across US urge voters to cast ballots early ahead of midterms - AP News](https://news.google.com/rss/articles/CBMijwFBVV95cUxNSU9QdGhLZXFkak1MT3B1b3RBZlVIT3gzNEZheTFHNi1hTFpBUjZGcHVkQWhsTjFSRmJsX1RXbklDRUJ0M3dfcklfREZaYUxQWWhqNTZKWmFDZVhEMGZzd3VpLWZ0OG5zY2NIazNGbUpPQXlFc3ItM2p0akRqbkRXSF9oUnVQWHZpZlZuVWtsaw?oc=5) — AP — Politics (Google News)
 
 ## 🏙️ Local News
 - [New Nor'easter Forms Off Atlantic Coast: How It Could Impact VA - Patch](https://news.google.com/rss/articles/CBMilAFBVV95cUxPRUVIWGVWTm5YRl8wQ0FKb3owV3RTS2FwamF2NEp4T3h4X2J6TEcxMEl2ZFRsYVNmakFSVk5XcXpldjlnWGVTMk1MTWkwLVdGems1cThpZEdBWUZRdmRGYm1XcHNnWEkzZlhkMHNRM2ZtT3k4S09FRDd5ZVhDLURlR2U2bHpubFpOZERZNjNtYzBUTWRB0gGwAUFVX3lxTE8zekJiOHJNZzBkWFdCM1VwSXBRSVFvQ1JmSl9jbEROWXFSVlhzVlNLNjdrb0ZsaFlUSXFZOTlRWjBlS3RGUnpHb3dQel9MNnh2N1ljVzh1QjhPWFptSTN4Q0FTRmtSRWdMOXFUUXlkaDlkTDRkMFcxd0FBcDRrdVpMSEhvbnVMNVBCOE93Um5NNDRtXzRCNEktNDJ3OTN3aVhSbzI2bEYzNVhTeTNiSklD?oc=5) — Google News — Northern Virginia
@@ -34,9 +34,9 @@ Global coverage includes 'Wait Wait' for October 17, 2026: We celebrate fall wit
 - **2018** — A mass shooting and bombing at Kerch Polytechnic College in Crimea kills 21 people including the attacker and injures 70 others.
 
 ## 🎲 Wikipedia — Random Article
-**Ian Kilgour**  
-Ian Kilgour (23 October 1900 – 20 April 1977) was a Scotland international rugby union player.
-https://en.wikipedia.org/wiki/Ian_Kilgour
+**Roberto Silva (Peruvian footballer)**  
+Roberto Enrique Silva Pro (born 1 June 1976) is a Peruvian former professional football forward. Apart from one season in the Bundesliga for SV Werder Bremen, he spent most of his career in his native Peru and other American countries.
+https://en.wikipedia.org/wiki/Roberto_Silva_(Peruvian_footballer)
 
 ## 🌌 NASA APOD
 [3D 67P](https://science.nasa.gov/image-article/apod-2026-october-17-3d-67p/)
@@ -67,4 +67,4 @@ https://en.wikipedia.org/wiki/Ian_Kilgour
 - **Wikipedia — Random**: ok (1 articles)
 - **NASA — APOD**: ok (1 articles)
 
-<sub>Runs so far today: 2</sub>
+<sub>Runs so far today: 3</sub>
