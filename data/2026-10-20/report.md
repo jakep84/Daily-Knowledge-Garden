@@ -1,21 +1,21 @@
 # Daily Knowledge Garden — 2026-10-20
 
 ## 🧭 Daily Summary
-Global coverage includes EXCLUSIVE: OpenAI seeks to accelerate fundraising ahead of Anthropic IPO, sources say - Reuters; US officials plan to travel to Norway, Russia for Ukraine talks, sources say - Reuters; Five ways El Niño is affecting the weather around the world. Local coverage includes Greeley Boulevard five-week closure at Rolling Road in West Springfield begins Oct. 21 - Virginia Department of Transportation (.gov); News | Washington Post to shutter longtime Northern Virginia printing plant - CoStar.
+Global coverage includes Britain says it will carry out defensive air missions over Saudi Arabia - Reuters; Zelensky and US envoys to hold Oslo talks as Rubio denies withholding intelligence; Salesforce deepens AI bets with $5.66 billion Braze deal - Reuters. Local coverage includes Hampton law firm lands $17.5 million verdict in Prince William brain injury case - The Virginian-Pilot; Greeley Boulevard five-week closure at Rolling Road in West Springfield begins Oct. 21 - Virginia Department of Transportation (.gov).
 
 ## 🌍 Global News (cross-source)
-- [EXCLUSIVE: OpenAI seeks to accelerate fundraising ahead of Anthropic IPO, sources say - Reuters](https://news.google.com/rss/articles/CBMirgFBVV95cUxPZHQyOU05TVZ4RVNpTGdJX18zeHlMZ1pGOGdNeGFmRnFMNERObThVUTl2Ny1CVGU1Vm5IMF9aSS1qaWpOTWlFdDBLeHZIa1lkYnltX1pnU1BLbGdGM3duM1FJZDhocndUWGlUZ0pSaEV6U2RUdzgwX1FaY2s2YllieUo3cTBSWVUtRzJEczR3YXliUzB0d0dRQkRsWjlaQ0FCeXBKM1A2MjlaYzdZa0E?oc=5) — Reuters — Headlines (Google News)
-- [US officials plan to travel to Norway, Russia for Ukraine talks, sources say - Reuters](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQOE4zYUpvQklLdjJ2UnU4NHpYZV9xempmUGVUdnAtOG5KS0dWbXhhb0EzV0M5UDNaUHRYNnY3ZFZuZjVfUDNkWnliYUVDa1R2OFpybEU1eVB6bkpyX3lwSW1uV3ZzVjRYaHNlX3pkelptSkhfTE05TkFlaTI4OUFlZGdBTG96SkxSYmFpSEFETGFkVHBCTlBqZFhDRmVpNjZZTGNRQjJxM0ROdw?oc=5) — Reuters — Headlines (Google News)
-- [Five ways El Niño is affecting the weather around the world](https://www.bbc.co.uk/weather/articles/c6dx07dznpyyo?at_medium=RSS&at_campaign=rss) — BBC — World
-- ['I'm fed up of swiping': Why singles now want to meet IRL](https://www.bbc.co.uk/news/articles/cj62y9dnd6pwo?at_medium=RSS&at_campaign=rss) — BBC — Business
-- [Eagles QB Jalen Hurts is expected to miss the rest of the season with blood clots, AP source says - AP News](https://news.google.com/rss/articles/CBMilAFBVV95cUxNd2hFdE0wTGx0bDQ0NEJLVVFERER4bExSTzBXYkFyMURvQXViUWZ3NUFiWms2dEFNYjhmdDZwQldtX2ZaVE1WemktU2w0WlhoSDlxa0ZrNE44dEc1dzFJLUp0ZFJ6MXZ1N0lOb3NFSVB6LUpuR0JLX242MHVVSkRlUUdEX01sS1QxUzJEWmp3c3ZtZG9q?oc=5) — AP — Headlines (Google News)
+- [Britain says it will carry out defensive air missions over Saudi Arabia - Reuters](https://news.google.com/rss/articles/CBMi1AFBVV95cUxQTGh1LWkyRVZqaTRQMEdnRXhvWFhvWnJ6TW5WdlEyM0dxTFQwLWczNjAwLU95SDFDZVVSdUNQUE1uYkREcG05THRjbmhiQk5FWlBjb2p2V01DVmhGRFppUmFHQUFwMm4yZHFLRndUbU9PcEVjY0JBY1JpZjROd0JnOTdoZXFodTRDSzJEQURHQkVzd21pMmtUZmdnLUE3SGI1UGt5Wno0WWVKR1ZWV0FaQ0FmZUY5aVlQZVAtRGV4WEhoTmVnbHRsZ0taZ2d2NFBxOFIzdQ?oc=5) — Reuters — Headlines (Google News)
+- [Zelensky and US envoys to hold Oslo talks as Rubio denies withholding intelligence](https://www.bbc.co.uk/news/articles/ck9qzn193lrlo?at_medium=RSS&at_campaign=rss) — BBC — World
+- [Salesforce deepens AI bets with $5.66 billion Braze deal - Reuters](https://news.google.com/rss/articles/CBMijwFBVV95cUxQUVE0QXkyR1NSaXY3LTNJTE9uQmY1bXhaV19YNzFMejJRZEhFeDJwd1VCdWg3ZjFFM29VYUNkMWRkSVlsMzlpcmZrdzFudjM0MS02dVJOVGFJZW94cFpHSU9JeGNtSHZtbFQzX3VsaWVTYXFIdzIxbmdhbUVncWRZbFc0T25aUDRMVGwzT01LNA?oc=5) — Reuters — Headlines (Google News)
+- [Huge fin whale filmed off Welsh coast](https://www.bbc.co.uk/news/videos/cxly491v6p7yo?at_medium=RSS&at_campaign=rss) — BBC — Science
+- [Google Cloud outage hits UK banks - AP News](https://news.google.com/rss/articles/CBMilAFBVV95cUxQa19yZHNPSUxKdDBqd2FfTDNXbThvRC1nRWdsLWVzd2htZDhQTE1YT3BPRnFXOEZNdFZKbnJhUlUyZnFldnBIRnhkalRrVmNmazB6U2lEdjNzSGMyMURLYTFYNldpYlBTQk45VWF3UVhlVUpTbHluUHZWVDZxZzczcVRGUjNVX2ludFBOODYySGJHVF9X?oc=5) — AP — Headlines (Google News)
 
 ## 🏙️ Local News
+- [Hampton law firm lands $17.5 million verdict in Prince William brain injury case - The Virginian-Pilot](https://news.google.com/rss/articles/CBMilwFBVV95cUxNYjZsRkhkZGdiUnJqSXJralpBREEycmoxSmllaXdJMThxenFjZFpNSC1rTkJiQkNYbFV4QmZHU1FHWFZkTVdYRUwtUll3Wm9xZDVQUm5FWVRhSnFDUTZidWVHeTBfVnhZbjdHcUJIdTRWdk9VQ19NcVdoRTVIcUVqdWstMkVEenlZLUNHY0poNjZxUzBYei1F?oc=5) — Google News — Northern Virginia
 - [Greeley Boulevard five-week closure at Rolling Road in West Springfield begins Oct. 21 - Virginia Department of Transportation (.gov)](https://news.google.com/rss/articles/CBMi8AFBVV95cUxORklQdGpjX3FOc3lLTGdtQVlaT1c5WENrc1ZzTzFUSnJkZnhjaWNGZkZTZ3NNYnNMRWVWaVRYemtlRnIwdnpMVHphekh5Vk42WTI4czVUSVBycl8tM2ttMWxlLTU0cllVUzlfcTN0SkxxN1pDRHdERlJlUVVrMy1fbTd6eU5fZllGRmU2SndpQzBXb1NnX1hMNzVwb3NHYXlYLTNIZFBHSDdwQmFEc3FVOFg0eTQxdzd6Q1F4aGczNVZhbW5tdjJxUlltb0dzZDFHakpRcWVpRGNvWnJZZ1RfX09GNjJmdS1lUU03Q0oxY2Y?oc=5) — Google News — Northern Virginia
 - [News | Washington Post to shutter longtime Northern Virginia printing plant - CoStar](https://news.google.com/rss/articles/CBMirwFBVV95cUxNc1RNcGlLbjlxSTVDYWxzbDNOMGNFeWliaWJ0eDBlZ3RRWlA0S0RJZlVoSGJhZFpjVXE3MnlTLWR0NkJWdTFDeXlnX3FYX0FLaHhQdGczbUlFTHNzRlpaU1RsNFR4b1FDalVZRE5BZmRyNkdsczdWZ3ZYS3l2RGN6NzVjTk10SVNlY2JXcC1EZ3B2Q2IxZ1JMdWNsTXAzSWdtUEtFcW43X2dzZ3F1ZDkw?oc=5) — Google News — Northern Virginia
 - [Virginia home prices climb despite rising inventory - Virginia Business](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPekVnZWFTN1ZjYVVOU3BqVzQ2bWZMYTRiQlJMaDZuamhWN3FVUTdBMWtaNGE1SzV2OXlCQWV2UEhwbHdCVzRWdm4yeVgtMEF2UTRFb3hSblp6VldfMk5KS2JYRDVwM2xoUElrYnpYYUlYNXluaEl3aDhOeUZyYUJ0aTlSRmdvWTBh?oc=5) — Google News — Northern Virginia
 - [Envelope containing ‘suspicious substance’ prompts evacuation of Va. congressman’s office - WTOP News](https://news.google.com/rss/articles/CBMivAFBVV95cUxPWmVEYVJ1X0NoVjZVXzczQ1FqeFVnUDdFbllrMUtUSTBZZkZLRTdpZ1phTUtwc2ZReTBDcjVUNFdvUFpnMUlHeXFsVGV2STd6VjdGZy1Cb09QS1BQYXZfZ2c1QVl3U1Awem8wRzhmdGFMaVR4UXlTMkEzR2ZPaXI5RGpOZEZXQ1FXeUgtdll0Y2F0ajVWOGNEZ2pRXzM3NE50a1F0WFRSNzhraDlJQldJeVFpMUYxejVKN3NhTQ?oc=5) — Google News — Northern Virginia
-- [GYMGUYZ Celebrates Northern Virginia Grand Opening, Bringing Personal Training Directly to Clients Across the Region - PR Newswire](https://news.google.com/rss/articles/CBMigAJBVV95cUxPNFFaMU45Z0hpbnhBdnZnRm93UkhQWnk2LVp5eV92REV4Yk5iWE5vT2Y1Mk4zODhHc0MxNF94Z1N3OXd5WjQ4eDFTeWo4OHBPTzFWYjlOcTdXczVGNnBlZk1mWHlMaTBTTTA0YmxtaThfUkNJV3JhTEd6QjJzNGF6bmM1dVdYVlA2elVBQUFLMEE4bW13a0l0Q3E2UmJRWmhKZ3BGX2pSSDZKZ1poVmFrOGNpQzFwMEdDSWN6bGVXTTdDbGVFQUlOQl8tdnB2Ym5hc3ZZb3pkYm1OODlvMlBiNXNVRWpreDY3R2ZkNFFHdUF6aVMtaG5kYms0eWJSdFF5?oc=5) — Google News — Northern Virginia
 
 ## 🚀 Hacker News (Top 5)
 - [Timestral: Mistral's time-series foundation models](https://mistral.ai/news/timestral/) — 531 points, 98 comments
@@ -34,12 +34,12 @@ Global coverage includes EXCLUSIVE: OpenAI seeks to accelerate fundraising ahead
 - **2005** — The general conference of the United Nations Educational, Scientific and Cultural Organization (UNESCO) passes the Convention on the Protection and Promotion of the Diversity of Cultural Expressions.
 
 ## 🎲 Wikipedia — Random Article
-**Peter Vaško**  
-He is most known for his time with Slovak First Football League side MFK Skalica. He currently coaches the U13 youth category of MFK Skalica.
-https://en.wikipedia.org/wiki/Peter_Va%C5%A1ko
+**Yin Ngam**  
+Yin Ngam (Chinese: 燕岩) is a village in Tai Po District, Hong Kong.
+https://en.wikipedia.org/wiki/Yin_Ngam
 
 ## 🌌 NASA APOD
-[Treble Clef: Unusual X-ray Hot Radio Source](https://science.nasa.gov/image-article/apod-2026-october-19-treble-clef-unusual-x-ray-hot-radio-source/)
+[A Year of Sunspots](https://science.nasa.gov/image-article/apod-2026-october-20-an-anticrepuscular-rainbow-fan/)
 
 ## Feed Health
 - **Reuters — Headlines (Google News)**: ok (15 articles)
@@ -67,4 +67,4 @@ https://en.wikipedia.org/wiki/Peter_Va%C5%A1ko
 - **Wikipedia — Random**: ok (1 articles)
 - **NASA — APOD**: ok (1 articles)
 
-<sub>Runs so far today: 1</sub>
+<sub>Runs so far today: 2</sub>
