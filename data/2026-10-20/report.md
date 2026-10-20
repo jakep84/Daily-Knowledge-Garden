@@ -1,7 +1,7 @@
 # Daily Knowledge Garden — 2026-10-20
 
 ## 🧭 Daily Summary
-Global coverage includes Britain says it will carry out defensive air missions over Saudi Arabia - Reuters; Zelensky and US envoys to hold Oslo talks as Rubio denies withholding intelligence; Salesforce deepens AI bets with $5.66 billion Braze deal - Reuters. Local coverage includes What issues are driving Virginia voters to the polls? - WUSA9; Ask Eli: Three charts highlight our current real estate market - ARLnow.
+Global coverage includes Britain says it will carry out defensive air missions over Saudi Arabia - Reuters; Zelensky and US envoys to hold Oslo talks as Rubio denies withholding intelligence; Salesforce deepens AI bets with $5.66 billion Braze deal - Reuters. Local coverage includes Spanberger demands rate hike freeze for if Dominion Energy merger goes through - NBC4 Washington; John C. Flood: 120 Years of Keeping Northern Virginia Homes Running - TysonsToday.
 
 ## 🌍 Global News (cross-source)
 - [Britain says it will carry out defensive air missions over Saudi Arabia - Reuters](https://news.google.com/rss/articles/CBMi1AFBVV95cUxQTGh1LWkyRVZqaTRQMEdnRXhvWFhvWnJ6TW5WdlEyM0dxTFQwLWczNjAwLU95SDFDZVVSdUNQUE1uYkREcG05THRjbmhiQk5FWlBjb2p2V01DVmhGRFppUmFHQUFwMm4yZHFLRndUbU9PcEVjY0JBY1JpZjROd0JnOTdoZXFodTRDSzJEQURHQkVzd21pMmtUZmdnLUE3SGI1UGt5Wno0WWVKR1ZWV0FaQ0FmZUY5aVlQZVAtRGV4WEhoTmVnbHRsZ0taZ2d2NFBxOFIzdQ?oc=5) — Reuters — Headlines (Google News)
@@ -11,11 +11,11 @@ Global coverage includes Britain says it will carry out defensive air missions o
 - [Google Cloud outage hits UK banks - AP News](https://news.google.com/rss/articles/CBMilAFBVV95cUxQa19yZHNPSUxKdDBqd2FfTDNXbThvRC1nRWdsLWVzd2htZDhQTE1YT3BPRnFXOEZNdFZKbnJhUlUyZnFldnBIRnhkalRrVmNmazB6U2lEdjNzSGMyMURLYTFYNldpYlBTQk45VWF3UVhlVUpTbHluUHZWVDZxZzczcVRGUjNVX2ludFBOODYySGJHVF9X?oc=5) — AP — Headlines (Google News)
 
 ## 🏙️ Local News
+- [Spanberger demands rate hike freeze for if Dominion Energy merger goes through - NBC4 Washington](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPMEI5ZG8wVVRxcjZZV29CRTJVbW1wdThaNGNWR3pYMG5Sb2g1TlVKemRtWkRXNXNtVkxKNGxwSi1LdDkxU1EzaF8yMU1HblZTSjN6YXA2U3VIa2JTWEprSWtYUzg3VE5fSHRTNEdNZHhoWlc1eUc4LVZpcWhNTzh0Zk8tU1Y0bklEc2pEVDRSVGZlRjNqeUVlUEh0NVM5WFVXWmhVdm1TUHlTRm16bkUzWE01RVd1OXN6Z1FnVXVXYng3Q1ZzUUxTUG5hblFVMFVzTGp1ZHFvRFNPb1FqWW9R0gHnAUFVX3lxTE5jeGhGcFlOTjZaOE9ZUDBMUjlsdmJtX0ctbHBDRzRoSGlhRzNjVjQzSzg3YkY4YmxiMGpSY2hQQTZPdWJRQ21PcG5VZTNJM2I1RGF2OE1uSTdkWEMwQ3NFaUFQdE5hM2hHUUI2U2Y2UDNkYW95cDM4clc1eFVIZUpvY2l5MWIwYVB4T0VHNFBreVpQNzVVRW11ODF3bmVHWjVqNDBBWnFhWEswZDAyYWc5NnVNNkNYWG1CWFBRZXdHaVJSM25DRG92aUZiUEd1QXNTVVVSbTczWFItYmZITTVEN2tmX1BxZw?oc=5) — Google News — Northern Virginia
+- [John C. Flood: 120 Years of Keeping Northern Virginia Homes Running - TysonsToday](https://news.google.com/rss/articles/CBMimwFBVV95cUxQOFNoMThqQXVVYXFFbzdGeHVDeXU0ZEJFVWlLdGRpdlRjY3h4cHc0cklmdjkxTkVFYWxtcFJXZTJxZkFJdmR0QTdnSXV6Z2dSVmJBWTJsUElxUl9mN05reFIzelAyVHhDMHVQSExYNnQxaDczdnA1MTJZVlZqajgtWEhkMlBDaXRVbzVBWnVLbmZzOG5NRUN3RE9Xbw?oc=5) — Google News — Northern Virginia
+- [Concentra opening health clinic near Reagan National Airport, plots further N. Va. expansion - The Business Journals](https://news.google.com/rss/articles/CBMiogFBVV95cUxPemt0SmltN2ZFVC12R2xWQ3FZSmY4bXVDeDdvdUFUMmNBcnJsTzBtZm5Id0J6dkdJSlhwUnQ2Y01DWUZQVVRWNF9qSTBYQkE0SGlNZU56eUlCZ3hIX2FkR0JYZDhSS2UwdDN1dUZuTjVIazEyTk5xcmUwNUttcGxjOFFrY2RkRHhzd0ZPOWRSQkhfV3I4QklwUHNCOTRtWjFVdmc?oc=5) — Google News — Northern Virginia
+- [Mobile Fitness And Personal Training Service Expands Into Northern Virginia - Patch](https://news.google.com/rss/articles/CBMiowFBVV95cUxQWDlNc1VrV0tic1l0dUphaXFRd3p2M2w5MTAyenUteWVIbk1yVHRQVUFvNG9KMDFodW93TjJNMFFDZTNpcnlzVm5lQjFocGxLN01pYnF3QnVVd2JUemRMLWdENlUxYmo2RlJCNExDWTdiOTllNEpqbjlaY2haRG9uVDRGRm9jQXlBSUxicjMwak9HQnFvbjNSdzlQWWtqVE5CVjdz0gHAAUFVX3lxTFBzYlY1a2hUV3lKUS1mMEtyVnQ0ZV9tMGNzWkZvZ3hnYWliU2EwQ3RSM0kxMVcwd2xsQ2pVZ2N2WFpLai0yQmV4SVg0OUlyOFRQTkc3Z3NoLXBXMG1FVnRDMFVDeFM4c3hqel9TTDI3WW1vamJCOXoxbDRkcS1BcHNyQUR6SkhTaHNtU0RtUmNQc0laQWMzVTNSeFgtTktfT29QSlc0SmtEdEhBY0NJWk1CT1MzbWMwX0ZfOFBRNF83TQ?oc=5) — Google News — Northern Virginia
 - [What issues are driving Virginia voters to the polls? - WUSA9](https://news.google.com/rss/articles/CBMiugFBVV95cUxORWgyMm41UVA4Qk5nTWF4ZjhTam1xbmNuSzVpY2k1Si1DOW10VVlwSkFsSXRMY2FSZTAtOUdCdlFwb05iZ0ZnZFFDVTFERTF6Uk5jM0RnMTMxczVGaHpIcXZSUnZjU2ZtcF8wQXR3Q29jSmNvS0JlS2lxWUtyWUNmWGZyTUNMb0pXRjZRWmNqc0NzU29IOW1MQ2ZlaVQ3SE1sQ01YNnUtQm5tNURQUjdiaHE3VGJEdEM4MGc?oc=5) — Google News — Northern Virginia
-- [Ask Eli: Three charts highlight our current real estate market - ARLnow](https://news.google.com/rss/articles/CBMiowFBVV95cUxOYUxyNWNOUkdXQ2xYTThyRnJhaFVYby0zcTZOaGhRblY0NGhsbEFkeVpGY3NTcmV6aE1DRHdkSHhOWkZTdDVLUWxRLTFwNW1zUkczekpYUkM3V0Y4QmZVUmJjNUpPMmFYWkV4dzJXUzZ0VVpDRjB2blE5NTNkRExQTXAzcXgyaE1UaFBrSDNJTUt4aXcwTWFheWdLTEFTR0xPaEhN?oc=5) — Google News — Northern Virginia
-- [Fairfax County to review use of Flock cameras amid privacy concerns - NBC4 Washington](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNNjFSRHlOUThTUVJEN1cwRTYwMUpVS0djX1p4VXR4aFFzWWhyZkUxTnhZY0dpM1BxeXpYZG1jUnd1ODZvWGg4MHpNMGxEYzdzXzBYMWxUNkVMc0FLZTQyYWt4TzltUmtGdS14VmVKNW91TTFoajZXQ3BIQ215UV9uU2FhSDF0NFpIdm11enJ4STZnMHpBLWR0MWpScnZkUFExTVdWUllRblNUN3YwRFlDRXNTLUZBQnlN0gHAAUFVX3lxTE8xR3d4QmdSeEFpdG9hRjFzSXNZT2xtdTJzN2tKM2thVG1HaHE1Tk1wVHJsa2R5RmNXVDBGa2tsdWhjQnBQcXdEcUxORDZFblJTQURVZUxsYUxZZkVFVndjU1NnNWNnZTVKUG9vRmpuaHdxX0NHa0ZuWlJmZkJ2ZWdYWkFXby1fdDl3VTdNcFBkcDAza21iemY3cVltTUdHdzhxWUh2ckZVWHRUTXlQWVpNeEx3ZE55S3FoY0g3ZmdQUA?oc=5) — Google News — Northern Virginia
-- [Hampton law firm lands $17.5 million verdict in Prince William brain injury case - The Virginian-Pilot](https://news.google.com/rss/articles/CBMilwFBVV95cUxNYjZsRkhkZGdiUnJqSXJralpBREEycmoxSmllaXdJMThxenFjZFpNSC1rTkJiQkNYbFV4QmZHU1FHWFZkTVdYRUwtUll3Wm9xZDVQUm5FWVRhSnFDUTZidWVHeTBfVnhZbjdHcUJIdTRWdk9VQ19NcVdoRTVIcUVqdWstMkVEenlZLUNHY0poNjZxUzBYei1F?oc=5) — Google News — Northern Virginia
-- [Greeley Boulevard five-week closure at Rolling Road in West Springfield begins Oct. 21 - Virginia Department of Transportation (.gov)](https://news.google.com/rss/articles/CBMi8AFBVV95cUxORklQdGpjX3FOc3lLTGdtQVlaT1c5WENrc1ZzTzFUSnJkZnhjaWNGZkZTZ3NNYnNMRWVWaVRYemtlRnIwdnpMVHphekh5Vk42WTI4czVUSVBycl8tM2ttMWxlLTU0cllVUzlfcTN0SkxxN1pDRHdERlJlUVVrMy1fbTd6eU5fZllGRmU2SndpQzBXb1NnX1hMNzVwb3NHYXlYLTNIZFBHSDdwQmFEc3FVOFg0eTQxdzd6Q1F4aGczNVZhbW5tdjJxUlltb0dzZDFHakpRcWVpRGNvWnJZZ1RfX09GNjJmdS1lUU03Q0oxY2Y?oc=5) — Google News — Northern Virginia
 
 ## 🚀 Hacker News (Top 5)
 - [Timestral: Mistral's time-series foundation models](https://mistral.ai/news/timestral/) — 531 points, 98 comments
@@ -34,9 +34,9 @@ Global coverage includes Britain says it will carry out defensive air missions o
 - **2005** — The general conference of the United Nations Educational, Scientific and Cultural Organization (UNESCO) passes the Convention on the Protection and Promotion of the Diversity of Cultural Expressions.
 
 ## 🎲 Wikipedia — Random Article
-**Piptatherum racemosum**  
-Piptatherum racemosum, commonly called black-fruited mountain ricegrass or simply mountain ricegrass, is a species of grass native to the northeastern United States and southeastern Canada. Piptatherum racemosum is a conspicuous and easily identifiable grass with broad, shiny cauline leaves and large, long-awned spikelets.
-https://en.wikipedia.org/wiki/Piptatherum_racemosum
+**1903 Clemson Tigers football team**  
+The 1903 Clemson Tigers football team represented Clemson Agricultural College—now known as Clemson University—as a member of the Southern Intercollegiate Athletic Association (SIAA) during the 1903 college football season. Clemson played all its games on the road.
+https://en.wikipedia.org/wiki/1903_Clemson_Tigers_football_team
 
 ## 🌌 NASA APOD
 [An Anticrepuscular Rainbow Fan](https://science.nasa.gov/image-article/apod-2026-october-20-an-anticrepuscular-rainbow-fan/)
@@ -67,4 +67,4 @@ https://en.wikipedia.org/wiki/Piptatherum_racemosum
 - **Wikipedia — Random**: ok (1 articles)
 - **NASA — APOD**: ok (1 articles)
 
-<sub>Runs so far today: 3</sub>
+<sub>Runs so far today: 4</sub>

@@ -1,6 +1,6 @@
 {
   "date": "2026-10-20",
-  "last_updated_utc": "2026-10-20T19:05:56Z",
+  "last_updated_utc": "2026-10-20T23:43:30Z",
   "hn": {
     "items": [
       {
@@ -434,6 +434,51 @@
         "num_comments": 76,
         "created_at": "2026-10-20T15:19:19Z",
         "objectID": "50167732"
+      },
+      {
+        "title": "SimCity, but with Permits",
+        "url": "https://permit.petercai.com/",
+        "points": 462,
+        "author": "pcai",
+        "num_comments": 250,
+        "created_at": "2026-10-20T18:29:09Z",
+        "objectID": "50170593"
+      },
+      {
+        "title": "What shall I teach my son?",
+        "url": "https://stevekrouse.com/ends",
+        "points": 211,
+        "author": "Curiositry",
+        "num_comments": 284,
+        "created_at": "2026-10-20T17:25:07Z",
+        "objectID": "50169707"
+      },
+      {
+        "title": "Sixteen Years After Deepwater Horizon, Deep Sea Life Shows Few Signs of Recovery",
+        "url": "https://e360.yale.edu/digest/deepwater-horizon-deep-sea-recovery",
+        "points": 157,
+        "author": "speckx",
+        "num_comments": 100,
+        "created_at": "2026-10-20T15:59:06Z",
+        "objectID": "50168357"
+      },
+      {
+        "title": "SlopCodeBench 10/2026 – Opus 5.5, Astra wins overall, xhigh considered harmful",
+        "url": "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/benchmarking-new-models-on-slop-code-bench.md",
+        "points": 133,
+        "author": "dhorthy",
+        "num_comments": 59,
+        "created_at": "2026-10-15T19:09:34Z",
+        "objectID": "50108717"
+      },
+      {
+        "title": "Claude designed protein binders against scorpion neurotoxins",
+        "url": "https://www.anthropic.com/research/claude-scorpion-toxin-binder-design",
+        "points": 86,
+        "author": "artninja1988",
+        "num_comments": 56,
+        "created_at": "2026-10-20T17:48:29Z",
+        "objectID": "50170021"
       }
     ]
   },
@@ -530,11 +575,11 @@
       }
     ],
     "random": {
-      "title": "Piptatherum racemosum",
-      "extract": "Piptatherum racemosum, commonly called black-fruited mountain ricegrass or simply mountain ricegrass, is a species of grass native to the northeastern United States and southeastern Canada.\nPiptatherum racemosum is a conspicuous and easily identifiable grass with broad, shiny cauline leaves and large, long-awned spikelets. It grows in dry or mesic forests and woodlands.",
-      "content_urls": "https://en.wikipedia.org/wiki/Piptatherum_racemosum"
+      "title": "1903 Clemson Tigers football team",
+      "extract": "The 1903 Clemson Tigers football team represented Clemson Agricultural College—now known as Clemson University—as a member of the Southern Intercollegiate Athletic Association (SIAA) during the 1903 college football season. Led by John Heisman in his fourth and final season as head coach, the Tigers compiled an overall record of 4–1–1 with mark of 2–0–1 in SIAA play.\nThe team competed in an early conference championship game, tying the Cumberland Bulldogs, 11–11; in the contest. The Tigers thrashed Georgia Tech, 73–0, leading to Heisman's job offer at Tech. Clemson played all its games on the road.",
+      "content_urls": "https://en.wikipedia.org/wiki/1903_Clemson_Tigers_football_team"
     },
-    "fetched_at": "2026-10-20T19:05:48.629481+00:00",
+    "fetched_at": "2026-10-20T23:43:21.739141+00:00",
     "status": [
       {
         "source": "Wikipedia — On This Day",
@@ -549,7 +594,7 @@
     ]
   },
   "apod": {
-    "fetched_at": "2026-10-20T19:05:49.029297+00:00",
+    "fetched_at": "2026-10-20T23:43:23.038168+00:00",
     "entry": {
       "title": "An Anticrepuscular Rainbow Fan",
       "link": "https://science.nasa.gov/image-article/apod-2026-october-20-an-anticrepuscular-rainbow-fan/",
@@ -2687,6 +2732,54 @@
         "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNNjFSRHlOUThTUVJEN1cwRTYwMUpVS0djX1p4VXR4aFFzWWhyZkUxTnhZY0dpM1BxeXpYZG1jUnd1ODZvWGg4MHpNMGxEYzdzXzBYMWxUNkVMc0FLZTQyYWt4TzltUmtGdS14VmVKNW91TTFoajZXQ3BIQ215UV9uU2FhSDF0NFpIdm11enJ4STZnMHpBLWR0MWpScnZkUFExTVdWUllRblNUN3YwRFlDRXNTLUZBQnlN0gHAAUFVX3lxTE8xR3d4QmdSeEFpdG9hRjFzSXNZT2xtdTJzN2tKM2thVG1HaHE1Tk1wVHJsa2R5RmNXVDBGa2tsdWhjQnBQcXdEcUxORDZFblJTQURVZUxsYUxZZkVFVndjU1NnNWNnZTVKUG9vRmpuaHdxX0NHa0ZuWlJmZkJ2ZWdYWkFXby1fdDl3VTdNcFBkcDAza21iemY3cVltTUdHdzhxWUh2ckZVWHRUTXlQWVpNeEx3ZE55S3FoY0g3ZmdQUA?oc=5",
         "published": "Tue, 20 Oct 2026 14:32:24 GMT",
         "source": "Google News — Northern Virginia"
+      },
+      {
+        "title": "Concentra opening health clinic near Reagan National Airport, plots further N. Va. expansion - The Business Journals",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPemt0SmltN2ZFVC12R2xWQ3FZSmY4bXVDeDdvdUFUMmNBcnJsTzBtZm5Id0J6dkdJSlhwUnQ2Y01DWUZQVVRWNF9qSTBYQkE0SGlNZU56eUlCZ3hIX2FkR0JYZDhSS2UwdDN1dUZuTjVIazEyTk5xcmUwNUttcGxjOFFrY2RkRHhzd0ZPOWRSQkhfV3I4QklwUHNCOTRtWjFVdmc?oc=5",
+        "published": "Tue, 20 Oct 2026 19:24:00 GMT",
+        "source": "Google News — Northern Virginia"
+      },
+      {
+        "title": "John C. Flood: 120 Years of Keeping Northern Virginia Homes Running - TysonsToday",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQOFNoMThqQXVVYXFFbzdGeHVDeXU0ZEJFVWlLdGRpdlRjY3h4cHc0cklmdjkxTkVFYWxtcFJXZTJxZkFJdmR0QTdnSXV6Z2dSVmJBWTJsUElxUl9mN05reFIzelAyVHhDMHVQSExYNnQxaDczdnA1MTJZVlZqajgtWEhkMlBDaXRVbzVBWnVLbmZzOG5NRUN3RE9Xbw?oc=5",
+        "published": "Tue, 20 Oct 2026 22:11:02 GMT",
+        "source": "Google News — Northern Virginia"
+      },
+      {
+        "title": "Protect Yourself: Northern Virginia’s 2026 Flu Season Is Under Way - Northern Virginia Magazine",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZkpaNC1DZTZ0Nk80cm1KbGJPRVJyRkt0djNaUTktXzVJNDRQeUs0SUh4SHBRM2RVZ3RNYm9idndqNDR6Z1dTem5SX1BXMmx0V2hWV3FFMThvbS1naVkzc19aRWpQS0h0N3Vkb0NxWnd1Z3ZJblF1M0UycWpOWk9DTU5OTnh0akhUZjZjcWtqWFgwVnFUYkdSQkZ5dEVIWW1qdmI0UUs5TzF6SnF6SUxZYVo2UTR5Y0hq?oc=5",
+        "published": "Tue, 20 Oct 2026 13:23:51 GMT",
+        "source": "Google News — Northern Virginia"
+      },
+      {
+        "title": "Mobile Fitness And Personal Training Service Expands Into Northern Virginia - Patch",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQWDlNc1VrV0tic1l0dUphaXFRd3p2M2w5MTAyenUteWVIbk1yVHRQVUFvNG9KMDFodW93TjJNMFFDZTNpcnlzVm5lQjFocGxLN01pYnF3QnVVd2JUemRMLWdENlUxYmo2RlJCNExDWTdiOTllNEpqbjlaY2haRG9uVDRGRm9jQXlBSUxicjMwak9HQnFvbjNSdzlQWWtqVE5CVjdz0gHAAUFVX3lxTFBzYlY1a2hUV3lKUS1mMEtyVnQ0ZV9tMGNzWkZvZ3hnYWliU2EwQ3RSM0kxMVcwd2xsQ2pVZ2N2WFpLai0yQmV4SVg0OUlyOFRQTkc3Z3NoLXBXMG1FVnRDMFVDeFM4c3hqel9TTDI3WW1vamJCOXoxbDRkcS1BcHNyQUR6SkhTaHNtU0RtUmNQc0laQWMzVTNSeFgtTktfT29QSlc0SmtEdEhBY0NJWk1CT1MzbWMwX0ZfOFBRNF83TQ?oc=5",
+        "published": "Tue, 20 Oct 2026 19:18:22 GMT",
+        "source": "Google News — Northern Virginia"
+      },
+      {
+        "title": "Spanberger demands rate hike freeze for if Dominion Energy merger goes through - NBC4 Washington",
+        "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPMEI5ZG8wVVRxcjZZV29CRTJVbW1wdThaNGNWR3pYMG5Sb2g1TlVKemRtWkRXNXNtVkxKNGxwSi1LdDkxU1EzaF8yMU1HblZTSjN6YXA2U3VIa2JTWEprSWtYUzg3VE5fSHRTNEdNZHhoWlc1eUc4LVZpcWhNTzh0Zk8tU1Y0bklEc2pEVDRSVGZlRjNqeUVlUEh0NVM5WFVXWmhVdm1TUHlTRm16bkUzWE01RVd1OXN6Z1FnVXVXYng3Q1ZzUUxTUG5hblFVMFVzTGp1ZHFvRFNPb1FqWW9R0gHnAUFVX3lxTE5jeGhGcFlOTjZaOE9ZUDBMUjlsdmJtX0ctbHBDRzRoSGlhRzNjVjQzSzg3YkY4YmxiMGpSY2hQQTZPdWJRQ21PcG5VZTNJM2I1RGF2OE1uSTdkWEMwQ3NFaUFQdE5hM2hHUUI2U2Y2UDNkYW95cDM4clc1eFVIZUpvY2l5MWIwYVB4T0VHNFBreVpQNzVVRW11ODF3bmVHWjVqNDBBWnFhWEswZDAyYWc5NnVNNkNYWG1CWFBRZXdHaVJSM25DRG92aUZiUEd1QXNTVVVSbTczWFItYmZITTVEN2tmX1BxZw?oc=5",
+        "published": "Tue, 20 Oct 2026 22:22:13 GMT",
+        "source": "Google News — Northern Virginia"
+      },
+      {
+        "title": "I-95 northbound nighttime ramp closures in Woodbridge tonight & Oct. 20 - Virginia Department of Transportation (.gov)",
+        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNdTNEX3R5amwwR3QwUWJKblVpSU5GUWJOSXc0WGlKU2Z0bDBqc3BfamdsdEtsaVlhVU8zUjg3aHA2NHN1VXdJaC0xb3RpdVcyT0gtNkVmQTF4Y0tRR2tFR3NaYldfbDlYNVNpRWJydzRDQmh3d1dmODBNTngxUy1wWnViWUZBbi1KREVacnhXeFpsR2lPUUJQeVV0LXBCTzVYQXhXY1Blam1mUlNoY2RGTGo2NFRvVy1YWkUzYVhfZGNCaVlMcXh2b3gwdFdyOVc1dmZicU5Xc0ozMzg?oc=5",
+        "published": "Mon, 19 Oct 2026 15:37:15 GMT",
+        "source": "Google News — Northern Virginia"
+      },
+      {
+        "title": "Virginia voters to decide on 1% sales tax for school construction, NoVa transit funding - Virginia Mercury",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPRERNTDRwWktYVlRZX2tZbUFWMHRJYjRRby1zWThIOEhKUXJNX1ltY0thSDJsaG01bm9fSnNCbGpzckM2Rnk2VEpGZUdLZkJ3NlJDSzItZnI5QzZWeHJIRnd6ckNsbFd6am41RGdqSnB6VmMwSnFRbjhUVXoxeUI0cFREY3c4M01FdkZYeDd2Q0FhcHYwU3BfWURHSGFqeGlvSWpkeUpsUGdFME5xbmpWODNiM0l0bEVZUHJMQV9RRkh1SlE?oc=5",
+        "published": "Mon, 31 Aug 2026 07:00:00 GMT",
+        "source": "Google News — Northern Virginia traffic"
+      },
+      {
+        "title": "Severe storms, dangerous heat and lingering smoke threaten Alexandria Saturday - The Alexandria Brief",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQWkw4a3ZPeGY2R1dKM3MzNzdGa05yZTdQSVNocHdyRUxlbUZYNlVTcEVKR1g4WjZ3WWtyS2Y0RjlvVUFfRzhqU3RhcVM4d09jeDVJaGJNbUxrSGYtT25USjVFVElnNHlLcTI2MVRFaGY4T010TUtXUzdKd0ROaWdlMDdPRnhEWVRuQzJOek9zMEFuelptMXhfMjFSQ0l2cnJjVUltQzhNQXNUTWt3RldF?oc=5",
+        "published": "Sat, 18 Jul 2026 07:00:00 GMT",
+        "source": "Google News — Northern Virginia weather"
       }
     ]
   },
@@ -2696,147 +2789,147 @@
       "url": "https://news.google.com/rss/search?q=site%3Areuters.com+when%3A2d&hl=en-US&gl=US&ceid=US:en",
       "status": "ok",
       "count": 15,
-      "checked_at_utc": "2026-10-20T19:05:50.015466+00:00"
+      "checked_at_utc": "2026-10-20T23:43:23.934904+00:00"
     },
     {
       "source": "Reuters — World (Google News)",
       "url": "https://news.google.com/rss/search?q=site%3Areuters.com%2Fworld+when%3A2d&hl=en-US&gl=US&ceid=US:en",
       "status": "ok",
       "count": 15,
-      "checked_at_utc": "2026-10-20T19:05:50.612191+00:00"
+      "checked_at_utc": "2026-10-20T23:43:24.467158+00:00"
     },
     {
       "source": "Reuters — Business (Google News)",
       "url": "https://news.google.com/rss/search?q=site%3Areuters.com%2Fbusiness+when%3A2d&hl=en-US&gl=US&ceid=US:en",
       "status": "ok",
       "count": 15,
-      "checked_at_utc": "2026-10-20T19:05:51.091441+00:00"
+      "checked_at_utc": "2026-10-20T23:43:24.967690+00:00"
     },
     {
       "source": "BBC — World",
       "url": "http://feeds.bbci.co.uk/news/world/rss.xml",
       "status": "ok",
       "count": 15,
-      "checked_at_utc": "2026-10-20T19:05:51.520814+00:00"
+      "checked_at_utc": "2026-10-20T23:43:25.372864+00:00"
     },
     {
       "source": "BBC — Tech",
       "url": "http://feeds.bbci.co.uk/news/technology/rss.xml",
       "status": "ok",
       "count": 15,
-      "checked_at_utc": "2026-10-20T19:05:51.715923+00:00"
+      "checked_at_utc": "2026-10-20T23:43:25.539069+00:00"
     },
     {
       "source": "BBC — Business",
       "url": "http://feeds.bbci.co.uk/news/business/rss.xml",
       "status": "ok",
       "count": 15,
-      "checked_at_utc": "2026-10-20T19:05:51.885011+00:00"
+      "checked_at_utc": "2026-10-20T23:43:25.612800+00:00"
     },
     {
       "source": "BBC — Science",
       "url": "http://feeds.bbci.co.uk/news/science_and_environment/rss.xml",
       "status": "ok",
       "count": 15,
-      "checked_at_utc": "2026-10-20T19:05:51.952086+00:00"
+      "checked_at_utc": "2026-10-20T23:43:25.788587+00:00"
     },
     {
       "source": "AP — Headlines (Google News)",
       "url": "https://news.google.com/rss/search?q=site%3Aapnews.com+when%3A2d&hl=en-US&gl=US&ceid=US:en",
       "status": "ok",
       "count": 15,
-      "checked_at_utc": "2026-10-20T19:05:52.220270+00:00"
+      "checked_at_utc": "2026-10-20T23:43:25.850140+00:00"
     },
     {
       "source": "AP — Politics (Google News)",
       "url": "https://news.google.com/rss/search?q=site%3Aapnews.com+politics+when%3A2d&hl=en-US&gl=US&ceid=US:en",
       "status": "ok",
       "count": 15,
-      "checked_at_utc": "2026-10-20T19:05:52.793832+00:00"
+      "checked_at_utc": "2026-10-20T23:43:26.358750+00:00"
     },
     {
       "source": "AP — Business (Google News)",
       "url": "https://news.google.com/rss/search?q=site%3Aapnews.com+business+economy+when%3A2d&hl=en-US&gl=US&ceid=US:en",
       "status": "ok",
       "count": 15,
-      "checked_at_utc": "2026-10-20T19:05:53.308204+00:00"
+      "checked_at_utc": "2026-10-20T23:43:26.922357+00:00"
     },
     {
       "source": "NPR — Top Stories",
       "url": "https://feeds.npr.org/1001/rss.xml",
       "status": "ok",
       "count": 10,
-      "checked_at_utc": "2026-10-20T19:05:53.660071+00:00"
+      "checked_at_utc": "2026-10-20T23:43:27.367477+00:00"
     },
     {
       "source": "NPR — Politics",
       "url": "https://feeds.npr.org/1019/rss.xml",
       "status": "ok",
       "count": 10,
-      "checked_at_utc": "2026-10-20T19:05:54.209067+00:00"
+      "checked_at_utc": "2026-10-20T23:43:27.684748+00:00"
     },
     {
       "source": "NPR — Business",
       "url": "https://feeds.npr.org/1007/rss.xml",
       "status": "ok",
       "count": 10,
-      "checked_at_utc": "2026-10-20T19:05:54.240618+00:00"
+      "checked_at_utc": "2026-10-20T23:43:27.783770+00:00"
     },
     {
       "source": "NPR — Science",
       "url": "https://feeds.npr.org/1008/rss.xml",
       "status": "ok",
       "count": 10,
-      "checked_at_utc": "2026-10-20T19:05:54.273556+00:00"
+      "checked_at_utc": "2026-10-20T23:43:27.920253+00:00"
     },
     {
       "source": "NPR — Technology",
       "url": "https://feeds.npr.org/1013/rss.xml",
       "status": "ok",
       "count": 10,
-      "checked_at_utc": "2026-10-20T19:05:54.307382+00:00"
+      "checked_at_utc": "2026-10-20T23:43:28.058202+00:00"
     },
     {
       "source": "ScienceNews",
       "url": "https://www.sciencenews.org/feed",
       "status": "ok",
       "count": 15,
-      "checked_at_utc": "2026-10-20T19:05:54.349377+00:00"
+      "checked_at_utc": "2026-10-20T23:43:28.179662+00:00"
     },
     {
       "source": "ScienceDaily — Top",
       "url": "https://www.sciencedaily.com/rss/top/science.xml",
       "status": "ok",
       "count": 15,
-      "checked_at_utc": "2026-10-20T19:05:54.546478+00:00"
+      "checked_at_utc": "2026-10-20T23:43:28.453611+00:00"
     },
     {
       "source": "Nature — Technology",
       "url": "https://www.nature.com/subjects/technology.rss",
       "status": "ok",
       "count": 15,
-      "checked_at_utc": "2026-10-20T19:05:54.769357+00:00"
+      "checked_at_utc": "2026-10-20T23:43:28.651105+00:00"
     },
     {
       "source": "Google News — Northern Virginia",
       "url": "https://news.google.com/rss/search?q=Northern+Virginia&hl=en-US&gl=US&ceid=US:en",
       "status": "ok",
       "count": 15,
-      "checked_at_utc": "2026-10-20T19:05:54.867069+00:00"
+      "checked_at_utc": "2026-10-20T23:43:28.708955+00:00"
     },
     {
       "source": "Google News — Northern Virginia traffic",
       "url": "https://news.google.com/rss/search?q=Northern+Virginia+traffic+OR+transit&hl=en-US&gl=US&ceid=US:en",
       "status": "ok",
       "count": 15,
-      "checked_at_utc": "2026-10-20T19:05:55.359893+00:00"
+      "checked_at_utc": "2026-10-20T23:43:29.358031+00:00"
     },
     {
       "source": "Google News — Northern Virginia weather",
       "url": "https://news.google.com/rss/search?q=Northern+Virginia+weather+warning+OR+advisory&hl=en-US&gl=US&ceid=US:en",
       "status": "ok",
       "count": 15,
-      "checked_at_utc": "2026-10-20T19:05:55.981937+00:00"
+      "checked_at_utc": "2026-10-20T23:43:30.035943+00:00"
     },
     {
       "source": "Wikipedia — On This Day",
@@ -2857,6 +2950,7 @@
   "runs": [
     "2026-10-20T00:11:21Z",
     "2026-10-20T14:13:20Z",
-    "2026-10-20T19:05:56Z"
+    "2026-10-20T19:05:56Z",
+    "2026-10-20T23:43:30Z"
   ]
 }
