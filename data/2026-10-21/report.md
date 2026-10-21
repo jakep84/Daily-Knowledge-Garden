@@ -1,21 +1,21 @@
 # Daily Knowledge Garden — 2026-10-21
 
 ## 🧭 Daily Summary
-Global coverage includes Meta fined $25bn for 'lies' over user data privacy; Fuel leak which killed fish in River Taff stopped; Italian retailers warn of food shortages caused by truck drivers' protest - Reuters. Local coverage includes Fairfax well-represented on 2026 list of 50 Best Restaurants in N. Va. - FFXnow; These 11 Arlington and Falls Church restaurants ranked among top 50 in N. Va. - ARLnow.
+Global coverage includes The "trillion pound" oil fund the government believes Britain could have built; Meta ordered to pay $25 billion penalty to New Mexico in data privacy case - Reuters; EXCLUSIVE: US orders diplomats to depart Saudi Arabia amid Houthi strikes - Reuters. Local coverage includes Four Alexandria-area eateries land on list of 50 Best Restaurants in N. Va. - ALXnow; Fairfax well-represented on 2026 list of 50 Best Restaurants in N. Va. - FFXnow.
 
 ## 🌍 Global News (cross-source)
-- [Meta fined $25bn for 'lies' over user data privacy](https://www.bbc.co.uk/news/articles/cqdr8zxrr3dxo?at_medium=RSS&at_campaign=rss) — BBC — World
-- [Fuel leak which killed fish in River Taff stopped](https://www.bbc.co.uk/news/articles/c6y8lvxzp59vo?at_medium=RSS&at_campaign=rss) — BBC — Science
-- [Italian retailers warn of food shortages caused by truck drivers' protest - Reuters](https://news.google.com/rss/articles/CBMisAFBVV95cUxNaU9VRTRDWGZjeWIweFFSZVBPbEVOMmVSeFhlckJVbTliVG1JZExjVDNJTjVOaW1RdFh3M2dQMkRBVF9idTlRYWdZbWZnYWRhTzhTdjFuc1V6U0RTakt6Ulc0YUJqOFRDb0RJYnV0WjVqQVMxZUt3aXRYUHdDOGdNWFR2R0ZacUtOdndZUGpzRUpJM21NanR1bC1hc2hjc0NUS05MZy1PcU90RGVHQklKcA?oc=5) — Reuters — World (Google News)
+- [The "trillion pound" oil fund the government believes Britain could have built](https://www.bbc.co.uk/news/articles/cm4g1zrl2nrqo?at_medium=RSS&at_campaign=rss) — BBC — Business
+- [Meta ordered to pay $25 billion penalty to New Mexico in data privacy case - Reuters](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPYWNTZTVrUDY5dUhLcUduTzg1NGZDUWx1VTNVbFRNV3hOcXo0TG51MDBMRm5WQU9STGRPZGhLNml2dTFMb1h2b1hLelA4QU5KV3pRLWktdDVhOEFxWDY5VW1URmZEVm9QcDg0WEp2Zmo2V1RIcFpCdk1zeFFhdU1VeHl4QUVZeGZxU3ZJLV9UUzZYWG85Ujl0RkRMbGhMd2RBWkdDNnJpbnBNQXduV3FBLXZTYlk2Y2xhVzFSbmthRFJERU0?oc=5) — Reuters — Business (Google News)
+- [EXCLUSIVE: US orders diplomats to depart Saudi Arabia amid Houthi strikes - Reuters](https://news.google.com/rss/articles/CBMizgFBVV95cUxONDg0WFNBeGFxeHpUVUsya2RYd0k3XzF6bXU3eGpZVnh2T25MWHVsQzVrbE9PNEdaWnpfN1dmRmtxajMtbl8yZ29EWUxYaXAxcnkxcFN1NEVDLVE3bUtkR0NwZDVPN2haVXFERXRUeHRnQ2QyVDhVdjBNa2FIUFVDOWFicGJOQVVWR0JFMnZSM0NLV09nZHk5UzA2LTgtbmFEVnlYZDI1Uk9ic1hyLTZ0Z2NKbWI5QWgtWWE3ZzV4eE11bmpCcGstTFAzQnVGUQ?oc=5) — Reuters — Headlines (Google News)
+- [Trump's green card curbs test Indian tech workers' American dream](https://www.bbc.co.uk/news/articles/cqj34j7dk771o?at_medium=RSS&at_campaign=rss) — BBC — Tech
 - [Saudi capital’s airport reopens to limited traffic, and other Mideast news - AP News](https://news.google.com/rss/articles/CBMiqwFBVV95cUxORV9IUWE4eU50a1BGWWxhQWs4NWNjQ29fUjB6amRKamZpbTF1QWM1U2puUlZuVnNPRGtGVkRWVkMxdkxTazhHbk5MdkRub1J3Z2pLaGFRRUN1bGVmY0d1XzNTaTVoY1JlNVpqaTNlcFNzMnZTY3JOWDFJbkM4X3Z0dHNwXy1NNk96ZXZwaGcwc05vbDB3VHdBQUQtTnE2cktVQ2staDdXLWdmcFk?oc=5) — AP — Business (Google News)
-- [Meta ordered to pay $25 billion to New Mexico after jury finds company misled consumers about data privacy - Reuters](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPYWNTZTVrUDY5dUhLcUduTzg1NGZDUWx1VTNVbFRNV3hOcXo0TG51MDBMRm5WQU9STGRPZGhLNml2dTFMb1h2b1hLelA4QU5KV3pRLWktdDVhOEFxWDY5VW1URmZEVm9QcDg0WEp2Zmo2V1RIcFpCdk1zeFFhdU1VeHl4QUVZeGZxU3ZJLV9UUzZYWG85Ujl0RkRMbGhMd2RBWkdDNnJpbnBNQXduV3FBLXZTYlk2Y2xhVzFSbmthRFJERU0?oc=5) — Reuters — Headlines (Google News)
 
 ## 🏙️ Local News
+- [Four Alexandria-area eateries land on list of 50 Best Restaurants in N. Va. - ALXnow](https://news.google.com/rss/articles/CBMirAFBVV95cUxNOEp2d3d4bHJFelpEc3BfTm96MDEtVmdZRUVFVlBfVXRBUnUyNlgtaEQ5YlBGR0hjUVR1R1JqWFRVLWFJdWdSWU9VS3JDNU5aalNWMDhTUV9wd0NmMl9OaGhMMkxTN3dSS2Y0Nk50OGdKdkhSaDNTZTNfUjBYRms3LW1rMUJ5V2FIa0xodDhsLXRNdXB2ZlR3akYwcVNObmhEQUZvRkI0amFoN01o?oc=5) — Google News — Northern Virginia
 - [Fairfax well-represented on 2026 list of 50 Best Restaurants in N. Va. - FFXnow](https://news.google.com/rss/articles/CBMipgFBVV95cUxQajlkNnhQTS1rcnN2QUp1RXhEVktHRVduRFdzTkduRDI4R0Q2VTN4QjJCajZFWkxFems3YTV4VU9NdGktcmw4azJFNXpwNERTYjhJWWgxYXFXdUFFeENPeWtEM1FURW1kS0lvQTB4SF91QlBYRGR6aGFqU1VIaFZYdWU2aDZVQm0yRnNBR2ZrZkZFVXRnV3RDQjlpOElvTURqVHhNb2JR?oc=5) — Google News — Northern Virginia
 - [These 11 Arlington and Falls Church restaurants ranked among top 50 in N. Va. - ARLnow](https://news.google.com/rss/articles/CBMirwFBVV95cUxPcG50TVgwZTR5MlpXZ3FUSHF4T0dpbFg1Vzl6djZSUGdmOFdzSFlaNXhocjZBZ0p1UXBXWFl5ZFNGT25uZmNBS0hRcFZWblN4dUpjNGRZajFpc0l0bjlHaUc1MjdhNjJGNnRzbDdmb3Y4RzFTR1Q4UEdrT0NKS1F5WnIzdU1zeVpKRWFxWjZra3NYZGNXdkhacU91RnJOc0p4ODFiMHYwVk5vXzVxdFR3?oc=5) — Google News — Northern Virginia
 - [Fairfax County Parkway northbound nighttime lane closures in Fairfax Station Oct. 23 & 30 - Virginia Department of Transportation (.gov)](https://news.google.com/rss/articles/CBMi8wFBVV95cUxQVzIzVlQ5RGlIMndSeTVKUVJKMGh3NjBBTm43Y295dFhoYm5hVDBNN0tVNFYzc29ISEQtejlubWlVVldaNWN1YTR3dEF1YkRETVhtREh6YjlDRG5vcW9SdE5IZ2N5dVBXaDFLdTFSSXdVT0NHeFlWUk5PMFJfdm1CYlpETDA5TUplSFRkNG5ncE00MmV5UWdvRnlVY20wdkRrMkhYaWo0bldvTnpBWWoyeGZHako5SkRMdGU2WWxDdGlQMHVpZ0N3M3J1MGh2UnJqbXFKMVlGSkNsVTlZajlSSFRLVmRBTWVkZDJ1a1ljNlZXb2s?oc=5) — Google News — Northern Virginia
 - [The 50 Best Restaurants in Northern Virginia for 2026 - Northern Virginia Magazine](https://news.google.com/rss/articles/CBMivAFBVV95cUxOT21jbHV6ZS1KbXF1cGR5bVB4N0JsaHA5Y2FabVZwODdrdkZNeDlKV1ozNm5VWUNsT3VydkNUbEp3d1pNMjFHWVE3MDBremdzYXBlY09uNmtDaFVLU0hBTEpPd0Y3N2FTTzdIRUFmd1cycHRncXhHVVpKajRkNkF1b0FpeEw2eTBwVWRNempIYzlYZ2ZvX1FIaHlxNTJoOHpSQ3RTbG1YN3VGdGppdE8wdWlVZEtCblA5Q0RSRg?oc=5) — Google News — Northern Virginia
-- [ICE lodges detainer against man with lengthy criminal history in Northern Virginia - WJLA](https://news.google.com/rss/articles/CBMimgJBVV95cUxNMlFKZmtxcDg2XzNXQVBWdU9YekdLMTlLS1UzUlloY0MwUUVMZXI1UDE1T1dETTNuMVNHbXhJTk5lOGRiWm1tMjJjX2t0NVcyUnh0V0loWk1iWERicXExZGNYVlAxb2JJQTJwNXhxcHZRaHZTWXR1ZkozT1BRc1Fzbnd1NmR2S29iaWdQaHV4VlNJZERIZHNYZldMa0F1MGdRYWIwWnBmZ3BkQW9oc1d5emtULXdUVkVxdXI0SWV2cXlnUEtHT2Y3Tm1MdmhYRHNlZFRwdmRVb3FGUWt4VHBGc25Ibi1reVlWTTVtQThhcGNpdmJwNWJ6cVhONUZRekNXTndjZkZSMGd4elNQZzJCUHFiZXlMN2lmeGc?oc=5) — Google News — Northern Virginia
 
 ## 🚀 Hacker News (Top 5)
 - [Upcoming critical PHP security release (CVE-2026-109618 / -109619)](https://news-web.php.net/php.announce/509) — 1365 points, 573 comments
@@ -34,9 +34,9 @@ Global coverage includes Meta fined $25bn for 'lies' over user data privacy; Fue
 - **2011** — Iraq War: President Barack Obama announces that the withdrawal of United States troops from Iraq will be complete by the end of the year.
 
 ## 🎲 Wikipedia — Random Article
-**1951 in the Netherlands**  
-The following events occurred in the Netherlands in the year 1951.
-https://en.wikipedia.org/wiki/1951_in_the_Netherlands
+**Eaglesfield, Cumbria**  
+Eaglesfield is a village in the parish of Dean in Cumberland in Cumbria, England. It is near the A5086 road, 2.5 miles (4 km) southwest of Cockermouth and is located just outside the Lake District National Park.
+https://en.wikipedia.org/wiki/Eaglesfield,_Cumbria
 
 ## 🌌 NASA APOD
 [New Ghosts Revealed in Cassiopeia](https://science.nasa.gov/image-article/apod-2026-october-21-new-ghosts-revealed-in-cassiopeia/)
@@ -67,4 +67,4 @@ https://en.wikipedia.org/wiki/1951_in_the_Netherlands
 - **Wikipedia — Random**: ok (1 articles)
 - **NASA — APOD**: ok (1 articles)
 
-<sub>Runs so far today: 2</sub>
+<sub>Runs so far today: 3</sub>
