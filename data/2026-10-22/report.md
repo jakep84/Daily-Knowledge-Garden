@@ -1,21 +1,21 @@
 # Daily Knowledge Garden — 2026-10-22
 
 ## 🧭 Daily Summary
-Global coverage includes Firefighters and public 'knowingly put at risk' during summer wildfires; Ebola patient in Nigeria believed to have contracted disease in Uganda, Switzerland says - Reuters; Zuckerberg wins Meta deal to help him foot bill for possible California billionaire tax. Local coverage includes Amazon cancels plan for data centers in Loudoun County, donates land - The Washington Post; Local leaders wary of state legislature’s push to consolidate N. Va. bus systems - FFXnow.
+Global coverage includes Appeals court lifts block on Mississippi's DEI ban, ejects judge over AI errors - Reuters; Trump says wind turbine imports threaten national security - Reuters; Firefighters and public 'knowingly put at risk' during summer wildfires. Local coverage includes Amazon explains shift in position on future data center developments in Northern Va. - WTOP News; Real estate giant Akelius offloads three N. Virginia apartment buildings for more than $230M - The Business Journals.
 
 ## 🌍 Global News (cross-source)
+- [Appeals court lifts block on Mississippi's DEI ban, ejects judge over AI errors - Reuters](https://news.google.com/rss/articles/CBMixgFBVV95cUxNTXU4UEVFNmN1Z1hTZW5oWUhXVXRSWDMyM2JVa1FPUEN2OGFqWEdydi1zbElVb3ZsNGo3Z0RZLUU0bG94emsxTzl3RTV3bG1zUEVmckd1aTZ2MmVjY3V3dWdtR1lWSWxlT2NwR3ROTFFnNlFianNZMS1GdHUxR3BCYTJSQlBnUk9KcEVJNXlOSF9iWjZrR0RvU1lkOWNVa3RjWUREZ1lMTkFsMUFkVmJuN3JEWFRwcE1zbHNqX3BEZU9GQkF1elE?oc=5) — Reuters — Headlines (Google News)
+- [Trump says wind turbine imports threaten national security - Reuters](https://news.google.com/rss/articles/CBMisAFBVV95cUxQbXBnbGtXTC1kdE85WW5oRjI1dW9WU1d6RGdZLXoyRS12V0l0NXZyT21Rcnk5eERXeDhacVlpSWRDNVc2VlhoOUJyWWFvOVV3ck5oeU45eXZHQVpCaklMLTh4QXJkcXVWX192VUQ3QmNEa2VyMVdWNUtTaGlYdm1qb3pNRGtDazdsdjFQb3lISUNBNDNEWkJjUkFhLXJXcGpjWndUaVJLaDJFaHRIQk9KZQ?oc=5) — Reuters — Headlines (Google News)
 - [Firefighters and public 'knowingly put at risk' during summer wildfires](https://www.bbc.co.uk/news/articles/cqvgjk3j0j9wo?at_medium=RSS&at_campaign=rss) — BBC — Science
-- [Ebola patient in Nigeria believed to have contracted disease in Uganda, Switzerland says - Reuters](https://news.google.com/rss/articles/CBMi3wFBVV95cUxQV0FDN3RkbzZGdXBNaHpWZHZRd2h5dUVnSzlYQlNDU3dCN0RsUUhqblZXcjVzLUJzNTJtZjJGRjNRY0NwejZyc0Y4MG84cUxaUTNjc0djN3gwa3ZYaGN6d20yWkFmS09sUW94TGo3WGpTTGNLQW9YejI3Y3hMbDJjbXA4dEd5dGphRzlNdkF6T0ZMMjRycm1CWUxRLWd6QUUyYmtYcHRKY21KSzl1bmRJZmNBS0trMVgzcVJnVkQxTURqR1FuRzJjeFJ2ZEx3ak9FTDRBX2NlbzlPWVg4SW93?oc=5) — Reuters — Business (Google News)
 - [Zuckerberg wins Meta deal to help him foot bill for possible California billionaire tax](https://www.bbc.co.uk/news/articles/cky83vwnyglno?at_medium=RSS&at_campaign=rss) — BBC — World
-- [Ecuadorean opposition leader Gonzalez arrested over alleged irregularities in campaign financing - Reuters](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOekc5RFQwV1A4eXplNlFEc0R2YTBXdzVZd0d5T0hqRzI3Y3A0bnhHa0JuT2xRcEg3NTBXajdRNlBtNkZjOGVFUEJkanJsSDJZZlFpQWJHNUhDUnpJUXIwQTFtaXdsSzZqcVIwWktNM3d5YVljZllXMmRCQkpaR2dRV0tkVVQ3Szgxa1NIWDFjdkctRWhVY2w1dTZqUFRkZnp1UkxaNktGUnJXUQ?oc=5) — Reuters — Headlines (Google News)
 - [Powerful Democratic Virginia state Sen. Lucas is accused of leading a marijuana criminal conspiracy - AP News](https://news.google.com/rss/articles/CBMirAFBVV95cUxQWV9EN19IUDB3X3ROUy1MNUhvTnh1cUdDMHJQeWhhLVBWTnpiNXhSQkV6a24xdWF5SXVmN184c3UwZFVzc3pOMWpOb25PZkZFbzY4LThoamJBSXJZRFBnR0hUWFBBMk5pOTUzLVFkc3BDcFhUVS1JcHROdmUtN0Q4RFh3cDVPNjRFNHM5WHFUYkZzdE9jTWt0ZW5KMTY5MXRpVms1cDluQ3Y2b19j?oc=5) — AP — Headlines (Google News)
 
 ## 🏙️ Local News
+- [Amazon explains shift in position on future data center developments in Northern Va. - WTOP News](https://news.google.com/rss/articles/CBMiugFBVV95cUxNUFVTNjFvajRTWnZHOThIR010dzNxek1LZllJTFFVc3RsZTk3ek1GY3NXaml4YzRMQS1fMm5EUXhrbmJJd2FGMmFDWklrcy02LW8tNDlMX080ZWs3XzUyYzhnN1pPaDFpNTNHbjcyclN5a2RIZzU5M3Uzbzh2TUpld3B2RlNzY2hJaUZsUnJUampabVpHZTl5bHJPSDVZSEpTUU0zTHBMZkRYYXk2TndQMjM3VjI2Ui1WcGc?oc=5) — Google News — Northern Virginia
+- [Real estate giant Akelius offloads three N. Virginia apartment buildings for more than $230M - The Business Journals](https://news.google.com/rss/articles/CBMikAFBVV95cUxPRlM1ZktUMTB3SUFMRzNBYmlyVEh0MU1qWVI4VVNfa3U2UXlleVp5anFaTERCMlJZS1YtTGw4VVh1U092MmJGZjBlNThsWnh6TUpSMUp6TGNzaFFSdDJRM3ZyLTRqRTd3alNtdHBnbmsxZC1fTERmYkJhR2w5eEVnLUxpVUFteXcwaDR4STc5MDc?oc=5) — Google News — Northern Virginia
+- [Investing in the Future of Jewish Northern Virginia: Meet Federation’s Third Leadership Cohort - Jewish Federation of Greater Washington](https://news.google.com/rss/articles/CBMiugFBVV95cUxQZlh6ZnBlR3JMNnM3X3RkZThzX3pBMGFlZ3h6R3EwUU1NSDNuVkpmdlNteDRJbmhxdmhtVVZjZFJNZktucW51RndoRmJjRHpCcGRwZGFZeU1MalR0V2dodXVJNVVtemgzd2xDUEk0Nk9sZ3VVeUVkdkdxR0FaeTFib3A1dGpHd1FjS2RtM0J3RFBYMGhyc2RZMUtWYXd4ZGUyNUNhQnVmaEhEX21KRGhLMElVLTgwZXkzdHc?oc=5) — Google News — Northern Virginia
+- [Reston Couple, Inova Honored by Community Foundation for Northern Virginia - Northern Virginia Magazine](https://news.google.com/rss/articles/CBMivwFBVV95cUxQa0ZOd3d1MFdLTG1EMHBuRUFLS2pnMFkwYVJYUk52ZVFrcG4wVXdmeGF4dlMzcnEzRmdaMUxza2txc2JZbEJuTklndkJuV1JYR3JmUkwyNmFoUDJienhSdWRmMWpIbWU0YkhBdW5qWmFNYkFFdWktQXlZUDRqLVR4VXM5dlFTaTl5VFA4SlVtejY4TUhVT1U5Y3dqWDNnYmJLYlNGNmMwbVF0Yk1nbWNCdTlMVmxYcWFicWF3MmRXYw?oc=5) — Google News — Northern Virginia
 - [Amazon cancels plan for data centers in Loudoun County, donates land - The Washington Post](https://news.google.com/rss/articles/CBMivgFBVV95cUxNXzBsaFpHTHYtSTd1RWVXS0pPSHB6amo2NUhOWkNNUHlTMlRJTTR5aUhKSGRKZm1JcjFkSWdwbWlmYy1vTlBfb0hwS1NVSlFhZFhURU1LQ0Y0dC1PeWNMZFdQYWNFYzQyWmRrR0txNFRjbHFvOHllc0RiVzJWdFF0X2ZZcVBISU5OWmNIdEFwUzlWOWlqdlV5YjBCdW40cHBoYUNGbmY3OGdiWUd5dWtSSGVRT3lzVFVvZ1ZsR3FB?oc=5) — Google News — Northern Virginia
-- [Local leaders wary of state legislature’s push to consolidate N. Va. bus systems - FFXnow](https://news.google.com/rss/articles/CBMisgFBVV95cUxORzJMRHY1VVFRM21vXzlpLXhuVFJyRlpTMjZlZnJiem5BRmtOUk5CczRQY2VaRGdzdzVIbzdKMGZSSnhCcExBRm05a2FUOW54eWhzMlVyNl9CMzhHTzZzX1JYby1MNTBUUElUa3ZvOE8wQVZZLURaRDVPSV95SUVnbXlEMER5SjJ0amNmY1dtWG1GUlEtUlVPdV96R2RMYkFCYmVXRWctWk9zSzlrM3gwdTNB?oc=5) — Google News — Northern Virginia
-- [Fairfax County barricade response ends safely after 22 hours - WUSA9](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNZHp5XzdFY004d0gyTGctY1BEZ3lWYkpHTHAxandJa0xEMUFMTlp2V2oyWWk5eXp1QWxJMXkxUnlxQmFzck1MMFJwRFE5a2xLczNMYlpOX0hQemlnWTZ6cGFQajF4NllfM0VPaG1WcEJSanNsYjdKR1AyTEFVNDV3Mkg1UlA0aUZjOHdaeFhKWkw1eS1ldFJKcDFhRVpLNERsaXRxMHgzVWtEWUdSVmdBZFczUTdtX3Z0RENRcnNjWTRZYklPYkZCcg?oc=5) — Google News — Northern Virginia
-- [Customizable furniture store opens first Virginia location in Fairfax Corner - FFXnow](https://news.google.com/rss/articles/CBMisAFBVV95cUxNWllSbkU2RFF1MzMyQVJKRXRyTmNNZnJDTVhxMG44RGNGZmY1WGFtMldCMUtBeElKdUJNcTBrV1NITlppUkM4N2hqbFFna3hqQXZhMVpodkxkOFBTQTZxTWpjOHFkd3hoaGVKeUhZY1oyN2REdm9SMjZXUEJnaTRkSlp3dHNJVjhOU19ra3pKbkNKXzFuZ1h1eTFJQjJiNkxHNG15a0FNWU1vWUlyMGRvVA?oc=5) — Google News — Northern Virginia
-- [More than 2,600 Virginia crime lab cases sent for new review and more headlines - Virginia Mercury](https://news.google.com/rss/articles/CBMiugFBVV95cUxOZEJJTlhiWWU1VDR3YlRlYnB3akJua1ZKbGVGaVZaeWVmM3dncl9UVWFnT2VJTnItdVJFcUdTNVZ1bE1Ja1dMOVJEb0N5TWJlNFcxLXhsR0c3OUtvRG42VmpiT2tJRGdfSmlwY1dmR3hRdGJJRnhwQnd5NTNHNEF0Y0pvLUR3RjRxVFFHUW0wbldCTHdYNDlnT3BwRV9PQ3YtZ1NYT2NIWEpicHl6amdqcjRsLWlRaEZzeFE?oc=5) — Google News — Northern Virginia
 
 ## 🚀 Hacker News (Top 5)
 - [Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor](https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/) — 562 points, 183 comments
@@ -34,19 +34,9 @@ Global coverage includes Firefighters and public 'knowingly put at risk' during 
 - **2012** — Cyclist Lance Armstrong is formally stripped of his seven Tour de France titles after being charged for doping.
 
 ## 🎲 Wikipedia — Random Article
-**Robic (surname)**  
-Robic or Robič is the surname of the following people:
-
-Antony Robic (born 1986), French football midfielder
-Geneviève Robic-Brunet (born 1959), Canadian road racing cyclist
-Ivo Robić (1923–2000), Croatian singer and songwriter
-Jean Robic (1921–1980), French road racing cyclist
-John Robic (born 1963), American basketball coach
-Jure Robič (1965–2010), Slovenian cyclist and soldier
-Mylène Dinh-Robic (born 1979), Canadian actress
-Sašo Robič (1967–2010), Slovenian alpine skier
-Xavier Robic (born 1979), French actor
-https://en.wikipedia.org/wiki/Robic_(surname)
+**J. Y. T. Greig**  
+He was born in Manchuria where his father was a Presbyterian missionary. His 1931 biography of Hume won the James Tait Black Award, and he also edited Hume's letters.
+https://en.wikipedia.org/wiki/J._Y._T._Greig
 
 ## 🌌 NASA APOD
 [The First Green Star, WD J1330+6435](https://science.nasa.gov/image-article/apod-2026-october-22-the-first-green-star-wd-j13306435/)
@@ -77,4 +67,4 @@ https://en.wikipedia.org/wiki/Robic_(surname)
 - **Wikipedia — Random**: ok (1 articles)
 - **NASA — APOD**: ok (1 articles)
 
-<sub>Runs so far today: 2</sub>
+<sub>Runs so far today: 3</sub>
