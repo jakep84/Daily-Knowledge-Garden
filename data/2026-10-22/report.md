@@ -1,21 +1,21 @@
 # Daily Knowledge Garden — 2026-10-22
 
 ## 🧭 Daily Summary
-Global coverage includes Teacher in Oregon shooting said she pretended to be dead to survive; Barclays cutting 5,000 jobs as it increases reliance on AI; US weekly jobless claims near 57-year lows amid low layoffs - Reuters. Local coverage includes Fairfax County barricade response ends safely after 22 hours - WUSA9; Customizable furniture store opens first Virginia location in Fairfax Corner - FFXnow.
+Global coverage includes Firefighters and public 'knowingly put at risk' during summer wildfires; Ebola patient in Nigeria believed to have contracted disease in Uganda, Switzerland says - Reuters; Zuckerberg wins Meta deal to help him foot bill for possible California billionaire tax. Local coverage includes Amazon cancels plan for data centers in Loudoun County, donates land - The Washington Post; Local leaders wary of state legislature’s push to consolidate N. Va. bus systems - FFXnow.
 
 ## 🌍 Global News (cross-source)
-- [Teacher in Oregon shooting said she pretended to be dead to survive](https://www.bbc.co.uk/news/articles/cqvgrmzdzgr7o?at_medium=RSS&at_campaign=rss) — BBC — World
-- [Barclays cutting 5,000 jobs as it increases reliance on AI](https://www.bbc.co.uk/news/articles/cm4g1p347qgxo?at_medium=RSS&at_campaign=rss) — BBC — Business
-- [US weekly jobless claims near 57-year lows amid low layoffs - Reuters](https://news.google.com/rss/articles/CBMikAFBVV95cUxPY1lNaWxpcFZmNGx5cEFsQ25QUUNuM0ZkVzJXaGdxdDRFdXNpNGVyYlhhV3JLcnpoMHJKLTZhMWduY0hQYXFPM2xBRjl5TF8xaXAyNU40UUtnTl94TDl3eUVjSHlleXBtenZHVDNpUmw5LUxRMDJNNzF2VVlxYmVodVpWUE5PWEdtVHRSZmdzR2w?oc=5) — Reuters — Headlines (Google News)
-- [Greetings from the Brazil-Argentina border, where waterfalls are flowing at near-record rates](https://www.npr.org/2026/10/22/g-s1-148553/argentina-brazil-iguazu-falls-waterfalls-super-el-nino) — NPR — Top Stories
-- [Wall St opens lower as AI jitters return, oil rises - Reuters](https://news.google.com/rss/articles/CBMipgFBVV95cUxNTWxDZDg5X0padGNvb2k2V2ZkX2tEWW9YWkdjeVdMZHNUTlg1MXY4TmUyTDZHdUhNTHFRNWRPRjc2VFlEN3RXTDhNSjhDYmRfTWZGXzdKYXdLejRHNGgwRVdNbmZRUkFhSm9GakxMek56UUZ2OUtqajd6NVkzRkR1VzBNWlo5VWp5NUFkX2phUjlSSFlndUlNNGxvUXlHSm1wMlpTbkRR?oc=5) — Reuters — Business (Google News)
+- [Firefighters and public 'knowingly put at risk' during summer wildfires](https://www.bbc.co.uk/news/articles/cqvgjk3j0j9wo?at_medium=RSS&at_campaign=rss) — BBC — Science
+- [Ebola patient in Nigeria believed to have contracted disease in Uganda, Switzerland says - Reuters](https://news.google.com/rss/articles/CBMi3wFBVV95cUxQV0FDN3RkbzZGdXBNaHpWZHZRd2h5dUVnSzlYQlNDU3dCN0RsUUhqblZXcjVzLUJzNTJtZjJGRjNRY0NwejZyc0Y4MG84cUxaUTNjc0djN3gwa3ZYaGN6d20yWkFmS09sUW94TGo3WGpTTGNLQW9YejI3Y3hMbDJjbXA4dEd5dGphRzlNdkF6T0ZMMjRycm1CWUxRLWd6QUUyYmtYcHRKY21KSzl1bmRJZmNBS0trMVgzcVJnVkQxTURqR1FuRzJjeFJ2ZEx3ak9FTDRBX2NlbzlPWVg4SW93?oc=5) — Reuters — Business (Google News)
+- [Zuckerberg wins Meta deal to help him foot bill for possible California billionaire tax](https://www.bbc.co.uk/news/articles/cky83vwnyglno?at_medium=RSS&at_campaign=rss) — BBC — World
+- [Ecuadorean opposition leader Gonzalez arrested over alleged irregularities in campaign financing - Reuters](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOekc5RFQwV1A4eXplNlFEc0R2YTBXdzVZd0d5T0hqRzI3Y3A0bnhHa0JuT2xRcEg3NTBXajdRNlBtNkZjOGVFUEJkanJsSDJZZlFpQWJHNUhDUnpJUXIwQTFtaXdsSzZqcVIwWktNM3d5YVljZllXMmRCQkpaR2dRV0tkVVQ3Szgxa1NIWDFjdkctRWhVY2w1dTZqUFRkZnp1UkxaNktGUnJXUQ?oc=5) — Reuters — Headlines (Google News)
+- [Powerful Democratic Virginia state Sen. Lucas is accused of leading a marijuana criminal conspiracy - AP News](https://news.google.com/rss/articles/CBMirAFBVV95cUxQWV9EN19IUDB3X3ROUy1MNUhvTnh1cUdDMHJQeWhhLVBWTnpiNXhSQkV6a24xdWF5SXVmN184c3UwZFVzc3pOMWpOb25PZkZFbzY4LThoamJBSXJZRFBnR0hUWFBBMk5pOTUzLVFkc3BDcFhUVS1JcHROdmUtN0Q4RFh3cDVPNjRFNHM5WHFUYkZzdE9jTWt0ZW5KMTY5MXRpVms1cDluQ3Y2b19j?oc=5) — AP — Headlines (Google News)
 
 ## 🏙️ Local News
+- [Amazon cancels plan for data centers in Loudoun County, donates land - The Washington Post](https://news.google.com/rss/articles/CBMivgFBVV95cUxNXzBsaFpHTHYtSTd1RWVXS0pPSHB6amo2NUhOWkNNUHlTMlRJTTR5aUhKSGRKZm1JcjFkSWdwbWlmYy1vTlBfb0hwS1NVSlFhZFhURU1LQ0Y0dC1PeWNMZFdQYWNFYzQyWmRrR0txNFRjbHFvOHllc0RiVzJWdFF0X2ZZcVBISU5OWmNIdEFwUzlWOWlqdlV5YjBCdW40cHBoYUNGbmY3OGdiWUd5dWtSSGVRT3lzVFVvZ1ZsR3FB?oc=5) — Google News — Northern Virginia
+- [Local leaders wary of state legislature’s push to consolidate N. Va. bus systems - FFXnow](https://news.google.com/rss/articles/CBMisgFBVV95cUxORzJMRHY1VVFRM21vXzlpLXhuVFJyRlpTMjZlZnJiem5BRmtOUk5CczRQY2VaRGdzdzVIbzdKMGZSSnhCcExBRm05a2FUOW54eWhzMlVyNl9CMzhHTzZzX1JYby1MNTBUUElUa3ZvOE8wQVZZLURaRDVPSV95SUVnbXlEMER5SjJ0amNmY1dtWG1GUlEtUlVPdV96R2RMYkFCYmVXRWctWk9zSzlrM3gwdTNB?oc=5) — Google News — Northern Virginia
 - [Fairfax County barricade response ends safely after 22 hours - WUSA9](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNZHp5XzdFY004d0gyTGctY1BEZ3lWYkpHTHAxandJa0xEMUFMTlp2V2oyWWk5eXp1QWxJMXkxUnlxQmFzck1MMFJwRFE5a2xLczNMYlpOX0hQemlnWTZ6cGFQajF4NllfM0VPaG1WcEJSanNsYjdKR1AyTEFVNDV3Mkg1UlA0aUZjOHdaeFhKWkw1eS1ldFJKcDFhRVpLNERsaXRxMHgzVWtEWUdSVmdBZFczUTdtX3Z0RENRcnNjWTRZYklPYkZCcg?oc=5) — Google News — Northern Virginia
 - [Customizable furniture store opens first Virginia location in Fairfax Corner - FFXnow](https://news.google.com/rss/articles/CBMisAFBVV95cUxNWllSbkU2RFF1MzMyQVJKRXRyTmNNZnJDTVhxMG44RGNGZmY1WGFtMldCMUtBeElKdUJNcTBrV1NITlppUkM4N2hqbFFna3hqQXZhMVpodkxkOFBTQTZxTWpjOHFkd3hoaGVKeUhZY1oyN2REdm9SMjZXUEJnaTRkSlp3dHNJVjhOU19ra3pKbkNKXzFuZ1h1eTFJQjJiNkxHNG15a0FNWU1vWUlyMGRvVA?oc=5) — Google News — Northern Virginia
 - [More than 2,600 Virginia crime lab cases sent for new review and more headlines - Virginia Mercury](https://news.google.com/rss/articles/CBMiugFBVV95cUxOZEJJTlhiWWU1VDR3YlRlYnB3akJua1ZKbGVGaVZaeWVmM3dncl9UVWFnT2VJTnItdVJFcUdTNVZ1bE1Ja1dMOVJEb0N5TWJlNFcxLXhsR0c3OUtvRG42VmpiT2tJRGdfSmlwY1dmR3hRdGJJRnhwQnd5NTNHNEF0Y0pvLUR3RjRxVFFHUW0wbldCTHdYNDlnT3BwRV9PQ3YtZ1NYT2NIWEpicHl6amdqcjRsLWlRaEZzeFE?oc=5) — Google News — Northern Virginia
-- [Dorothy Dickerson Obituary (2026) - Edinburg, VA - Northern Virginia Daily - Legacy | Obituary](https://news.google.com/rss/articles/CBMikgFBVV95cUxNX0IyX1c3enFaUWo5SW9uY212Z0tPNVNUMUhhdjhmbEd2OXZXWW5jYTVIMG1qdGZIMWJzV21BTU8wZGlfSUNBdWxCRE1Fc2c0TnhTVlJnc1hVVXRFeU90MEkyYnBleXN1V0I4NUt4a0FjZ0h6UmQwYld5Zkc1b19RVzhfY2tpYWxQUVdYZEd1aWVxUQ?oc=5) — Google News — Northern Virginia
-- [Four Alexandria Restaurants Make Northern Virginia Magazine’s 50 Best List for 2026 - Alexandria Living Magazine](https://news.google.com/rss/articles/CBMivwFBVV95cUxQZ1FQZEFhSlprdXU2WXoxQmRLSmphREtfV2t6dXgzclZJNktMR1BaMmpPaUtGMWdmS29OZktKREt3M2pMUmdOc1d4enFWZFY0RnlkZmJXUUlVSmhNMFh0UmtRTGR2MFR2WjVMdTF6ODhNc09UNmVYZm9SdkZ5dlJ0M0lsX2hsT3RqNnJkNDJ4QkJfR2JlcGxEZDBzemE2eWpyVjhtLVE5Ukd6VGRJSnNtX0dXUXR4bXpjYVVfU2R0cw?oc=5) — Google News — Northern Virginia
 
 ## 🚀 Hacker News (Top 5)
 - [Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor](https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/) — 562 points, 183 comments
@@ -34,9 +34,19 @@ Global coverage includes Teacher in Oregon shooting said she pretended to be dea
 - **2012** — Cyclist Lance Armstrong is formally stripped of his seven Tour de France titles after being charged for doping.
 
 ## 🎲 Wikipedia — Random Article
-**Seán Carrabine**  
-A midfielder, he scored a goal away to New York in the 2022 Connacht Senior Football Championship; Sligo won the game by four points, with Carrabine's goal worth three. He helped Sligo past Leitrim and into Croke Park in the 2022 Tailteann Cup and was named on the Team of the Week afterwards.
-https://en.wikipedia.org/wiki/Se%C3%A1n_Carrabine
+**Robic (surname)**  
+Robic or Robič is the surname of the following people:
+
+Antony Robic (born 1986), French football midfielder
+Geneviève Robic-Brunet (born 1959), Canadian road racing cyclist
+Ivo Robić (1923–2000), Croatian singer and songwriter
+Jean Robic (1921–1980), French road racing cyclist
+John Robic (born 1963), American basketball coach
+Jure Robič (1965–2010), Slovenian cyclist and soldier
+Mylène Dinh-Robic (born 1979), Canadian actress
+Sašo Robič (1967–2010), Slovenian alpine skier
+Xavier Robic (born 1979), French actor
+https://en.wikipedia.org/wiki/Robic_(surname)
 
 ## 🌌 NASA APOD
 [The First Green Star, WD J1330+6435](https://science.nasa.gov/image-article/apod-2026-october-22-the-first-green-star-wd-j13306435/)
@@ -67,4 +77,4 @@ https://en.wikipedia.org/wiki/Se%C3%A1n_Carrabine
 - **Wikipedia — Random**: ok (1 articles)
 - **NASA — APOD**: ok (1 articles)
 
-<sub>Runs so far today: 1</sub>
+<sub>Runs so far today: 2</sub>
