@@ -1,14 +1,14 @@
 # Daily Knowledge Garden — 2026-10-23
 
 ## 🧭 Daily Summary
-Global coverage includes France mounts major security operation for fresh wave of protests - Reuters; Six shot dead by gunmen at church funeral in Jordan, officials say; Weather warnings in place ahead of Storm Boelo. Local coverage includes Arlington leaders oppose proposal to merge N. Va. bus systems - ARLnow; Amazon bows to local backlash over AI data centers, scraps plans to build four new facilities in Northern Virginia — site to be repurposed for mixed-use and residential development. - Tom's Hardware.
+Global coverage includes Deadly shooting near Paris is a 'racist terrorist attack', Macron says; Trump says he ordered the Justice Department’s lawsuit over Alaska’s US Senate race - AP News; Thousands without power and travel disruption as Storm Austen batters southern UK. Local coverage includes Arlington leaders oppose proposal to merge N. Va. bus systems - ARLnow; Amazon bows to local backlash over AI data centers, scraps plans to build four new facilities in Northern Virginia — site to be repurposed for mixed-use and residential development. - Tom's Hardware.
 
 ## 🌍 Global News (cross-source)
-- [France mounts major security operation for fresh wave of protests - Reuters](https://news.google.com/rss/articles/CBMitgFBVV95cUxOZkg2U21rX0FPY3pMbWlwRW5TYmJ1OEVLUUFpWGE0NG1ud3JCTkEzSzVaaGJDOGs3UFdOcDFnX0NBMTI3YWtQLXRrWjFkV3YxdWlGNnI2LVNoLWpkQ0Z6QjBoNUVXYkNRcG9KWm0tcmJKbExKaWtXYTNuSGdMZ0l4MzQxQlZmcGhiVWxpOG1lX0t1c2wzUUpYd0QzbXl3RkxZbDl5cWI4Ry16dmZYbHhqZHVUaEIyUQ?oc=5) — Reuters — World (Google News)
-- [Six shot dead by gunmen at church funeral in Jordan, officials say](https://www.bbc.co.uk/news/articles/ck87zlpzny15o?at_medium=RSS&at_campaign=rss) — BBC — World
-- [Weather warnings in place ahead of Storm Boelo](https://www.bbc.co.uk/news/articles/c83vqn2x54v1o?at_medium=RSS&at_campaign=rss) — BBC — Science
-- [Melania Trump secures Oleshky ceasefire between Russia, Ukraine, White House says - Reuters](https://news.google.com/rss/articles/CBMixwFBVV95cUxQZkVOVkZPUnl6Z2d6SWt4cWJDOUNrSW5Fdmt6WXVUTXJMRXFCMXVVSWRZUWNHUXc3Nk1MZHlLNGVhVzNRMWdsSzByUmtHWFh4YzNRVjVlT2dCbjh5Um13c0kxT2pENE1zS3hmbi15T1FEcHl1SWgwNFVIZTdYaW1LdktVZjVVeUIxOTEzUlZZZnQzVmpSdGd6d0lyTXNjWGUtZERkVXM5N0VZeFhTamI3VGRSeXFqUlJNbU81c2VlcGlrQ01MU1VR?oc=5) — Reuters — Headlines (Google News)
-- [Electric stoves could help people with asthma breathe easier](https://www.sciencenews.org/article/asthma-symptoms-electric-stove-gas) — ScienceNews
+- [Deadly shooting near Paris is a 'racist terrorist attack', Macron says](https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo?at_medium=RSS&at_campaign=rss) — BBC — World
+- [Trump says he ordered the Justice Department’s lawsuit over Alaska’s US Senate race - AP News](https://news.google.com/rss/articles/CBMitAFBVV95cUxNY2lwdVh1SXlFeWVFaFRvNGN6a0dUaVV1b0diS0ZvaXhmYWJRR3JVYmRudTdhRmg0V18wYVVvenVWaUJJLTRBRkFkZXhIbEdYcHFGOXZiQ1JUMGRadHRMclMxdG9GTE5rTnBlVVoxbUdNM3VuZ0pkN2REZ2hKYWxVcDNubW9ESVMyQmVtS3doVUNLRTk4a1ZBT1hKTVNoT1Qta2U4V28tMW9KaTdpcUI3bDhPYjk?oc=5) — AP — Headlines (Google News)
+- [Thousands without power and travel disruption as Storm Austen batters southern UK](https://www.bbc.co.uk/news/articles/cxj0l193y0l8o?at_medium=RSS&at_campaign=rss) — BBC — Science
+- [Ex-FBI officials charged with lying to Congress about Hunter Biden probes - Reuters](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOeTdPQ3dYU0R5ODhPalRCbE5Cd1FvcTI4aUl5YUJsR2NLM2ROZVNfT2VUS1dKUWtROW9TQkhkQUtFOEtndlUzRElrcWVfU0lHUU0xTFpGTUFLQWlwNklldWVZZDRsWHE3RGF4YUVjU2F0bDR0M0pfMktZRjItX0Q0cVhMLV9RWUpZbkhBYkp5VnZqUW0yUXJWeXdfQ0xBV3ZTdll4bW5jT1ZZOGVCcTdRX09NeUtkZGdxcW9KNFZ4ZWc?oc=5) — Reuters — Headlines (Google News)
+- [Ohio could decide control of the Senate. Its rural voters might decide the winner](https://www.npr.org/2026/10/23/nx-s1-6012809/ohio-senate-governor-election-rural-voters) — NPR — Top Stories
 
 ## 🏙️ Local News
 - [Arlington leaders oppose proposal to merge N. Va. bus systems - ARLnow](https://news.google.com/rss/articles/CBMimgFBVV95cUxPbFBGSThGQjVCZk82dW5VZFM1cFJZb0FpUTRrb2Nac0hvWkhZVWFnNi1wQ1RXZXZJMXhENUtQNjMtUVRSSzk0Z1A4dTM1ZFJVV1JHQW53NUZrX2NZcnoyc2dTbWg3MEJyRzlNSEZaV2RxN3UwVHh0ZGVmN1VUb3lFUDJMT3NyRDBTQy1lVURnckFPTnVtQ0tTU2Zn?oc=5) — Google News — Northern Virginia
@@ -34,9 +34,9 @@ Global coverage includes France mounts major security operation for fresh wave o
 - **2015** — The lowest sea-level pressure in the Western Hemisphere, and the highest reliably-measured non-tornadic sustained winds, are recorded in Hurricane Patricia, which strikes Mexico hours later, killing at least 13 and causing over $280 million in damages.
 
 ## 🎲 Wikipedia — Random Article
-**Mamayev Kurgan**  
-Mamayev Kurgan (Russian: Мама́ев курга́н) is a hill and memorial complex overlooking the city of Volgograd (formerly Stalingrad) in Southern Russia. The battle, a hard-fought Soviet victory over Axis forces on the Eastern Front of World War II, turned into the bloodiest battle in human history.
-https://en.wikipedia.org/wiki/Mamayev_Kurgan
+**Cascais Municipal Aerodrome**  
+Lisbon Cascais-Tejo Regional Airport (Cascais Municipal Aerodrome), also known as Tires Aerodrome (Portuguese: Aeródromo de Tires/Aeródromo Municipal de Cascais) (IATA: CAT, ICAO: LPCS) is a regional airport, situated near the village of Tires, in the civil parish of São Domingos de Rana, in the Portuguese municipality of Cascais, approximately 12 km (7.5 mi) northeast of town of the same name in the Greater Lisbon subregion.
+https://en.wikipedia.org/wiki/Cascais_Municipal_Aerodrome
 
 ## 🌌 NASA APOD
 [Andromeda in Southern Spring](https://science.nasa.gov/image-article/apod-2026-october-23-andromeda-in-southern-spring/)
@@ -67,4 +67,4 @@ https://en.wikipedia.org/wiki/Mamayev_Kurgan
 - **Wikipedia — Random**: ok (1 articles)
 - **NASA — APOD**: ok (1 articles)
 
-<sub>Runs so far today: 1</sub>
+<sub>Runs so far today: 2</sub>
