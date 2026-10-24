@@ -1,14 +1,14 @@
 # Daily Knowledge Garden — 2026-10-24
 
 ## 🧭 Daily Summary
-Global coverage includes Trains cancelled and road warnings as Scotland prepares for Storm Boelo; North Korean leader Kim Jong Un visits China to inaugurate a new cross-border bridge - AP News; Ukraine says Starlink connection 'now stable' after network limits. Local coverage includes Infantino says he's supported by 'vast, vast majority' of soccer ahead of FIFA elections - The Northern Virginia Daily; Northern Virginia high school football scores for Oct. 23 - InsideNoVa.
+Global coverage includes Two rescued after Nairobi building collapse with five still missing; Houthis say they attacked Saudi oil sites, strikes reported on Yemen's Aden - Reuters; Sporadic violence flares as hundreds of thousands protest in France - Reuters. Local coverage includes Infantino says he's supported by 'vast, vast majority' of soccer ahead of FIFA elections - The Northern Virginia Daily; Northern Virginia high school football scores for Oct. 23 - InsideNoVa.
 
 ## 🌍 Global News (cross-source)
-- [Trains cancelled and road warnings as Scotland prepares for Storm Boelo](https://www.bbc.co.uk/news/articles/c60qk5lw1z8wo?at_medium=RSS&at_campaign=rss) — BBC — Science
-- [North Korean leader Kim Jong Un visits China to inaugurate a new cross-border bridge - AP News](https://news.google.com/rss/articles/CBMimwFBVV95cUxPX0I1TVQybGpFam8xeDVVN1NTdVFha1Q3Und2cjhZbHJnMG1CekZFTWEyMXI2VFNTVHF0MlF5ekIxM3plalZMVU9jVjZHanE2WnozM2xQN2x6WDA2NHh1NUVXRXIwZ2JVczFsQjZ5aXY2VU9tRk1kRWg2bDZpSlJKVzVFaVlhOFc0N0pnOUp0cWVwREY0b1JlZ2xSbw?oc=5) — AP — Headlines (Google News)
-- [Ukraine says Starlink connection 'now stable' after network limits](https://www.bbc.co.uk/news/articles/cwkg5md14j8go?at_medium=RSS&at_campaign=rss) — BBC — World
-- [France mounts huge security operation as protesters prepare to march - Reuters](https://news.google.com/rss/articles/CBMisAFBVV95cUxOMDZFRzVKWWJMOFp4eGNjbVdnZ1pCd3hVNTdMSWdiaU9uSGxZTi1zZW1DR3JvbjBfZTJIMnF3LVBMMXpWQjI0V1BfTWtFYUZkVWtXc0VmZEZyVWRHU3c3aHFwRm9fN0ZFMTRIaC16ZmhOeTFrRXBsdmpwWXVtRVVCd09ONkp3bFB5QWVRWjlBSmJqbHphYnBiLS0yaVZfRWpxdVAxSGRqYUI4YTBEX2pZeA?oc=5) — Reuters — Headlines (Google News)
-- [Ukraine says Starlink back to normal after week of throttling - Reuters](https://news.google.com/rss/articles/CBMivgFBVV95cUxPVklsWE9QVlFHcHRES2xGTXNTVEtudENYZTR6aFRMZmVuaENzXzBCb0twTjdadFhWY3V3Nkw4aWZTLVJmYjF4OTVmR0haOERYVGlFSFB0a1lsQUUyVDM2UF9lZ3QyeTJ3QzVGN0J0eEF5UEsyanhKaUNHZmpaZnA1eVFsWkVKdHhkdVJjTWZrSGtHOHN0aC1JN0JkbTByTE1vaG5vc2dPWUswNkZxYTN3aFV2WkJZbVlwNlJtZU1R?oc=5) — Reuters — Headlines (Google News)
+- [Two rescued after Nairobi building collapse with five still missing](https://www.bbc.co.uk/news/articles/c317kxyknwp2o?at_medium=RSS&at_campaign=rss) — BBC — World
+- [Houthis say they attacked Saudi oil sites, strikes reported on Yemen's Aden - Reuters](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNU1JpTkpxd3RUSFgwb29mWkRuSmg5UFd5d1RMQkZMdE5tV3F4cEN6SXFOODhTQUZTbTZucHJGVnpxMWpGZVFuSXJzZ045Q0o1Uzh5NFNvVENFX1M2dFQ0NzRGYjUtWk9TYjBWcldGNS1hY21yS2IyOXBsX29hcFg5N2ZENUlIV2oyTE1OT3hJQUFaS1pjTHV3VnZUTkRWbVFnd0JqYV9iZmVwUW4xcGNVOUdUZmgtaWpkVGdsVzJ1SXR1U1hyWG5uWg?oc=5) — Reuters — World (Google News)
+- [Sporadic violence flares as hundreds of thousands protest in France - Reuters](https://news.google.com/rss/articles/CBMisAFBVV95cUxOMDZFRzVKWWJMOFp4eGNjbVdnZ1pCd3hVNTdMSWdiaU9uSGxZTi1zZW1DR3JvbjBfZTJIMnF3LVBMMXpWQjI0V1BfTWtFYUZkVWtXc0VmZEZyVWRHU3c3aHFwRm9fN0ZFMTRIaC16ZmhOeTFrRXBsdmpwWXVtRVVCd09ONkp3bFB5QWVRWjlBSmJqbHphYnBiLS0yaVZfRWpxdVAxSGRqYUI4YTBEX2pZeA?oc=5) — Reuters — Headlines (Google News)
+- [More than 400,000 protest across France, challenging Macron as Paris clashes erupt - AP News](https://news.google.com/rss/articles/CBMikgFBVV95cUxPWFhXb1VmdWxKRzJmZnRpSGpJTk40b3JoTldmR0FjTW9nWWxibmNBOTJCN1NNa1IyenIycmtueTVnVHhaR19YOUU3TkE2ODBHRFFlRWdDYVZzVWY0MVlqV0dTOHlkaTdEbmxkdnFNMnJicVFjSkhYUVdOaGFYYU5jVEQ5VEhRUU5tWlJjZ1pzOE5GQQ?oc=5) — AP — Headlines (Google News)
+- ['Wait Wait' for October 24, 2026: With Not My Job guest Daniel Vosovic](https://www.npr.org/2026/10/24/g-s1-149583/wait-wait-for-october-24-2026-with-not-my-job-guest-daniel-vosovic) — NPR — Science
 
 ## 🏙️ Local News
 - [Infantino says he's supported by 'vast, vast majority' of soccer ahead of FIFA elections - The Northern Virginia Daily](https://news.google.com/rss/articles/CBMikgJBVV95cUxQTk5fVUExeDlZTnBIdWlvQVc0UC1CVERjd2pRRDEtUW9pbllBTkFCNjltLWhaUzMxcFVpTzVZYlVvb05WU1BlSXlsOElWZ1pGUjdUcng1bktRLXRQYkhEa1R4bTRXbklNcEYzeWFfYlhXcV9UVjU0eGV5X2h1dzVZbXd4TjFaVEhnbGI0ZEQtRVpWS051UTlOOTZlN2JYSHEzb1oxZS1DZG9VQ1ZrXzJLdjBPYzlOSkZmZS1xX1Joa3lLQjVtaG5oSjJselJ4Z1hpdmNmMHV4MDNhTTlPaGktZG5FZDg3enljRFgwU3l1QTRLcFFKQXVFdmp4aUh1VUFzSU1CQ2pzVnZyaUpGLVpkb2dB?oc=5) — Google News — Northern Virginia
@@ -34,9 +34,9 @@ Global coverage includes Trains cancelled and road warnings as Scotland prepares
 - **2015** — A driver deliberately crashes into the Oklahoma State Homecoming parade, killing four people and injuring 34.
 
 ## 🎲 Wikipedia — Random Article
-**Mangue Seco**  
-Mangue Seco is a beach village in Jandaíra, Bahia, Brazil. It is famous in Brazil because of a soap-opera (telenovela) adaptation of the novel Tieta do Agreste, by the Brazilian writer Jorge Amado, which was shot on its white beaches in 1996.
-https://en.wikipedia.org/wiki/Mangue_Seco
+**Shades of Sorrow**  
+Shades of Sorrow is the second studio album by Brazilian death metal band Crypta. It is the only studio album to feature guitarist Jéssica di Falchi, who left on March 10, 2025.
+https://en.wikipedia.org/wiki/Shades_of_Sorrow
 
 ## 🌌 NASA APOD
 [Rosetta's Selfie](https://science.nasa.gov/image-article/apod-2026-october-24-rosettas-selfie/)
@@ -56,7 +56,7 @@ https://en.wikipedia.org/wiki/Mangue_Seco
 - **NPR — Politics**: ok (10 articles)
 - **NPR — Business**: ok (10 articles)
 - **NPR — Science**: ok (10 articles)
-- **NPR — Technology**: error (0 articles) — ReadTimeout: HTTPSConnectionPool(host='feeds.npr.org', port=443): Read timed out. (read timeout=20)
+- **NPR — Technology**: ok (10 articles)
 - **ScienceNews**: ok (15 articles)
 - **ScienceDaily — Top**: ok (15 articles)
 - **Nature — Technology**: ok (15 articles)
@@ -67,4 +67,4 @@ https://en.wikipedia.org/wiki/Mangue_Seco
 - **Wikipedia — Random**: ok (1 articles)
 - **NASA — APOD**: ok (1 articles)
 
-<sub>Runs so far today: 1</sub>
+<sub>Runs so far today: 2</sub>
