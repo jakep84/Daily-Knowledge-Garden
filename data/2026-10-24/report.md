@@ -1,21 +1,21 @@
 # Daily Knowledge Garden — 2026-10-24
 
 ## 🧭 Daily Summary
-Global coverage includes Two rescued after Nairobi building collapse with five still missing; Houthis say they attacked Saudi oil sites, strikes reported on Yemen's Aden - Reuters; Sporadic violence flares as hundreds of thousands protest in France - Reuters. Local coverage includes Infantino says he's supported by 'vast, vast majority' of soccer ahead of FIFA elections - The Northern Virginia Daily; Northern Virginia high school football scores for Oct. 23 - InsideNoVa.
+Global coverage includes Archdiocese of New York agrees to $800 million settlement over sexual abuse claims; Trains cancelled and road warnings as Storm Boelo sweeps into Scotland; Trump administration demands county election officials identify noncitizen voters in California - Reuters. Local coverage includes The Burn celebrates 10th anniversary with books for kids fundraiser - The Burn; ~$!【LIVE@STREAMs】 Northern Virginia HomeSchool vs Harvest Covenant 𝐋𝐈𝐕𝐄 ＯＮ Ｔｖ Ｃｈａｎｎｅｌ 23 October 2026 - FC東京オフィシャルホームページ.
 
 ## 🌍 Global News (cross-source)
-- [Two rescued after Nairobi building collapse with five still missing](https://www.bbc.co.uk/news/articles/c317kxyknwp2o?at_medium=RSS&at_campaign=rss) — BBC — World
-- [Houthis say they attacked Saudi oil sites, strikes reported on Yemen's Aden - Reuters](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNU1JpTkpxd3RUSFgwb29mWkRuSmg5UFd5d1RMQkZMdE5tV3F4cEN6SXFOODhTQUZTbTZucHJGVnpxMWpGZVFuSXJzZ045Q0o1Uzh5NFNvVENFX1M2dFQ0NzRGYjUtWk9TYjBWcldGNS1hY21yS2IyOXBsX29hcFg5N2ZENUlIV2oyTE1OT3hJQUFaS1pjTHV3VnZUTkRWbVFnd0JqYV9iZmVwUW4xcGNVOUdUZmgtaWpkVGdsVzJ1SXR1U1hyWG5uWg?oc=5) — Reuters — World (Google News)
-- [Sporadic violence flares as hundreds of thousands protest in France - Reuters](https://news.google.com/rss/articles/CBMisAFBVV95cUxOMDZFRzVKWWJMOFp4eGNjbVdnZ1pCd3hVNTdMSWdiaU9uSGxZTi1zZW1DR3JvbjBfZTJIMnF3LVBMMXpWQjI0V1BfTWtFYUZkVWtXc0VmZEZyVWRHU3c3aHFwRm9fN0ZFMTRIaC16ZmhOeTFrRXBsdmpwWXVtRVVCd09ONkp3bFB5QWVRWjlBSmJqbHphYnBiLS0yaVZfRWpxdVAxSGRqYUI4YTBEX2pZeA?oc=5) — Reuters — Headlines (Google News)
-- [More than 400,000 protest across France, challenging Macron as Paris clashes erupt - AP News](https://news.google.com/rss/articles/CBMikgFBVV95cUxPWFhXb1VmdWxKRzJmZnRpSGpJTk40b3JoTldmR0FjTW9nWWxibmNBOTJCN1NNa1IyenIycmtueTVnVHhaR19YOUU3TkE2ODBHRFFlRWdDYVZzVWY0MVlqV0dTOHlkaTdEbmxkdnFNMnJicVFjSkhYUVdOaGFYYU5jVEQ5VEhRUU5tWlJjZ1pzOE5GQQ?oc=5) — AP — Headlines (Google News)
-- ['Wait Wait' for October 24, 2026: With Not My Job guest Daniel Vosovic](https://www.npr.org/2026/10/24/g-s1-149583/wait-wait-for-october-24-2026-with-not-my-job-guest-daniel-vosovic) — NPR — Science
+- [Archdiocese of New York agrees to $800 million settlement over sexual abuse claims](https://www.npr.org/2026/10/24/nx-s1-6015522/new-york-archdiocese-settlement-agreement) — NPR — Top Stories
+- [Trains cancelled and road warnings as Storm Boelo sweeps into Scotland](https://www.bbc.co.uk/news/articles/c60qk5lw1z8wo?at_medium=RSS&at_campaign=rss) — BBC — Science
+- [Trump administration demands county election officials identify noncitizen voters in California - Reuters](https://news.google.com/rss/articles/CBMixgFBVV95cUxQMmlFSUIxOVVNeTdTRWJLSGVWYUQzS3FGNEk4SVU2dmM5aS1MZThUYUc5cG85WXFnd2V6bDBFOF9zd09EREduV2lGbWJTTUhURER2R3RISWxWT3pvSWhRTVNHcFRtTUFRX0E2OU1QQjdHS2hBZ1ZnZzRYLXFLdTZTX2w2dUFQRGRZVDh1aHJuSkxSQzliZ2pqaWQ2blpEdXp5b0sxUlQyTHpPZVFGOVpQdkRmMHhtS1BiUDhYei14V04zX2s2OHc?oc=5) — Reuters — Headlines (Google News)
+- [Trump set to announce plan by Audi to build US factory in Georgia, source says - Reuters](https://news.google.com/rss/articles/CBMizwFBVV95cUxOZGx3Y2FFQnJqWm4xQzIyem5aQXhBRWU1UkwyblYyU1BTQmR5TllmeUF6aGpDYjNQZmJNZlRWZXRzTDg5dlZYUGNXalE1ajdLUzc4blptZWJVaWdqYUFWcjViR1gxazBrSXp6bHFScVBRV3hQNEpLbi1fRm1CTGlPNUMtMDJTS0gyN3lzU2lrTDZhQjFoaWZtMXQxUThHV19oNmxzTFFGNnRlMlEyb3JQeDF6dm16bE5odlEzcGZ6THBEUDVEelktZmhHV2ZSM28?oc=5) — Reuters — Headlines (Google News)
+- [Trade tariffs cause whiplash at Port Milwaukee](https://www.npr.org/2026/10/24/nx-s1-6011193/trade-tariffs-cause-whiplash-at-port-milwaukee) — NPR — Top Stories
 
 ## 🏙️ Local News
+- [The Burn celebrates 10th anniversary with books for kids fundraiser - The Burn](https://news.google.com/rss/articles/CBMiowFBVV95cUxOS05RMXNkR3lOVTQya2dYM0VZdjZlbUI5Y0J1eWxJeVRNbXI0Nm5ObUVuVkgtR0pocnJCM2tDWmZMWlA2TnQ0YmluRjlUeDRzOWNsSkl3ZUEtV1Z3SElBQU91M1NIU3J2UE9GcmFnLUlQUHd6aEVoOGNvYzNyTDVYQUdBSFlKZWVDUDh5SXd6cnBXbUczZERKZ3lTXzdRQl9mZGkw?oc=5) — Google News — Northern Virginia
+- [~$!【LIVE@STREAMs】 Northern Virginia HomeSchool vs Harvest Covenant 𝐋𝐈𝐕𝐄 ＯＮ Ｔｖ Ｃｈａｎｎｅｌ 23 October 2026 - FC東京オフィシャルホームページ](https://news.google.com/rss/articles/CBMi0AJBVV95cUxOZEFOd2J5SEx1aTRvSVhqRGpZTWVLRjcyTTNuclF4dndTVEdfNE1KSDhtYWVXWk5wbEwzLVBHWmdWQUtmMER1R19HNnJfTWh1T24yWWI2M0ItazhJUllhMkNqQnQtQi1uUW1xTEt3bFFjQ2o3eGNKbV84V2NkVGx2VnNnS0RKUWo4RG16ZUpSUG1PbS1aVmt6QThZSHE4ZWJ2UDZpWHppdWZfQncyY0FMZEZGYWItd1pQMDJzLVdKWG9LTkY4N1JPY1lpZk83SW1aMjV3dV9QREpZNlRhdjI4Z1JBQTVKZ3pzWWtUZDBPaHdvaElNSEJuTTF4OEQtc0pUVzJVZW9mQnY4OWFnUVgwd2lNZF82ODAwUTV3eXRIcjktNWw5NURiOXVONkJiUFk1SnZSRzRxNjJvLTY0MTljSmozZXVfTlZIX1VRaEJZY0k?oc=5) — Google News — Northern Virginia
 - [Infantino says he's supported by 'vast, vast majority' of soccer ahead of FIFA elections - The Northern Virginia Daily](https://news.google.com/rss/articles/CBMikgJBVV95cUxQTk5fVUExeDlZTnBIdWlvQVc0UC1CVERjd2pRRDEtUW9pbllBTkFCNjltLWhaUzMxcFVpTzVZYlVvb05WU1BlSXlsOElWZ1pGUjdUcng1bktRLXRQYkhEa1R4bTRXbklNcEYzeWFfYlhXcV9UVjU0eGV5X2h1dzVZbXd4TjFaVEhnbGI0ZEQtRVpWS051UTlOOTZlN2JYSHEzb1oxZS1DZG9VQ1ZrXzJLdjBPYzlOSkZmZS1xX1Joa3lLQjVtaG5oSjJselJ4Z1hpdmNmMHV4MDNhTTlPaGktZG5FZDg3enljRFgwU3l1QTRLcFFKQXVFdmp4aUh1VUFzSU1CQ2pzVnZyaUpGLVpkb2dB?oc=5) — Google News — Northern Virginia
 - [Northern Virginia high school football scores for Oct. 23 - InsideNoVa](https://news.google.com/rss/articles/CBMioAFBVV95cUxOOV9teG1CYWNuWDBpNjNqUHNoMGxOWGxUZHhzQkp2UWMwUF9yTTdJTUFXRFp3bkNkY2ltWnJrd2VZOHVabWlNS1FtSkoyYmlPS0NIaHgwbjB6NW5kd2k2V2FReDhSR2tnZWJsNFFHaHc0Z0N6dUdVUE9saGNwZXM4bUk3QklpRGRDOVllNzFqaGVlS3ZXbVpPYVl3XzdqNXdG?oc=5) — Google News — Northern Virginia
 - [Viola Street multi-week closure at Rolling Road in West Springfield begins Oct. 27 - Virginia Department of Transportation (.gov)](https://news.google.com/rss/articles/CBMi6wFBVV95cUxOWGdkN05GNVUxbUNJMjk2M09OTElGYWJzLUpmV29PY1JGeXMybGtEaThJNUlib0Q5QXpJa2ZtWV9kN0NKQkRsNzVVeG1tU0NwNklTSExkck1ITkRGeE51N05XMzhDMmZKT0I4NXpFcFRSNkdoTURaVmlmNHQ1Q1c4LXlTZnhoN19GX2xpRXMtaDBCeDZnX3dtWUx1TDhFRVBJQWpOcUxvVjBwckRMVnB5Z3dkZTJYZ09nVjhaT3JZdHhNU0NXaWNDSlgyVDZvU3k2SnVnZWtlT19GVmxyLVZPWkxMb0hRNDBQQ19B?oc=5) — Google News — Northern Virginia
-- [Burke Centre Parkway westbound permanent access changes at Fairfax County Parkway begin Oct. 26 - Virginia Department of Transportation (.gov)](https://news.google.com/rss/articles/CBMi_AFBVV95cUxPTm5CY05ZZjBYQVJxQWNUeDdOTlA4U1VrY2IxWEdTXzhLeHdXZ0hWMy0taGlTSzdwTGx5emFCWHBocjNCaXprbTVhcHItQlRPNFBRcDJ2WnBkNjlOR0FxWGk0cDl4OENhaW5keXdNYWNGRV92S3NRUThndHUyZHM5ZlIwYllUbUlBdnFDT3k5bDNZMldQeXZzdXVyUlBaODZiUkdRdk1WM09tME85QTBxYlYwbFExTTk1aU04aXp4S1BIUTMyM0dFLXRlV1U5S2xhaUplZTJ1VmZpZFpYbUF6dFRiczFhRGg1V1RmRkxfdXdBaEk0REg5a1c2c24?oc=5) — Google News — Northern Virginia traffic
-- [Drought update: Over for us, for now, with dry weather in the forecast - Augusta Free Press](https://news.google.com/rss/articles/CBMipAFBVV95cUxNU3VQc2hDYUdDUjdFbFhxbV9CVmNmYmhsRFZnVURubEdBOXhYTk9HOUpMMGJxWXVnMG8yZEZnbHJPTlZ3cjVoQ2ZvZGhzcmFoS2hzUXFXdThQbi0xemNObTFadXlFYU5CSEJyZU1YeG13LTlObVVqV3F3a0w5QW1acHB3WHhzUUZSRkNOM1FMWTlEMFBjU1RWS2FraTdwOXRRdU9UeQ?oc=5) — Google News — Northern Virginia weather
 
 ## 🚀 Hacker News (Top 5)
 - [Local Wikipedia: Wikipedia, but only for things a half hour walk from you](https://edjefferson.com/localwiki/) — 1420 points, 237 comments
@@ -34,9 +34,9 @@ Global coverage includes Two rescued after Nairobi building collapse with five s
 - **2015** — A driver deliberately crashes into the Oklahoma State Homecoming parade, killing four people and injuring 34.
 
 ## 🎲 Wikipedia — Random Article
-**Shades of Sorrow**  
-Shades of Sorrow is the second studio album by Brazilian death metal band Crypta. It is the only studio album to feature guitarist Jéssica di Falchi, who left on March 10, 2025.
-https://en.wikipedia.org/wiki/Shades_of_Sorrow
+**Ravens & Lullabies**  
+Ravens & Lullabies is a studio album by Gordon Giltrap and Oliver Wakeman. Giltrap also worked with Oliver's father Rick Wakeman on the album From Brush and Stone three years prior.
+https://en.wikipedia.org/wiki/Ravens_%26_Lullabies
 
 ## 🌌 NASA APOD
 [Rosetta's Selfie](https://science.nasa.gov/image-article/apod-2026-october-24-rosettas-selfie/)
@@ -67,4 +67,4 @@ https://en.wikipedia.org/wiki/Shades_of_Sorrow
 - **Wikipedia — Random**: ok (1 articles)
 - **NASA — APOD**: ok (1 articles)
 
-<sub>Runs so far today: 2</sub>
+<sub>Runs so far today: 3</sub>

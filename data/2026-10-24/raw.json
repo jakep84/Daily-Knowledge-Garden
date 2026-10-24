@@ -1,6 +1,6 @@
 {
   "date": "2026-10-24",
-  "last_updated_utc": "2026-10-24T18:00:12Z",
+  "last_updated_utc": "2026-10-24T23:02:12Z",
   "hn": {
     "items": [
       {
@@ -236,6 +236,105 @@
         "num_comments": 20,
         "created_at": "2026-10-22T12:40:56Z",
         "objectID": "50194536"
+      },
+      {
+        "title": "No signs of AI payoff outside the tech sector",
+        "url": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
+        "points": 404,
+        "author": "the-mitr",
+        "num_comments": 374,
+        "created_at": "2026-10-24T19:47:19Z",
+        "objectID": "50224463"
+      },
+      {
+        "title": "Show HN: Steal My Bitcoin",
+        "url": "https://stealmybitcoin.com/",
+        "points": 289,
+        "author": "cloudlandsdev",
+        "num_comments": 141,
+        "created_at": "2026-10-24T20:30:31Z",
+        "objectID": "50224916"
+      },
+      {
+        "title": "The Goose Programming Language",
+        "url": "https://aardappel.github.io/goose/",
+        "points": 153,
+        "author": "bobbydigitales",
+        "num_comments": 123,
+        "created_at": "2026-10-24T19:06:55Z",
+        "objectID": "50224100"
+      },
+      {
+        "title": "Dream-1",
+        "url": "https://dreamlabs.ai/research/dream-1/",
+        "points": 143,
+        "author": "GaggiX",
+        "num_comments": 68,
+        "created_at": "2026-10-24T18:23:24Z",
+        "objectID": "50223785"
+      },
+      {
+        "title": "Why is AI generated language so hard to understand?",
+        "url": "https://arxiv.org/abs/2610.29162",
+        "points": 135,
+        "author": "canjobear",
+        "num_comments": 133,
+        "created_at": "2026-10-24T18:04:57Z",
+        "objectID": "50223647"
+      },
+      {
+        "title": "Listen and read USA nuclear forces Emergency Action Messages, heard on 11175 kHz",
+        "url": "https://missileer.watch",
+        "points": 83,
+        "author": "liotier",
+        "num_comments": 44,
+        "created_at": "2026-10-24T19:43:27Z",
+        "objectID": "50224422"
+      },
+      {
+        "title": "TornadoVM 7 Enables GPU-Native Workloads from Java Applications",
+        "url": "https://www.infoq.com/news/2026/10/tornadovm-7-gpu/",
+        "points": 83,
+        "author": "pjmlp",
+        "num_comments": 14,
+        "created_at": "2026-10-22T09:01:10Z",
+        "objectID": "50192975"
+      },
+      {
+        "title": "The St. Helena 5 pence coin shows Jonathan, a roughly 190 year old tortoise",
+        "url": "https://de.numista.com/9866",
+        "points": 80,
+        "author": "schleck8",
+        "num_comments": 20,
+        "created_at": "2026-10-24T16:41:55Z",
+        "objectID": "50222927"
+      },
+      {
+        "title": "Neural chip decodes interactions between brain regions",
+        "url": "https://actu.epfl.ch/news/neural-chip-decodes-interactions-between-brain-r-2/",
+        "points": 77,
+        "author": "giuliomagnifico",
+        "num_comments": 26,
+        "created_at": "2026-10-24T15:57:17Z",
+        "objectID": "50222525"
+      },
+      {
+        "title": "Symbolic Learning in Python and Julia",
+        "url": "https://github.com/astroautomata/PySR",
+        "points": 47,
+        "author": "alex_hirner",
+        "num_comments": 7,
+        "created_at": "2026-10-20T20:07:35Z",
+        "objectID": "50171936"
+      },
+      {
+        "title": "Zac-OS-9: The classic Platinum desktop, reborn for modern PCs",
+        "url": "https://sourceforge.net/projects/zac-os-9/",
+        "points": 41,
+        "author": "felixding",
+        "num_comments": 27,
+        "created_at": "2026-10-22T01:28:27Z",
+        "objectID": "50189981"
       }
     ]
   },
@@ -311,19 +410,21 @@
       },
       {
         "year": 2004,
-        "text": "Arsenal Football Club loses to Manchester United, ending a row of unbeaten matches at 49 matches, which is the record in the Premier League.",
+        "text": "Arsenal Football Club loses 2–0 to Manchester United in a match dubbed the Battle of the Buffet, ending their Premier League record 49-match unbeaten streak.",
         "pages": [
           "Arsenal F.C.",
-          "Manchester United F.C."
+          "Manchester United F.C.",
+          "Battle of the Buffet",
+          "Premier League"
         ]
       }
     ],
     "random": {
-      "title": "Shades of Sorrow",
-      "extract": "Shades of Sorrow is the second studio album by Brazilian death metal band Crypta. It was recorded throughout February 2023 at the Family Mob Studio in São Paulo, Brazil. It was later mixed at 33 Studios in Stockholm, Sweden, mastered at Fascination Street Studios in Örebro, Sweden, and released in August 2023 through Napalm. It is the only studio album to feature guitarist Jéssica di Falchi, who left on March 10, 2025. The songs \"Lord of Ruins\", \"Trial of Traitors\" and \"The Other Side of Anger\" were also released as singles.\nIt was chosen by the Associação Paulista de Críticos de Arte as one of the 50 best Brazilian albums of 2023.",
-      "content_urls": "https://en.wikipedia.org/wiki/Shades_of_Sorrow"
+      "title": "Ravens & Lullabies",
+      "extract": "Ravens & Lullabies is a studio album by Gordon Giltrap and Oliver Wakeman.\nGiltrap also worked with Oliver's father Rick Wakeman on the album From Brush and Stone three years prior.\n\n",
+      "content_urls": "https://en.wikipedia.org/wiki/Ravens_%26_Lullabies"
     },
-    "fetched_at": "2026-10-24T18:00:03.330352+00:00",
+    "fetched_at": "2026-10-24T23:02:04.415907+00:00",
     "status": [
       {
         "source": "Wikipedia — On This Day",
@@ -338,7 +439,7 @@
     ]
   },
   "apod": {
-    "fetched_at": "2026-10-24T18:00:03.672694+00:00",
+    "fetched_at": "2026-10-24T23:02:04.824597+00:00",
     "entry": {
       "title": "Rosetta's Selfie",
       "link": "https://science.nasa.gov/image-article/apod-2026-october-24-rosettas-selfie/",
@@ -1958,6 +2059,150 @@
         "link": "https://www.sciencedaily.com/releases/2026/10/261022081300.htm",
         "published": "Fri, 23 Oct 2026 20:48:21 EDT",
         "source": "ScienceDaily — Top"
+      },
+      {
+        "title": "Trump set to announce plan by Audi to build US factory in Georgia, source says - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOZGx3Y2FFQnJqWm4xQzIyem5aQXhBRWU1UkwyblYyU1BTQmR5TllmeUF6aGpDYjNQZmJNZlRWZXRzTDg5dlZYUGNXalE1ajdLUzc4blptZWJVaWdqYUFWcjViR1gxazBrSXp6bHFScVBRV3hQNEpLbi1fRm1CTGlPNUMtMDJTS0gyN3lzU2lrTDZhQjFoaWZtMXQxUThHV19oNmxzTFFGNnRlMlEyb3JQeDF6dm16bE5odlEzcGZ6THBEUDVEelktZmhHV2ZSM28?oc=5",
+        "published": "Sat, 24 Oct 2026 21:33:43 GMT",
+        "source": "Reuters — Headlines (Google News)"
+      },
+      {
+        "title": "Gunmen kill at least 40 people in northeastern Nigeria, Amnesty International says - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPb1J4ZnFKQkVEMmNqNnhnQ1hzU290Wm5VWVI1ajhVUmpDbkpqLUlrNEVuckpONnNoN0hlZGJVTnhGY0V3dUh4UXFKUzN2ZFZSbk1fYWtEeUtMNDJRSVlfVDNjX1dWVWd2UzhlZFplZXA3d1l3dkdWLVRUMEhzd1RBcC1GRnRTQk8tNGNjc3B5RHZPcy1DOTlJeHp0Y3ZkdHhaX0xlTktJSWJlVDQ5b1hWQkpmb1ZrRC12RlNpTG5YekQ1Zw?oc=5",
+        "published": "Sat, 24 Oct 2026 19:03:57 GMT",
+        "source": "Reuters — Headlines (Google News)"
+      },
+      {
+        "title": "Protests sweep Italian cities amid heavy security presence, some violence reported - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdkVjV19ld3VNNFRlLXZaOFh2aUhReW5lUXgyblRhTHJPWEM4bUg0QU5XeFVXd0tKelV5LVFhSGJKMndmNjg1aFJLcmtITDNjTVpFVFU3YUFtcGdSc3ZGTDQzMHJTN05nZldOVkM0WDZyS3Y1TF9RbUVtMFh5MENrajRfRFRlOTR6Vlc5MWV4aklwMi1ielVIUEVmelIzMkVKaDAyT09wWWs2NXU2QVJwNUp0bXM?oc=5",
+        "published": "Sat, 24 Oct 2026 18:23:43 GMT",
+        "source": "Reuters — Headlines (Google News)"
+      },
+      {
+        "title": "Albanian police fire tear gas as anti-government student protests turn violent - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOX21BMWozRzgtZFdWcVVVc3o5dHh3bUIzSzZjcTdZTnNzcFdXN2lVYVpXTmY0OHB0UWdFbjdmQ0FKV0hxOVUxeVJGNEhxTGdhQW9tZWtuTGoxTDNKZWplYjBkLWd4Q2sxdlhXdElFaVo1a0pWbm9walRONWoxRVZCU2VFTEUwMlZfNEZZeWpsVGJPMnF6MW9ZNW11WHlKRGEtVjNoRlFsMTIxT0pvQkU5UnRhT3RxTThD?oc=5",
+        "published": "Sat, 24 Oct 2026 17:11:44 GMT",
+        "source": "Reuters — Headlines (Google News)"
+      },
+      {
+        "title": "Trump administration demands county election officials identify noncitizen voters in California - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQMmlFSUIxOVVNeTdTRWJLSGVWYUQzS3FGNEk4SVU2dmM5aS1MZThUYUc5cG85WXFnd2V6bDBFOF9zd09EREduV2lGbWJTTUhURER2R3RISWxWT3pvSWhRTVNHcFRtTUFRX0E2OU1QQjdHS2hBZ1ZnZzRYLXFLdTZTX2w2dUFQRGRZVDh1aHJuSkxSQzliZ2pqaWQ2blpEdXp5b0sxUlQyTHpPZVFGOVpQdkRmMHhtS1BiUDhYei14V04zX2s2OHc?oc=5",
+        "published": "Sat, 24 Oct 2026 21:57:51 GMT",
+        "source": "Reuters — Headlines (Google News)"
+      },
+      {
+        "title": "Nigeria's Tinubu launches re-election campaign as economic pain tests support - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQb2pnT1VmVHRrU1I2MHl3cGFQQk51cUx2S0NhUHBydDBnQWtpbndGWm54NDl0OGhhRUVIUlJCN0hLcWNvVmROQjJ5VGYyekhPNEVTTU5oMVRiM2VQbFBmaWwwTkhSUjFUQ3N3d016YlZZdFdfaGx4WmwtVjNlZkNqOGhPNVpLRFVCRmZITU10X3hhOHJ0bU5NUUN1aU5TLW8tOFNxRnloS3ZDM2xxQU9qaWJWVmowRkJRQjV1d3Viaw?oc=5",
+        "published": "Sat, 24 Oct 2026 19:08:10 GMT",
+        "source": "Reuters — Headlines (Google News)"
+      },
+      {
+        "title": "Violence flares in Paris after largely peaceful protests across France - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMDZFRzVKWWJMOFp4eGNjbVdnZ1pCd3hVNTdMSWdiaU9uSGxZTi1zZW1DR3JvbjBfZTJIMnF3LVBMMXpWQjI0V1BfTWtFYUZkVWtXc0VmZEZyVWRHU3c3aHFwRm9fN0ZFMTRIaC16ZmhOeTFrRXBsdmpwWXVtRVVCd09ONkp3bFB5QWVRWjlBSmJqbHphYnBiLS0yaVZfRWpxdVAxSGRqYUI4YTBEX2pZeA?oc=5",
+        "published": "Sat, 24 Oct 2026 21:27:22 GMT",
+        "source": "Reuters — World (Google News)"
+      },
+      {
+        "title": "Ukraine says Starshield back to normal, Musk says Kyiv violated terms - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPVklsWE9QVlFHcHRES2xGTXNTVEtudENYZTR6aFRMZmVuaENzXzBCb0twTjdadFhWY3V3Nkw4aWZTLVJmYjF4OTVmR0haOERYVGlFSFB0a1lsQUUyVDM2UF9lZ3QyeTJ3QzVGN0J0eEF5UEsyanhKaUNHZmpaZnA1eVFsWkVKdHhkdVJjTWZrSGtHOHN0aC1JN0JkbTByTE1vaG5vc2dPWUswNkZxYTN3aFV2WkJZbVlwNlJtZU1R?oc=5",
+        "published": "Sat, 24 Oct 2026 20:57:28 GMT",
+        "source": "Reuters — World (Google News)"
+      },
+      {
+        "title": "Almost 1,000 arrested as clashes follow another day of mass protests across France",
+        "link": "https://www.bbc.co.uk/news/articles/c95ynd587ynzo?at_medium=RSS&at_campaign=rss",
+        "published": "Sat, 24 Oct 2026 21:09:27 GMT",
+        "source": "BBC — World"
+      },
+      {
+        "title": "Palestinian families displaced as Israeli forces demolish Hebron homes",
+        "link": "https://www.bbc.co.uk/news/articles/cqd09k1k7532o?at_medium=RSS&at_campaign=rss",
+        "published": "Sat, 24 Oct 2026 17:21:42 GMT",
+        "source": "BBC — World"
+      },
+      {
+        "title": "Trains cancelled and road warnings as Storm Boelo sweeps into Scotland",
+        "link": "https://www.bbc.co.uk/news/articles/c60qk5lw1z8wo?at_medium=RSS&at_campaign=rss",
+        "published": "Sat, 24 Oct 2026 22:39:52 GMT",
+        "source": "BBC — Science"
+      },
+      {
+        "title": "Ukraine and Russia eye new peace talks — and Melania Trump's mission — but steep obstacles remain - AP News",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOUUw3V0JLTVMtaXQ1bm9sVC0yU1VITmZSTW9OVkVZM2JEbUpwaWlCcThLQ1JXUURGSC1IamlEakx1Mm5Ld3QxVlZvaTBJUTJHcHBqSDk3S3B2dmY1cUNFNzZUeFNhZkdhaFU5bVBkS2l1ajFBdnRubERJQ0NrWlVmWGtXLU9ZeFVBTEVFYjl2T0NaWDlpNEJQdGRJVDdYSmQzUFNaVFpJSUhRS3ZL?oc=5",
+        "published": "Sat, 24 Oct 2026 09:50:40 GMT",
+        "source": "AP — Headlines (Google News)"
+      },
+      {
+        "title": "Wall Street loses ground under pressure from rising oil prices - AP News",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPNWpGTk1fbkF2SWY0S1Q2MHN6WjRqQ1R3VWp4WXFKd3VQUG5WSlI1ZXFDY1pSUGJyampWMGtwZ3dRQmxGRzlTbERHSnlraUZ4WmFCSXM4U3J1Z1VSdV81eTB2ck1lWElpSnR2Qi1FbWUwUmJBT1l5enVZLVpsYmMySnBhZ0FDWHZBTElJVEhGYl9tN2tXblE?oc=5",
+        "published": "Fri, 23 Oct 2026 20:44:00 GMT",
+        "source": "AP — Headlines (Google News)"
+      },
+      {
+        "title": "DOJ orders some California counties to verify ballots in 48 hours - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQRlc0YW1zZ2RBWXBYeXQwT2sxdlYxc3RCWk1BZ1ROZmktaFEtNFFqaVBicWZMcjI3aUhQVDhSNzRzUzJCeXEtYnhFX1ZQRnZnM3Y2SnZ3Q2JlM0p3amVVM2xOSlpUS211QXh4NWRoNlIydGF1anYzd1RpZUtCY1A4R1ltYVV5RFJLbHpGZDJldVNWTFVPb3BLaFFGNkxJVGdIRzk3eUFxQjNVNDB3cUpFaXJwOW5WREFmZzZn?oc=5",
+        "published": "Sat, 24 Oct 2026 01:29:00 GMT",
+        "source": "AP — Politics (Google News)"
+      },
+      {
+        "title": "Associated Press News: Breaking News | Latest News Today - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiNkFVX3lxTE1JRTBkY0d6emFJTklfMk1FZkEtdnc2dmtQVGhJQUcxb3cxdVZNajFoUnMxbGx1UQ?oc=5",
+        "published": "Sat, 24 Oct 2026 19:31:10 GMT",
+        "source": "AP — Politics (Google News)"
+      },
+      {
+        "title": "Voters in 2 Democratic strongholds could ban transgender girls from girls school sports - AP News",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNa0RZTDV5WWNOcHFxZXFNMVpZX0REUTdGZVZYTUNlZV8xMGFxOXhTVjl6RFhRZFZqbXdTWGhTTFR6TzRIYW9acnNZMmZlWlRnclRoRUJYNUViVE1QNTBFMkhQSmYzYU1pYVpidFJJNFhaS3dxZXNYaTNpUUxRcmhSVW52TFhtYXFEc1o2MVpPdnlEU0J5djJBZnVScWZIeFFWOVBKa2xmZW03MXMzb3BuZXR5NG0?oc=5",
+        "published": "Sat, 24 Oct 2026 10:02:00 GMT",
+        "source": "AP — Politics (Google News)"
+      },
+      {
+        "title": "AP Exclusive: Trump’s border chief defends wall plans in Texas’ Big Bend despite a court setback - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQME53UG5SaHNkWGhpOWtuNGZIYXh0V0lMNXdMeGpzNmtHel9EQ0hmVVh3YW1vNVNUNkc5RXR6ZHhDV2VSTVZuS1ZndXl5OE9RT2w4bS04aktFNTJteVRJcjRWMVk2c1k1ZXo3S0sxZGdQMGNyR1J6OVl5Wlh4anVkNGxzV1I0S0ljWm95U0tBcFZKNEgwMW9FdVczZVVQcGZoVmlKRTJFQ1M?oc=5",
+        "published": "Sat, 24 Oct 2026 00:55:00 GMT",
+        "source": "AP — Business (Google News)"
+      },
+      {
+        "title": "Japan’s unpopular revision of Imperial law that reinforces male-only succession takes effect - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQUFtbVZnRUFQNExhclhieGNGWTdaWkRocms3Nlp2X1pzclRYOHRHZmV2RmhDR0hzOUFQbnBOcW0zaDdRMTlXYVBJN3h6LTEyX3V3NzFuMjZ6X1R2RUlrT19fSlFDekxVMEJ2ZWpuNEZmdjFSemEtU2NUaFcwNDJCMVV1YldGNWdTQVVsenI0bVBUTmdQSnR3N1FNc0ZUVDl2Ty1IeC1DcHBZUQ?oc=5",
+        "published": "Sat, 24 Oct 2026 07:37:00 GMT",
+        "source": "AP — Business (Google News)"
+      },
+      {
+        "title": "More rain is expected after bad flooding in the Four Corners region led to rescues and evacuations - AP News",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQVlh5NHFzcEpNNm00RzQzNnhXRjFzMl9BTUFjWGZhUGFHaVowcF9BeG1ZaXhpTWRTbzlJdHl3N3pWUHFpeUFEaXYtOUxNaHp0SmJCckgzakpxYTRDYUx5MDNiNlhVSHpTZmh4bEVtalI5YnFFOGtqbV9YNzMzMzVTZkRoVVVZelVqNnNQaU9NaHcySkZjWWlxOG1NdGNCU3RheGJkUWFneUp1NmE5b2FmSUx3?oc=5",
+        "published": "Sat, 24 Oct 2026 18:46:00 GMT",
+        "source": "AP — Business (Google News)"
+      },
+      {
+        "title": "Survivor of deadly attack on Jordan church describes people crawling for their lives - AP News",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNbTZQajdITldrSGluNnR2YkxmRUdzNzZXU05MaUtkcFJhWC1CdU1fSXVzR2lJRHdIYm9kTm9XTDZhbjdjRTg2RFgzZ2hZUFVZalRHeWk1ZjZZNkFmNEhsbFQwVkpBbVdxMGhhVmduNnR3RGVPaElyNl9CSFVLU29sNWd4czNrbTRqZWFJXzBiZzFPWXhwaE1jalp1bFdSNGU0?oc=5",
+        "published": "Sat, 24 Oct 2026 20:24:00 GMT",
+        "source": "AP — Business (Google News)"
+      },
+      {
+        "title": "Archdiocese of New York agrees to $800 million settlement over sexual abuse claims",
+        "link": "https://www.npr.org/2026/10/24/nx-s1-6015522/new-york-archdiocese-settlement-agreement",
+        "published": "Sat, 24 Oct 2026 18:47:58 -0400",
+        "source": "NPR — Top Stories"
+      },
+      {
+        "title": "Trade tariffs cause whiplash at Port Milwaukee",
+        "link": "https://www.npr.org/2026/10/24/nx-s1-6011193/trade-tariffs-cause-whiplash-at-port-milwaukee",
+        "published": "Sat, 24 Oct 2026 17:20:55 -0400",
+        "source": "NPR — Top Stories"
+      },
+      {
+        "title": "How data centers became a bipartisan political issue in Wisconsin",
+        "link": "https://www.npr.org/2026/10/24/nx-s1-6011182/how-data-centers-became-a-bipartisan-political-issue-in-wisconsin",
+        "published": "Sat, 24 Oct 2026 17:20:53 -0400",
+        "source": "NPR — Top Stories"
+      },
+      {
+        "title": "Ukraine says Starlink is back to normal after disruptions",
+        "link": "https://www.npr.org/2026/10/24/nx-s1-6015482/ukraine-starlink-working-after-disruptions",
+        "published": "Sat, 24 Oct 2026 13:54:25 -0400",
+        "source": "NPR — Top Stories"
       }
     ],
     "local": [
@@ -2242,6 +2487,24 @@
         "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPSVE0eUhwQ1o0cWVlUWh6Slo3a2JacUhreXh6RVExU0JBaUVRVEV2NmhuMlppbTRYNU9hMk13X2R1U2hSV0NFTUNicE5ZU0k1RXkwbE10MTA4Yy1kQ3hIem9JVHR1d1pteDR2Rm1IakhLa2N0TkJiYkRfR1ByVklITTUydVFXem5WQVlYLXRRYUQzVl9tbXlQc3Y4aFpLSUc3LUl0eFNzcUN2VHNZMDZHc1BSNENNcGVVWU1LT0E1eS0yYUVmLUZaZWhadDBUdEtxaWpuY0J2VWpPUjd0YURwSmQtUXNlLU1DdUN0a1A4OFFkVjdIT1dXaDk3bDBrUXZOTVZiMzZ3?oc=5",
         "published": "Fri, 23 Jan 2026 08:00:00 GMT",
         "source": "Google News — Northern Virginia weather"
+      },
+      {
+        "title": "Roland Pangle Obituary (2026) - Strasburg, VA - Northern Virginia Daily - Legacy | Obituary",
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQbF9CeEZ4NnN1MWZzaHZsSVNCVEh2RHZ2TFZ3LUIzN1JPQ3BSOVJWTmxQd240eWI3c3FKMjJoaDFrM2swNnJOWVg1T0ZCc0dwSGdRVm1ybGhIM3ItLW1iSmJNQkpheU5UTFg5dzdkNXkzN2t5Y1U4WDVWNjhMSEhIX3FwbTRSWHBOR3lQTg?oc=5",
+        "published": "Thu, 22 Oct 2026 22:29:37 GMT",
+        "source": "Google News — Northern Virginia"
+      },
+      {
+        "title": "~$!【LIVE@STREAMs】 Northern Virginia HomeSchool vs Harvest Covenant 𝐋𝐈𝐕𝐄 ＯＮ Ｔｖ Ｃｈａｎｎｅｌ 23 October 2026 - FC東京オフィシャルホームページ",
+        "link": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxOZEFOd2J5SEx1aTRvSVhqRGpZTWVLRjcyTTNuclF4dndTVEdfNE1KSDhtYWVXWk5wbEwzLVBHWmdWQUtmMER1R19HNnJfTWh1T24yWWI2M0ItazhJUllhMkNqQnQtQi1uUW1xTEt3bFFjQ2o3eGNKbV84V2NkVGx2VnNnS0RKUWo4RG16ZUpSUG1PbS1aVmt6QThZSHE4ZWJ2UDZpWHppdWZfQncyY0FMZEZGYWItd1pQMDJzLVdKWG9LTkY4N1JPY1lpZk83SW1aMjV3dV9QREpZNlRhdjI4Z1JBQTVKZ3pzWWtUZDBPaHdvaElNSEJuTTF4OEQtc0pUVzJVZW9mQnY4OWFnUVgwd2lNZF82ODAwUTV3eXRIcjktNWw5NURiOXVONkJiUFk1SnZSRzRxNjJvLTY0MTljSmozZXVfTlZIX1VRaEJZY0k?oc=5",
+        "published": "Sat, 24 Oct 2026 15:44:15 GMT",
+        "source": "Google News — Northern Virginia"
+      },
+      {
+        "title": "The Burn celebrates 10th anniversary with books for kids fundraiser - The Burn",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOS05RMXNkR3lOVTQya2dYM0VZdjZlbUI5Y0J1eWxJeVRNbXI0Nm5ObUVuVkgtR0pocnJCM2tDWmZMWlA2TnQ0YmluRjlUeDRzOWNsSkl3ZUEtV1Z3SElBQU91M1NIU3J2UE9GcmFnLUlQUHd6aEVoOGNvYzNyTDVYQUdBSFlKZWVDUDh5SXd6cnBXbUczZERKZ3lTXzdRQl9mZGkw?oc=5",
+        "published": "Sat, 24 Oct 2026 15:46:22 GMT",
+        "source": "Google News — Northern Virginia"
       }
     ]
   },
@@ -2251,147 +2514,147 @@
       "url": "https://news.google.com/rss/search?q=site%3Areuters.com+when%3A2d&hl=en-US&gl=US&ceid=US:en",
       "status": "ok",
       "count": 15,
-      "checked_at_utc": "2026-10-24T18:00:04.963063+00:00"
+      "checked_at_utc": "2026-10-24T23:02:05.816043+00:00"
     },
     {
       "source": "Reuters — World (Google News)",
       "url": "https://news.google.com/rss/search?q=site%3Areuters.com%2Fworld+when%3A2d&hl=en-US&gl=US&ceid=US:en",
       "status": "ok",
       "count": 15,
-      "checked_at_utc": "2026-10-24T18:00:05.568852+00:00"
+      "checked_at_utc": "2026-10-24T23:02:06.410744+00:00"
     },
     {
       "source": "Reuters — Business (Google News)",
       "url": "https://news.google.com/rss/search?q=site%3Areuters.com%2Fbusiness+when%3A2d&hl=en-US&gl=US&ceid=US:en",
       "status": "ok",
       "count": 15,
-      "checked_at_utc": "2026-10-24T18:00:06.108214+00:00"
+      "checked_at_utc": "2026-10-24T23:02:06.911951+00:00"
     },
     {
       "source": "BBC — World",
       "url": "http://feeds.bbci.co.uk/news/world/rss.xml",
       "status": "ok",
       "count": 15,
-      "checked_at_utc": "2026-10-24T18:00:06.611798+00:00"
+      "checked_at_utc": "2026-10-24T23:02:07.380179+00:00"
     },
     {
       "source": "BBC — Tech",
       "url": "http://feeds.bbci.co.uk/news/technology/rss.xml",
       "status": "ok",
       "count": 15,
-      "checked_at_utc": "2026-10-24T18:00:06.886805+00:00"
+      "checked_at_utc": "2026-10-24T23:02:07.741206+00:00"
     },
     {
       "source": "BBC — Business",
       "url": "http://feeds.bbci.co.uk/news/business/rss.xml",
       "status": "ok",
       "count": 15,
-      "checked_at_utc": "2026-10-24T18:00:06.979166+00:00"
+      "checked_at_utc": "2026-10-24T23:02:08.010815+00:00"
     },
     {
       "source": "BBC — Science",
       "url": "http://feeds.bbci.co.uk/news/science_and_environment/rss.xml",
       "status": "ok",
       "count": 15,
-      "checked_at_utc": "2026-10-24T18:00:07.159460+00:00"
+      "checked_at_utc": "2026-10-24T23:02:08.134695+00:00"
     },
     {
       "source": "AP — Headlines (Google News)",
       "url": "https://news.google.com/rss/search?q=site%3Aapnews.com+when%3A2d&hl=en-US&gl=US&ceid=US:en",
       "status": "ok",
       "count": 15,
-      "checked_at_utc": "2026-10-24T18:00:07.256879+00:00"
+      "checked_at_utc": "2026-10-24T23:02:08.355272+00:00"
     },
     {
       "source": "AP — Politics (Google News)",
       "url": "https://news.google.com/rss/search?q=site%3Aapnews.com+politics+when%3A2d&hl=en-US&gl=US&ceid=US:en",
       "status": "ok",
       "count": 15,
-      "checked_at_utc": "2026-10-24T18:00:07.921884+00:00"
+      "checked_at_utc": "2026-10-24T23:02:08.950480+00:00"
     },
     {
       "source": "AP — Business (Google News)",
       "url": "https://news.google.com/rss/search?q=site%3Aapnews.com+business+economy+when%3A2d&hl=en-US&gl=US&ceid=US:en",
       "status": "ok",
       "count": 15,
-      "checked_at_utc": "2026-10-24T18:00:08.629954+00:00"
+      "checked_at_utc": "2026-10-24T23:02:09.549658+00:00"
     },
     {
       "source": "NPR — Top Stories",
       "url": "https://feeds.npr.org/1001/rss.xml",
       "status": "ok",
       "count": 10,
-      "checked_at_utc": "2026-10-24T18:00:09.254842+00:00"
+      "checked_at_utc": "2026-10-24T23:02:10.052370+00:00"
     },
     {
       "source": "NPR — Politics",
       "url": "https://feeds.npr.org/1019/rss.xml",
       "status": "ok",
       "count": 10,
-      "checked_at_utc": "2026-10-24T18:00:09.383430+00:00"
+      "checked_at_utc": "2026-10-24T23:02:10.307827+00:00"
     },
     {
       "source": "NPR — Business",
       "url": "https://feeds.npr.org/1007/rss.xml",
       "status": "ok",
       "count": 10,
-      "checked_at_utc": "2026-10-24T18:00:09.480937+00:00"
+      "checked_at_utc": "2026-10-24T23:02:10.371102+00:00"
     },
     {
       "source": "NPR — Science",
       "url": "https://feeds.npr.org/1008/rss.xml",
       "status": "ok",
       "count": 10,
-      "checked_at_utc": "2026-10-24T18:00:09.559999+00:00"
+      "checked_at_utc": "2026-10-24T23:02:10.433496+00:00"
     },
     {
       "source": "NPR — Technology",
       "url": "https://feeds.npr.org/1013/rss.xml",
       "status": "ok",
       "count": 10,
-      "checked_at_utc": "2026-10-24T18:00:09.625640+00:00"
+      "checked_at_utc": "2026-10-24T23:02:10.497512+00:00"
     },
     {
       "source": "ScienceNews",
       "url": "https://www.sciencenews.org/feed",
       "status": "ok",
       "count": 15,
-      "checked_at_utc": "2026-10-24T18:00:09.821152+00:00"
+      "checked_at_utc": "2026-10-24T23:02:10.564645+00:00"
     },
     {
       "source": "ScienceDaily — Top",
       "url": "https://www.sciencedaily.com/rss/top/science.xml",
       "status": "ok",
       "count": 15,
-      "checked_at_utc": "2026-10-24T18:00:09.974469+00:00"
+      "checked_at_utc": "2026-10-24T23:02:10.693663+00:00"
     },
     {
       "source": "Nature — Technology",
       "url": "https://www.nature.com/subjects/technology.rss",
       "status": "ok",
       "count": 15,
-      "checked_at_utc": "2026-10-24T18:00:10.210164+00:00"
+      "checked_at_utc": "2026-10-24T23:02:10.926729+00:00"
     },
     {
       "source": "Google News — Northern Virginia",
       "url": "https://news.google.com/rss/search?q=Northern+Virginia&hl=en-US&gl=US&ceid=US:en",
       "status": "ok",
       "count": 15,
-      "checked_at_utc": "2026-10-24T18:00:10.530987+00:00"
+      "checked_at_utc": "2026-10-24T23:02:11.043541+00:00"
     },
     {
       "source": "Google News — Northern Virginia traffic",
       "url": "https://news.google.com/rss/search?q=Northern+Virginia+traffic+OR+transit&hl=en-US&gl=US&ceid=US:en",
       "status": "ok",
       "count": 15,
-      "checked_at_utc": "2026-10-24T18:00:11.186957+00:00"
+      "checked_at_utc": "2026-10-24T23:02:11.622581+00:00"
     },
     {
       "source": "Google News — Northern Virginia weather",
       "url": "https://news.google.com/rss/search?q=Northern+Virginia+weather+warning+OR+advisory&hl=en-US&gl=US&ceid=US:en",
       "status": "ok",
       "count": 15,
-      "checked_at_utc": "2026-10-24T18:00:11.874670+00:00"
+      "checked_at_utc": "2026-10-24T23:02:12.410210+00:00"
     },
     {
       "source": "Wikipedia — On This Day",
@@ -2411,6 +2674,7 @@
   ],
   "runs": [
     "2026-10-24T13:13:11Z",
-    "2026-10-24T18:00:12Z"
+    "2026-10-24T18:00:12Z",
+    "2026-10-24T23:02:12Z"
   ]
 }
