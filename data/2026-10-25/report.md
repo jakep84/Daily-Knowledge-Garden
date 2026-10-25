@@ -1,21 +1,21 @@
 # Daily Knowledge Garden — 2026-10-25
 
 ## 🧭 Daily Summary
-Global coverage includes Overnight winds reach 85mph as Scotland is hit by Storm Boelo; Travel disruption and power cuts after back-to-back storms; Beirut's $13 chicken sandwich becomes symbol of Lebanon divide - Reuters. Local coverage includes Northern Virginia high school football scores for Oct. 23 - InsideNoVa; Drought update: Over for us, for now, with dry weather in the forecast - Augusta Free Press.
+Global coverage includes Man killed by falling tree as Storm Boelo brings more severe weather to UK; Blanche defends DOJ lawsuit blocking Alaska Senate results if Republican loses; Man killed by falling tree as Storm Boelo batters Scotland. Local coverage includes Northern Virginia high school football scores for Oct. 23 - InsideNoVa; Amazon backs off Northern VA data center plan months after purchase - The Real Deal.
 
 ## 🌍 Global News (cross-source)
-- [Overnight winds reach 85mph as Scotland is hit by Storm Boelo](https://www.bbc.co.uk/news/articles/c60qk5lw1z8wo?at_medium=RSS&at_campaign=rss) — BBC — Science
-- [Travel disruption and power cuts after back-to-back storms](https://www.bbc.co.uk/news/articles/c6n9rzde1n80o?at_medium=RSS&at_campaign=rss) — BBC — Science
-- [Beirut's $13 chicken sandwich becomes symbol of Lebanon divide - Reuters](https://news.google.com/rss/articles/CBMisAFBVV95cUxPWERrNDJCWllyTDNzSWZjUVB2dHh5bGtoaU82c0tEWGUxclNVWm9MdVVSMTg2M1Z3eHdHdjJaNjRXd0FVdExMR3ktanhTNlF3MlRTbGhuelhQYzM2RWtwYWNiTmUwQWpUYWJzTlRiMGwxMFlpMWU5RUxQeldFTFlhdDJZR0tPeVAteXN5SC00VHJkQTdMbWYzdGhXaWJqT3QxTHFyVDBVb3kyQWVfclZKXw?oc=5) — Reuters — Headlines (Google News)
-- [Jordan church attack survivor says her cousin died before her eyes - Reuters](https://news.google.com/rss/articles/CBMivAFBVV95cUxPVTFxbDBEOEdFZFEwX29PZzd0QTNuYm11VXE5ekQ1bUgtQjVGeU1lbHdjVG9BR21DcENBLU5BeWFCeERYd2Y4bWp4OHFEclBuWlRUQ3ltUkduNFlQOXNwSTV6ZHJ4Qi02ZGQyakE1a0lfNldTM2RBQ3dVbEJHcWpSWE96b3FKUWstUjh6aExqcTdPMmdhMkRpbEhjcEtpak5YMmFfOThiTmh4ZGd5Z2lGMk1Ucjh0U2lDQjlRZQ?oc=5) — Reuters — World (Google News)
-- [Three giant black holes discovered in a galaxy from the dawn of time](https://www.sciencedaily.com/releases/2026/10/261024222000.htm) — ScienceDaily — Top
+- [Man killed by falling tree as Storm Boelo brings more severe weather to UK](https://www.bbc.co.uk/news/articles/cxdd8gr1vje0o?at_medium=RSS&at_campaign=rss) — BBC — Science
+- [Blanche defends DOJ lawsuit blocking Alaska Senate results if Republican loses](https://www.npr.org/2026/10/25/nx-s1-6016212/blanche-defends-doj-lawsuit-blocking-alaska-senate-results-if-republican-loses) — NPR — Top Stories
+- [Man killed by falling tree as Storm Boelo batters Scotland](https://www.bbc.co.uk/news/articles/c60qk5lw1z8wo?at_medium=RSS&at_campaign=rss) — BBC — Science
+- [Brazil votes in tight runoff between Lula and Bolsonaro - Reuters](https://news.google.com/rss/articles/CBMirwFBVV95cUxNdkpfT3YtQXVCRlQ2RkU5d1JxQ1dSYUY5WXYydnVvN0lGWHB1NkR2MjIyb3BoZ250UVJfSEpTb05SRUx0VmFxS1pzWWNyVFhuZVRPVDRSVmVoTW9WSWFXWjQ2TlVoYTlNWTViSFRiZkMweWxnN2NzRWRUbjVHbFg2T3o4UDNzTmhlaEhTb3JSTDFVNTF4U2hJOE5ZVDFGV0VzR2U4UG1iN1c0cXhGYUsw?oc=5) — Reuters — Headlines (Google News)
+- [Venezuela opposition leader Maria Corina Machado returns to Venezuela - Reuters](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQS3JPM2RsSG1DcVg1NFh3Y3ljUXp3MmJSTU9QTWEycDVTN1lRelFGSEk5MWlxdjlBazcwRERzME9ieWFxRE5lbGZQZXA3WU5aMXdqTDctQ08yUkw3b243YnE1Vnp4bUxVLTZLQTJ0U21UemtpWURfSGNsa05mazRFVXIyLXQta0R4dGdqdDRXd3laMXFBLUNrSGNlVUNDUm5kM1Ytb3ZCQjhQVlJJdWpXWm9hWWYxalVQ?oc=5) — Reuters — Headlines (Google News)
 
 ## 🏙️ Local News
 - [Northern Virginia high school football scores for Oct. 23 - InsideNoVa](https://news.google.com/rss/articles/CBMioAFBVV95cUxOOV9teG1CYWNuWDBpNjNqUHNoMGxOWGxUZHhzQkp2UWMwUF9yTTdJTUFXRFp3bkNkY2ltWnJrd2VZOHVabWlNS1FtSkoyYmlPS0NIaHgwbjB6NW5kd2k2V2FReDhSR2tnZWJsNFFHaHc0Z0N6dUdVUE9saGNwZXM4bUk3QklpRGRDOVllNzFqaGVlS3ZXbVpPYVl3XzdqNXdG?oc=5) — Google News — Northern Virginia
+- [Amazon backs off Northern VA data center plan months after purchase - The Real Deal](https://news.google.com/rss/articles/CBMipwFBVV95cUxONU1oNFlFbGQ0Rk5aTGZXWmo1c2xQa1dPU3U5MEZ1TnBhVU1ObHJZeE1Bd0hBN0dtVGdpMEc5czFjQUZlSU95a3FkNkJNREN4TWY0YzBHd3N6RXJ2UVgxR3ZzSTFKdGZPWWZlR29SRTdFQTllRTBUSzRLNktRMWtkeFJGSWJFcWR6V00zdFM2V3J1azhZUG9XaW5ydGsyX0FxdXVFVTRTZw?oc=5) — Google News — Northern Virginia
+- [Burke Centre Parkway westbound permanent access changes at Fairfax County Parkway begin Oct. 26 - Virginia Department of Transportation (.gov)](https://news.google.com/rss/articles/CBMi_AFBVV95cUxPTm5CY05ZZjBYQVJxQWNUeDdOTlA4U1VrY2IxWEdTXzhLeHdXZ0hWMy0taGlTSzdwTGx5emFCWHBocjNCaXprbTVhcHItQlRPNFBRcDJ2WnBkNjlOR0FxWGk0cDl4OENhaW5keXdNYWNGRV92S3NRUThndHUyZHM5ZlIwYllUbUlBdnFDT3k5bDNZMldQeXZzdXVyUlBaODZiUkdRdk1WM09tME85QTBxYlYwbFExTTk1aU04aXp4S1BIUTMyM0dFLXRlV1U5S2xhaUplZTJ1VmZpZFpYbUF6dFRiczFhRGg1V1RmRkxfdXdBaEk0REg5a1c2c24?oc=5) — Google News — Northern Virginia
 - [Drought update: Over for us, for now, with dry weather in the forecast - Augusta Free Press](https://news.google.com/rss/articles/CBMipAFBVV95cUxNU3VQc2hDYUdDUjdFbFhxbV9CVmNmYmhsRFZnVURubEdBOXhYTk9HOUpMMGJxWXVnMG8yZEZnbHJPTlZ3cjVoQ2ZvZGhzcmFoS2hzUXFXdThQbi0xemNObTFadXlFYU5CSEJyZU1YeG13LTlObVVqV3F3a0w5QW1acHB3WHhzUUZSRkNOM1FMWTlEMFBjU1RWS2FraTdwOXRRdU9UeQ?oc=5) — Google News — Northern Virginia weather
 - [Washington Manassas Airport Breaks Ground on New Air Traffic Control Tower - Northern Virginia Magazine](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPQVRybHJMUF9IUnJqMVlqQ2FfREc2VzJmTi1sdGtqZmVBS0dSN2EtNldsaEpRUEswd0JUeHJBeWFwRDFZeW0wV3ZEUmJORG1oaHVhLW1WSkpZSDBHb3lDVEJVV2piczYzOU91UERxSi1BYjdTbFp1TmhPUDN1Q3J4c2c4TS1hYWpnZ1ZTbHR3c183QktWVmRSVUJyN0lHcHR0X1UyQkp1MTlLUXR4bzdmWkwtbEdfRTZ1OFU3OEpEZ3I?oc=5) — Google News — Northern Virginia traffic
-- [Arlington leaders oppose proposal to merge N. Va. bus systems - ARLnow](https://news.google.com/rss/articles/CBMimgFBVV95cUxPbFBGSThGQjVCZk82dW5VZFM1cFJZb0FpUTRrb2Nac0hvWkhZVWFnNi1wQ1RXZXZJMXhENUtQNjMtUVRSSzk0Z1A4dTM1ZFJVV1JHQW53NUZrX2NZcnoyc2dTbWg3MEJyRzlNSEZaV2RxN3UwVHh0ZGVmN1VUb3lFUDJMT3NyRDBTQy1lVURnckFPTnVtQ0tTU2Zn?oc=5) — Google News — Northern Virginia
-- [Amazon bows to local backlash over AI data centers, scraps plans to build four new facilities in Northern Virginia — site to be repurposed for mixed-use and residential development. - Tom's Hardware](https://news.google.com/rss/articles/CBMi0wJBVV95cUxQZ0hQcEROcWpKZWVteHU0c295TVh6amcyUDQ2UlMyS2N6WTl3TTBwNERUZlE1LUpZUWxMRVMwUFZ3Y1lwV0MybjZPQ29tS3NmV1U0aFhJQXZ2MFkyNnhKdEtlZjVGdl9meFgxRU1NcEstdWpCS0ozY3JXaV9Wb05wdV85Q0RERjZDdU1KSHBLZlUtOGZOQUtzaDFHLWQtMlN3cklCcVp2WnNReVZlc2N0TnR5cnVVeHQtTHFmR3RWM0FPOEVXczR4R2haR1NxNTc2aXZaUGo3aGhqb1pZMm9tMDRWTmJUeTdwUUcxejFvWkNPbGJvSG53bzBULXJ2RTFiZ2ZweXNTUUh0ejcwRlJNM1o3cTlHNW5KWlRtZ2NDUDZjWTgwYW5Qc1lna2tIOEZPVjIyZGt2RTRLTlk1WW4zNE15Y3AxbFV6S0V6YVhWT0pNUjg?oc=5) — Google News — Northern Virginia
 
 ## 🚀 Hacker News (Top 5)
 - [Local Wikipedia: Wikipedia, but only for things a half hour walk from you](https://edjefferson.com/localwiki/) — 1616 points, 251 comments
@@ -34,9 +34,9 @@ Global coverage includes Overnight winds reach 85mph as Scotland is hit by Storm
 - **1999** — A Learjet 35 crashes in Mina near Aberdeen, South Dakota, killing all six people on board, including PGA golfer Payne Stewart and golf course designer Bruce Borland.
 
 ## 🎲 Wikipedia — Random Article
-**Castlebawn**  
-Castlebawn is a 16th-century tower house, in County Clare, Ireland. It was built by the McNamaras about 1540, severely damaged in 1827, but is now restored although public access is not permitted to the castle.
-https://en.wikipedia.org/wiki/Castlebawn
+**Pavol Dindžík**  
+Pavol Dindžík (born 25 April 1971) is a Slovak water polo player. He competed in the men's tournament at the 1992 Summer Olympics.
+https://en.wikipedia.org/wiki/Pavol_Dind%C5%BE%C3%ADk
 
 ## 🌌 NASA APOD
 [Dark Matter in a Simulated Universe](https://science.nasa.gov/image-article/apod-2026-october-25-dark-matter-in-a-simulated-universe/)
@@ -67,4 +67,4 @@ https://en.wikipedia.org/wiki/Castlebawn
 - **Wikipedia — Random**: ok (1 articles)
 - **NASA — APOD**: ok (1 articles)
 
-<sub>Runs so far today: 1</sub>
+<sub>Runs so far today: 2</sub>
