@@ -1,21 +1,21 @@
 # Daily Knowledge Garden — 2026-10-27
 
 ## 🧭 Daily Summary
-Global coverage includes 'I'm a single mum on £41,000 and limit my weekly shop to £40.' What do you want from the Budget?; Trump administration loses push to block California votes from alleged noncitizens - Reuters; Trump administration attempting to prosecute former FBI Director James Comey again - AP News. Local coverage includes Man convicted in non-fatal Northern Virginia road rage shooting - FOX 5 DC; South Block Grows Its Northern Virginia Footprint with New Falls Church Shop - RestaurantNews.com.
+Global coverage includes Truce begins in Ukraine city where residents ate weeds to survive; Minimum wage set to rise but 18-20 year-olds will not get bigger increase; Boeing will not reach 737 production target until early 2027 - Reuters. Local coverage includes 'His Business Was People': Tributes Pour In For Beloved Virginia Businessman Jared Snow - DailyVoice.com; Henrico County remains under a drought watch advisory after Virginia environmental officials reviewed conditions across the state this month. A drought watch is intended to alert state and local officials and the public to developing conditions. Full story: https:// - Instagram.
 
 ## 🌍 Global News (cross-source)
-- ['I'm a single mum on £41,000 and limit my weekly shop to £40.' What do you want from the Budget?](https://www.bbc.co.uk/news/articles/cmx235r9wr3yo?at_medium=RSS&at_campaign=rss) — BBC — Business
-- [Trump administration loses push to block California votes from alleged noncitizens - Reuters](https://news.google.com/rss/articles/CBMitwFBVV95cUxPTW01WVRuSHIxWnkzWXd6czZLd3cwc1ZIRUFvTEt6VFNnNndPT2pNeFg1NXk0SXFiMXlGU0w2TWt0Z2d2b2tfcGNqUFdWRVdvenI5eHN0OTAxM01feU5BYjk1WU5EYjFheGFFbzBmN2FtOU5fYnprc21Iejl3VzA2MmN5aHl6NEZmbS0yZlNvYW91TjF1Y2VvYmQzRl9tYml5YU5JMGg3VmIzcXdZNDlUUGVpVWNqc3c?oc=5) — Reuters — Headlines (Google News)
-- [Trump administration attempting to prosecute former FBI Director James Comey again - AP News](https://news.google.com/rss/articles/CBMinAFBVV95cUxOVFhiQXJoSHJjeFJsN3VtWEpEbTEzcktHWnRFU0ZpSW02MXJQcVpWaUEyMW81U19Ea2lBQnA2Nk10QlI5cTlMUGhuZG9ZSDlQVWh3OEV4STB2WXYwc2FCelZRak5PV1hCYmNHWGFCLWhMSUt4WFRKVFlaeldwdExWaXlHR210NllvNFR3ekxNakxOWVVuR08xU0lSSUo?oc=5) — AP — Headlines (Google News)
-- [Equities end higher as Anthropic's IPO filing buoys AI stocks - Reuters](https://news.google.com/rss/articles/CBMirgFBVV95cUxPVVlfUU5UYnVIOHVRRHJCaWJNQ0NtM0V5aXdZUE5QSEhGVTAxWmdXcU1KeGVEaEtYTXlEal9YNjMwblR6bGZQcm5HODd6N2xnNUppZzdXMDVTSWwtZEc3a3p3Q0M4VzRtaHo3QTd1VDJpaGNPQmw0WjFNaEMyQ2JyOVpGcmZEbktIdk45OHp4blZxdzc5UllRT2V1cnllVTVVTjVYZm1IZ0VjWDlwTnc?oc=5) — Reuters — Business (Google News)
-- [New weather warnings as third storm set to hit Scotland](https://www.bbc.co.uk/news/articles/c5vgj8xwyj1zo?at_medium=RSS&at_campaign=rss) — BBC — Science
+- [Truce begins in Ukraine city where residents ate weeds to survive](https://www.bbc.co.uk/news/articles/ck20wjnv3w0jo?at_medium=RSS&at_campaign=rss) — BBC — World
+- [Minimum wage set to rise but 18-20 year-olds will not get bigger increase](https://www.bbc.co.uk/news/articles/c6d93gq1xdgno?at_medium=RSS&at_campaign=rss) — BBC — Business
+- [Boeing will not reach 737 production target until early 2027 - Reuters](https://news.google.com/rss/articles/CBMixwFBVV95cUxPNnZ1c1Q5Q2tSYnRpdnppV25UNEpNekRsVGhpbkdLVk95QjBkenF1Ni0tOFJFYThrcXlnYjhRbUJWMlo2WHlkLUIzNlJ5UUpoN1p3VUh3b1p5TlJlZHBpaENqVmY4RDZPVTFsRHhMZXJKQzhseUM1V2U4TjMySHdvNzZ1VE9MbnI4ajV1dklVemhwWFRrZmtYWF9qYUNjUTFLOVRMaGNVUG0wSDhHcEZMbXNjcWpHWGZqeUEzc3puMGZwd2FvVU93?oc=5) — Reuters — Headlines (Google News)
+- [Bolsonaro's Party accepts Brazil election defeat, but he refuses to concede](https://www.npr.org/2026/10/27/nx-s1-6019217/bolsonaro-flavio-lula-brazil-election-trump) — NPR — Top Stories
+- [Yemen's Houthis say they hit Saudi Ras Tanura oil refinery with missile - Reuters](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPMU9tRHdmbzQ2ZHlsQzBDVmpqUEhlTk9meXgzN1VMOWlUMnlKOU1ibFRMQ1VQNDNjTkloUG9lb054S2JXZ2YwMS1MMXM4b1pwczl2clNyTHM5RGZVdnd6bzJXTVl4bW4yZ0pGTEV2aEV4dlR2cDNkc0lvNjVMN2ZScklvRDE3S1VyS0FoaC02Z3BqTHJPeTJrekxhM0dONmN0VzdXTmE5QjNfM0pIZ1Q2SHMtSkZzbFNqSThaN2RybDFBdw?oc=5) — Reuters — Headlines (Google News)
 
 ## 🏙️ Local News
+- ['His Business Was People': Tributes Pour In For Beloved Virginia Businessman Jared Snow - DailyVoice.com](https://news.google.com/rss/articles/CBMiigFBVV95cUxOS25Ja29vazRXd2dPd2tpQi1xdlJRODdNSTNKTkNVQ0FFUXlaMVdKV2hrenBBWkRjbzdrNWZKVlVOZWVIblFUYUFwTGpKUzJicnhudXRpQkFaSWwyYms2Y3pYTTJmWnJHVWw4VEZ6SGFlNHhfTFcxZkJ3a2RiU3RkbzctZ1RMZXhsV3c?oc=5) — Google News — Northern Virginia
+- [Henrico County remains under a drought watch advisory after Virginia environmental officials reviewed conditions across the state this month. A drought watch is intended to alert state and local officials and the public to developing conditions. Full story: https:// - Instagram](https://news.google.com/rss/articles/CBMiUkFVX3lxTE1tQ0pEVzBvdjZ5cGxwZ0s4cUQyQTRlNV9FczhHVzdDYmhOZDBWdmlZMjhoVzdYQUJ2Q29haGlvWEFYQzhrajZaRjBtd1FFR3I0b1E?oc=5) — Google News — Northern Virginia
+- [Initial data from Urban Heat Island Mapping Project points to hottest spots in N. Va. - FFXnow](https://news.google.com/rss/articles/CBMiugFBVV95cUxNZ0VIcUowXzBDUmpyeGdJX1l3aEVEeVdHYmpxWFZwT3JrRUFqV3VwUlZtQkxXVndkYlI5TEdrMXRrYzdLOUV2bEFIMmdfNWhEY1VGYm5KR3lhYWEyY0ZXdkVMS1VFbVFsTnd1eTNiZzJteUhaQ0xmSC1lOS1KWlRSYkxrNXpOV202V1paaWxyZE84UVFmazhIYlZRQm9SRnpMNHRWV2w2NEdXMUFmZWJGYmFtamdpNXdzS0E?oc=5) — Google News — Northern Virginia
+- [Jason Kelce played saxophone with an Army big band in Alexandria for a PBS Veterans Day special - The Alexandria Brief](https://news.google.com/rss/articles/CBMixwFBVV95cUxQVERyREFXMDlWVGRVTjJaZ0hfdXV6T2hzM2lCOWxiQkk2NERkLVhTM0p2a0JOblpJOXdnS1VQRnBzUTBMZnpOZjNlSU9qOVRLV0xIN0FWX0tTUENEMkV3bk5GcnFjRFFKZ0IzNV93TzgycHJFU2dLRzNlU3ctd2dsSHAwM0VQZURkajBiX1MyNTAzMTlSYzViNUxIazB4QVpsVGpJT3ZFQ3JxS2Y1a01LSjBMamx3ZmhSMFViMzRCcXFoSjdQa1Rv?oc=5) — Google News — Northern Virginia
 - [Man convicted in non-fatal Northern Virginia road rage shooting - FOX 5 DC](https://news.google.com/rss/articles/CBMikgFBVV95cUxPQmdSRzI1OVl3a05BNUU0bjlZZmdfbG5UcG4tVWhtLVVUU3QzZDVDQkNVVmROejVBLTY2QUs3VkRWYy1GdHJYS0FocVlIcVY2SnZWWmh4VlhkQmRnSHhlRHI5emZ1YVpZTXRHY09zcGtIVnZyWHZFRWNhT0p2QUpCQ1RjVXJ1V1lCRkFCUFEzOUIyZw?oc=5) — Google News — Northern Virginia
-- [South Block Grows Its Northern Virginia Footprint with New Falls Church Shop - RestaurantNews.com](https://news.google.com/rss/articles/CBMimgFBVV95cUxPZzV6clNjREthT2JSSVZXX3RIY1VydWRObm5lZC1iOVhwRDBWYXN3MUs4SGxQaTk2WHBZNVJaYzhkazNyQ3VuYnRTbnZYdDFnVHhhTUdlRnhHczhuTUFHTlVPT21yV2Y2b2RNTkVHTmp6c0tnRGxwRV9xLXg0T1g0MjAxWE5ObVI0VjlPWXFtNUNiT0FfSE44N2xB?oc=5) — Google News — Northern Virginia
-- [Fairfax County Releases Phase 2 Plan Forward Draft: What Developers Need to Know - Holland & Knight](https://news.google.com/rss/articles/CBMivgFBVV95cUxQOU1BcUxfeGpJb2M0NV9QbDVPLUVETjVvcjl0bjBfZHhlSU1EYnptZUhnM0lDWWNXRUhCbFhxeWdmMXNjSlFyeDFzdXlEQnotcHgyYVVxbVhId0Y1elVzWnNwTFpLaHpZVnF6QXBnV0VoOVhOMzZDY3BteXNDeE05M2pISkFEMXRadGtIalhMa3VZT1l2MU1mWHpsRnpRaDRNSTVkT0dQbGk3RjB3cWc3N3hQWlFCTkN6M2VwMXdB?oc=5) — Google News — Northern Virginia
-- [Virginia man arrested after swinging machete at victim in road rage assault - FOX 5 DC](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMExMMElxcFFJQlRVZ0Y5c0t4ZXI4Z0NwYkc1Rms1SHdVNThZS1BtQVlBSVBvNzNnVndNcW9IbmFvdkZ1Z1B5dlRpampOQ0d0LWJGeFQta1VwLUROM29jRTdKeE56RWI2NmFNNTJPT0dob0JyWW9DV2Q3R0FRU191Q3UxRG5iSl9hV0xVOFV5bFAwOE9KR3c2WUQ3a2h0Q3IzbVlNRnI1WTRIUQ?oc=5) — Google News — Northern Virginia
-- [Dominion Energy representative discusses ways to lower heating bills - WJLA](https://news.google.com/rss/articles/CBMipwFBVV95cUxQamZteW5YTTk3dHdpTmFPUG4zdGxDSkpBX25zZGNrOTRpZndPRGpmV1lScENWNXM5cmZ6djZRZlJkR01LVXBzQ3BtWGlmcmE1blN5aGJfN2M1aTlnTmdmTThkNUZrY3NCQjRBMzg0RDBmbWhfLUdPTWVuRU8wR3VVaWVndm52MmVSYmRBWlNUb1JrdzIyYkN3SmktVkYtT1dsdnk3TllqMA?oc=5) — Google News — Northern Virginia
 
 ## 🚀 Hacker News (Top 5)
 - [Anthropic S-1](https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm) — 1443 points, 1408 comments
@@ -34,12 +34,15 @@ Global coverage includes 'I'm a single mum on £41,000 and limit my weekly shop 
 - **2014** — Britain withdraws from Afghanistan at the end of Operation Herrick, after 12 years four months and seven days.
 
 ## 🎲 Wikipedia — Random Article
-**Bill Mason**  
-Bill Mason (1929–1988) was a Canadian naturalist, author, artist, filmmaker, and conservationist, noted primarily for his popular canoeing books, films, and art, as well as his documentaries on wolves. Mason was also known for including passages from Christian sermons in his films.
-https://en.wikipedia.org/wiki/Bill_Mason
+**Maria Pope**  
+Maria Pope may refer to:
+
+Maria Ann Campion (1775–1803), Irish actress and second wife of actor Alexander Pope
+Maria Sophia Pope (1818–1909), New Zealand shopkeeper and businesswoman
+https://en.wikipedia.org/wiki/Maria_Pope
 
 ## 🌌 NASA APOD
-[M42: The Great Nebula in Orion](https://science.nasa.gov/image-article/apod/2026-october-26-m42-the-great-nebula-in-orion/)
+[Noctilucent Clouds over Sweden](https://science.nasa.gov/image-article/apod-2026-october-27-noctilucent-clouds-over-sweden/)
 
 ## Feed Health
 - **Reuters — Headlines (Google News)**: ok (15 articles)
@@ -67,4 +70,4 @@ https://en.wikipedia.org/wiki/Bill_Mason
 - **Wikipedia — Random**: ok (1 articles)
 - **NASA — APOD**: ok (1 articles)
 
-<sub>Runs so far today: 1</sub>
+<sub>Runs so far today: 2</sub>
