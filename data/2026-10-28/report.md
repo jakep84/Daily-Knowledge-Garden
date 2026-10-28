@@ -1,21 +1,21 @@
 # Daily Knowledge Garden — 2026-10-28
 
 ## 🧭 Daily Summary
-Global coverage includes Tax on banks, energy bill help and minimum wage rise - what could be in the Budget?; I get £4,062 a year and am trying my best - here's what I want from the Budget; Rights monitors raise concerns over senior UAE diplomat bid for next UN boss - Reuters. Local coverage includes Stalled in D.C., Waymo turns to Virginia - The Washington Post; Profs & Pints Northern Virginia: Nature’s Hidden Logic - ARLnow.
+Global coverage includes The one thing that didn't change that will affect your pay the most; Budget 2026: Key points at a glance; US sanctions North Korean network accused of defrauding businesses - Reuters. Local coverage includes 27 Virginia Cancer Specialists Physicians Named to Washingtonian Magazine's Top Doctors List 2026 - Morningstar; Virginia mother charged with homicide after 8-month-old infant drowns in bathtub - FOX 5 DC.
 
 ## 🌍 Global News (cross-source)
-- [Tax on banks, energy bill help and minimum wage rise - what could be in the Budget?](https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss) — BBC — Business
-- [I get £4,062 a year and am trying my best - here's what I want from the Budget](https://www.bbc.co.uk/news/articles/cmx235r9wr3yo?at_medium=RSS&at_campaign=rss) — BBC — Business
-- [Rights monitors raise concerns over senior UAE diplomat bid for next UN boss - Reuters](https://news.google.com/rss/articles/CBMixAFBVV95cUxOVEo2NDgyNjdJcHpxNTlUcGpCRURGc2JWTjhjSUx0aHBYUEhCcVlTajg1QjRhczNUeVBRS0JURTlMYU9VMGtUVks5MnBCal8wOWI5TTA1eFA4SU8xZDBHanZ2eUZSTVMwbWVVQTRpS2VWNW5STjRVYjBsVHBKRGZEaG1nRERnS1ExTGxad1NfUllEc28tc2k2NnpiU0l6V0h5dF83WmswWUV5YWpaM1Z0UENqTlpFVFFRanI0Z21aaFZ5cGpD?oc=5) — Reuters — World (Google News)
-- [EXCLUSIVE: Hackers target US FEC system, disrupting campaign finance disclosures days before midterms - Reuters](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPbDV3WWJ5Ulh3Q05tT203WGNGVE1UNmFvZ2ZoclFXemtrWXFhNlRhUmtabmlPZXRaYU1sQ251VWhSSWJMODNJQkRrMk9MNFdfb1RVT2VJQTR4akpfM0JQNk9wMkpMV2tFY2tHc2ZpTGMwcHlLNFU3UDBrZk5MbGFrb2ZqX25XRVZCQmI5Z29LbDI5cjF2S0JodjVNcVVmV3RyUFR1SW5RZUwwY2JlSWJrRUMyNEgta3dl?oc=5) — Reuters — Headlines (Google News)
-- [Grand jury refuses to indict former White House aide Cassidy Hutchinson, AP sources say - AP News](https://news.google.com/rss/articles/CBMimwFBVV95cUxNNnBPa2VzUUoxM3RCb0cyd0Fmem05T0lHMVJrejNkdGdGLU1xRmZGQ0g4UDA5N2g2NVRSU0QyTkVWUTFaYXYxUVhDVUZuZElEaDA3dkNZTW9nM3VjXzlyR2R0LXA5a0doNmh5SF9WVVd0UDlYb3hRRHVnalJuZjdGSkNxYWVmUnVLZlJVMXFzX0tReVV0MnVDQ2Jodw?oc=5) — AP — Headlines (Google News)
+- [The one thing that didn't change that will affect your pay the most](https://www.bbc.co.uk/news/articles/clydn7r5pn1o?at_medium=RSS&at_campaign=rss) — BBC — Business
+- [Budget 2026: Key points at a glance](https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss) — BBC — Business
+- [US sanctions North Korean network accused of defrauding businesses - Reuters](https://news.google.com/rss/articles/CBMinwFBVV95cUxNWUtIYXNSS25velBzRjB0ZGpaYWtLdDhVb3VVeUprZUkxeEVBWUlMdC0wc2gyUU5UR3FWOHozOWdxRThDNlVHRC1aVFBzVGJsZThtLUZWMmEza3QtU0Y4c0VxQlptYjlVbEtuV2NEQ1dzeHVNMjR0RUlCX2Rla0NhbkFFdmlxOFVQbTBfZUpEWXRjQno2Q3VEblB5Q2RDcHM?oc=5) — Reuters — Headlines (Google News)
+- [European gas touches €100 for first time since 2022 energy crisis as consumers, industry feel the pain - Reuters](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZmZZVVJDOHFvUk81TDltQmFoQmlUOTZqaGNLVEJ6UEtDMnY4VUlJd0dJVTlEZWpMX2Y3NHNOWF92QVpKUjBvdG5ybWZfYlFsNHpTOVRIUlFhWmgtcDRkNFVqdmd0ejhKTU5EWWRlRUd1bTMzM05tYjR3b0RMSHdQb2ZoVGtvQ2hDa0V2blR1bHdlRHdoZF9kbVByNlJPdVd6bTFwZW5lczBfU0p3RU1LZmpJOWtMcnhVWFkxbk9salA?oc=5) — Reuters — Headlines (Google News)
+- [At least 68 dead in Spain after one high-speed train slams into another stopped on tracks - AP News](https://news.google.com/rss/articles/CBMihwFBVV95cUxNejlKVDZEb2JQZ1lKZzBJSEZISTlCUUJBTEJYdVFJNmRTbi1wY011V1JrUFJRY0k4RjNYaHoyZ2VnRjUyZzJjWXVlNXRKOXU0NmJ4TndFVElHSFJ1WDZkQlFDZmJuVlJPRXRfMXVFbGtCVFl6bVNGd1lkRDFxWkc1QmFQVzlCS00?oc=5) — AP — Headlines (Google News)
 
 ## 🏙️ Local News
+- [27 Virginia Cancer Specialists Physicians Named to Washingtonian Magazine's Top Doctors List 2026 - Morningstar](https://news.google.com/rss/articles/CBMi7gFBVV95cUxNV0FMU3o3ei11NFJNZ0p2VHZaRVJPV1VOMEZ0TGw3ZEVvTGtob0ZUOWJMdm42TmdOOGxqNEY5S1JlNUVPeC11MEJ1RVJlZTl1ZXNCemplb1dtTHlnUTNobFBFdGhvaDRaZHdJTlgwNEo5eDVwRDFEUzFSbzVhc1N3SEZJbkNwUWgtRFMwbmFPV0h4eDFDeU5sSENLQ3JobG41S05KTnRxaU9xRGZkQktUZUlSUTJYMld2SVVpR1BYLXphYTFkV3hJbjRKdjJkRmdpU0FQLVdjYjh1dUpscm9vNjFiR2NlTmZDTlBBTGtB?oc=5) — Google News — Northern Virginia
+- [Virginia mother charged with homicide after 8-month-old infant drowns in bathtub - FOX 5 DC](https://news.google.com/rss/articles/CBMiogFBVV95cUxPS1lLc1RMNkd3TVlZQUlFMHdvdEI5SnRIU05FVnFNdHl3djMzR3JzZEhYNmlXdC0xdWZpbm9yQm9iNXVIOHFjejRyZm1QUS15UVhic3FSbGVYdE91cjY3OE9tajN1N01GQjJaZ21qaVRaZlVFQzc4R0xFY043ck51OGdLSGVpaVRpcjcyVDljTnY4Qk1jWXZ2MThPVjRxaDdiWVE?oc=5) — Google News — Northern Virginia
+- [These striking photos show how data centers are changing Northern Virginia - Axios](https://news.google.com/rss/articles/CBMitAFBVV95cUxOR1pNS3NaQm1oNW1jX1J6UWpoN2VEVWlST3RnY2hNRWQtV0N1Rl9lR3hyN1RaU3VhQy1PLTk1RWtMc3VCYzJPWjBuRUlQVDVMblplbEdscFRISV9tdWgwdUtYODZMUTZxZTFJUXlITkNCbl9GUy1KeW1YTU10RjFBd092ZTM0WWJwRWFJNS1CWVVnN2t1QzZfOGtBOS1mamNtSTFMLWxIU21iZlVHZy1aMmE2YmI?oc=5) — Google News — Northern Virginia
+- [Top of West Virginia CVB rebrands as Discover Northern West Virginia at annual dinner - WTOV](https://news.google.com/rss/articles/CBMisgJBVV95cUxOWVBVRG9IMGlrelE0R1ZNREZkUE9jdm9PSV9NNGVSSXpXT0lWWU03R3hXRWFWY1ZpWGc2NVdvclpRUktUWHA1dlNvQTEtaUNkNXNaaUVEWHhmbWJXT294d2szY2pNazNKbFZFTUtwVHF1RENTWEtBd1BLQnk3ZkRGMGlwRWJoX0F5LXltWkh4bzdJM1ZVTzJrNG5fS3Q1RjhiODBCenRmYmstUEVDRVJtemhScUdHcTNRT2ZJUWRNUmk5WUhYY0p6VU56ZjZPOVN0WTQ2c3ZZbUJwZ3lPUDFrUmVkSGRFZXRFTUxhY2hOdDhfRmt4a2JxbmozT0Qyb2pYVkd3SnVCS2pQMUstZHJOUl90UElFX1dzQzNfMEFjM1NFMk1DR1Z5Q0ZTeG9vakxfNlE?oc=5) — Google News — Northern Virginia
 - [Stalled in D.C., Waymo turns to Virginia - The Washington Post](https://news.google.com/rss/articles/CBMijgFBVV95cUxOVURiVEtaYUdaUXM4UUVVdVJMVzdIY3FEUEtmWGRoZXg4dUZXaTNtdmFYVlU3NzlKNHI4cV9kanJ3VzRfYjd0ajJJUTdYQkFLZkFDLUJJc20tUFlCZWhtQWxZNHJqRVNydHVLdFFILVA5Y1RjZHJaajVwRmcwMXN4UmtsRFctWDlVY05RdzdR?oc=5) — Google News — Northern Virginia
-- [Profs & Pints Northern Virginia: Nature’s Hidden Logic - ARLnow](https://news.google.com/rss/articles/CBMikgFBVV95cUxQS1IwUnZ6YUMwZlBwaFdmMTM4UkZnSkt4WmtjZXI1OGwxV2NmR3Y5WkZlMEVXRFk4bFpJbG9yUnRBb2VZelNCajQwaGtNdV80aVJoTmZ1eDRHVFdhX1FvMzA1aXR5cGxIUjhhV2lDQjdBT1lXYzQ2RXdfS3lybGRBRE5icVVsZ0NaNTRpa1hMMENZZw?oc=5) — Google News — Northern Virginia
-- [Full Stock Cabinets Sterling Showroom Expands Wholesale Cabinet Selection for Northern Virginia Contractors - EIN Presswire](https://news.google.com/rss/articles/CBMi6gFBVV95cUxQMkhJZy1fd3E3WHhPMFZXenpadU9fWXBJRHVoLWlzUW5Rc2o2LUFzUlBDck1QLUtPaHgyZ3liS2xfbFVkSmFJSTlZTUE0VHMxejhMTFExNUhNXzBuWUw1dDJRSFhGUlJvQ2lSNi16WnlKQTVfWVlxX1l0cUQ4cjliYzlGTU5mWXZUT2NpbnNTZ1M2U1FXeWswOE9TMnRETEp6SXRCS0t6cFJza3FveG52OXZkUFBOTHE4Q3NBVmtnTjZpMFg2SU5IMlAzMnRUV2tjVHNaSThzRDlGS0UwYlZaNm5oalhQMk5Uenc?oc=5) — Google News — Northern Virginia
-- [Will It Rain On Halloween? Early Forecasts Released In VA - Patch](https://news.google.com/rss/articles/CBMikAFBVV95cUxPdDlpQ2tNcHdYN1JyZHkzRVN1TElROW9ScjhCVnh2TUpGNi1ubDhhNkJiQ3RkRjBNUmRBajhlMmVOZzNJU0lUNkhVSXJtamw2RUY1YS03cE1sNXdYTERoWnV0RElscG82a1NXckZTYWRaTzNEYnJERzc4Q01jTFl3SWN4UHhqTXJoMUo2Nk9neE7SAaoBQVVfeXFMTnZybFNfeDJURVVXa2M1NUZ0Q2U2cXlZLTctZ0cwLUh3WDMxcF8xbGFjcjFDRFh5NTdmN2ZlbFd6WFlLRXkzMVhGRlJvU0JOLWxHSmZZcEM4eDVTeDRGLV9naGNrT1NmME1sWEZ2bjl1NXRRb1dZYUJrQnpJZ3I1U0xMeVlnV2U0UTVCam10Vm95LUFOUmVrRnc2ZE9CWS1LalMzUTdSVVFEZUE?oc=5) — Google News — Northern Virginia
-- [Infinity Replacement by Marvin® Washington DC Named the #1 Window Supplier in Northern Virginia for 2026 - The National Law Review](https://news.google.com/rss/articles/CBMitgFBVV95cUxNOGE0MmhLODMtcWExQk1wc21LSzkxUVh0ZEctUFF5YXNUYkFoR1lyZEFQelhUNTdDRlZmRFBLem5rTnBTN0RnRl82Sy1nbHI1REFPRzdTNS1qclY0NXlZNkNpWmVWVXdpU3hrUmV1MGJmcjQzTm9mSTA0WmpueU5raWQ5eU5OTUpuaXdtVlhiLWluLVVPQUtiUTZGZF9YSUR2dEYwaS1xaWI0UUx0eWU3UTU2SkNTQQ?oc=5) — Google News — Northern Virginia
 
 ## 🚀 Hacker News (Top 5)
 - [US Government is hiding a secret court ruling about how it spies on Americans](https://www.wired.com/story/the-us-government-is-hiding-a-secret-court-ruling-about-how-it-spies-on-americans/) — 751 points, 271 comments
@@ -34,12 +34,12 @@ Global coverage includes Tax on banks, energy bill help and minimum wage rise - 
 - **2013** — Five people are killed and 38 are injured after a car crashes into barriers at Tiananmen Square in China.
 
 ## 🎲 Wikipedia — Random Article
-**Leccino**  
-The Leccino olive is one of the primary olive cultivars used in the production of Italian olive oil. Across Italy, it is one of the primary olive cultivars found in olive groves.
-https://en.wikipedia.org/wiki/Leccino
+**Meadows, Maryland**  
+Meadows is an unincorporated community located in Prince George's County, Maryland, United States, located near the east end of Joint Base Andrews.
+https://en.wikipedia.org/wiki/Meadows,_Maryland
 
 ## 🌌 NASA APOD
-[Noctilucent Clouds over Sweden](https://science.nasa.gov/image-article/apod-2026-october-27-noctilucent-clouds-over-sweden/)
+[The Mutual Occultation of Ganymede and Io](https://science.nasa.gov/image-article/apod-2026-october-28-the-mutual-occultation-of-ganymede-and-io/)
 
 ## Feed Health
 - **Reuters — Headlines (Google News)**: ok (15 articles)
@@ -67,4 +67,4 @@ https://en.wikipedia.org/wiki/Leccino
 - **Wikipedia — Random**: ok (1 articles)
 - **NASA — APOD**: ok (1 articles)
 
-<sub>Runs so far today: 1</sub>
+<sub>Runs so far today: 2</sub>
