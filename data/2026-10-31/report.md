@@ -1,7 +1,7 @@
 # Daily Knowledge Garden — 2026-10-31
 
 ## 🧭 Daily Summary
-Global coverage includes Starved residents of Russian-occupied Oleshky return to Ukraine during a rare local ceasefire - Reuters; Evacuees from Russia-occupied city where residents ate weeds arrive in Ukraine; More than 5,000 die from Ebola in DR Congo's deadliest outbreak. Local coverage includes Northern Virginia high school football scores for Oct. 30 games - InsideNoVa; Omer “Roy” Wiles “Buster” Obituary (2026) - Fort Valley, VA - Northern Virginia Daily - Legacy | Obituary.
+Global coverage includes Starved residents of Russian-occupied Oleshky return to Ukraine during a rare local ceasefire - Reuters; Evacuees from Russia-occupied city where residents ate weeds arrive in Ukraine; More than 5,000 die from Ebola in DR Congo's deadliest outbreak. Local coverage includes 'I'm going to be priced out': Affordability, constitutional amendments drive Virginia voters to the polls - WUSA9; Northern Virginia high school football scores for Oct. 30 games - InsideNoVa.
 
 ## 🌍 Global News (cross-source)
 - [Starved residents of Russian-occupied Oleshky return to Ukraine during a rare local ceasefire - Reuters](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQWFpDMzF1UGlpLV9sdTZxWXRVLW04dWROZEtPTXE2V0JpNDM1c1pjOS1HbVlUNnd0THlRNnkzQTJfa1JxY3ZmR1llTHJTMnFpcll4SjN5TWdKMnY3VWRVWklVTkFxbkFJSEl5X3owR1FoU0RJZE9oUUJpTl9CUXpoV0k2al81eHpfWGNjclVrZU5lOXEyUnA4Y0JSd1dwVnR4LWVscXlza19fbF9nZmMwYlBITndMREZZTUlweF8tcTJSWDg?oc=5) — Reuters — Headlines (Google News)
@@ -11,11 +11,11 @@ Global coverage includes Starved residents of Russian-occupied Oleshky return to
 - [Iran targeted US air defenses then hit aircraft and buildings on Mideast bases, AP analysis finds - AP News](https://news.google.com/rss/articles/CBMikwFBVV95cUxQMnA4dnBfVkNUZ1dxQWFVbGtlSWpSMDVfWnBXUHI2Qk5wWE9jUWlUZFpySkhzZVVuQ0pfOURlM0Q3RFlNbHNvaFh2Snk2TndhNnhQckdpQW92VjMwUXpZTVVyMUVuSEpzNkhzdEZPXzV2aVpHWVJ0WThGSHp6cE9ISm5HMngxNlgtckcwUFdqY2hRUHc?oc=5) — AP — Headlines (Google News)
 
 ## 🏙️ Local News
+- ['I'm going to be priced out': Affordability, constitutional amendments drive Virginia voters to the polls - WUSA9](https://news.google.com/rss/articles/CBMi_AFBVV95cUxPakxjX25ZaUF0a1IzRjVfVmdVa0syVjFxR3Iyb09WdElObFlkbm5uNFdWRV8tN2pOQk1ITFF5dmJVbzFhVUp6d3g4LUZzMWtFb0FIdUQ2aUJYbmFyY2JNWHRRcXFLcldpVjdGbV9WRnhEUVcxcFBzUndpQm9YTnVnNjR4WVVWUVZuSTJaSGdweWhIemtXaG5zcTBRM0lYZkd2S3dTQTVuVURxNTY0bXI0blQ5YmdSejEzSHQzdk9xSUUtYjlhc09zbDFjMWJUOHJRalJLcXExTk4zQ09HMjZ1SEVRdjRtOFlnaHJpUkFJc3hWNTczWU1hQXFMajA?oc=5) — Google News — Northern Virginia
 - [Northern Virginia high school football scores for Oct. 30 games - InsideNoVa](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQT0Vpb3d2WGk5NFk4UFZ4eU5iSjdGT21pQUNLMWJnWU03Qm5NVlgybi1SMzF3bkhiSmk0S0gza19CR2FUcDliMFkxRkR1MlFhd3hzMWR4a005SmpPQjUzTWNoVDdNb19ZTmhmcE56eWpEUkxrZE1RN3k1YzBDSDBwdnJKMDhJSmdtWGxmTk9mbFRZVDNHaWE4SEQwZ1prRHRybVhlY1hMRmU?oc=5) — Google News — Northern Virginia
-- [Omer “Roy” Wiles “Buster” Obituary (2026) - Fort Valley, VA - Northern Virginia Daily - Legacy | Obituary](https://news.google.com/rss/articles/CBMilwFBVV95cUxQcUMxX0FLZXlEWC1oa1FRN0FDN0xkc1R1QVBZWG8xalQ1Z2pPSVo0cmlHN3Uyek02eFdhUERzck1adWgxZzRvNU0tT2ctdXZ5VGtmZVpQM0VMdkxycUpjZHJ5UHFqMjFGV1ZCUm91NVJwZ0FiR0o3WHNfTTRiOElxWWRheUx0bFdDQy1aOW5WNElIMkszRFZ3?oc=5) — Google News — Northern Virginia
-- [Arlington Pizzeria Named Best in Virginia by ‘Food & Wine’ - Northern Virginia Magazine](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQS19ld3dUcXRhREhZRE14UkFhQkNKRU1MdnA2bzFqQmhhbG14enE3b2hSbjREdktBd21SajBZZHA1OTFlV19FSDRTcC1hbFhrb2pzOFRrbWpSdUdfNk4zTXNOVnFWeUZDZHNpMUszMWRzSjB3aHdNeWxjVGJBUzh3ZGJMRDdCUkFoS2EycnNBN2JLWWZfcmN3U0lqWEp3Z1BmOE1DWnhWRVZGQ0RySEhNaVg4clFjYlBIbWN3VXhPS0Vzdw?oc=5) — Google News — Northern Virginia
-- [Northern Virginia gymnast talks dreams of 2028 Olympics - NBC4 Washington](https://news.google.com/rss/articles/CBMixAFBVV95cUxOUFpvS216amVvclByRHFCdTFESE9xWHdIM1NFY3dVR09sTjRpUV9GUkVOQU4xYUFBWS1wc0l5X2s5NXRydXF1MzV2QjF2OEtvX3A0ZXI4NWdDc0tvUDlwelcySFN6c3U1aFM4ZURnbUJrLUNWbmdheTY5bTFYSHJiazdiQTBEZ1I4ZVJ2emJMLUROdmVOT05nN0lxT0RrWDFQNFZfN2RuNE5raTYtaElGTlpBNXRhNjhTaUhXeGZpcV9IaTBE0gHMAUFVX3lxTE9LdnQ0YXMtNXpVVFd4djRZWS15dll5MnU1Si1nUEtyV0JTM0k0N2RzMHVPVjdfU050U3gxd0xYNlhYbFB3YVRtZXpuT21WRkUzOUpuTXNvam1Iakd4bXg0bjRvcFlXRm9pcS1ESGRKLTEyX2E3VmticEg2NnFNRHZzMDV5cWU1ZXM4ajBKVzVCeDJHTXRCcXM1SnE0V2ZVQW1vYjFuSEdTRE1oU28tUUJMQ3BKU0hNSF9XTHhWZDVZUEhnaVBMb2F4VWFFOQ?oc=5) — Google News — Northern Virginia
-- [Northern Virginia man accused of stealing $1.4M in international ghost student loan scheme - Potomac Local News](https://news.google.com/rss/articles/CBMisAFBVV95cUxQdWlQWWRVV2RVQzRJMk9wSGo4TERVNXhHekVGdlB3WWRaMDF0NlYyNGlVT25wdVFvX0gySjVEUHlrQmV3LWZZRGpwdld3R21qX1VxRjRFSk9vSjNPdmpTc2ZnZkgtaDF3WEMzWjV5RU1kcUVBT0NvUk1ZWnpibkFneVNEb3o1ZlVkX0tFZy1LdFBLMExOOGZvd0pHRWZNVjBOdzdFdXcwcmlBSEhtZXBKXw?oc=5) — Google News — Northern Virginia
+- [Northern Virginia high school football scores for Oct. 30 ga... - InsideNoVa](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQT0Vpb3d2WGk5NFk4UFZ4eU5iSjdGT21pQUNLMWJnWU03Qm5NVlgybi1SMzF3bkhiSmk0S0gza19CR2FUcDliMFkxRkR1MlFhd3hzMWR4a005SmpPQjUzTWNoVDdNb19ZTmhmcE56eWpEUkxrZE1RN3k1YzBDSDBwdnJKMDhJSmdtWGxmTk9mbFRZVDNHaWE4SEQwZ1prRHRybVhlY1hMRmU?oc=5) — Google News — Northern Virginia
+- [USPS Hosts Job Fairs in Northern Virginia - USPS](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQLXJGVGNSaUE5eE1GYWlOZFRHMjdkYXA3SG1Mb3RNYzVRSFoxUnlwZFdtZ000WFk5bmgwbHJsMUF6aW5VZ0s0a2hFOFFjUXRDU2FlZXl1Z002TU0tU1h0alNESVBhMUgzNDAzMGxtQnBubXpZRDZ1Q1NsSm1LSzdDeTFHUjNoVEliSFRKWDVkVEZXcVV0SlRzQU1jRl9wLVdYSmQtek5jZVI?oc=5) — Google News — Northern Virginia
+- [Porches and pulpits: Northern Virginia’s final push on abortion amendment - thewash.org](https://news.google.com/rss/articles/CBMipgFBVV95cUxQMm5CMFJMZHFXWDVNNXpLS3YzdGRQTVNZcExPMDNyUHo4ZkFkLXZua01vZm1faktsUW14NEZwV1pCeHpzcEIwSFhGck1JY20yLTF3QmdVeXp0NHpoTHVLcmdmTzZReU95eDdMZV9pXzVhQlg5V0xJUlBJaVpDTE1fYUY3dS1MSTJVWWhhbm41cldyaXJ0UlFfd3FmREFWaHF6SEFHYXlR?oc=5) — Google News — Northern Virginia
 
 ## 🚀 Hacker News (Top 5)
 - [Backdoor in Claude Code for VS Code extension on the Cursor Marketplace](https://phorion.io/blog/offical-claude-code-vsx-compromise/) — 747 points, 469 comments
@@ -34,9 +34,9 @@ Global coverage includes Starved residents of Russian-occupied Oleshky return to
 - **2011** — The global population of humans reaches seven billion. This day is now recognized by the United Nations as the Day of Seven Billion.
 
 ## 🎲 Wikipedia — Random Article
-**Arafan Camara**  
-General Arafan Camara (2 January 1948 – 6 January 2008) was a politician and military official in Guinea. He died on 6 January 2008, 4 days after his 60th birthday.
-https://en.wikipedia.org/wiki/Arafan_Camara
+**Agog**  
+
+https://en.wikipedia.org/wiki/Agog
 
 ## 🌌 NASA APOD
 [Night on a Spooky Planet](https://science.nasa.gov/image-article/apod-2026-october-31-night-on-a-spooky-planet/)
@@ -67,4 +67,4 @@ https://en.wikipedia.org/wiki/Arafan_Camara
 - **Wikipedia — Random**: ok (1 articles)
 - **NASA — APOD**: ok (1 articles)
 
-<sub>Runs so far today: 2</sub>
+<sub>Runs so far today: 3</sub>
