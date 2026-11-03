@@ -1,21 +1,21 @@
 # Daily Knowledge Garden — 2026-11-03
 
 ## 🧭 Daily Summary
-Global coverage includes UK and EU agree draft deal to scrap Brexit red tape over food exports; Dodge announces its return to the NASCAR Cup Series beginning at the Daytona 500 - AP News; Man and boy arrested after allegedly attacking One Nation volunteer with baseball bat in Australia. Local coverage includes Election Day Is Tuesday: Virginia’s Closest House Races, What’s on Your Ballot and How to Vote in Alexandria - Alexandria Living Magazine; Carolyn Valerio Obituary (2026) - Edinburg, VA - Northern Virginia Daily - Legacy | Obituary.
+Global coverage includes Trump's Justice Dept identifies where US election monitors will be in the 50 states - Reuters; As Americans vote, Trump says US will stop $4 billion in aid to Israel - Reuters; Irish Olympian Ciara Mageean was a 'talented and inspirational human being'. Local coverage includes Virginia voters head to polls in pivotal midterm contests - FOX 5 DC; NoVA Daily: NBC4 Announces Jim Handly's Replacement, Here's Your Election Day Voting Guide - Northern Virginia Magazine.
 
 ## 🌍 Global News (cross-source)
-- [UK and EU agree draft deal to scrap Brexit red tape over food exports](https://www.bbc.co.uk/news/articles/cmp3grwre9xdo?at_medium=RSS&at_campaign=rss) — BBC — Business
-- [Dodge announces its return to the NASCAR Cup Series beginning at the Daytona 500 - AP News](https://news.google.com/rss/articles/CBMilgFBVV95cUxQOGdpakRKNFVFZU5GZXdndXhWd0VGYmlfdDM2UTVCVVpncFlrdHB2UUp0aDBYVEFFcHVidVJLY0piZklmc2t3WXZZSldLQjZlR3oxZWFmb01FN3RaZmphZXdReTMyak5xZUtCbXZPNjA1OFc3ZWdnQmpydU1yX2pVOThlMHNfX3NNaHFvdFp3OThWa01LX2c?oc=5) — AP — Headlines (Google News)
-- [Man and boy arrested after allegedly attacking One Nation volunteer with baseball bat in Australia](https://www.bbc.co.uk/news/articles/cwly3jd27m9xo?at_medium=RSS&at_campaign=rss) — BBC — World
-- [Oil rises after report of US strike on Iran's Qeshm Island - Reuters](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTFpzbEJURFlBbkE1RzNfclduVWpDY29HaWY3dnZJNUFuTHFsckZXSU5iTGJHdUFzQkVmeVhvdk9IME9Hdkxwc0NQZzg4dFFzckltYVlzcGdWY2xhYmJWMWlMVmFyNml3YmFoSDBZMGdPZWlpU25IM3UtMW5iR3d1dGZrMGF4SzQ2MklEeG5lWU1iRUZjVDd5Nnhjc0dQamdDdEtUc3NMcFZDMTQ?oc=5) — Reuters — Headlines (Google News)
-- [Parts of a Learjet may have broken off midair before Florida crash that killed 9, investigators say - AP News](https://news.google.com/rss/articles/CBMimwFBVV95cUxQNWplWXJyaW1GUjY2TkpCVXpWaEhTWjBFZFQtckh3UzlxNVN5SlAwS1JOR0xWTk9WWnJxeTRKRjZYTGtkdFhzWTVidmlzZnhUQ2VEMXl4dmU5cmtaSmdOSkNjN3kyMGVOSUs1YktTbTF3Z2I5Qkd6UEJhdHpwLU1FYkFVdDE1U1NvNWc5ZUVsZGh0Z29aSGkyOS1kYw?oc=5) — AP — Headlines (Google News)
+- [Trump's Justice Dept identifies where US election monitors will be in the 50 states - Reuters](https://news.google.com/rss/articles/CBMixwFBVV95cUxPbGRoZ2w1TlIydE5odC15MjNOMlpTV3hMcFRwaDBPbmFVUzRBUkp4RXVpUnl3MHZuZmhVVFhXVDRkSFl4ZmUzVWsxczFwRHMzNU43WUhPbWlZTWUyTE1lQ3VzWko2SDBzLUMxc213T3ppaHlfcjl4MVdCNFY2TkZYWnJ2U1VWek9SckwzaG1zTXQwdDZTUmk3blZsQVFqMVdPN3Y0N05rOWU0MFJRc2xER25jcDBUeHp6Unhsd3JDLTJGekRjcTN3?oc=5) — Reuters — Headlines (Google News)
+- [As Americans vote, Trump says US will stop $4 billion in aid to Israel - Reuters](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTnAzZzVDS3N1RTJJdnkxYUJPQkl1X3h4d3hZaC1MX0RwXzRHOGRybmM3QjEzR1kybkJIUmNYcnVPbkNPMkt6TFBnTEdOYWFJemJkelBhVXZsRDQ5VG4wc1lSS0Q2dlRlUmV0VHI2Y3YxNWstRWVPUV95Y2pNUVp5TUlES3pCMC1GUzNTTXVfWWlGd1JlQ3p1XzJUWmJmbzlWUmtYTFlXNDFlZw?oc=5) — Reuters — Headlines (Google News)
+- [Irish Olympian Ciara Mageean was a 'talented and inspirational human being'](https://www.bbc.co.uk/news/articles/cw62ye1030njo?at_medium=RSS&at_campaign=rss) — BBC — World
+- [US job postings jumped sharply in September, potentially a good sign for anyone seeking employment - AP News](https://news.google.com/rss/articles/CBMinwFBVV95cUxNcmtCejZlbTVRN2dSMWpYZk9wVmZUcXhvelBMMG9hUEkyZUVDRGpTZ0YzY3RHX3dzVFRxUXVaRS1zYjNyNVpQWFhPcjIxY2J4dElxRFQ0SEJCUWxzSVRjR2tPZjlITXBCRUp4REpQQVRBSW5nd3l0cHBHYXY3cGlicHlMemFXN2RpcDhfNm84VHZna0VUUnUyM2RPYlc4U1U?oc=5) — AP — Business (Google News)
+- [Binance says fake job interviews used as part of $6.3bn crypto hack](https://www.bbc.co.uk/news/articles/ck5ynwz9gy67o?at_medium=RSS&at_campaign=rss) — BBC — Tech
 
 ## 🏙️ Local News
+- [Virginia voters head to polls in pivotal midterm contests - FOX 5 DC](https://news.google.com/rss/articles/CBMihgFBVV95cUxOdzJEQlp2R0RFLTRRVzNVOExjcnExNGc5eWpsMkd3dlBzSEk3d09Fd0p2ckZSUWN3YWJxci1yVkE1SlRQbEhRZVlsVHpiU01tczhwajdFV0tudlB0WlpucjU5dS1FNWhseVZmd05zbjJGSVd4dlUyd0N1Yng3dUZsWWY1bFlxdw?oc=5) — Google News — Northern Virginia
+- [NoVA Daily: NBC4 Announces Jim Handly's Replacement, Here's Your Election Day Voting Guide - Northern Virginia Magazine](https://news.google.com/rss/articles/CBMihAFBVV95cUxOTFFzSjBhQktucTNBVEpBUVZ3eW5mM3Q1ZW5XZnVBWDVSXzhKRVZrNWJMeC10M0dJMGVrRFpxUjZJRm5nVi1jOWNid2RSWk45SnlYYTFjZUFlb2pvWDF6OThTWFlHMmljR0JSM2lEa3U0c2l2Ul82d3dDbW5LM0RUZzNDcFA?oc=5) — Google News — Northern Virginia
 - [Election Day Is Tuesday: Virginia’s Closest House Races, What’s on Your Ballot and How to Vote in Alexandria - Alexandria Living Magazine](https://news.google.com/rss/articles/CBMiZkFVX3lxTE1EakxrMFNqU2haU0RWVWUweDhYS1hXUkdoNWZjM0VhY0cwSmJEeG9wVU9EV0oxcXlLZmtNZ3o2Q3R3R0V1RGRpNVBtbHptVUZCVGxoRllrdEFmUVVORlFxX2NYd2pqdw?oc=5) — Google News — Northern Virginia
 - [Carolyn Valerio Obituary (2026) - Edinburg, VA - Northern Virginia Daily - Legacy | Obituary](https://news.google.com/rss/articles/CBMijwFBVV95cUxQX08xVG5KM05mR3ByTW94YXUwTENZR3pfTFlDSjFKT3lOOFRxNEpvSDB0UEw5T1pSLVc5Nm13ZTBkRFBmR0dwZ00wVnY0T2NNYnFLOVFQMG15RjFWRVU2WjAxYTYzdUxfT0pWT1hXTi1mMWtXa1hPRTlnVXF4cTNBd01yTVcybk80WjEwRU51dw?oc=5) — Google News — Northern Virginia
 - [Joyce Powell Obituary (2026) - Front Royal, VA - Northern Virginia Daily - Legacy | Obituary](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQNGVkUTNBUGJnQ3owLWlPZ1dWMERSSHBvSFhQcGQ2SjRzUTFVOTVubUhoWll0QUgyX0R5VlZ0eFdSUTZVYkVYS2NubFFKa1FHM0cwTG90Mk0ybmthR2cycEdiVkMtR09vYnVHZWl0UXRiWkNReFhtdFJaQjVFYWxXekp2ZVJLR3M3YkMw?oc=5) — Google News — Northern Virginia
-- [Bon Secours completes Fauquier Health acquisition - Virginia Business](https://news.google.com/rss/articles/CBMiigFBVV95cUxOcnQ0djhZVE81NlIzOEhMVVdfU3ZnLUFzQVp1Q0hITF9YRHZ3VlVscHp2UlZYNTRHMEgyYnZlMElUY2k2QUNOX3R6MVRYOG5LeHREN3kzTlNPVmZUclBNbnJScXZXN1dVMWlfREs5RGx3NjZTUnBVSjRFLVBxNExlYUx0d1pTN2R2Ymc?oc=5) — Google News — Northern Virginia
-- [Moving Out of State From Northern Virginia? Royal Movers Shares 7 Steps to Choosing Long-Distance Movers - Lohud](https://news.google.com/rss/articles/CBMi6AFBVV95cUxQazBma0RTUUpqY3NKb1UyU1E3THV0ZVM1VWdBM08tdHBpMEw1VHpHMGVHaktwZkVkY3dWb1JJbi13Ny1kdThZTTRacDJuRmZpbVhpTTJ0cDZnSzZYcG5Ud0h0U1dtanBoZkk3YlFqZWVza2M4RjY5djFCdzdJRW1obkNfdXVUR21yblF0SWF2N211aU5FVVF2TW4xNGFPVDExb1NoQ0NsYzdhdHpwSWY3US13cnFWSzNERnZEVVZtMDRsMXptQ1hLY3hnYjRMUFpKalFPSVhnNlFOTXdyeFNWY2o2aGtNNnNj?oc=5) — Google News — Northern Virginia
 
 ## 🚀 Hacker News (Top 5)
 - [Astra can read and write weights to improve Qwen](https://rikiyat.github.io/blog/weight-space-programming/) — 2031 points, 660 comments
@@ -34,12 +34,12 @@ Global coverage includes UK and EU agree draft deal to scrap Brexit red tape ove
 - **1996** — Abdullah Çatlı, the leader of the Turkish ultranationalist organization Grey Wolves, dies in the Susurluk car crash, leading to the resignation of Interior Minister Mehmet Ağar (a leader of the True Path Party).
 
 ## 🎲 Wikipedia — Random Article
-**Cambodia national rugby union team**  
-The Cambodia national rugby union team, nicknamed the Koupreys, represents Cambodia in the sport of rugby union. Cambodia has yet to make their debut at the Rugby World Cup.
-https://en.wikipedia.org/wiki/Cambodia_national_rugby_union_team
+**Gatineau Olympiques**  
+The Gatineau Olympiques are a Canadian junior ice hockey team based in Gatineau, Quebec, that plays in the Quebec Maritimes Junior Hockey League (QMJHL). The Olympiques have appeared in the Memorial Cup seven times, winning the 1997 Memorial Cup.
+https://en.wikipedia.org/wiki/Gatineau_Olympiques
 
 ## 🌌 NASA APOD
-[A Long Cloud on Mars](https://science.nasa.gov/image-article/apod-2026-november-2-a-long-cloud-on-mars/)
+[Comet PanSTARRs and Rainbow Meteor](https://science.nasa.gov/image-article/apod-2026-november-3-comet-panstarrs-and-rainbow-meteor/)
 
 ## Feed Health
 - **Reuters — Headlines (Google News)**: ok (15 articles)
@@ -67,4 +67,4 @@ https://en.wikipedia.org/wiki/Cambodia_national_rugby_union_team
 - **Wikipedia — Random**: ok (1 articles)
 - **NASA — APOD**: ok (1 articles)
 
-<sub>Runs so far today: 1</sub>
+<sub>Runs so far today: 2</sub>
