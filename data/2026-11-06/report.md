@@ -1,21 +1,21 @@
 # Daily Knowledge Garden — 2026-11-06
 
 ## 🧭 Daily Summary
-Global coverage includes Democratic socialist defeats incumbent Karen Bass in Los Angeles mayor's race; Could the earliest weakening of the polar vortex on record bring UK snow?; Florida carries out its 19th execution of year as 3 states administer the death penalty in a day - AP News. Local coverage includes Frances Hurdle Obituary (2026) - Strasburg, VA - Northern Virginia Daily - Legacy | Obituary; Fairfax City Awards Grants to Human Services Nonprofits City of Fairfax, VA - City of Fairfax, VA (.gov).
+Global coverage includes What is the Paris Agreement and why does 1.5C matter?; Kenyan cult leader sentenced to 200 years in prison for mass starvation murders of children - Reuters; AI stocks climb after trillions wiped from market values. Local coverage includes Virginia vote scheduled on e-bike, scooter limits along Washington and Old Dominion Trail - FOX 5 DC; 17 Upscale Northern Virginia Restaurants Taking Thanksgiving Reservations - Northern Virginia Magazine.
 
 ## 🌍 Global News (cross-source)
-- [Democratic socialist defeats incumbent Karen Bass in Los Angeles mayor's race](https://www.bbc.co.uk/news/articles/c6e3xxwk3k11o?at_medium=RSS&at_campaign=rss) — BBC — World
-- [Could the earliest weakening of the polar vortex on record bring UK snow?](https://www.bbc.co.uk/weather/articles/cwyvrz09mnd6o?at_medium=RSS&at_campaign=rss) — BBC — Science
-- [Florida carries out its 19th execution of year as 3 states administer the death penalty in a day - AP News](https://news.google.com/rss/articles/CBMimgFBVV95cUxQSU9RMHg3N1FVX05NZG5acGlZRGc4STlmXzZtbUg3Y1VLWTFTQTFmcEdRbDlEelRDSnA3SFVvbHNZSW9yaHNHcHNBSkxGa2FvVnhsMzRPWHd5eGwwN1N0QkU4LWZZUU5aQU54Z1JRcWsxSHduWDIxbEJrRDN3UjM4MG5OZ1F1N2hFaElKTlA2WnZBdy1yZi1ONEhR?oc=5) — AP — Headlines (Google News)
-- [Key federal panel is expected to approve Trump’s arch while it’s being challenged in court - AP News](https://news.google.com/rss/articles/CBMiowFBVV95cUxQNHlScU9rQWNvSC1DY3NqTjlfSmV0ZTZNNFJ6UkhodWtmQVljUDFtY1NGODBoanhvcDcyNm1RbjdVN2xrTnMzY3NtVkZpenRxM0I2RXNxTlVlWVBnMTZ1aUFQMW9YNkNYcmUwUUNZWlZESEMxZVVEVzdLTU5aTnpQZlplcEJnSlZpRFRoSENTaDkwcnVmUWh5bklwcU01UF9HNko4?oc=5) — AP — Politics (Google News)
-- [Fears about an AI crackdown after midterms sparks a $2 trillion rout in tech stocks](https://www.npr.org/2026/11/05/nx-s1-6031987/stock-markets-ai-midterm-elections) — NPR — Top Stories
+- [What is the Paris Agreement and why does 1.5C matter?](https://www.bbc.co.uk/news/articles/c93d59d4zy1o?at_medium=RSS&at_campaign=rss) — BBC — Science
+- [Kenyan cult leader sentenced to 200 years in prison for mass starvation murders of children - Reuters](https://news.google.com/rss/articles/CBMivAFBVV95cUxPOVFQN3ZZdXgwV0VlOWE3MF8zbXg0ZF9ZenNaZ3pVTl8xcHpuREFHUFpodWFmMXVzSmN3c29kRVViMDZhdkZ1QjB1WGdoR0tLZ09OaTRORzBOWmNQQUFUb2RvMnpVdjQ3eGlCcmJsSGxPNzFVM0N2bEJCZ3V5SVJ0OTRyZW9LbFVhVmRXeUV2a0Q0eFE4WVR1Vl81V1NoTWZ4THNYbklpbFc1RmxIZ043WTBVWWxwTW4yVmNYXw?oc=5) — Reuters — Headlines (Google News)
+- [AI stocks climb after trillions wiped from market values](https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss) — BBC — World
+- [Newsroom bomb threats follow escalating European flight hoaxes - Reuters](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPM1hGX3FNRUVaMDhGcnI2WkxBSk53bDZLT1A3RDZvZFktR0wyZy05Ym8xc2hsTFlQMDJzT3lHeHZkTl9UMkttb3RocE9KSDB6OGNmNG9iNFY0aFdVelhFeXREVWJ1OUpUNG1zWEFMUnZueUVMdGhXNVVuUFBCY2lhMm1EY0pxUEsweDVveC11eF9ZRmwwSEdVUy1Jbndzdi1GWXd3M282NHdpdkdqeU83T1FRcmtXZ2RGSDRFN2pKRzg?oc=5) — Reuters — Business (Google News)
+- [AI stocks halt their brutal, worldwide sell-off as Wall Street trims its loss for the week - AP News](https://news.google.com/rss/articles/CBMikAFBVV95cUxOMUlicGFDcFJmWW5nQnZ3R2wzY25vSzFIczhmanhycWtxaDVsOGhrSW9sUkFoN29MaTJKX1pKbmEwSl8wVVZhX1RpZ0JFTUMycHQwSXo1ejh0YVpSRkJkdkxZTVBUQ2dySDFFYlhBSEhZTFJpeElqZXU5MEJQQURwb0RHZU16YV8tczNyUVo0NF8?oc=5) — AP — Politics (Google News)
 
 ## 🏙️ Local News
+- [Virginia vote scheduled on e-bike, scooter limits along Washington and Old Dominion Trail - FOX 5 DC](https://news.google.com/rss/articles/CBMirgFBVV95cUxNVDJCUDhYdTE1MUgwWGNRYWdOUlJ3ekRVZXlDWFB6X3NxZ1dScWY1REpQNG5QcUQ4MGRYR3RCZkhBWDFCX2I2ZmYwU2YtanByWlVnOGRPTkE3bDA2TWdYUGNYZncyYTdaV0ROZGo3SGlueVpSRTVGa0ZCbS1jOGNYRk1wVkJSVnh3bl9Vak9HcWhrMUREVENBMWVrYlBYRzJNZ09GQXN3MmRPUWtaOEE?oc=5) — Google News — Northern Virginia
+- [17 Upscale Northern Virginia Restaurants Taking Thanksgiving Reservations - Northern Virginia Magazine](https://news.google.com/rss/articles/CBMizAFBVV95cUxNSVFoODUxbVFmZXN6VlVKbzdxM0FkaVRsSnRPaDBrSGpIMHRmRDNmZjJ3M1FvdWpwYlN5ZDd2cm1hckhtS2RMWTJLSDhQNHRPSm5CQ0MtSEF0V2Zia1V6eGpVWXlyNjd6M1RMR2tWdF9rTWE4Z0pUQTdFZ2lxTnJPYndPMlp5cUxnQ3FUUGlNcFh1Q1F4aHE1VUkzX1Vncm9WanRUMW43V1diWnVGN2NnRFI1azFzRVZrT3JPWnRNZF81Njdtd0pjR0lpTnA?oc=5) — Google News — Northern Virginia
+- [Loudoun approves Dominion substation despite lingering concerns - WUSA9](https://news.google.com/rss/articles/CBMikgJBVV95cUxQUlRkdHJubTNwd0xvc3NGLUhVRWFQZXdDN3JqTE9mM2NrbmtYQXFZcXJxQVo3ZzBaa3hTX3BoM3Q4R0hRWmpudEZEZHk3c0ZvS255eVVlLUZHcWR0cVctX2lMRHF2OXhCbnB1T0xxU1FHQzV0NEwtVVFUNmZ2MmVZaG4yblRta3RGR0poZFlYMkJlb2NSWm5oU3p6blR1SkJMUDRXMEFLVTdGT3c1eFZNN0lTOGI5OWhQSHpSejJZYnlEVTJyQmdfUFpocC1OZ09ETzZYSHNpN0tsMHBYRUkwWG1kdG9MU01RSVJQVGhFWHgxdnJDSEJFb2VONXNoeFlqSlhVUXhfdE5LYk4yVjdtTGFB?oc=5) — Google News — Northern Virginia
 - [Frances Hurdle Obituary (2026) - Strasburg, VA - Northern Virginia Daily - Legacy | Obituary](https://news.google.com/rss/articles/CBMijgFBVV95cUxNVXhKN0NlbllaQUhMUzl1ZXlKYmEwMnF3dmNramNzeUpyakZVNnBpRGx0OXNzYTlqeWhpR2V0clNsa2JPWFlxb0FYbkRmblpaa21BRGZ4Y0tsZHBIREhOZjNTVEUzQXpsbjMxTXlPemVhMlVPMjdPbERGN18wR0xncnZ5WmVZRVBDdTRRUmdR?oc=5) — Google News — Northern Virginia
-- [Fairfax City Awards Grants to Human Services Nonprofits City of Fairfax, VA - City of Fairfax, VA (.gov)](https://news.google.com/rss/articles/CBMivgFBVV95cUxNMUVaNk9HSmxMTjBBbjJUMFBBejlXNDJQOWJFcTVBQXhQT3pIRFloYWN6d2ZDREtwcW5JX3pkbzdKcDlRT1V6elRKM1JUZjQ4d2c0SG5VeUxxaDdXeGp0Y25Md3E1b0V1OTRDUzVRVExRU3JMUk51cGJNM1ZJWnZFRWpFdUR2UEd6R1lWcl81N2hrOFo2dHFPekpLRVlHUUdxaWpPSXcxSUhVbnVsUnZEaGRsUWdZRG5GVHFyNW5B?oc=5) — Google News — Northern Virginia
-- [Virginia Tech’s Northern Virginia leader to step down - Virginia Business](https://news.google.com/rss/articles/CBMigAFBVV95cUxPdHdWVkd6T1RpNXhYQmhENVhiMjV2RUk1Qm44V1F2bi1LSTVuX2o4NUNTQjg3bnZVeC0tSkJUU01ZNUtTUTl5Wjh6UkoweDAxaDJMaVRpNWlsaG1BWmN5R01mdkZsSDBSVlR0OGxUYXd4aDFORFFJTUhNeUVlZEhtQQ?oc=5) — Google News — Northern Virginia
-- [These Are the 24 Best Restaurants in Fairfax County - Northern Virginia Magazine](https://news.google.com/rss/articles/CBMiugFBVV95cUxOX3czM3d1VVA1RTFEbjhSYUplTnNtNEdVT3NRVXhmX045M3hja19hSGpKUEFhOVdHWTJSSE1GTkVyLTdxUjdEYmJpNl9VazI3MlkxMW9vc2g4YjhkdFVMdnIzTXd2blFDejcwUjljUGNNaWJXUW10UEVybHhGbl9Fc2VRQWVNaEJoMGsxLVMweGVRQS1oZXlNallHellwNXlYa243M2RYYzVIbTBocUtxZjlodGtwOS1MRnc?oc=5) — Google News — Northern Virginia
-- [6-12 Inches of Snow Expected for D.C., Northern Virginia, and Parts of Maryland in FOX5’s Winter Outlook - The MoCo Show -](https://news.google.com/rss/articles/CBMizgFBVV95cUxQY05uZkhqVUF6SUtRU0lxNzVsR1BxM1BfVkd2Z3R5MVRQQThIaEg5WkNydTl2Z1hHdUFzeU9EVElXMTBrUU9aNUtnVWVIZUJhR3NDcDFXM2V5MzVIUzN6eWNsMlBKV2ZkUUoyRE03V1M3ZUp0LTZTQkJoMlQta2l0a1V6eFNING9kQkg2RmlmUWw3akJ3Rno2b3FpSXd5V0ZpU08zaDhOWFducV94MWJ3ZTFoUE1hb2thUmE0MW80eV9KQUVtOGhKeThocE9IZw?oc=5) — Google News — Northern Virginia
+- [Daniel Lineweaver Obituary (2026) - Woodstock, VA - Northern Virginia Daily - Legacy | Obituary](https://news.google.com/rss/articles/CBMikgFBVV95cUxQbUxNb1pFN2JmWWhYV3dkS2swdmJDR2VZZDVwSkk5cFBBTWJLVEpWamZ4UFg3ZlgwSEJGbGxMTm9aZnBvaWdqa3kxU2VUakJYOXdjcV9sWEFabzM1ekltSmh4TnFqellWMlZMLXlYVTY4YUxCUkl3LUREcWlWWHJxb1h4dVpKamdnQmNNbnlibTJVUQ?oc=5) — Google News — Northern Virginia
 
 ## 🚀 Hacker News (Top 5)
 - [sshole](https://sshhole.com) — 2304 points, 569 comments
@@ -34,12 +34,12 @@ Global coverage includes Democratic socialist defeats incumbent Karen Bass in Lo
 - **2002** — Jiang Lijun is detained by Chinese police for signing the Open Letter to the 16th National Congress of the Chinese Communist Party.
 
 ## 🎲 Wikipedia — Random Article
-**Traffic (disambiguation)**  
-Traffic is road users including pedestrians and vehicles using the public way for purposes of travel. Traffic or Trafic may also refer to:
-https://en.wikipedia.org/wiki/Traffic_(disambiguation)
+**PSPaudioware**  
+PSPaudioware.com s.c. PSPaudioware was one of the first developers of audio plug-ins for digital audio workstations.
+https://en.wikipedia.org/wiki/PSPaudioware
 
 ## 🌌 NASA APOD
-[Enceladus in Silhouette](https://science.nasa.gov/image-article/apod-2026-november-5-enceladus-in-silhouette/)
+[A Farewell to Swift](https://science.nasa.gov/image-article/apod-2026-november-6-a-farewell-to-swift/)
 
 ## Feed Health
 - **Reuters — Headlines (Google News)**: ok (15 articles)
@@ -67,4 +67,4 @@ https://en.wikipedia.org/wiki/Traffic_(disambiguation)
 - **Wikipedia — Random**: ok (1 articles)
 - **NASA — APOD**: ok (1 articles)
 
-<sub>Runs so far today: 1</sub>
+<sub>Runs so far today: 2</sub>
