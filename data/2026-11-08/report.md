@@ -1,21 +1,21 @@
 # Daily Knowledge Garden — 2026-11-08
 
 ## 🧭 Daily Summary
-Global coverage includes Judge orders Paraguay's ex-president Peña held before trial - Reuters; What we know so far after Krakow gun attack; Poland in shock after six die in Krakow mass shooting - Reuters. Local coverage includes Maryland and Northern Virginia Meteorologists Tease Potential Snowstorm November 13-16 - The MoCo Show -; 20-35 Inches of Snow For D.C., Maryland, and Northern Virginia in WUSA9’s Winter Outlook - The MoCo Show -.
+Global coverage includes Government 'looking seriously' at banning under-16s from Vinted and eBay; Russell Brand to learn sentence after being found guilty of rape and sexual assault; Pope Leo heads to Milei's Argentina as tensions loom over austerity, Iran - Reuters. Local coverage includes Northern Virginia Christmas Market canceled days before opening - WJLA; DMV weekend weather: Frost advisory issued across Northern Virginia ahead of sunny 60s - FOX 5 DC.
 
 ## 🌍 Global News (cross-source)
-- [Judge orders Paraguay's ex-president Peña held before trial - Reuters](https://news.google.com/rss/articles/CBMixwFBVV95cUxQVGw3MmJzOEt0S1ozTzJoUDVsWDYya0FocXVpaGU0cG1EYWdILUp1UWc4SjMzaEg2ZnZWR0ZKRG5uaGhXVW0wbkFlMTFuVVp0WmFlZWQ3cnJuYy1WanFqSVlZYkdOQXBNRTJtcExjajYyZnU4ZXpTRmVpOGNGTnJfaERjTHVLUm9USjdpS1J2VGV1Z09zZ1ZxaGpVUVVjRHpON3ctb0JFUzRBX3VQUEVsZXIzWXR6eFJObk05SGlDelpVM0F5NF84?oc=5) — Reuters — Headlines (Google News)
-- [What we know so far after Krakow gun attack](https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss) — BBC — World
-- [Poland in shock after six die in Krakow mass shooting - Reuters](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRTFhVC1uNVB5TFlvcHRtb2h6RmJPdjY0SDZjdWRJSUw0RlVLUUtnbkFlNGtZRlczbE5RU1U0NEhIRG9Ya3ZmNVlRb243YWQ5OTNkNThoaG1ZYUxONkZsaDJTeTctek9yX3hidk5lVU9qRUJidG5PNkczQVhKcEJKMG5nZzdGSVhUZUJ0S3RwWFJqbmVzSFU5YmE3dDgtRllhUVpDNkxxdnN6Q21MQ1A1cjFPNjc4cUdx?oc=5) — Reuters — Headlines (Google News)
-- [Melania Trump and LSU announce $7.2M to endow scholarships for former foster care students - AP News](https://news.google.com/rss/articles/CBMisgFBVV95cUxNaE9fZWFrMkNPS05yeXBqOVE0eWtqcldnVk9WT2gtVGJOZEhFY29rbENXUExfUmFrbVAxUzB4eFlwVGNVX2VhLTRwa3dtd2tvV25WU1NJODNtMWdsZUlJTWhURUc2MnlCSWltUzZtNUF1ZzVxUjRSejZHY0t5eVl5eHRqWGZkS2Z0c0pCTEowZi1GajhiaXBvOHlORTdUbmM5TnN5VTZVLWw0MEU1UFhZdzlR?oc=5) — AP — Headlines (Google News)
-- [Israel's president tasks opposition leader Eisenkot with forming government](https://www.bbc.co.uk/news/articles/cmy8367lj5xlo?at_medium=RSS&at_campaign=rss) — BBC — World
+- [Government 'looking seriously' at banning under-16s from Vinted and eBay](https://www.bbc.co.uk/news/articles/cmzxjvpqrjxro?at_medium=RSS&at_campaign=rss) — BBC — Tech
+- [Russell Brand to learn sentence after being found guilty of rape and sexual assault](https://www.npr.org/2026/11/08/nx-s1-6033957/russell-brand-learn-sentence-found-guilty-rape-sexual-assault) — NPR — Top Stories
+- [Pope Leo heads to Milei's Argentina as tensions loom over austerity, Iran - Reuters](https://news.google.com/rss/articles/CBMitwFBVV95cUxNYV8wSU00NXg1Q0xRcmpIZWxTdkhGYV8zZmZuZ1pxdWpwQWpabFdGQVFQY1VSUkY5cUdNd1lnQWJjV3VkYy11Sk1nUHdkeGdnbFZ3bXRTNGxaeE9XWnVHRHlMVEF2T0I3QjVEX2dLY054QlZWUi1aTnBzc01RY21GUG1MYXhTcXhmZTl2UF9XZDh5WHlrNjk4ZXZ0OU16UkNhdnBjUi1mSDAwSkpxTnRMQjBLa3BVaWs?oc=5) — Reuters — Headlines (Google News)
+- [At least 21 dead after migrant boat sinks off Senegal coast, government says - Reuters](https://news.google.com/rss/articles/CBMivgFBVV95cUxNQWEyY01QZXphanRHT21PZUR2UVdNcEQzUVdRSW44Z2oxb1hfanV3TE00ZXhkMDJnZVdXYnF6OTdsZ3Jwd0lqamgxYlpTS2h3NjBjaTVaNC1nQXM0RXFNX2phMWItS1Q4UldFdzN3WFlocExfUElZZEJwQ2hVX1YzRmlDQnpDMEhrTC1oNk5VYmVCQ2pLc090LUlfbFY5VXk3YTFhTlg4NUJSTXk1WDVVTXdNYkp1RmF3TW02bDZR?oc=5) — Reuters — Headlines (Google News)
+- [No. 4 Notre Dame takes big lead, then holds off No. 1 Miami 31-24 in a classic - AP News](https://news.google.com/rss/articles/CBMioAFBVV95cUxPVzE5MzhzMXJBSGkzNUtGX1lMVzJVRjVCUTZmQzJrV2dFQnZQUUxKMHRMTXB2ZllKM3VLN1VJb1djVllfd1c4c2FQU29UVGZpSGUxSXJVVGdBNWRTRGdMQjg2ekFIN1cyOEFFYVVGZTBDZkFqaEFlRm1FQXp1bGZ6VFZqR1JmcS1EN1hfdzEtU2pZZVVYblQxVTRyTDNWM3Zk?oc=5) — AP — Headlines (Google News)
 
 ## 🏙️ Local News
+- [Northern Virginia Christmas Market canceled days before opening - WJLA](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPajJ6RHZ0LTBJa1FXa01aWkFWWGFuVzE0WkJJWV85WnVHTTR3aTNpcmlhOEZoNW1wNEpxTmNsQU82bGd6SVpNMi1oQzdkbFU2X3l0b1B2d0pVM0wzQnZkcV9qOVNDVWRyY0RmM2E2OTRrd0tzY3U1Y2lxVm5rWndnMk15akFTZTlzR2xlNW5LX1A4aEh5WWlCalRNRVpIVmJiTURfR19DQlZ4S3FaQ1ZCMTRMY01ET2la?oc=5) — Google News — Northern Virginia
+- [DMV weekend weather: Frost advisory issued across Northern Virginia ahead of sunny 60s - FOX 5 DC](https://news.google.com/rss/articles/CBMiXkFVX3lxTFB3Ujl6alhoMlBKU2ZaOTdrNWxkRnJSMlJWQjgwcmR4Zk1nVTFLYjVLbzlRM2pINEU4SFNtU0xubEx1QU0tMTJFQTNwMUFGT0lVenJzTzdOMktpVzFtVXfSAWNBVV95cUxOVUd3U2xSSEtjeUcyMHhsaEMtSmlhVU8yWUxMR1d3c0FsTi16TTJYTEdUQWpGSERjV2JNVjdWSm9ubDdQWXpRd3UyeXUycUZORTRFSjJpeUc3N0FfLXprYjJWbGc?oc=5) — Google News — Northern Virginia
 - [Maryland and Northern Virginia Meteorologists Tease Potential Snowstorm November 13-16 - The MoCo Show -](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOREM4QVFEdUtsdWE5OXVsNUJ2Zi0tR0h3Y1p6amdNenlFSzFmXzQwRWdFaXgxbTlvWUFIX3dZMTFqMERzenVZS1hsVV9EdU1BQS03SkRaNkN6OE5iWHZjNjdRZzhrd045TnlBOXBDRVI5b3dFYzZvbElGaC04OTMybFo4WThTenZmTTdVc2p1MTB1RlRJaEtib3ZfRW95S1B2YV92MVprU1NTNnRLTzlxcVIyNm5qeEFRNmVz?oc=5) — Google News — Northern Virginia
 - [20-35 Inches of Snow For D.C., Maryland, and Northern Virginia in WUSA9’s Winter Outlook - The MoCo Show -](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQTHN3V1pJUEtvUEJTUjd3ZHQ4ZGlSclloRDVoNF9WZ1drc21pMnNYMDNqYnhXMlBWTi13eTJyalBNaTB0XzNCR1Y0eDhSN0xFdUVfZ3g1WmRtWHRVbFI1WmpnWTlsSTBLODl6OU1na2JoSkRTMkVJa2RrcUpBQUtseWRuSVNJUmRZOG4tdUdYaVFpdHNRT2EtMzZZajh1d1lHMzFjMnFHUnNoWUlPeUF2ZTNucGM3Zmhr?oc=5) — Google News — Northern Virginia
 - [Northern Virginia high school football scores for Nov. 6 - InsideNoVa](https://news.google.com/rss/articles/CBMinwFBVV95cUxPZFI0TVNHZzNPMU1hVHFZTlg5QzlWQTBMX0NHbHJmRVZWSHo4bWVxalNDdmdaYzdsR3U0R2RpZGY4RGVVZHlCS042SXdyVEQwM2RodUd6NDZ6UnZwLVB6MUk1a3V6bzhPZFpORUhpNkJzS2IzdjdlXzR5d1R4M1JBeTRDQVJyYnFrU0pMNlZyRVV4cmlyOWE5eGRYMkpBdFE?oc=5) — Google News — Northern Virginia
-- [Last-minute cancellation of Northern Virginia Christmas market leaves 200 vendors scrambling - WUSA9](https://news.google.com/rss/articles/CBMi1gFBVV95cUxOUjVadUVOalVhWThuRDI3NzY3RHR3djNtbjFVS21WaGFnX0ZLajJhXzdrSi05eU4xNkdJdmNLdmJYWmJKUWk1Z2Q0UHZieWdhWENWNWNxOEgybkF1XzIyM2o1Z1dHeTlWS0lxUDdZZlFCRHRSYUd0dVl5UlZfVGdHRGtLMUh2RUdjblVWR1pvVFh1ZWJwR2dtcG9qVEMwZm5jaDZKaGFLR0NiazhFb09hOVpGNHlXSjd4R05TRW9HNF9XYnZpOXZScTlPY0hhMFJPX0l0Zkln?oc=5) — Google News — Northern Virginia
-- [U.S. News & World Report Ranks Porter Traditional School No. 1 Middle School in Northern Virginia, No. 2 in Virginia - Prince William Living](https://news.google.com/rss/articles/CBMi2wFBVV95cUxNUURwcjRObkQybXQzTUNKSzR1TmxFRjNlb0xVemNsbGZMSnYwT1RSVjN6U3dhdXptNDhuNExROHVhZXdQSEtzeWtPWlhmRDZhNjlNLU1teUJDQTF1V1BEblVWbzNwRzhnU19xYlNlcUlnRy1MbXhqSno4ZEdlS0hfaGZRRHRHYnUwYVk4OUMxRHBZZEZodm12dnlWQkUtSzdGRWxVWjAtSk1QSG5lN2xvbjJXVDlxSktKajk2VGtYWWVYN2E5OG5SeG1veGpCTU9veXpuOE5SZHFhUDA?oc=5) — Google News — Northern Virginia
 
 ## 🚀 Hacker News (Top 5)
 - [Need for Speed Underground 2 online in the browser](https://nfsu2.xyz/) — 779 points, 222 comments
@@ -34,12 +34,12 @@ Global coverage includes Judge orders Paraguay's ex-president Peña held before 
 - **2013** — Typhoon Haiyan, one of the strongest tropical cyclones ever recorded, strikes the Visayas region of the Philippines; the storm left at least 6,340 people dead with over 1,000 still missing, and caused $2.86 billion (2013 USD; equivalent to $3.95 billion in 2025) in damage.
 
 ## 🎲 Wikipedia — Random Article
-**Enfield, Connecticut**  
-Enfield is a town in Hartford County, Connecticut, United States, first settled by John and Robert Pease of Salem, Massachusetts Bay Colony. It is bordered by Longmeadow, Massachusetts, and East Longmeadow, Massachusetts, to the north, Somers to the east, East Windsor and Ellington to the south, and the Connecticut River (towns of Suffield and Windsor Locks) to the west.
-https://en.wikipedia.org/wiki/Enfield,_Connecticut
+**Vampire Night**  
+Vampire Night (ヴァンパイアナイト, Vanpaia Naito) is a 2000 light-gun shooter video game developed by Wow Entertainment and published by Namco for arcades. It is a collaboration between Sega and Namco.
+https://en.wikipedia.org/wiki/Vampire_Night
 
 ## 🌌 NASA APOD
-[De Gerlache-Kocher Massif](https://science.nasa.gov/image-article/apod-2026-november-7-de-gerlache-kocher-massif/)
+[Major Fireball Meteor](https://science.nasa.gov/image-article/apod-2026-november-8-major-fireball-meteor/)
 
 ## Feed Health
 - **Reuters — Headlines (Google News)**: ok (15 articles)
@@ -67,4 +67,4 @@ https://en.wikipedia.org/wiki/Enfield,_Connecticut
 - **Wikipedia — Random**: ok (1 articles)
 - **NASA — APOD**: ok (1 articles)
 
-<sub>Runs so far today: 1</sub>
+<sub>Runs so far today: 2</sub>
