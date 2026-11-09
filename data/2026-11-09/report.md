@@ -1,21 +1,21 @@
 # Daily Knowledge Garden — 2026-11-09
 
 ## 🧭 Daily Summary
-Global coverage includes Nvidia launches investigation into CEO's alleged relationship with Chinese spy; Nvidia launches investigation into CEO's affair with suspected Chinese spy; Doing these things now will help you save money at Christmas. Local coverage includes John Morrison Obituary (1945 - 2026) - Woodstock, VA - Northern Virginia Daily - Legacy | Obituary; Beloved Alexandria train caboose in need of major repairs - NBC4 Washington.
+Global coverage includes Republican congressman to force impeachment vote on Defence Secretary Hegseth; Internal probe into CEO Jensen Huang and 'foreign intelligence' weighs on high-flying Nvidia shares - AP News; Boeing to cut 5% of commercial jet workforce amid production struggles - Reuters. Local coverage includes The Alvarez Law Firm Helps Northern Virginia Drivers Facing Reckless Driving Charges During Holiday Travel - azcentral.com and The Arizona Republic; Councilman seeks to bring downstate lawmakers aboard N. Va. transit to make case for funding - ALXnow.
 
 ## 🌍 Global News (cross-source)
-- [Nvidia launches investigation into CEO's alleged relationship with Chinese spy](https://www.npr.org/2026/11/08/nx-s1-6034036/nvidia-launches-investigation-into-ceos-alleged-relationship-with-chinese-spy) — NPR — Top Stories
-- [Nvidia launches investigation into CEO's affair with suspected Chinese spy](https://www.bbc.co.uk/news/articles/c3dxw10rjn9no?at_medium=RSS&at_campaign=rss) — BBC — Business
-- [Doing these things now will help you save money at Christmas](https://www.bbc.co.uk/news/articles/ck7vppll151mo?at_medium=RSS&at_campaign=rss) — BBC — Business
-- [Oil falls on open as Trump says fresh Iran attacks 'unlikely' - Reuters](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNWnV4VENDNkFNVllVVEpoVTJLcC13SlhHREstWFZZQ252QTRiU3dKeW5EYWYxVUJjNnQzVzh1M1FsWjNGTmRKMVFEYjhxT3M2VmF4aVpERWwwczh6dV9OTG5NcFJCMFVZZ0toWEEyMnRRTnBZUm9iQVVzblIzcmJMOTR4V29sUDFVME1jcFQ5VVhoMHVUM0YzWHM2bmE1b3VCV0s0R2JmUUQ?oc=5) — Reuters — Headlines (Google News)
-- [NASA is looking for astronauts to live and work on the Moon](https://www.npr.org/2026/11/08/nx-s1-6034002/nasa-astronaut-class-applications-2026) — NPR — Top Stories
+- [Republican congressman to force impeachment vote on Defence Secretary Hegseth](https://www.bbc.co.uk/news/articles/cwr5y58jjp8ro?at_medium=RSS&at_campaign=rss) — BBC — World
+- [Internal probe into CEO Jensen Huang and 'foreign intelligence' weighs on high-flying Nvidia shares - AP News](https://news.google.com/rss/articles/CBMikwFBVV95cUxPeXdpaDhrWVBiWm9zYjdnNTlEczJPX1g2YzExNUhpVml5WGZldkgtdXhnRWZ5QTVPWkFBLTAydEJ1MVhvNXBQZ0otcmlYNFZMRVY2bC1xb0VfVEFiZG5kUjN0VG1tU2duOWpZUHlfSTJpZEp2cDFqYnFCUGVaWTF5cDVvLVNNVFlqQ3ZSWmNPSXNMZlE?oc=5) — AP — Politics (Google News)
+- [Boeing to cut 5% of commercial jet workforce amid production struggles - Reuters](https://news.google.com/rss/articles/CBMiyAFBVV95cUxOYVdQLTVQc2wtZzFUaDBNM3phQnpkZ0dfUlBXY2N3Z1BYcnZ3ajlMVjByY0gtcXExaWx5Qmx6T2M5LS1TMVhKb21teGtmZ082TmdoRGhGZkQwMTlqQzhncDFZaDhhNW9Rbml4VVZRSTZlTGRGb29JYW1pVUsxNUt4amNpdTlVTmRxZmdTMk0zNW55UXRLSHE5a0ZpZDFJenQwd2hPWjZ0UFZ2NzhiYl9meWphV0YzR1REZWNSOGRuMDZHTl9qdE1odw?oc=5) — Reuters — Headlines (Google News)
+- [Hegseth calls Iran war necessary and waves off ‘the noise’ of expected impeachment push - AP News](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZjJQVDlfd0pOX1hsbURBWTRUQXR0T2VROGp4cmRmTUl0ZnMzYmh0OE9CSTd5STBxaTAxTHU4Ni1GOUQyWTVNbUlUX2hCM2NQOFBVTzdQemFkcWJ6R1N6QmY2Mnl6TmcxR0tiSmdUSUxTS0otcW00cERJbmJuNkRKZ0NiRTJqX2JWLTMxZmtqQnVzaVRVZ290X0YycHpFRFFaQk9WVVB6ZnZSQQ?oc=5) — AP — Headlines (Google News)
+- [EXCLUSIVE: French officials blame Iran for refrigerator hacks, vow retaliation - Reuters](https://news.google.com/rss/articles/CBMisgFBVV95cUxQam51ejNqNThjR0wtTnFjaTNObkVoS25CUzUySnBhRVc5bWlIZnhpM0ZleDhuSnJ2Z19xcWd3Q1Z3bnJkQmo1NmlJZGZnYUhEQ3ZCNHF6Y1hKM3BHZlpYOUZGTDA4WjhyaEZXcVU1NzM3YUxsUWJvRl9tYS1YSU1WSEpCN3h0eWx5SU1ReU1pRUlzaFNJd2N1YS1PNDFsbndESXV1ODJTaUE4YldYVzFicWln?oc=5) — Reuters — Headlines (Google News)
 
 ## 🏙️ Local News
-- [John Morrison Obituary (1945 - 2026) - Woodstock, VA - Northern Virginia Daily - Legacy | Obituary](https://news.google.com/rss/articles/CBMijAFBVV95cUxOSmkyWnlJb0pnbTJPN1A4SlYxeGxMMHRvbkJwUkRsMGIxQVBRMWxRWE9ZVmxXSmJoNGlFU0NVV3NSSURoNkxPek8wb0RHbC0tSDRScm1zNlYtVmIwcGF2eElRTjhXTnZQbW9uY1pqNGwzRzl5ZEF2WWd2Y1FqU2xkbXRzNlZxR2p1UXZHWQ?oc=5) — Google News — Northern Virginia
-- [Beloved Alexandria train caboose in need of major repairs - NBC4 Washington](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPd081STE1MXpQRkVRc0dRYmhLVXdmU0lkb0xBZjFzUXlNTWN5R3ZtNGE5aWh1Q0pxbGxrMjNsZGtJUVk4bVgxWmJJcDN4QmZYRUNxcndOc3lUczlZNXFZMDNtSWlGVWpKNUhZMWZNdlIxU0tidTZnUzA0c3YtbkVOVGFrMkdaNWlUVmRPSnFDelBpb3JmYzJoTUw5WG1pb05IeGNMT0Z3VTVQU0diY2I4SHRSWWwtdmdsMVdab2djN2kyMG_SAcsBQVVfeXFMUDVPenNrdGhZQ0dTbWVYU2JuUnd5WFJkR3Vlb0Y3TFF5ZUlYdnRjOHVHcl9Id1NFcXVUcTRlUkdBdmp1NmV4OU0yOHFSMVBiNnFnV01PTVhYbG9oYjlPSGw2ekQxenBscXdJUjZHaERTVDktTVRuRU1wcDVheXZobmJOeGdjR0VtYVgwNFViSlAwVzc3X3hBWjl5ZThVVGpHRmc4NVVuSHk2TXZ3UmpMbGtVVW1XYTNRb0Y2MWxKRzNtRkZXaHpMNnc4Ujg?oc=5) — Google News — Northern Virginia
-- [PHOTOS: Northern Virginia Veterans Parade draws an patriotic crowd - Prince William Times](https://news.google.com/rss/articles/CBMi9gFBVV95cUxQbnRNamZVeHhGZ0JJUTBXdVMwLW1DUHFDM2U4R0IxNGx4dnRIY1VicndfQnNqV1M2SVYxaUxPZ3Z2Q2sydndoWUtVWmFOc3RjUFJSWW5xLUQ3NVNJd1VtZW13YlFiVElBYVhucjlJVklNZEJDRFpqNU1vMHFfakpOYjlHbjc0RS1hY0VHNlJGTGVfLXVOVXJWV2dQcEQ4SjBqMzRXVnZBRENhZEtaaGdDcy1LRmhsaUk5clotNG0teGFYZjg0Q1VpTUlsN1JxV0pneEp5aDRZQ2RMOHRFTmljNTNHQ3hoMnJ1RFRaa0RzVkthSmhpSlE?oc=5) — Google News — Northern Virginia
-- [Northern Virginia Christmas Market canceled days before opening - WJLA](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPajJ6RHZ0LTBJa1FXa01aWkFWWGFuVzE0WkJJWV85WnVHTTR3aTNpcmlhOEZoNW1wNEpxTmNsQU82bGd6SVpNMi1oQzdkbFU2X3l0b1B2d0pVM0wzQnZkcV9qOVNDVWRyY0RmM2E2OTRrd0tzY3U1Y2lxVm5rWndnMk15akFTZTlzR2xlNW5LX1A4aEh5WWlCalRNRVpIVmJiTURfR19DQlZ4S3FaQ1ZCMTRMY01ET2la?oc=5) — Google News — Northern Virginia
-- [DMV weekend weather: Frost advisory issued across Northern Virginia ahead of sunny 60s - FOX 5 DC](https://news.google.com/rss/articles/CBMiXkFVX3lxTFB3Ujl6alhoMlBKU2ZaOTdrNWxkRnJSMlJWQjgwcmR4Zk1nVTFLYjVLbzlRM2pINEU4SFNtU0xubEx1QU0tMTJFQTNwMUFGT0lVenJzTzdOMktpVzFtVXfSAWNBVV95cUxOVUd3U2xSSEtjeUcyMHhsaEMtSmlhVU8yWUxMR1d3c0FsTi16TTJYTEdUQWpGSERjV2JNVjdWSm9ubDdQWXpRd3UyeXUycUZORTRFSjJpeUc3N0FfLXprYjJWbGc?oc=5) — Google News — Northern Virginia
+- [The Alvarez Law Firm Helps Northern Virginia Drivers Facing Reckless Driving Charges During Holiday Travel - azcentral.com and The Arizona Republic](https://news.google.com/rss/articles/CBMi8gFBVV95cUxNdVpaSWRza2pTQmdzMV82THpPb2YyMFlSYWRvMGlPREN3aTg0bW1nUUFlUzF6cWx1TnJFR0dBN08zb3VhRHRoNE5kUmpsQlVFTWRwWERwdDB5RUZKV01LRXRVaU53WWFYOGdJU29OcmJpSXBjNWxqQ2p0S2RBck9SRkRyVllHTUZOV1lCTVdJaEhWQml0TFRvUVp4LXcwenR3azRYNVI1N2pneEEwWjJmbFVMcGdURmdSQ0xfMnZ6WS1XMmxra240TWFTV1k0dXZkeUJFcmxuVnZYT2lTTURreVFGRG1kTEhhNjdoaVlieEw3Zw?oc=5) — Google News — Northern Virginia
+- [Councilman seeks to bring downstate lawmakers aboard N. Va. transit to make case for funding - ALXnow](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPaU5EUmVzOXY3NnNFOGhuZ0lQby1iWGhoSTFuXzR5d09iSVQ0ajFSWUxqbHpKaTY3a20xYk9ZeFNyNmlDNHBxeG9QMmFMQkJnS3A3eGFFbk9fb0d2LVRxVGthZEU4bVBkLTNkSzlRTF9vT0FHbVNNTllfeDJVc2Vqb0UzSnNYUFU2czZNaDB6bUNDOUF3WWlvaWloMVZOTE56azNaYzhnblkySWREbmNDdF9MWDRiRkdBa2VqWDNOQkJNenc?oc=5) — Google News — Northern Virginia
+- [Local, state leaders still debating who should pay for future Metro service - FFXnow](https://news.google.com/rss/articles/CBMirgFBVV95cUxNVm9oQnhQeEk2TUEwbUYwYW0ySW9WUFJGMzhzYk92RmttVFZjWFVWR3hSOF9oMnZpM2ZkSVpJSzlpajJ1c2dPdVBRc3Q4U25nRWtkZWhsTEZ1ek9XOENWd0trVy0zbVNla05YYm5PSFZ1bjBvX0NZeks5ZWp4aFdUa1h0QjYtalI3eWtvUXd5bDZBU2dmZ3hqZHFFQ0VRamFCeHUwVlI4YXg4VklfV0E?oc=5) — Google News — Northern Virginia
+- [Potential bump in Metrobus fares raises concerns for County Board member - ARLnow](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQOVR3dktMd3VpbzlySVhobVdINTFBVU94SGU5WTEzX2hLRmViTGxwd1NxdUJESzJvLVlPckNqOVc2LTJ3VTBrU3FBc1BZSVo1SDNMUlRDanFiSU9tb3VRcTA2OUZFSTJwWGkzSTRMRjZkQWUzQTgwTzNHeS1iRUtRUnZicWtJRlVYaTlRRWpIYnNQTEJ2MjFWTU1BMXY3bW8tUk5hUER6SDcxVWM?oc=5) — Google News — Northern Virginia
+- [9 Ways to Celebrate Veterans Day in Northern Virginia and DC - Northern Virginia Magazine](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQckFkTG9VQVpwcURwNjlVX21mN1RpSG9qd0RiOXR4eUoyNmh1T3gtakItN2FDNTRRV3FNTW1ld0ZNNENCYnRFclMxUjNpUWRFLVZIMHdQQ2hCRVJtazNfREdkMGJxRTkyR1QyMUQ2NElUcTVNVzlNREJPREp1WUNQQ05kWGVReTNxTWlXYlhMaXVQYTFUMEhwcVFfLTkzNnpWaHhqX21vYzhkQQ?oc=5) — Google News — Northern Virginia
 
 ## 🚀 Hacker News (Top 5)
 - [Goodbye Claude, hello Pi](https://caleb.software/posts/claude-to-pi.html) — 689 points, 424 comments
@@ -34,12 +34,12 @@ Global coverage includes Nvidia launches investigation into CEO's alleged relati
 - **2012** — At least 27 people are killed and dozens are wounded in conflicts between inmates and guards at Welikada prison in Colombo.
 
 ## 🎲 Wikipedia — Random Article
-**Broadwater Farm riot**  
-The first was that of 48-year-old Cynthia Jarrett (June 1937 — 5 October 1985), a Jamaican woman, born in Clarendon, Jamaica, who had died the previous day due to heart failure during a police search at her home. It was one of the main triggers of the riot, in a context where tensions between local black youth and the Metropolitan Police were already high, due to a combination of local issues and the aftermath of the 1985 Brixton riot which had occurred the previous week, following the shooting of a black woman, Cherry Groce, during another police search.
-https://en.wikipedia.org/wiki/Broadwater_Farm_riot
+**Sylvester Uphus**  
+He served on the Ashley Township board. He lived in Sauk Centre, Minnesota.
+https://en.wikipedia.org/wiki/Sylvester_Uphus
 
 ## 🌌 NASA APOD
-[Major Fireball Meteor](https://science.nasa.gov/image-article/apod-2026-november-8-major-fireball-meteor/)
+[Rigel and the Witch Head Nebula](https://science.nasa.gov/image-article/apod-2026-november-9-rigel-and-the-witch-head-nebula/)
 
 ## Feed Health
 - **Reuters — Headlines (Google News)**: ok (15 articles)
@@ -67,4 +67,4 @@ https://en.wikipedia.org/wiki/Broadwater_Farm_riot
 - **Wikipedia — Random**: ok (1 articles)
 - **NASA — APOD**: ok (1 articles)
 
-<sub>Runs so far today: 1</sub>
+<sub>Runs so far today: 2</sub>
