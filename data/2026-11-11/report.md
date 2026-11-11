@@ -1,21 +1,21 @@
 # Daily Knowledge Garden — 2026-11-11
 
 ## 🧭 Daily Summary
-Global coverage includes Three Iran-backed suspects plotted attacks including RAF Fairford incident, US says; US House blocks bid to impeach Defence Secretary Pete Hegseth, for now; US judge says Trump’s $10 billion BBC defamation case can proceed - Reuters. Local coverage includes Warner calls election a 'huge repudiation' of Trump, says Northern Virginia felt it most - The Alexandria Brief; Veteran-Owned Rubbish Works Junk Removal of Northern Virginia Expands to 31 Communities - Lohud.
+Global coverage includes US Treasury Secretary Scott Bessent relocated after alleged Iranian threats; What's behind Democratic Socialists' historic victories in the midterms?; Indonesia's vice president resigns amid signs ruling alliance is fraying. Local coverage includes Data Centers Are Moving In. What Does That Mean for Your Home Value? - Alexandria Living Magazine; 5 Official ‘Hallmark Christmas Towns’ Within Driving Distance of Northern Virginia - Northern Virginia Magazine.
 
 ## 🌍 Global News (cross-source)
-- [Three Iran-backed suspects plotted attacks including RAF Fairford incident, US says](https://www.bbc.co.uk/news/articles/c3rryrryk59zo?at_medium=RSS&at_campaign=rss) — BBC — World
-- [US House blocks bid to impeach Defence Secretary Pete Hegseth, for now](https://www.bbc.co.uk/news/articles/cxly4y5jzl0qo?at_medium=RSS&at_campaign=rss) — BBC — World
-- [US judge says Trump’s $10 billion BBC defamation case can proceed - Reuters](https://news.google.com/rss/articles/CBMitwFBVV95cUxQLXBMT2FsRHRuMzJPbE1qVmxwbUllWmUxZk5ENGVBSGthMGxsUjVDZFhiMEhNalJVdU5ZejhYcVo3SlBtTjZ5d09QVlF6QmdHYkZHSkxFQ2R3SXRTZXZtUU1IcjdoQjctb1FxcTNtalRtcWVqTms1aFhoR1pYRDlfZGhnUWc5b0cxdFVmOWg4WEw3STUwX05PVFZPTm9sTW9xbzc0S2NHQlBNRGd5WExTaHhiQTVXMDA?oc=5) — Reuters — Headlines (Google News)
-- [Thomas Markle sent back to jail after cutting off his ankle bracelet - Reuters](https://news.google.com/rss/articles/CBMivgFBVV95cUxQSVloVDEyT01KczFSUlV1OU1NcUFrX3FCRGxIUEpfalN5Uk14Y3VwTHBXbDNUYkREUWt0RTNOWTNRRWtqRHp6ZTB5ZHJoN2JOR3B4ck5MNXlDSE5CUEdTZkd5ZHYwSTBDMVVhUk5HZmNWTEQyQm96WmUxa3ZpSHZHaG1Va3lzUWlORERfbk1aQmJLbmVMdmo3MXkyWGNzNlgtaEkweE5ycHlmOUJmQXZSN29UcE5oWnVCTTNhcUx3?oc=5) — Reuters — Headlines (Google News)
-- [House Republicans quash effort to impeach Defense Secretary Hegseth - AP News](https://news.google.com/rss/articles/CBMiowFBVV95cUxPQUNXMkxGenZWcWlHclR5OG1zTlBOY1FCaktDemppTUVxd1R6aVdEU0t1Yld1U1h2empESzVJWXJxa0VYREVJenNGbVg4cmdKY3RkYkdwbmdsZGJiWmF2Y280dDYzbjJkcnRWbEp5MjJ3YzlUUEcySW5PcEYydzI4OHJoNWhKSHZvTlhMd3NRMll3VEwxTkpJOWhyUnFQV3dneTVV?oc=5) — AP — Headlines (Google News)
+- [US Treasury Secretary Scott Bessent relocated after alleged Iranian threats](https://www.bbc.co.uk/news/articles/cqr7gr0010r2o?at_medium=RSS&at_campaign=rss) — BBC — World
+- [What's behind Democratic Socialists' historic victories in the midterms?](https://www.npr.org/2026/11/11/nx-s1-6037432/whats-behind-democratic-socialists-historic-victories-in-the-midterms) — NPR — Top Stories
+- [Indonesia's vice president resigns amid signs ruling alliance is fraying](https://www.bbc.co.uk/news/articles/cmvgxgz87qqro?at_medium=RSS&at_campaign=rss) — BBC — World
+- [Rebounding AI stocks lift Wall Street - AP News](https://news.google.com/rss/articles/CBMikwFBVV95cUxNYi1oYnVxUmZHNlhJVXBPYk9ITmFxZzBzUWNfUDZPT2tsR0R4SExvcmJzM3I1ZEh0WHV0bHM2amVtQmMzWnpwRWVFRjluOTdETUt2UGtPbUUzamNLcVJ5UHk3Qm5ZMmNlNm16X21EZkZxaktKT3RIUEc4SlJCbnJDbzhxOXFkNVI0ZVFab3JBOGxtSXM?oc=5) — AP — Headlines (Google News)
+- [Russia and Ukraine agree to a large prisoner exchange as talks end with no major breakthrough - AP News](https://news.google.com/rss/articles/CBMiogFBVV95cUxPZGJLX21sUk93S0w1eDdOMEtDdC1ETk4zZ0E4d1dna2xHaWxFSXIxdGFFYVV0Wm5pWlc1Uk5YczNsa09FcGJtMHpKU1VnTkVJejR2YTJxR0ZFQXE3dndEcS0teGNKbHJBS3R1N1lHbUxuR3hOQ3hyZ2s5elFlbkFBVTJMNmE3TW1vN2x5dDl2VzBvWWpiWU5WRGxBLWJTNVZBUUE?oc=5) — AP — Headlines (Google News)
 
 ## 🏙️ Local News
+- [Data Centers Are Moving In. What Does That Mean for Your Home Value? - Alexandria Living Magazine](https://news.google.com/rss/articles/CBMitAFBVV95cUxPREJ6OWlHZGw0aER4dk1WaWNfM1F4eHNXeVJDRm84ZUVPLWVlTHdVTlhDbVp5MFQzWGR3OWpHem0wNDI3U19WMHhtcVlKeGd0R2lGMVVQd2FJV0ZWVGdHNjROTmJGNk1scEZFUzFpNXI1Mml4SjExVlBSSG5BcmJzQTA0ZDB2OWUzVXN1anAxR2pLaUJjMUZublJMVkVpQWxKcEhwMnZyS3ZoeVZtejE5bzdsckQ?oc=5) — Google News — Northern Virginia
+- [5 Official ‘Hallmark Christmas Towns’ Within Driving Distance of Northern Virginia - Northern Virginia Magazine](https://news.google.com/rss/articles/CBMi3AFBVV95cUxPSWY5VEg3N3dfeXRaYy1rY3VQM3E0ZnNoNnF0Q09FX3p3bC1wbTAzbTJ3anlydWdIMjVIZGRfTjZJd2I2aVM1d1RaV1RmN09IS2w1dFZnLVJNTFZmM3UzLUI0LUFReG9mclAtdUNRLWdrQVV6RE5POTFnSXozcy1oc3ZvaU1NX1lfX0o2eVpyVTl5R0Y0V1hONzZBX1dTN2dQOXE3Q214dFBURFdIa0QwUDZlVE9Qa09sempRai16T1pSRElwbkV5SjdhRW5LWC1zVllyc0Q1a2tjZDdr?oc=5) — Google News — Northern Virginia
+- [How Virginians can check if they have unclaimed property and more state headlines - Virginia Mercury](https://news.google.com/rss/articles/CBMivgFBVV95cUxQa3ZKbVQ4NjVKaFdkSzQwal9CSEljV2FicXBRN3VnTVp4TG9VaUNxWnhtRzg0emtDcktWTW1TbWdkM3kyS2J6aVdESDZQbHlKQXRQVUlMZHFlMVRfV1E3TmVza2tBemcyNW1BZDNnRzNUS18taGRvMzVSalFSRzJTM1pQbm9pVEU2cnRnV3pHc0lDLTNtbTVOTHBQVFh1OVdDMnJLbkt2TEk1aDFVNGpBcVJ0R1B1emNiOFlfZnZ3?oc=5) — Google News — Northern Virginia
+- [Alexandria wants to transform Cameron Run water park into new indoor sports and events complex - WTOP News](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQdU5zbkxaNmJvbnRpWHh3UmRyeDllNDUxSHo5TDdsSkhpcnRKTFJ4RmhLeWZJUGMyYjlIWXFpWjR1SG9TWFp1MVdraENkU2x2dFBJR2pvOUw3ckszZzlqWXIza2VfQU1hMFBOejZya1o2QmtrNWhTZTMxb2k3VGM0MVlPQ2N3WTBMenFrY2tTQWhCc1Q5UTl6QzNFVmtvM0VTVlJQMnBEWHdIMDN2R2dsbVZlLWdKVmlaZUIwNWptbUlTdkpENk9xOQ?oc=5) — Google News — Northern Virginia
 - [Warner calls election a 'huge repudiation' of Trump, says Northern Virginia felt it most - The Alexandria Brief](https://news.google.com/rss/articles/CBMiugFBVV95cUxNLW5Md3JzU1dDa1RZWUdTdzZaLTNXZlVlbDVmcFN0ZTZ5WHY0UzdSTVBhdEIxVkdWbmJEZ0FwRVk2SmpVanh1ZGY0VmtMX2RiU19OcHczdElhU2VJaWw0OFI0WjZ1d3ZHcGJLSlZ1S1lXeTJxZmxDT0Zya3cxanRzck5DdmdDelNSRGdaYzVLUkF2d1drZUpwaFpzYjJYM3FjVnVOMVlQWV8yRWotN0hNQmYtS1lyV0ZteEE?oc=5) — Google News — Northern Virginia
-- [Veteran-Owned Rubbish Works Junk Removal of Northern Virginia Expands to 31 Communities - Lohud](https://news.google.com/rss/articles/CBMi0wFBVV95cUxNWnh2eFVtZDRFVXNmdEtlUHViY3V2clIwX0dLQXA0YTBfMThqX3dieFQyOV9GRWdneG1qTzItTml1STc5NERFV05UaDhrQzU2a19ra0p6MlNiOVp6UHlKMG80ZEVBSEpmLVRkWWJSekl6d0NyQzNlRUVHcmtqTXVjWmFxOHRCdlpWVU5PbTBmbXpZMU5yYV9TckRxNmw3VTd1ZC1UY2pHSDV6SzVoUDlxVkhqNl9XODVXWU0zRVJFS0FHeS1HQk9nV3A1UlNwYWwzRm9z?oc=5) — Google News — Northern Virginia
-- [Man accused of stabbing 2 strangers, trying to stab another in Crystal City - NBC4 Washington](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNSlJzY24xTGZUb2FWS0s1VmRaNTVVbkhGYmFJd0xSLU45b1hhS1BpX3Rfamo5aHhpckU4el9YLW92RkQ3cTdrelljNDBVdVRST0czU0oxZUp2RnhnYnQ5NnFQNlVRdjBaZS1TTUYtUkJ3OHlPd0t4ZmktbDJNaWxGdldJREVPcG45ZDdKUVJxeUJFVTktT2xIalJobkJicWNLV0xWQWg4dFo1MktPOGhHQjYweC1jdVJ5ZHJVczBfOGhxclNoZnlYSjBNeHlKMFJyaFdFUnJqRjRUZ9IB4gFBVV95cUxQNDh6b1pWODlqRVJEMHBRdUYzTmZud1pvVFFhdTBUR2tRRWx6RTlncnBFOTNWRTNoaVFkc0RKOTFSV2V6Vk9XYVdock1QTnNRRmlWUHc2OGh2MlFWOVV0Q2tOMXQ5akJEaDNuQXlONkxLTU5BdndBRFZmVG5BZ3NlZlg1ZzFVUnp1cHc0RHZqejdUckNOTjhXY24wY09hNEVaLTl6MHVtekp2WHpQaDVSU21la25nXzZ5U1hydGRYVE5TZVpCbU9VOXRLQTlCbFVCdmlLYjJRLWVueEZXM3NJQnRn?oc=5) — Google News — Northern Virginia
-- [Spirit Christmas opens holiday-themed store in NoVa - The Burn](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQVUVYSHNBRzVCQ1VNVC1Ia2pYOTlLUzdTWEhhc2g2TndQa3VwUzlNMVlyMzZuZGV1Q3U0QkRTYkR5OFNfNmFpSHRUakx6WGVObXFiMGVldFZuM3c0SV85akMxMW9VS2ppVDZfanlXWm5SUHhBS3VWRklsakpjWDFzNFktYjlwNHlyVGhJ?oc=5) — Google News — Northern Virginia
-- [Leased-up Northern Virginia offices trade at a discount via short sale - Green Street News](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTlhqOVlLZHoxSkpWb0hNanYxRjNmZC1FWllndDNITTc0S1EzMlprX1dXcUZFSGRaZkdGNktGd1JvYnV1a3EyNzMxdnBCNW1HOW9IdHJYYjRBUnh2eHIzeEpqal9SQTh4a0J6bEZwVFR5bExWcGQ0OGN0NWkzOUJNUW9jZmFpVU9WbFJjZk5YTldlcXRJMU8xY2x1anBDanprYTVXNEczN3RlYnc?oc=5) — Google News — Northern Virginia
 
 ## 🚀 Hacker News (Top 5)
 - [Smart home devices should work without the internet](https://docodethatmatters.com/home-automation-overnight-success/) — 686 points, 247 comments
@@ -34,12 +34,12 @@ Global coverage includes Three Iran-backed suspects plotted attacks including RA
 - **2011** — A helicopter crash just outside Mexico City kills seven, including Francisco Blake Mora the Secretary of the Interior of Mexico.
 
 ## 🎲 Wikipedia — Random Article
-**Freies Volk**  
-Freies Volk ('Free People') was a newspaper published daily from Düsseldorf, West Germany 1949-1956. On 1 September 1949 Freies Volk became the central organ of the Communist Party.
-https://en.wikipedia.org/wiki/Freies_Volk
+**Fondouk of French**  
+The Fondouk of the French is a caravanserai located in the Medina of Tunis in the old French district. It is near Bab El Bhar.
+https://en.wikipedia.org/wiki/Fondouk_of_French
 
 ## 🌌 NASA APOD
-[Saturn Behind the Moon](https://science.nasa.gov/image-article/apod-2026-november-10-saturn-behind-the-moon/)
+[NGC 4449: Small Galaxy, Big Impact](https://science.nasa.gov/image-article/apod-2026-november-11-ngc-4449-small-galaxy-big-impact/)
 
 ## Feed Health
 - **Reuters — Headlines (Google News)**: ok (15 articles)
@@ -67,4 +67,4 @@ https://en.wikipedia.org/wiki/Freies_Volk
 - **Wikipedia — Random**: ok (1 articles)
 - **NASA — APOD**: ok (1 articles)
 
-<sub>Runs so far today: 1</sub>
+<sub>Runs so far today: 2</sub>
