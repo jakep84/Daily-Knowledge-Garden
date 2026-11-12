@@ -1,21 +1,21 @@
 # Daily Knowledge Garden — 2026-11-12
 
 ## 🧭 Daily Summary
-Global coverage includes Democrat Scott Colom seals historic win in Mississippi Senate race; New York building collapse kills one person and injures 12; Mississippi elects Democrat Scott Colom as state's first Black US senator since Reconstruction - AP News. Local coverage includes Ronald Jennings Obituary (2026) - Stephens City, VA - Northern Virginia Daily - Legacy | Obituary; Teen dies days after being hit by car outside of Chantilly High School - NBC4 Washington.
+Global coverage includes Brooklyn building collapse killed 2 children and 6 adults, mayor says - AP News; Nvidia CEO Jensen Huang resigns in big blow to AI boom - Reuters; The rise and fall of Jensen Huang - how the tech superstar became mired in scandal. Local coverage includes Enverra Buys Northern Virginia Office Campus for $42M - Commercial Observer; Civil War soldier who died in Northern Virginia is finally l... - InsideNoVa.
 
 ## 🌍 Global News (cross-source)
-- [Democrat Scott Colom seals historic win in Mississippi Senate race](https://www.bbc.co.uk/news/articles/cw7vppyr80eeo?at_medium=RSS&at_campaign=rss) — BBC — World
-- [New York building collapse kills one person and injures 12](https://www.bbc.co.uk/news/videos/c60rkwjj7x7go?at_medium=RSS&at_campaign=rss) — BBC — World
-- [Mississippi elects Democrat Scott Colom as state's first Black US senator since Reconstruction - AP News](https://news.google.com/rss/articles/CBMioAFBVV95cUxQVVhWcG5USS14S1FTbUdWOGtpYjRXSWdoUlJ4Ym95VXFGdnQtdVgyY3pMcjFScHpQc0c3a202TWJVcHp6YjFobDFfRl9Ga01PSGdaTEhZREZXRmtKUFBQY1JWQ0NmTHM2aVZnUVdNS3lPZG5RbDVVdHZFZnBkNmlwNU1Sc21GV1RvY0dwVHlyekd0UFg5aUZlNU1nYkJQZE1Y?oc=5) — AP — Headlines (Google News)
-- [Saudi Arabia says debris from intercepted missiles falls in Mecca region - Reuters](https://news.google.com/rss/articles/CBMiugFBVV95cUxQSEdmMVduSHJxWEd1UWVkOUtrcF91S3VfSnI0MzlnTjh6NFdHOFNpSTBXU1JpdFk3NHdORlNsck91bFEyNUNLMHdoT1hFZmlqTGdaUDU2c2ZkeXE0Zl82cURaQXZxTS1IMmxqS3FNUEVNU1FRU1NQU01EQkxzNkN0YUhWek1qRm9ZYkNUS1FrWUIyTmFaUFFkTERqZER3UUx6cEN3VVdWNG56R19zSFkzRWphVUl1Z3I1eHc?oc=5) — Reuters — Headlines (Google News)
-- [Firefighters dig through rubble after NYC building collapse kills 1 and traps people in wreckage - AP News](https://news.google.com/rss/articles/CBMijwFBVV95cUxQMlZId0RsMUdSc3RNcWhhS3NHaFNVUXJBMGtVWVJhZHZ5WWIxOHk2MnJKUHRLNlV5aGEyYmZ6TEhKQmYxaE9JWGh5dVdfOGg2LWxUUEVuV3JoYjNGb0c4M0lmZDdGRS1yTG9ydmNfdHlsNDllQWJySlVZcDh2b3A4Y0t3NWZ6S0I0aFQtazUwRQ?oc=5) — AP — Headlines (Google News)
+- [Brooklyn building collapse killed 2 children and 6 adults, mayor says - AP News](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQOTF0bXlzSWlmLWlkQWl1aE1xZzFRNjVtTXJtOFV4bUtGd2JQeGx0bjJ1bjRCQ2pUVFN2ejd2ZU5NZE5MVTdSNGpZbjU4RVV4MDVsQnRtLUZHV09LS0NYeWY1OGVaVkdWYk10Vy00UzdJY1lpSUYza2dWVGY3aC1vS3dCbDE2OVlHNHB5VVJYSDBSZi05eVNLcXRsMDZDWkJFZmYtMGxsN2hjQQ?oc=5) — AP — Business (Google News)
+- [Nvidia CEO Jensen Huang resigns in big blow to AI boom - Reuters](https://news.google.com/rss/articles/CBMisAFBVV95cUxOMEFwN0FWdjB6blNtR0RZaTBWZXZDaWVwYkhXREttY2FaYVNNVC1qNEFHYm9Yd1pDODBDN2tvNzhnMTY4cmxWYTg1WVFidzFlNVFEdlZNb3IyZG1nS2FKcHAzUERhQW9EdG9oOER6YmwydXZOd0t1VHRub1BCdFdoR1V4dktlUVUydjZWeU53aVdKMGwtOGFtZmd2T3VhODF3eXhPazVtbV81b0hpUi1vcw?oc=5) — Reuters — Headlines (Google News)
+- [The rise and fall of Jensen Huang - how the tech superstar became mired in scandal](https://www.bbc.co.uk/news/articles/cmze750zg0jeo?at_medium=RSS&at_campaign=rss) — BBC — Tech
+- [5 people are shot in DC, including 1 killed at a gym, and then suspect kills himself - AP News](https://news.google.com/rss/articles/CBMijAFBVV95cUxQMW5zRmhTTGNjXzZqa1hiWG1oWmVLeGZzZmZiVkhjOEpqTlJiMVZudG1meElSb2d5djFtM0FSUzM0UVdtYXdRcVZReTBxUG5rMW9ZYVQ3MlFXTGhZRG5rZmZnay1ONXlEVzJWdFRKZ3VLZGRDNFVzU21oVkZHTkhCZGlDNTA2NlgzY3lhdw?oc=5) — AP — Headlines (Google News)
+- [Italian schools defy new wave of bomb threats to remain open - Reuters](https://news.google.com/rss/articles/CBMimwFBVV95cUxQSFJJaFJoR2JHVWdTZmVzdkw2MDhTc29qU0pDRmdmaXpwWjN2Q3VyYjlFUWJkRmJHTmlaNFFYdWIxdTFHR3p5VGlTaGExYzFwZ3BTRjV6dTJuQWdibllJN1lwd3E1RThuUEU2ekpfbU1GSUJwU2tyMkd5a3daSEkwNm5YU19zUEIxLWpSNjNDS0lzT1NCd2ZQRG1COA?oc=5) — Reuters — World (Google News)
 
 ## 🏙️ Local News
+- [Enverra Buys Northern Virginia Office Campus for $42M - Commercial Observer](https://news.google.com/rss/articles/CBMilwFBVV95cUxPd3MyV0Rsd2J6emUwemQtQ25MVXBpeEFDMFpUUEJ4VGtIZjJ4LTZMcDZBckNMY1FKRzJFRkVVZGhSMGN4MHRLbXFEQ25ONVQ1eUNMdkQ2NFdnSmZXa0hMajJmdjJXUkVqMDA5OWNPZTJHdk5sVlZPSm1EYTdXcFVZRV9qa0ZDeXd0OFdLZ3BHVFZBUnkxUkZV?oc=5) — Google News — Northern Virginia
+- [Civil War soldier who died in Northern Virginia is finally l... - InsideNoVa](https://news.google.com/rss/articles/CBMisgFBVV95cUxQUXVNMVdOZUdneVFKelhRMFRTUVNYRktpOExfeHBRQkZkcDZnSFNDaVRfRzkxZmd5S3pra0lqSnFMR081UlN4Ulg4T29VckJwczhxWHBmQk1NbWJXaE9WT3dFT0NpWHhCdUQxenk1V2lSNFlvWUEwUGo1UDdaZVJrbXBiUDdxWGQ4YXdDbUZtazVMUHRNbmxkal9xbmR1SE10R2h6SlBLZGNxa1VQNXhVa29n?oc=5) — Google News — Northern Virginia
+- [Sentara Northern Virginia Medical Center Hosts First Cadaver Skills Lab for Local EMS - Prince William Living](https://news.google.com/rss/articles/CBMiugFBVV95cUxOVkJxRVNPNmNoTy1WQW1xRHVmQVlVNV9Rb3o5T0ttdzExYkJhcFd0cVl1cE5oTy1Zd1hLQnhScW85b2JwTDFkY0lKSHF1OThoZUthTFV3S2lySUJ1bkU3WWxCeGZ1aUp5dFNBR191aUNyWkZ0MDlXZkQ1UlVha0RZR0JsMlN0cmpyU01ROS00Yk83XzJNTmlvY2pjMmd3ODJJcjhjU2xVay1Fd01yeTFrX19xVlVCVWZsNWc?oc=5) — Google News — Northern Virginia
+- [Eddie Polk Obituary (2026) - Edinburg, VA - Northern Virginia Daily - Legacy | Obituary](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUEJWVWJjcXlkaDdaNXpjY254ZG52V3U5Ymk1emVhYTRubGxOVm9rMk9GQkt5T1JudHJwVVlnUHAtZ1podFFIc09ZbE9sMTlDYy1YbmJWU3J5WXE5ZHdDclhoeTVMNi1aQ2dKa0RtV2Z2emRqNFJhYkd1LXZLRVFsb0dXNjV4ekU2?oc=5) — Google News — Northern Virginia
 - [Ronald Jennings Obituary (2026) - Stephens City, VA - Northern Virginia Daily - Legacy | Obituary](https://news.google.com/rss/articles/CBMijwFBVV95cUxPaXE5REFaQ3pLZ1JNVFV1clpoVDM2WkpyUnhPMTAyS0FpVU93dEpnTEpydzV2aFlfcTdWM2xnTmhhYkw2SFdhWnY2TVBCWUk3c2xoUzR4ZjRhbjY1QmtEazBHdzl5ZUg0cmFDZGozNTJMWjhndl8xS190ZEo5SXBaQ3ZoZ2s1QzRoYzJfZ0pwZw?oc=5) — Google News — Northern Virginia
-- [Teen dies days after being hit by car outside of Chantilly High School - NBC4 Washington](https://news.google.com/rss/articles/CBMi1AFBVV95cUxOQnAzTjRDazlpajRCTWg3RGZZTWFpbVZtRGlyc1h3V3p0bjNXZGYzalVyQWVVY0dSa3FwOF9HOWhONVNsU2dMUTdNWUVKWTZrQUhYcVJONW5ZcnFSbF80Q3dsb2VuT2N6WmlMdHJfOVgzNGdaM2YyRW1CRXdCRkZsRVAya2NXVm5oTGtRSE1wZDhhd0ZKNnhtUEJFb19iWFFpNzYtNUtld3M4b2FtOUlRZEs2OFR5RGZVeXpiakNMSjU2QkVfMklCS0ZrQndtOGJNZXVoV9IB3AFBVV95cUxPUlBwVmpLa1BFUDhsY2FIdDNIcTVETUN6QlVBd2tFUFQzd0lrdmI4WXBOeTl2c1Y3Z0lQdUNJWml6Vkl0b202cnd5T0N6LUszT3h0Ty1UV0hIc19jUFNQMzR5T2hlT2ZpalctV0JJUE9vdFJiQURsMFVTVjlfUDZtN3l6XzRweHFsQXl5R1o4bjJSa0x5QktfR2pKZ2Jub1czQjh4RGZTZ1YteFlCRVZfWDlOcEhPaGtfVW5kTkRvS0hWekc1TzZUd3VLUUZ4VDYtRjZnZHBYd2dhTjFs?oc=5) — Google News — Northern Virginia
-- [Reston Town Center Announces Changes to Its Holiday Programming - Northern Virginia Magazine](https://news.google.com/rss/articles/CBMivAFBVV95cUxPbURzOE04NE0zTHB4TXpuM3VYUXdIb3d6NkZJbFJMLWlSVDhZTTJfQThUdzVZQWQzTE1HdEtmaURSWlE0VlRfT2VzQy1xQXk2SmxrS2N4WDZZSU93N3FBM2VOR0xNV2pHeG4tSzJyWFg5cmh4ZFdoNm1Uc0QxRzM3cl85MXExRkRlWGJXWDNpTUp4ZTBrVHdzcFVWWDhQVG9kdzJBU0lJV2ZORTNzUHhsYTFqQXZFZ3RmUHE0ZA?oc=5) — Google News — Northern Virginia
-- [City of Alexandria Plans to Convert Cameron Run from a Park to a Sports Complex - Northern Virginia Magazine](https://news.google.com/rss/articles/CBMixwFBVV95cUxNTVhXRzRzRm9qVXlBbzB4Qlh3d2V0bk9tTDhwTUlCYTBfYjRyS3cwM0lfckx2Ri1LeW1na0JveUM2ZmVEOUVMelVTT1B5QWN5MUNtRmhjcWRVVmhJRTRKbGdhcTU1MTBveklGMHpuUDNPd0V6UkJoMzZQRGFKMGNuaXZOZm1INWRsWENRTmtrd09WaDJvZ1hIekhGcDloenhHNWZLUXB6aEQ5MjNpWmxVa1BWWG5QY3NXbm1HWFZZeHd0TFhmVkFF?oc=5) — Google News — Northern Virginia
-- [Six-Week Holiday Market Pop-Up to Return to Fairfax Corner - Northern Virginia Magazine](https://news.google.com/rss/articles/CBMitAFBVV95cUxNblk3dDNSNjNiTC1BMXc2SjRvSXVBTXNiQnRQbGFPYW1qXzREb3VJb1RNXy1mQm5kU2p0OFhPSHg1aEMzcHdSOFJyX0VLUU1KNTJiRkhPU0dvLVNLdnVONlU3Q3ZRWkpjTk4xQjRGdTRmd0ZRR1A0UzV3OFF0SEJpNnFUTjRYX0Vtd3hwSVlFbnFSTzRpOVV2THhyX29fWE9WM3NpOXhWZzk0Nnd0WFphYUg2MUo?oc=5) — Google News — Northern Virginia
 
 ## 🚀 Hacker News (Top 5)
 - [My AI agents found an unmapped Maya site?](https://pietromiotti.com/latest/maya-site) — 930 points, 338 comments
@@ -34,12 +34,12 @@ Global coverage includes Democrat Scott Colom seals historic win in Mississippi 
 - **2015** — Two suicide bombers detonate explosives in Bourj el-Barajneh, Beirut, killing 43 people and injuring over 200 others.
 
 ## 🎲 Wikipedia — Random Article
-**Juari River**  
-The Juari River is a river of Tocantins state in central Brazil. The Juari is part of the Tocantins basin and a tributary of the Araguaia River.
-https://en.wikipedia.org/wiki/Juari_River
+**Cry to Me**  
+"Cry to Me" is a song written by Bert Berns (listed as "Bert Russell") and first recorded by American soul singer Solomon Burke in 1961. On March 20, 1962, Burke performed "Cry to Me" on American Bandstand.
+https://en.wikipedia.org/wiki/Cry_to_Me
 
 ## 🌌 NASA APOD
-[NGC 4449: Small Galaxy, Big Impact](https://science.nasa.gov/image-article/apod-2026-november-11-ngc-4449-small-galaxy-big-impact/)
+[Moon, Venus and Spica Meet](https://science.nasa.gov/image-article/apod-2026-november-12-moon-venus-and-spica-meet/)
 
 ## Feed Health
 - **Reuters — Headlines (Google News)**: ok (15 articles)
@@ -67,4 +67,4 @@ https://en.wikipedia.org/wiki/Juari_River
 - **Wikipedia — Random**: ok (1 articles)
 - **NASA — APOD**: ok (1 articles)
 
-<sub>Runs so far today: 1</sub>
+<sub>Runs so far today: 2</sub>
