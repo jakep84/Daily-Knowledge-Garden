@@ -1,0 +1,2050 @@
+{
+  "date": "2026-11-13",
+  "last_updated_utc": "2026-11-13T01:44:08Z",
+  "hn": {
+    "items": [
+      {
+        "title": "Jensen Huang resigns",
+        "url": "https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f",
+        "points": 2943,
+        "author": "lldb",
+        "num_comments": 2788,
+        "created_at": "2026-11-12T13:52:29Z",
+        "objectID": "50467087"
+      },
+      {
+        "title": "Anthropic IPO",
+        "url": "https://ipo.anthropic.com/us/",
+        "points": 818,
+        "author": "josephljohnston",
+        "num_comments": 805,
+        "created_at": "2026-11-12T11:46:41Z",
+        "objectID": "50465829"
+      },
+      {
+        "title": "Service degradation on Microsoft 365",
+        "url": "https://status.cloud.microsoft/",
+        "points": 498,
+        "author": "dkpk",
+        "num_comments": 463,
+        "created_at": "2026-11-12T18:20:48Z",
+        "objectID": "50471731"
+      },
+      {
+        "title": "Gemini 4 Hydrogen",
+        "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/",
+        "points": 463,
+        "author": "dvaplima",
+        "num_comments": 296,
+        "created_at": "2026-11-12T18:01:48Z",
+        "objectID": "50471431"
+      },
+      {
+        "title": "Rust 1.100",
+        "url": "https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/",
+        "points": 417,
+        "author": "mbStavola",
+        "num_comments": 171,
+        "created_at": "2026-11-12T18:39:05Z",
+        "objectID": "50472038"
+      },
+      {
+        "title": "Writing correct software is hard and math alone won’t help us (2016)",
+        "url": "https://pron.github.io/posts/correctness-and-complexity",
+        "points": 358,
+        "author": "AriFordsham",
+        "num_comments": 168,
+        "created_at": "2026-11-12T10:28:26Z",
+        "objectID": "50465352"
+      },
+      {
+        "title": "Show HN: My $300 embroidery machine needed a subscription, so I built my own app",
+        "url": "https://github.com/simpsoka/zigzag",
+        "points": 336,
+        "author": "simpsoka",
+        "num_comments": 137,
+        "created_at": "2026-11-12T17:02:42Z",
+        "objectID": "50470488"
+      },
+      {
+        "title": "Gemini 4 Hydrogen and Orchestrator",
+        "url": "https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/",
+        "points": 301,
+        "author": "jonbaer",
+        "num_comments": 72,
+        "created_at": "2026-11-12T18:52:01Z",
+        "objectID": "50472260"
+      },
+      {
+        "title": "I'm making LLMs work on small and old devices",
+        "url": "https://github.com/hyperionaidev/smolmaxxing/",
+        "points": 278,
+        "author": "mrashad74",
+        "num_comments": 95,
+        "created_at": "2026-11-12T15:23:10Z",
+        "objectID": "50468888"
+      },
+      {
+        "title": "Abandoned Quake 4 expansion finished by modders and now playable",
+        "url": "https://www.moddb.com/mods/openq4/downloads/openq4-0141-windows-x64",
+        "points": 238,
+        "author": "klaussilveira",
+        "num_comments": 82,
+        "created_at": "2026-11-12T14:18:49Z",
+        "objectID": "50467618"
+      },
+      {
+        "title": "Dwarf planet candidate appears which takes roughly 280 years to orbit our sun",
+        "url": "https://www.smithsonianmag.com/smart-news/astronomers-found-a-mysterious-object-orbiting-far-beyond-pluto-it-could-be-a-new-dwarf-planet-hidden-in-our-solar-system-180989857/",
+        "points": 198,
+        "author": "cybermango",
+        "num_comments": 94,
+        "created_at": "2026-11-12T19:05:33Z",
+        "objectID": "50472490"
+      },
+      {
+        "title": "Talking Zen 6 with Mike Clark at AMD In-Depth",
+        "url": "https://chipsandcheese.com/p/talking-zen-6-with-mike-clark-at",
+        "points": 186,
+        "author": "dverlaeckt80",
+        "num_comments": 2,
+        "created_at": "2026-11-12T14:12:37Z",
+        "objectID": "50467460"
+      },
+      {
+        "title": "Our software engineering interviews are changing a little",
+        "url": "https://blog.janestreet.com/software-engineering-interviews-are-changing-a-little/",
+        "points": 170,
+        "author": "maitland",
+        "num_comments": 163,
+        "created_at": "2026-11-12T14:05:28Z",
+        "objectID": "50467297"
+      },
+      {
+        "title": "Chinese frontier AI models carry the fingerprint of export-controlled GPUs",
+        "url": "https://unemploymentlabs.com/checkpoint-forensics",
+        "points": 164,
+        "author": "firloop",
+        "num_comments": 45,
+        "created_at": "2026-11-12T21:56:11Z",
+        "objectID": "50474883"
+      },
+      {
+        "title": "Turning a 22-year-old Postgres type-confusion primitive into RCE",
+        "url": "https://mehmetince.net/part-3-6-how-i-ended-up-turning-a-22-year-old-postgresql-type-confusion-primitive-into-rce-cve-2026-6460/",
+        "points": 144,
+        "author": "ozirus",
+        "num_comments": 18,
+        "created_at": "2026-11-12T18:22:22Z",
+        "objectID": "50471761"
+      },
+      {
+        "title": "Foundation Models framework",
+        "url": "https://developer.apple.com/foundation-models-framework/",
+        "points": 126,
+        "author": "kermatt",
+        "num_comments": 16,
+        "created_at": "2026-11-12T21:13:26Z",
+        "objectID": "50474361"
+      },
+      {
+        "title": "Relax: JIT compiler for Rust to reduce build times",
+        "url": "https://makepad.github.io/relax/",
+        "points": 118,
+        "author": "adamnemecek",
+        "num_comments": 50,
+        "created_at": "2026-11-11T21:20:01Z",
+        "objectID": "50458849"
+      },
+      {
+        "title": "ExcalidrawZ: Local Native Excalidraw on macOS/iOS",
+        "url": "https://github.com/chocoford/ExcalidrawZ",
+        "points": 107,
+        "author": "Qision",
+        "num_comments": 24,
+        "created_at": "2026-11-12T15:25:52Z",
+        "objectID": "50468944"
+      },
+      {
+        "title": "AI is turning Apple's app review process into a nightmare for synth developers",
+        "url": "https://synthanatomy.com/2026/11/ai-is-turning-apples-app-review-process-into-a-nightmare-for-developers.html",
+        "points": 93,
+        "author": "anigbrowl",
+        "num_comments": 80,
+        "created_at": "2026-11-12T21:09:49Z",
+        "objectID": "50474311"
+      },
+      {
+        "title": "Show HN: AgentRun – open-source, Self-improving Managed Agents",
+        "url": "https://github.com/Parcha-ai/agentrun/blob/main/README.md",
+        "points": 75,
+        "author": "miguelrios",
+        "num_comments": 16,
+        "created_at": "2026-11-12T18:15:48Z",
+        "objectID": "50471650"
+      }
+    ]
+  },
+  "wiki": {
+    "today": [
+      {
+        "year": 2022,
+        "text": "A mass stabbing occurs in Moscow, Idaho in which four University of Idaho students are killed in off-campus housing.",
+        "pages": [
+          "2022 Idaho student murders",
+          "Moscow, Idaho",
+          "University of Idaho"
+        ]
+      },
+      {
+        "year": 2015,
+        "text": "Islamic State operatives carry out a series of coordinated terrorist attacks in Paris, including suicide bombings, mass shootings and a hostage crisis. The terrorists kill 130 people, making it the deadliest attack in France since the Second World War.",
+        "pages": [
+          "Islamic State",
+          "November 2015 Paris attacks",
+          "Paris"
+        ]
+      },
+      {
+        "year": 2012,
+        "text": "A total solar eclipse occurs in parts of Australia and the South Pacific.",
+        "pages": [
+          "Solar eclipse",
+          "Solar eclipse of November 13, 2012"
+        ]
+      },
+      {
+        "year": 2002,
+        "text": "Iraq disarmament crisis: Iraq agrees to the terms of the UN Security Council Resolution 1441.",
+        "pages": [
+          "Iraq disarmament crisis",
+          "Iraq",
+          "United Nations Security Council Resolution 1441"
+        ]
+      },
+      {
+        "year": 2001,
+        "text": "War on terror: In the first such act since World War II, US President George W. Bush signs an executive order allowing military tribunals against foreigners suspected of connections to terrorist acts or planned acts on the United States.",
+        "pages": [
+          "War on terror",
+          "George W. Bush",
+          "Executive order",
+          "Military justice"
+        ]
+      },
+      {
+        "year": 2000,
+        "text": "Philippine House Speaker Manny Villar passes the articles of impeachment against Philippine President Joseph Estrada.",
+        "pages": [
+          "Philippines",
+          "Manny Villar",
+          "President of the Philippines",
+          "Joseph Estrada"
+        ]
+      },
+      {
+        "year": 1996,
+        "text": "As part of the Great Internet Mersenne Prime Search (GIMPS) project, Joel Armengaud discovers the project's first Mersenne prime number, 21398269−1, a number with 420,921 digits.",
+        "pages": [
+          "Great Internet Mersenne Prime Search",
+          "Mersenne prime"
+        ]
+      },
+      {
+        "year": 1995,
+        "text": "Mozambique becomes the first state to join the Commonwealth of Nations without having been part of the former British Empire.",
+        "pages": [
+          "Mozambique",
+          "Commonwealth of Nations",
+          "British Empire"
+        ]
+      },
+      {
+        "year": 1995,
+        "text": "Nigeria Airways Flight 357 crashes at Kaduna International Airport in Kaduna, Nigeria, killing 11 people and injuring 66.",
+        "pages": [
+          "Nigeria Airways Flight 357",
+          "Kaduna International Airport",
+          "Kaduna"
+        ]
+      },
+      {
+        "year": 1994,
+        "text": "In a referendum, voters in Sweden decide to join the European Union.",
+        "pages": [
+          "1994 Swedish European Union membership referendum",
+          "European Union"
+        ]
+      }
+    ],
+    "random": {
+      "title": "Trigonopterus bawangensis",
+      "extract": "Trigonopterus bawangensis is a species of flightless weevil in the genus Trigonopterus from Indonesia. The species was described in 2014. The beetle is 1.90–2.48 mm long. It is mostly ferruginous, with a dark ferruginous to black pronotum. Endemic to Borneo, where it is known only from Mount Bawang at elevations of 246–556 m (810–1,820 ft).",
+      "content_urls": "https://en.wikipedia.org/wiki/Trigonopterus_bawangensis"
+    },
+    "fetched_at": "2026-11-13T01:43:59.151908+00:00",
+    "status": [
+      {
+        "source": "Wikipedia — On This Day",
+        "status": "ok",
+        "count": 10
+      },
+      {
+        "source": "Wikipedia — Random",
+        "status": "ok",
+        "count": 1
+      }
+    ]
+  },
+  "apod": {
+    "fetched_at": "2026-11-13T01:44:01.246595+00:00",
+    "entry": {
+      "title": "Moon, Venus and Spica Meet",
+      "link": "https://science.nasa.gov/image-article/apod-2026-november-12-moon-venus-and-spica-meet/",
+      "image_url": "https://assets.science.nasa.gov/content/dam/science/cds/apod/apod/2026/november/conjunction-bubak.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+      "summary": "<strong>Explanation:</strong> <a href=\"https://tolkiengateway.net/wiki/Riddle_of_Strider\">Not all those who wander are lost.</a> A night sky example is that <a href=\"https://science.nasa.gov/solar-system/planets/\">planets</a> wander, and in fact the very word \"planet\" comes from \"wandering star\" in Greek. As planets <a href=\"https://science.nasa.gov/image-article/apod-2025-may-30-mars-in-the-loop/\">shift</a> relative to <a href=\"https://science.nasa.gov/earth/earth-observatory/planetary-motion/\">fixed stars</a>, they may appear from our perspective to <a href=\"https://images.unsplash.com/photo-1504595403659-9088ce801e29\">get closer</a> to other astronomical objects. Such <a href=\"https://science.nasa.gov/image-article/apod-2023-march-4-10-days-of-venus-and-jupiter/\">meetings</a> are called <a href=\"https://science.nasa.gov/image-article/apod-2020-december-15-great-conjunction-saturn-and-jupiter-converge/\">conjunctions</a>. They don't happen by chance, but follow the precise laws of <a href=\"https://science.nasa.gov/solar-system/orbits-and-keplers-laws/\">celestial mechanics</a>. This peaceful <a href=\"https://www.instagram.com/p/DfciOD3DKOE/?img_index=1\">image</a>, captured in  <a href=\"https://en.wikipedia.org/wiki/Poland\">Poland</a>, shows the <a href=\"https://science.nasa.gov/image-article/apod-2026-april-24-young-moon-and-sister-stars/\">crescent Moon</a> above the <a href=\"https://www.youtube.com/watch?v=x1YiJgA8lpw\">Tatra Mountains</a>, and bright <a href=\"https://science.nasa.gov/venus/\">Venus</a> close by, a little lower in the horizon. The bright star to the left of Venus is <a href=\"https://www.cfa.harvard.edu/news/understanding-spica\">Spica</a> in the constellation of <a href=\"https://noirlab.edu/public/education/constellations/virgo/\">Virgo</a>, the Maiden. Spica is <a href=\"https://earthsky.org/brightest-stars/speed-on-to-spica-the-15th-brightest-star/\">one of the brightest stars</a> in the sky, only about 250 light-years away. It was found in 1890 that <a href=\"https://en.wikipedia.org/wiki/Spica\">Spica</a> is a binary star: two massive blue stars orbiting each other every 4 days. But earlier this year it was reported that Spica, the current companion of wandering Venus, is actually a <a href=\"https://iopscience.iop.org/article/10.3847/2515-5172/aea83b\">triple system</a>.<br><br><strong>Tomorrow's picture:</strong> what's next?",
+      "published": "2026-11-12",
+      "media_type": "image"
+    },
+    "status": [
+      {
+        "source": "NASA — APOD",
+        "status": "ok",
+        "count": 1
+      }
+    ]
+  },
+  "news": {
+    "world": [
+      {
+        "title": "North Korean hackers steal more than $400 million using video images, FBI says - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQYUJYTGpUb1lrNXVCaVFFUjN3all5a2w1cF9HdW51OWROWC1taVFOOFozQ0pkYmpReklqTEhtNm1McUhtYVBvWTVMM2tHczJlUFZaem14Q1U0VndNaWk2Z3AxdzFvVThleTFNUXpPd3E0WlU2ZkdPSFFXeXJqNktka05TYUZmTER4TExyS3dOVTFLVWNLcVVHejdkVTk3UXVkRnUtNmNrQ3B3anBHelhIaGlka0RFMTZ0bnNWUWREeU0xV0tRNXp1THBIdw?oc=5",
+        "published": "Thu, 12 Nov 2026 21:41:44 GMT",
+        "source": "Reuters — Headlines (Google News)"
+      },
+      {
+        "title": "US Justice Department has not concluded Alice Huang was Chinese spy, Blanche says - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPTE41X1JfT2dWa0tyWU50NGd3TzU5ZUlmM0xBUU43Vmt1Y0dDdGdCQk5aQmFHay1ILW52WlBSQkJseVhzT1JDTVF3S3NwVUVKM19rblVhU1RoTlBacEpKX1RXanBDUW9DdmdDSDAzZDJsdnpLZ3JEcjEyNXJBei1aeU4xdFpSeC1JY1pwaU9tMFkySlozazBJN1V6UzBhWmtxN0JMOXlab1VoU1FWUFZ2QTE5bDdRODdIeUFUcnlvWGxURnJoTTBJ?oc=5",
+        "published": "Thu, 12 Nov 2026 21:00:00 GMT",
+        "source": "Reuters — Headlines (Google News)"
+      },
+      {
+        "title": "New York City building collapse kills 8, mayor expands probe - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOMDNXZXZfWXd6WXFDRWFCVThnWWRkVldNaFZ4a25wTF9HaW9JV2xNX1oyUzVSaF9JZ2gyM0J1MFhGd0p2UWNYcjdtc1RqaUFwRmxxZXF4ZEhFQmRxV0VQOTg4WFZGR0RydEVJVFNGeV8xUllsdmlSU0V4aDNLNXlVR3Vyb1NvdG1wVzJleFdrSURqOEpFVWdLYzJJZjFRMERKTzhB?oc=5",
+        "published": "Thu, 12 Nov 2026 22:13:15 GMT",
+        "source": "Reuters — Headlines (Google News)"
+      },
+      {
+        "title": "Nvidia PE falls to 14-year low, but CEO exit and AI worries cloud the bargain - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNN1pCSzVXOGZaWVZyWTl6OXJiSk40TnNaMmhDUXJuN3BsdnNzZU8tSmg0bVkycVVmSG1UNGV6N0lNZ0lqRjdZZXZmQW1USXdvMWJ6MGRCUVotRmpvQTdxVWRmcjdPZmRrLVhPSDFmcjZRMFNWSk9EQjVIaDRINVl5d182b3BJb0hmTEJ0RTJrZ0dRWFBITWtMdW9ET2g4b2hCLWRoQnc5ODZvZw?oc=5",
+        "published": "Thu, 12 Nov 2026 20:57:59 GMT",
+        "source": "Reuters — Headlines (Google News)"
+      },
+      {
+        "title": "Retail buyers limit Nvidia stock rout - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPVHdDV1ltYXhSMVY3dUtMMGxkZHdxRld0cThBSlQzUmt2NE9fTENSM2NZWHowSk9wZS1ObXpTVFZqNlZ2dUQxam5NVC0yYXNBcW41amRsbXFMbEFfblNLWXNkSUhnOGcwOWFocUlyQllReDBwSjdzakJMZTNkYUpDN3FMY0QxaWVSeGRtNVEyOEJFNlRjb1ZXMFJmTXIxeUU?oc=5",
+        "published": "Thu, 12 Nov 2026 20:10:35 GMT",
+        "source": "Reuters — Headlines (Google News)"
+      },
+      {
+        "title": "EXCLUSIVE: Former Nvidia CEO Huang had a relationship with a second employee, sources say - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOS3otVnY4ZXphd1g5Q0REOVlqY3c1WXBMSmMtNThTbGlaRGVkVkZXZml1RHlEN3djZXRMT0pSTnJ6c3JiZ0tOdVRRekpJUlBfRV92ZEFEUU9GVU5XZHBYVmotRjFpcExuaER3S1BUaF90UWFaRnVBcFlHazgzOXBSWXJfN1RMSFNrcWY2TVRkQmVTYkNHUUhMeHAyM1huRXItSVhKZU95Q2wyTmg1MnlZcGduR01vdzFBcmpiVA?oc=5",
+        "published": "Thu, 12 Nov 2026 20:49:17 GMT",
+        "source": "Reuters — Headlines (Google News)"
+      },
+      {
+        "title": "Cisco lifts annual revenue forecast on strong AI networking demand - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPcDgteG5IeXZjU1k1UDdhbFkyZlVCaHI1d0pPdGp2elFReVRRclN6dWhTM2NuSUk3cGdUSnRRU2c4aWpCcS14blFsN3hLTTNCSktQbXpTUVgxRjVJV1R1YldHdEVYMXJvVHg3TzJiOXhEM0owM08ySlI1bmNkMG5GQXhnQl9iVExNWlN1Z0ZweFk3YldGWDltNFpnekdDZWpVcTJ3QTFlUUxNWXlLX0NjLUhvTjRtNzlrYnlXdXJiTmc?oc=5",
+        "published": "Thu, 12 Nov 2026 23:18:33 GMT",
+        "source": "Reuters — Headlines (Google News)"
+      },
+      {
+        "title": "SpaceX, Tesla merger talks progress, Bloomberg News reports - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOSDRsb3FNV0VLZW5Hb01MamhyMnpOS3NEZl9jT2czVGFTQ3JOdjF0WXdQNHh3SVFJVmhKTVBIb3hhT0UxTlBlOG9lY1AzVnVTY1hjZlItN1Q4X1YzVjMwVTVyVF9keUh4UnRGTnBWeGItejZObzU4QVVOeEF2ZGxuTmFfSDVyQllsRlJNNXV3N1V3ai1sMWx2RTEzR3pNNXpVRWtOTjJDQzg5YVJjT3FBM1BhRQ?oc=5",
+        "published": "Thu, 12 Nov 2026 21:15:43 GMT",
+        "source": "Reuters — Headlines (Google News)"
+      },
+      {
+        "title": "Microsoft outage drags on for hours, disrupting Outlook, Teams for thousands - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQWpWeUZnbllhcFk4WktZS0s3T1N6T3k3Vnhhd3pfSE9SWF9iRmRIQUljdHZXN0UtWS1uZS1rbUNZSlVPd1NXLXRtVUVtc3NQNTgxMVFMWjVnT3pPb09EX1g1YUx3WkF2VHk0bUMwWlhkRHdpT0JFRE5SQ3pQRkdmSnpUOHNXLUo1dXNSY3lFdkpSdU5laDdwSlhWRDVnNjBFcUh2Y0FwMXNldE8tSFpPaw?oc=5",
+        "published": "Thu, 12 Nov 2026 18:32:00 GMT",
+        "source": "Reuters — Headlines (Google News)"
+      },
+      {
+        "title": "Applied Materials forecasts quarterly revenue above estimates on strong AI chip demand - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNeVJYSC1hal9odmptblkwc25YV0pZQXBaaTd0SGFyMW5tT1ZtNzZaTlN0OGFnY2I0dnI3ZmZRaXpwUThvZW5kay1tMElieklOVVZLTDFBTmtQbkpiSWpUZzlLNnZPRmlJSkxoWVZhZGlveTdzNjVsN0ZtZUVMMnk2REQtYmRHRzQwMDhNMVBYQXVQbjBpcHNNYnFWWldTbUItYV9pT1hMYkwwZi1jS0pvZXp4eHJhbHE4OEp6RW13?oc=5",
+        "published": "Thu, 12 Nov 2026 21:14:13 GMT",
+        "source": "Reuters — Headlines (Google News)"
+      },
+      {
+        "title": "Jensen Huang steps down: the hands-on kingmaker behind the AI boom - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPeWJzeWdMMHcxc2lHelNleVFzTlVYS0ZRQlFtQ0cwNk92NllGd29xcXhtM3Rub3VZR0pBRHU3YlppZHZ6SlRDTVYxOFplenFlcWUwcE0tZUNrWUNPVWxpX2lYcU9LZGtwUGw2MUlhZmxqS2N3TWVMdld2TWE0ZE9zNWhOQlpDS1hCRVA4azFZNjF2SGhwX1lXMGRVamVFT1ZuUFBZUw?oc=5",
+        "published": "Thu, 12 Nov 2026 20:44:46 GMT",
+        "source": "Reuters — Headlines (Google News)"
+      },
+      {
+        "title": "EXCLUSIVE: Kalshi says it ended Donald Trump Jr's advisory contract over Polymarket conflict - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPYlQ3N0FyWHE3WUp4cHZOWWJRVUFVWFJuT1Jic05nVVBBWFNsYkFzbk1zeWRTbDA5c2k1Wk55UGFVdDBYeF9CY1U2YjhNV1pKd1h3aThoSm1jVEpmcEZtRDE5RldpeHhZaEphT1VfREFGd2Y1NG5BWVBiWFdQREFHeHQ4UjEtT2w4ZksyVldLNkpTRGpfYkdTZXpTblZFdEpNbGUta25VM2RpbDYzb0NWSkdCV3h2ZUhPamJBXy1iYzA?oc=5",
+        "published": "Thu, 12 Nov 2026 22:56:00 GMT",
+        "source": "Reuters — Headlines (Google News)"
+      },
+      {
+        "title": "Cerebras shares jump 17% on upbeat annual forecast, easing AI jitters - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNbmdjUUVpckNjeXppUVBxc0RDVjRiM1BHYThTbXgtWkgyRGpZTnRqbkhxcWhVNndSNVNTUUJ3elpaNWxuSlk1Ql92QVAtWDU5djBXNy1SYldScFlDLVl0MmFhanlzS0RNUHRDRjRXa0g4RlRGcDZUdmRJZGNrX2I2TWdzWmd5bUxBTnB2R3JzOHQ1Rjlub0kyTHBuMHFFb0hYUDhQM0NicDRlQQ?oc=5",
+        "published": "Thu, 12 Nov 2026 21:06:00 GMT",
+        "source": "Reuters — Headlines (Google News)"
+      },
+      {
+        "title": "Tim Cook for Nvidia CEO? Trump and the world ponder who's next - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQa2otbkdEb3FkYXpTSlFhcnBmRk9lNDZzOHpKQnpUd0dyR3dqWWhqcy02c016NGpfNVRNeGNKQVFfUTZhc2taTHBfWGJ0WWNwTGxlWG5tSW9NUk55R2l0dTNrMFlhemdQaXFWWnNmamhrYWdNaUJlcTc0UWVObjQ2cVp4cC15anFUVXJ0dHc4N1ZuOEFjWGJra3BKUmVGTmR2VGlQSFVHUQ?oc=5",
+        "published": "Thu, 12 Nov 2026 20:35:54 GMT",
+        "source": "Reuters — Headlines (Google News)"
+      },
+      {
+        "title": "US starts 2027 fiscal year with record October budget deficit of $404 billion - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPSDdFRmlLcWNxcWNRVHRGN05hM2dMcmpEeW1IY1gyVkM0R2NPQVpfWU1ObHZMX08xZHFFYXhGbllpTW9abFR2SGxoNUprSFdxYTR1OXF1N3d2RGRNNGRzelRRdzhSOF8tMmM2U2I3clNQR0trbDZrLWN4QlVyNXlKOTJsdXp2NU5aWUxHR3AyQndrNFc5dFhBQS1MWHdZZHQ5c0thakE1b1Y1OTdhcFNHb1U1cmlZbjNyQWc?oc=5",
+        "published": "Thu, 12 Nov 2026 20:18:28 GMT",
+        "source": "Reuters — Headlines (Google News)"
+      },
+      {
+        "title": "White House discussing Howard Lutnick's future as Commerce secretary, people familiar say - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQbWtqakZ4LUVIb2dkYnZNS0ZXM3M3ZEpyZGQ1eDc0UWxOR2I4cWNLeXk5VW5HM0hjbGxvYktjN2s3ZThPNWswVFBpQmZ6a3FYUDVRVVdRWk9XRXB0VFNIejJObkRnWm0wZTNpUjM4TmgxVkMtY2RFbEp3UUZRakpMWmZMeHJlZXlQMHB3OXBaSE1KY24xS3EzUjNlNE1HblplZkpyWmFBbVprTGV5TVVrbWNPUjl6UnZOU3hMZlFtdEIyZ21jQ3dZ?oc=5",
+        "published": "Thu, 12 Nov 2026 19:53:22 GMT",
+        "source": "Reuters — World (Google News)"
+      },
+      {
+        "title": "US House Democratic Leader Jeffries wants 'dramatic change' in Middle East - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQMV9nQXduWS1BMTRTSzRtc19UMm5sa1JxU3lpbTFiU2sxMDk1cFdzWHVtemNPX2NncUJEYTRBdkREUnBnYXJXWnB3MDZoTURRVzV5MDdOZndzQWJkanJpVUw5SURtRGp1OHUzbmVrbE5yNjFKYVI5ZnhOajlXLTdQa1lvRHhyMjlxb1J3OTdzSS1Gd3laMUFTWWZtNmktYTNRYjY1SHBsdmppS1pybXJ6VjBLWUs?oc=5",
+        "published": "Thu, 12 Nov 2026 18:27:09 GMT",
+        "source": "Reuters — World (Google News)"
+      },
+      {
+        "title": "Mercedes-Benz halts German investments as plant closures loom - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOYlZSMmZGb0xDYS1YcUhERWtaLXdUVXkyeW1fQ19NSkd4YS1PclRGX3p5YTZreEhlTDRyeExnZGx0SHJ6aFotMkNkbE4tVGhxRmE0Nm4xeGxSenhYeHpoQkF6SUMxWms0MlZRUmZHS0U2Wmg3ck1KVzlrem81Mk1fVDhnN3Z6R20wUGtCWjVqZFpodWJZdjlGTS1ZMjdZcVAtaEE?oc=5",
+        "published": "Thu, 12 Nov 2026 19:01:07 GMT",
+        "source": "Reuters — World (Google News)"
+      },
+      {
+        "title": "EXCLUSIVE: Pfizer to stop selling Premarin hormone therapy in Canada - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQd3VpQ19DX1h6NHoxZnRTNC11cDhobG5UeHhFaVc0SGREaWdacE5IZlZHSlUzbXd2RkRaRjhqNjltTFVPVzljeWRsT2VOcnh3RzhQSEpqUTFMUDRTSDZza0VydW1raTkteDl5bFJpMnNaTEV3dEpuYUJlS09zTnJpYnRuekRaY183NVgzbkFmOTNJdlpCbEJEWg?oc=5",
+        "published": "Thu, 12 Nov 2026 19:03:18 GMT",
+        "source": "Reuters — World (Google News)"
+      },
+      {
+        "title": "Trump says ex Apple CEO Cook is 'a legend', should replace Huang at Nvidia - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUkxOYXBCUHFaN0RTbHNZLUcwVG02UmtKQWJwLWc0X0lfQUdpVjl4UjhncWktZTU3YmF0SjdtbnBRSk04RHAtSTQ0QW9CelRNeU9HUG5EdU9ROWJTUnpHSFMzMWlCSzhvXzVlRVFZVmR0dDFjYk1IRnZSQnVOTXZHUjJybkpGbzR4STNfSDAwMUEyZ3FkaGV6bXBpa1k4RVk?oc=5",
+        "published": "Thu, 12 Nov 2026 16:12:19 GMT",
+        "source": "Reuters — World (Google News)"
+      },
+      {
+        "title": "Yemen's Houthis say they attacked pumping station on Saudi Arabia's East-West oil pipeline - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPOHNyWUhKaHR2QmJXUjJ6S0xNdDZnZmpKRzJQak9SWVc3cmttUGVfbk13NzBZclpqNnp5N1JFc0JYakw2Wl9hV3BYdm1mMnJQR3BKRFI2Zzh3cVRhTFFxejBSVWtTMkt2WTRGRUxFSkVocF83aFlIOU10Vk11d29TRERPcnFVWHRJYktFOUlGU0x4c0Q0UWVtT3JkUE91ZVNPQ09NTnhaMGxJajZxQnkwWTFvTzN4WnNpMTBYalNZOHFZdnUtX1VHeUVR?oc=5",
+        "published": "Thu, 12 Nov 2026 20:18:21 GMT",
+        "source": "Reuters — World (Google News)"
+      },
+      {
+        "title": "EXCLUSIVE: CD&R, GTCR drop pursuit of Global Payments, sources say - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZ3dpSHM2Qk5GaUZoRm0xeVBTaXhUUnkwU3lTY21HYW55cDVVWnN0NVZ2ODJEM2xucl90UTI0Nmlab3lMbWVjWGF6WGZ2c2loNVlaUE85ZWVrWVVRNGxjQ1ZPdkVZUFlxa2JreW5GUEhYTnY2SnVhOHE1d1Bqdi03dGJHeW8zMDFwTDBMU1FfaGl4MDFWYXc?oc=5",
+        "published": "Thu, 12 Nov 2026 18:37:55 GMT",
+        "source": "Reuters — World (Google News)"
+      },
+      {
+        "title": "Gunman kills one, wounds four in busy Washington, DC, neighborhood - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZGs2bU9KX3A5RFVTbXQxaXYwLThLLW1nazNSanR1TTZ6eE5TcjZ4Nl91eTY4blhnVnRVM1k5UW42aXlDOWtyQWI5cm5EYl9jcTg4blhMR3g2VXVhV24tYzRseVBucXk2OHNHU05EWG9xUnhqSU50MU95c2VPYVByak9nYmFpdndfTzlEMlJBYUw4T0VyWVRFajh5UElkV1JDWFdwSXRTR0xkWU9Mb2hkZA?oc=5",
+        "published": "Thu, 12 Nov 2026 22:30:44 GMT",
+        "source": "Reuters — World (Google News)"
+      },
+      {
+        "title": "White House weighs Commerce Secretary Lutnick's ouster amid Nvidia export concerns, sources say - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQ2JBc1RoY3pGRnZ0R1BzOW43SHY5eGxjZHpwMlZVZWNSRDMxaG51ZkVSdkVuN1I4bkdCTEZTV3ZETGRpVTBxaGhHSlprM25XNFd0b3N6eHJhc3RneHJrWGl2alVlTVh6R0xtbFJVLTRjaEE0djZxTE54Nkp4UHBYWVJKdGlhM2hmNFM2dWRNeWF0d2tRcnVYT0dtOXZDdGx4QXlsUHAzOHNKQUpaTFE?oc=5",
+        "published": "Thu, 12 Nov 2026 14:23:00 GMT",
+        "source": "Reuters — World (Google News)"
+      },
+      {
+        "title": "Saudi Arabia puts pressure on EU to label Yemen's Houthis a terrorist group - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPSnl4RjlVd0VYeWFKTUM1eDh4Y1J4V2RsZXlIYTRDUjZGdzJoeHBJQnZXd0NCYTBXcVhUQjFYZ1JNUnk3SDhVWXBHZWJrbm1EQTREYWJzN2MxU1lkQUg1Y3JyWDV1bU1mN3Fha2VfejBDN3o5ZG5aZWdGMVdZT1NvbDBXM045V01GUHpvWEI5TmFTMTlyTkN6cDZhWmxsTVZxNE5mOW1Wb1lLMG04a0F3RXdRT1o1d0hld1h2Tg?oc=5",
+        "published": "Thu, 12 Nov 2026 16:04:51 GMT",
+        "source": "Reuters — World (Google News)"
+      },
+      {
+        "title": "Finland says it detects strike on Russian warship in Baltic Sea - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPN3Nyb1VlX0k3WkZ2d2JxYi1jNEhxUW5EMEt3dmVyT012YVhRM19YUFZWTGZzaTYzNGRubW1nYzJCSzU4bjdLWVFXeGNJSXJDbFVQTEhXMjVjdUdiRzdvbG02bFVYZlYtYm02aWMxMHQ3czJTemRLTXpVc0tzZ003a01RTjhaUXVwMGhvU2NWcmNtU1hxQU5rMDBiZDVDNlgzU1QybTNILVJIZw?oc=5",
+        "published": "Thu, 12 Nov 2026 13:54:21 GMT",
+        "source": "Reuters — World (Google News)"
+      },
+      {
+        "title": "RAF hopes Dvalishvili competes after hotel brawl - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPUGxVNnZOVWtLWUlBU0hJa3dVQTNpV2w5TDRxemFQd2xLNmM4Z2hRcnZNcmlkTG1LODhrRG82bk8tZDBHXzlscWhoc1VUQVpaMkdaLUppN1N5NlJfTmNGRFR5eGtSX1ptNWJERFBxX1VqSzJuVXkyaFdpcmVTbTFTaGhmY242bWMxaTlrdnAtM3hJYlhvSjdxVXlwVXExTEt3dDhQTlkwUnphUlQ4ZFdCX2ZZNVNvOUs1UFBqV1d2TmI?oc=5",
+        "published": "Thu, 12 Nov 2026 16:22:15 GMT",
+        "source": "Reuters — World (Google News)"
+      },
+      {
+        "title": "Nvidia options traders bank on longer-term stock recovery - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNOWEyZG5xanFDejdGbHAzNGdaMTh5d2tpR2dPWVB0eFVTNnRkcmJJbm1US3FlV3NzaGJsdE5kQ2h6TmswQjlHQ2V6akZkeWlHSFF3OGlybk9COXNPOGlZTFhvMVhUMW1EOUdFLTc0WDc0LWliQ0VETnRmNUJWU3hOdloyOE82ejcyYUlXWlJMT0tEeHpyOEowZnZFcF8yX3By?oc=5",
+        "published": "Thu, 12 Nov 2026 18:38:45 GMT",
+        "source": "Reuters — Business (Google News)"
+      },
+      {
+        "title": "SpaceX plans over $74 billion investment in Texas, Arizona AI campuses - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQdlQwLUxxTENmenRpSFFXVlNUeVkzeURtNWxCZ1RuVEQwdENKV0g3MndreVZsZFYwVGtpT3Q3SDJZU0pHTGI1WFFYWERreFJmbzVjaUtOR2NjUURRMTVHNVlKdGE0VkdRVzRvekpIcHdmRGdOV2kwRXVmbWl1blRIV1VKSjQ4c19FSVFTUWZNM2ptQ0ZaMW96a2UyTFphWjNsSnc3ZmJZdWhHNWpiS19hTDhYSk9vNkpkeng1N3prZ1Y3b1lI?oc=5",
+        "published": "Thu, 12 Nov 2026 20:23:24 GMT",
+        "source": "Reuters — Business (Google News)"
+      },
+      {
+        "title": "US Democratic senator wants assessment of whether Nvidia is 'too big to fail' - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQU1VaSFhwajh0clNVbElvWjVHcHZGaDBibjRzNjhwMU5RSVJ2bkVwRjczMzhrdmZUTXlmc190QjlELUQzYzRkSW9LX0NjXzA1cXQ0OTNxYWRRQVJLaV9WYXVyWGZ5QlIwZ2IxN0FxQi00TTJwcW84ZlFJMlVsQ1h1dmZXUjNtZGczampObE9GNVR3TzQyZlFIamc0bThDOUdEdE1ScEVtNDhJZmdiSFpwc1BZR2pzcENKLXZESlJOZw?oc=5",
+        "published": "Thu, 12 Nov 2026 20:56:07 GMT",
+        "source": "Reuters — Business (Google News)"
+      },
+      {
+        "title": "Instant view: Nvidia CEO Jensen Huang steps down - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZC1uZTVNUkdPM3M1UzkxWjJDbmNFa1RwZm9iVmFuZ0FUMW1Sa1p4NlYxY3AxbE91d3VyN0J6aHM4UWpqTHpPZkdWbS04OEFyM3JqSzdoUUxhVWlTMlBReUZvQnRQbVhxdXhFMG8yenFBeUw1aVNxR0tzMWdMSzNlME80eW1ZZWlGcXJFUg?oc=5",
+        "published": "Thu, 12 Nov 2026 16:21:53 GMT",
+        "source": "Reuters — Business (Google News)"
+      },
+      {
+        "title": "Nvidia CEO Jensen Huang resigns in blow to AI boom he helped foster - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMEFwN0FWdjB6blNtR0RZaTBWZXZDaWVwYkhXREttY2FaYVNNVC1qNEFHYm9Yd1pDODBDN2tvNzhnMTY4cmxWYTg1WVFidzFlNVFEdlZNb3IyZG1nS2FKcHAzUERhQW9EdG9oOER6YmwydXZOd0t1VHRub1BCdFdoR1V4dktlUVUydjZWeU53aVdKMGwtOGFtZmd2T3VhODF3eXhPazVtbV81b0hpUi1vcw?oc=5",
+        "published": "Thu, 12 Nov 2026 13:52:00 GMT",
+        "source": "Reuters — Business (Google News)"
+      },
+      {
+        "title": "US existing home sales slump to more than 16-year low in October - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQTG4zNkNsSG5RNkJsdlhCZ0prLXlLTTRDZFdmLWEta3QwVGd3YXN3dnZpd0h2R3duS1N5WEx4eE85THlmT0VYZ0tlQ0ZJUlB4bHJPNnpfQnZTM0dqM1Y4eEJYNlJPX0xhNWxxYXMxMW1ncjZOclhSMmpINlVBOTJtYVc5bXJGRVhjU1lEb2ZZWkFOaXRXZDl0b3dETFFLVlA3ZUVLalpn?oc=5",
+        "published": "Thu, 12 Nov 2026 15:03:43 GMT",
+        "source": "Reuters — Business (Google News)"
+      },
+      {
+        "title": "AI stocks pare losses as investors assess fallout of Nvidia CEO's exit - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOTDc4NU9Ycko1b01GTVdRT1lMVzJWaEhrLS1OSU92el9GTTRMSEhyTW5VbThOZEhoVGNCbHNBU19EZS1UUlNiTW0wVU41RUdBVkJpQlNRazBvaHJFQ2VnT2FJU183NE9ub1RKQU5wMFp6N1luX3lrMFZubFVIaHJ0TWhZRVkyUzhJVjBsaDRlMEpKNUFLeWtITVhLRVhqOERFMzh0azNJeVlqVzI0ZUowcnV4Z3VYMUdXcFY0?oc=5",
+        "published": "Thu, 12 Nov 2026 20:57:12 GMT",
+        "source": "Reuters — Business (Google News)"
+      },
+      {
+        "title": "Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil",
+        "link": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss",
+        "published": "Thu, 12 Nov 2026 23:34:05 GMT",
+        "source": "BBC — World"
+      },
+      {
+        "title": "US envoys meet Zelensky in Dublin after talks with Putin in Moscow",
+        "link": "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo?at_medium=RSS&at_campaign=rss",
+        "published": "Thu, 12 Nov 2026 21:00:42 GMT",
+        "source": "BBC — World"
+      },
+      {
+        "title": "Neither war nor peace in Tigray - is Ethiopia's latest conflict really over?",
+        "link": "https://www.bbc.co.uk/news/articles/cm3egjgvp794o?at_medium=RSS&at_campaign=rss",
+        "published": "Fri, 13 Nov 2026 00:20:24 GMT",
+        "source": "BBC — World"
+      },
+      {
+        "title": "Russian warship hit by Ukrainian drone in Gulf of Finland",
+        "link": "https://www.bbc.co.uk/news/articles/cmn0d33zz34zo?at_medium=RSS&at_campaign=rss",
+        "published": "Thu, 12 Nov 2026 20:09:16 GMT",
+        "source": "BBC — World"
+      },
+      {
+        "title": "Suspected bomb hoax threats force fresh evacuations of Italian schools",
+        "link": "https://www.bbc.co.uk/news/articles/cr894w453e90o?at_medium=RSS&at_campaign=rss",
+        "published": "Thu, 12 Nov 2026 19:23:02 GMT",
+        "source": "BBC — World"
+      },
+      {
+        "title": "Australian footballers will not be charged after hotel incident, police say",
+        "link": "https://www.bbc.co.uk/news/articles/ckregjwr7njqo?at_medium=RSS&at_campaign=rss",
+        "published": "Fri, 13 Nov 2026 01:03:59 GMT",
+        "source": "BBC — World"
+      },
+      {
+        "title": "Hegseth awards medal to war memorial guard who reprimanded him and group",
+        "link": "https://www.bbc.co.uk/news/articles/cmvg2r3dq7xno?at_medium=RSS&at_campaign=rss",
+        "published": "Thu, 12 Nov 2026 18:47:35 GMT",
+        "source": "BBC — World"
+      },
+      {
+        "title": "Democrat Scott Colom makes history as Mississippi's first black senator since 19th Century",
+        "link": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo?at_medium=RSS&at_campaign=rss",
+        "published": "Thu, 12 Nov 2026 12:56:55 GMT",
+        "source": "BBC — World"
+      },
+      {
+        "title": "Millions of Ebola dollars missing with staff unpaid while virus spreads, charity says",
+        "link": "https://www.bbc.co.uk/news/articles/cx98757ymm6zo?at_medium=RSS&at_campaign=rss",
+        "published": "Thu, 12 Nov 2026 15:18:20 GMT",
+        "source": "BBC — World"
+      },
+      {
+        "title": "Israeli strike on Gaza hospital kills six Palestinians, health ministry says",
+        "link": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&at_campaign=rss",
+        "published": "Thu, 12 Nov 2026 16:54:12 GMT",
+        "source": "BBC — World"
+      },
+      {
+        "title": "Five new miniature frog species found in eastern Himalayas",
+        "link": "https://www.bbc.co.uk/news/articles/c8kgkw7dr5rko?at_medium=RSS&at_campaign=rss",
+        "published": "Thu, 12 Nov 2026 11:07:19 GMT",
+        "source": "BBC — World"
+      },
+      {
+        "title": "Oranges investigated after four girls die in suspected Uganda school poisoning",
+        "link": "https://www.bbc.co.uk/news/articles/ck9d71wyn7wwo?at_medium=RSS&at_campaign=rss",
+        "published": "Thu, 12 Nov 2026 07:45:52 GMT",
+        "source": "BBC — World"
+      },
+      {
+        "title": "Eight killed in Colombian air strike targeting Gulf Clan gang",
+        "link": "https://www.bbc.co.uk/news/articles/crgj3v3z10dno?at_medium=RSS&at_campaign=rss",
+        "published": "Thu, 12 Nov 2026 13:58:49 GMT",
+        "source": "BBC — World"
+      },
+      {
+        "title": "Search for British woman missing from Tui cruise in Atlantic called off",
+        "link": "https://www.bbc.co.uk/news/articles/cmy0enrkwkklo?at_medium=RSS&at_campaign=rss",
+        "published": "Thu, 12 Nov 2026 21:27:21 GMT",
+        "source": "BBC — World"
+      },
+      {
+        "title": "Clashes erupt in Barcelona after thousands join Spain general strike",
+        "link": "https://www.bbc.co.uk/news/articles/cwvg25nypmrvo?at_medium=RSS&at_campaign=rss",
+        "published": "Wed, 11 Nov 2026 22:07:37 GMT",
+        "source": "BBC — World"
+      },
+      {
+        "title": "Microsoft struggling to restore service as global outage affects Outlook and Teams",
+        "link": "https://www.bbc.co.uk/news/articles/c5gm3g9ldz8xo?at_medium=RSS&at_campaign=rss",
+        "published": "Fri, 13 Nov 2026 01:39:32 GMT",
+        "source": "BBC — Tech"
+      },
+      {
+        "title": "The rise of 'housefishing' - when does using AI go from enhancing to misleading?",
+        "link": "https://www.bbc.co.uk/news/articles/cm62y0wrnz9zo?at_medium=RSS&at_campaign=rss",
+        "published": "Fri, 13 Nov 2026 00:13:35 GMT",
+        "source": "BBC — Tech"
+      },
+      {
+        "title": "The rise and fall of Jensen Huang - how the tech superstar became mired in scandal",
+        "link": "https://www.bbc.co.uk/news/articles/cmze750zg0jeo?at_medium=RSS&at_campaign=rss",
+        "published": "Thu, 12 Nov 2026 17:11:48 GMT",
+        "source": "BBC — Tech"
+      },
+      {
+        "title": "How AI visionary Jensen Huang was undone by his own bad decisions",
+        "link": "https://www.bbc.co.uk/news/articles/cq5y13819gpjo?at_medium=RSS&at_campaign=rss",
+        "published": "Thu, 12 Nov 2026 16:43:36 GMT",
+        "source": "BBC — Tech"
+      },
+      {
+        "title": "What we know as Nvidia CEO Jensen Huang resigns over affair allegations",
+        "link": "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss",
+        "published": "Thu, 12 Nov 2026 15:26:39 GMT",
+        "source": "BBC — Tech"
+      },
+      {
+        "title": "Who is Nvidia's interim CEO Colette Kress - and who could take over permanently?",
+        "link": "https://www.bbc.co.uk/news/articles/cqgm37dv20e8o?at_medium=RSS&at_campaign=rss",
+        "published": "Thu, 12 Nov 2026 15:10:32 GMT",
+        "source": "BBC — Tech"
+      },
+      {
+        "title": "Lego marketplace BrickLink offline after 'unusual activity' detected",
+        "link": "https://www.bbc.co.uk/news/articles/c6rmgw8zynr4o?at_medium=RSS&at_campaign=rss",
+        "published": "Wed, 11 Nov 2026 22:26:18 GMT",
+        "source": "BBC — Tech"
+      },
+      {
+        "title": "New Indian mega library rocked by scandal over 'AI-generated books'",
+        "link": "https://www.bbc.co.uk/news/articles/c54gne3plvrxo?at_medium=RSS&at_campaign=rss",
+        "published": "Wed, 11 Nov 2026 11:33:24 GMT",
+        "source": "BBC — Tech"
+      },
+      {
+        "title": "Robot vessels take on the dangerous work of mine hunting",
+        "link": "https://www.bbc.co.uk/news/articles/cj5yn24llxd6o?at_medium=RSS&at_campaign=rss",
+        "published": "Wed, 11 Nov 2026 00:19:13 GMT",
+        "source": "BBC — Tech"
+      },
+      {
+        "title": "Nvidia hires major US law firm to investigate alleged Chinese spy affair",
+        "link": "https://www.bbc.co.uk/news/articles/ck1wvwwl3x0go?at_medium=RSS&at_campaign=rss",
+        "published": "Tue, 10 Nov 2026 22:52:15 GMT",
+        "source": "BBC — Tech"
+      },
+      {
+        "title": "Claude chatbot maker set for $1.3tn stock market debut despite 'catastrophic' AI warning",
+        "link": "https://www.bbc.co.uk/news/articles/crpdgd723x2zo?at_medium=RSS&at_campaign=rss",
+        "published": "Tue, 10 Nov 2026 17:56:12 GMT",
+        "source": "BBC — Tech"
+      },
+      {
+        "title": "Faisal Islam: What the boss of US tech giant Nvidia told me about China and national security",
+        "link": "https://www.bbc.co.uk/news/articles/c64g1gzy2vdzo?at_medium=RSS&at_campaign=rss",
+        "published": "Tue, 10 Nov 2026 09:23:55 GMT",
+        "source": "BBC — Tech"
+      },
+      {
+        "title": "Tech Life",
+        "link": "https://www.bbc.co.uk/sounds/play/w3ct8jyv?at_medium=RSS&at_campaign=rss",
+        "published": "Tue, 10 Nov 2026 20:30:00 GMT",
+        "source": "BBC — Tech"
+      },
+      {
+        "title": "Tech Life",
+        "link": "https://www.bbc.co.uk/sounds/play/w3ct8jyt?at_medium=RSS&at_campaign=rss",
+        "published": "Tue, 03 Nov 2026 20:30:00 GMT",
+        "source": "BBC — Tech"
+      },
+      {
+        "title": "Faisal Islam: Why the UK economy is surprisingly resilient",
+        "link": "https://www.bbc.co.uk/news/articles/cj62p32k90wyo?at_medium=RSS&at_campaign=rss",
+        "published": "Thu, 12 Nov 2026 13:27:09 GMT",
+        "source": "BBC — Business"
+      },
+      {
+        "title": "UK economy grows at fastest rate for more than two years",
+        "link": "https://www.bbc.co.uk/news/articles/ck3rgd429zd5o?at_medium=RSS&at_campaign=rss",
+        "published": "Thu, 12 Nov 2026 11:20:25 GMT",
+        "source": "BBC — Business"
+      },
+      {
+        "title": "Poundland gets more time to secure a rescue deal as emergency talks continue",
+        "link": "https://www.bbc.co.uk/news/articles/c3702jjkez4ko?at_medium=RSS&at_campaign=rss",
+        "published": "Thu, 12 Nov 2026 14:29:59 GMT",
+        "source": "BBC — Business"
+      },
+      {
+        "title": "Some under-25s should get fewer benefits, Milburn review to say",
+        "link": "https://www.bbc.co.uk/news/articles/cwn70l1628l0o?at_medium=RSS&at_campaign=rss",
+        "published": "Thu, 12 Nov 2026 22:51:18 GMT",
+        "source": "BBC — Business"
+      },
+      {
+        "title": "Christmas toy rush being driven by squishies and building sets",
+        "link": "https://www.bbc.co.uk/news/articles/cx5ynyg6j375o?at_medium=RSS&at_campaign=rss",
+        "published": "Wed, 11 Nov 2026 07:52:05 GMT",
+        "source": "BBC — Business"
+      },
+      {
+        "title": "Sales of tinned food and bottled water  jump after 'Be Ready' campaign launch",
+        "link": "https://www.bbc.co.uk/news/articles/cqev3vl4ek33o?at_medium=RSS&at_campaign=rss",
+        "published": "Tue, 10 Nov 2026 15:10:20 GMT",
+        "source": "BBC — Business"
+      },
+      {
+        "title": "Kim Kardashian's Skims offers refunds for $148 advent calendar after backlash",
+        "link": "https://www.bbc.co.uk/news/articles/cqp8g8p53x6ko?at_medium=RSS&at_campaign=rss",
+        "published": "Tue, 10 Nov 2026 17:04:55 GMT",
+        "source": "BBC — Business"
+      },
+      {
+        "title": "US inflation higher than expected in October - here's what is happening with prices",
+        "link": "https://www.bbc.co.uk/news/articles/cwy8lx3pg4k2o?at_medium=RSS&at_campaign=rss",
+        "published": "Tue, 10 Nov 2026 14:45:46 GMT",
+        "source": "BBC — Business"
+      },
+      {
+        "title": "I took Vinted to court to get my money back",
+        "link": "https://www.bbc.co.uk/news/articles/cm369e3l15lwo?at_medium=RSS&at_campaign=rss",
+        "published": "Tue, 10 Nov 2026 00:27:37 GMT",
+        "source": "BBC — Business"
+      },
+      {
+        "title": "Flood victim, 95, lived in Wetherspoons after her home was destroyed and died before she could return",
+        "link": "https://www.bbc.co.uk/news/articles/cqe8r8ngjepjo?at_medium=RSS&at_campaign=rss",
+        "published": "Thu, 12 Nov 2026 22:49:48 GMT",
+        "source": "BBC — Science"
+      },
+      {
+        "title": "How many sewage spills have happened in your part of Scotland?",
+        "link": "https://www.bbc.co.uk/news/articles/c0re545l8jdo?at_medium=RSS&at_campaign=rss",
+        "published": "Thu, 12 Nov 2026 22:48:55 GMT",
+        "source": "BBC — Science"
+      },
+      {
+        "title": "Burnham says climate consensus 'gone' but pledges 'new era of leadership'",
+        "link": "https://www.bbc.co.uk/news/articles/cmg46y7wev42o?at_medium=RSS&at_campaign=rss",
+        "published": "Thu, 12 Nov 2026 11:03:53 GMT",
+        "source": "BBC — Science"
+      },
+      {
+        "title": "'Summer was a wake-up call, winter could be dire' warning over food supplies",
+        "link": "https://www.bbc.co.uk/news/articles/cmkgev3ldl9ro?at_medium=RSS&at_campaign=rss",
+        "published": "Thu, 12 Nov 2026 06:02:55 GMT",
+        "source": "BBC — Science"
+      },
+      {
+        "title": "Significant drop in levels of toxic 'forever' chemicals in England's rivers",
+        "link": "https://www.bbc.co.uk/news/articles/cmze75r55g3jo?at_medium=RSS&at_campaign=rss",
+        "published": "Thu, 12 Nov 2026 00:12:59 GMT",
+        "source": "BBC — Science"
+      },
+      {
+        "title": "Four grizzly bears killed in Canada after fatal attack on mother and daughter",
+        "link": "https://www.bbc.co.uk/news/articles/cwg5r8zrm11mo?at_medium=RSS&at_campaign=rss",
+        "published": "Wed, 11 Nov 2026 13:24:29 GMT",
+        "source": "BBC — Science"
+      },
+      {
+        "title": "Duchy tenants may have to buy farms or leave as Prince William plans sell-off",
+        "link": "https://www.bbc.co.uk/news/articles/cwm242plggldo?at_medium=RSS&at_campaign=rss",
+        "published": "Wed, 11 Nov 2026 00:35:14 GMT",
+        "source": "BBC — Science"
+      },
+      {
+        "title": "'It can kill us': Kenyans fear impact of El Niño with floods predicted",
+        "link": "https://www.bbc.co.uk/news/articles/c8wy9y37z30vo?at_medium=RSS&at_campaign=rss",
+        "published": "Wed, 11 Nov 2026 00:18:07 GMT",
+        "source": "BBC — Science"
+      },
+      {
+        "title": "The swan sanctuary wetland fighting climate change",
+        "link": "https://www.bbc.co.uk/news/articles/c60rleej7dqgo?at_medium=RSS&at_campaign=rss",
+        "published": "Tue, 10 Nov 2026 06:30:29 GMT",
+        "source": "BBC — Science"
+      },
+      {
+        "title": "The superpower battle over energy – and what it means for your bills",
+        "link": "https://www.bbc.co.uk/news/articles/cw62y2z53pg1o?at_medium=RSS&at_campaign=rss",
+        "published": "Tue, 10 Nov 2026 00:08:28 GMT",
+        "source": "BBC — Science"
+      },
+      {
+        "title": "Birds return to waterfowl park after oil vandalism",
+        "link": "https://www.bbc.co.uk/news/articles/c6gqwq1x85e0o?at_medium=RSS&at_campaign=rss",
+        "published": "Mon, 09 Nov 2026 14:52:07 GMT",
+        "source": "BBC — Science"
+      },
+      {
+        "title": "Scientists predict 2026 hottest year on record as climate talks begin",
+        "link": "https://www.bbc.co.uk/news/articles/c6pvgg7mdvdvo?at_medium=RSS&at_campaign=rss",
+        "published": "Mon, 09 Nov 2026 07:30:12 GMT",
+        "source": "BBC — Science"
+      },
+      {
+        "title": "Nurdle impact to be researched for a year",
+        "link": "https://www.bbc.co.uk/news/articles/cxnv4y23zldyo?at_medium=RSS&at_campaign=rss",
+        "published": "Thu, 12 Nov 2026 11:38:35 GMT",
+        "source": "BBC — Science"
+      },
+      {
+        "title": "Wall Street shakes with swings for Nvidia and oil prices but recovers most of its early losses - AP News",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPVFFiZmRWVmxZNDlVRnR1NHVQNkprRUhWMnNLMHFLWC1qdGljTm9ON2Z3U2FuXzNUcjRwRmNqMFZVemE4TVA1RVhRdl9paUtyMXJoYWhHbVl5d1FfNWZIZTVVU0IwcDQ0eHlnWGxxWEFhZjdkVko1a1hwY25XWE9uc3Q0MkIyaHpCWkNuZk05SGs1ck5DTFV4ZktQNWo?oc=5",
+        "published": "Thu, 12 Nov 2026 22:03:00 GMT",
+        "source": "AP — Headlines (Google News)"
+      },
+      {
+        "title": "Mississippi elects Democrat Scott Colom as state's first Black US senator since Reconstruction - AP News",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQVVhWcG5USS14S1FTbUdWOGtpYjRXSWdoUlJ4Ym95VXFGdnQtdVgyY3pMcjFScHpQc0c3a202TWJVcHp6YjFobDFfRl9Ga01PSGdaTEhZREZXRmtKUFBQY1JWQ0NmTHM2aVZnUVdNS3lPZG5RbDVVdHZFZnBkNmlwNU1Sc21GV1RvY0dwVHlyekd0UFg5aUZlNU1nYkJQZE1Y?oc=5",
+        "published": "Thu, 12 Nov 2026 05:25:00 GMT",
+        "source": "AP — Headlines (Google News)"
+      },
+      {
+        "title": "Firefighters dig through rubble after NYC building collapse kills 5 and traps people in wreckage - AP News",
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQMlZId0RsMUdSc3RNcWhhS3NHaFNVUXJBMGtVWVJhZHZ5WWIxOHk2MnJKUHRLNlV5aGEyYmZ6TEhKQmYxaE9JWGh5dVdfOGg2LWxUUEVuV3JoYjNGb0c4M0lmZDdGRS1yTG9ydmNfdHlsNDllQWJySlVZcDh2b3A4Y0t3NWZ6S0I0aFQtazUwRQ?oc=5",
+        "published": "Wed, 11 Nov 2026 22:16:22 GMT",
+        "source": "AP — Headlines (Google News)"
+      },
+      {
+        "title": "Stay or leave? Ukrainians face a hard choice ahead of what could be the war’s toughest winter - AP News",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQN0Q3Wkdxa0R4WG83d052SElGRm5zUGROWVhoLWlUV1U1MG1JNHhUVE53OFZHRDR2bHBJRFB4alVwYVlDSmRUYWNBaW9zY2U4VTgxa2MxWDFfNWppX0U2TVZuazdfQThrclhRVlRJNXZveklNVm5WMXkzNzdpbWpsQzNTNkJYOXphLVRfNzNTODJvSnhB?oc=5",
+        "published": "Thu, 12 Nov 2026 05:44:08 GMT",
+        "source": "AP — Headlines (Google News)"
+      },
+      {
+        "title": "‘Malcolm in the Middle’ star, race car driver Frankie Muniz released from hospital after crash - AP News",
+        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPM3hEbTJxWWs5TWRmX3BxOU90Wk15ZTBac3JXaHBQOEZyZ2FMdjlFTmMzb1dlbXBXdzVmYmM5NjRqUEFvQUx0aFdiRkFRRkUxQk8xelhMcGFabndiSFBsQU1TQVFSQVVWbzB1N0M5dlRpTkVhdlpNaTkwVTJjX0pjTFVXbEU5dw?oc=5",
+        "published": "Thu, 12 Nov 2026 02:14:14 GMT",
+        "source": "AP — Headlines (Google News)"
+      },
+      {
+        "title": "Advocacy groups sue AI giants to freeze new models, warning of ‘catastrophic’ risks - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNU3o4X0NMQVZxQ3g1Z216LW05QnZDQ2ZLZEc5cUhtU3NJSTJkWVoxTWsxUWUtNW05Ti04UHdCNEVKcnVZVEhnNXZoUks0N3BodVpGMjdYMEtUaFRHQnRwNUViNzdxUnEyWXVXMlgyeWQzaTg0N0NuRFFCbEFpM3pMaHViWFlvV1RVNEdfXzdEQWdwdFNSbkRIQU0yX3Q4aW1WTFhiNDNEWTFWcTlJYVJsMDVBaWNhV2g0Si1jcEdJRkRnQQ?oc=5",
+        "published": "Thu, 12 Nov 2026 15:03:00 GMT",
+        "source": "AP — Headlines (Google News)"
+      },
+      {
+        "title": "As higher prices seep into broader economy, Fed officials consider faster hikes - AP News",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOS3ZpVWRoY3RSb3kwZlFESnhfbnluX0stOC01UWxwckhXRTZVdkxXS3c0WnZFUW03QjFmVlRzUkc3YUpZeU15d29vYjQxdFpjLVpiR0FKMDY0em1paFlMaWxFaG81MFBpVnFjd2ZhdGs4NUpVbF9rTG52bVlKc09BT0ZqamxubGExMERXcHRqNko0VENJSTZkb3JWVG0?oc=5",
+        "published": "Wed, 11 Nov 2026 13:02:00 GMT",
+        "source": "AP — Headlines (Google News)"
+      },
+      {
+        "title": "Jensen Huang built the company that powers AI. Now Nvidia must find a way forward without him - AP News",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSktocy1OY2dwRlRpZnRkZ3V0d2hRdmgxRzM2bzlRVW1wdVd6a05PTGRUeTZDY3lwVkN4RFBDQUFrcmVBWmdnOVpkSVNlaVluTndndG1aeE1RQnBHY2NDcWVyeWg0VHhNQlBqejBSeXp0T0RBaTlUQS1rZ19kWEp4THhJa1cxWXhkSUl2Nm1YRG1xbmNMeV95S0NJMzl6M3c?oc=5",
+        "published": "Thu, 12 Nov 2026 21:23:00 GMT",
+        "source": "AP — Headlines (Google News)"
+      },
+      {
+        "title": "5 people are shot in DC, including 1 killed at a gym, and then suspect kills himself - AP News",
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMW5zRmhTTGNjXzZqa1hiWG1oWmVLeGZzZmZiVkhjOEpqTlJiMVZudG1meElSb2d5djFtM0FSUzM0UVdtYXdRcVZReTBxUG5rMW9ZYVQ3MlFXTGhZRG5rZmZnay1ONXlEVzJWdFRKZ3VLZGRDNFVzU21oVkZHTkhCZGlDNTA2NlgzY3lhdw?oc=5",
+        "published": "Fri, 13 Nov 2026 01:05:00 GMT",
+        "source": "AP — Headlines (Google News)"
+      },
+      {
+        "title": "Hegseth awards soldier who scolded him and his aides at Tomb of the Unknown Soldier - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNN3JEOXVsV1JxdWZmM3o1c3RrN2ZaOU5fRmtRekFSRVFWb0ZGdXpYb2ZKQUFNaTNwcy1zOUgzUHF4QmtOY1pudFBhQnF1R3I2dTZmUlpwVTU4cEVGVm9SR1JGMUY1TXRvbnIxQ0NvdnluOXYwU1pvZ1hUSlk5dDRWS1A0UF82aUJaV3doX1Y2NXFJX2pLVUo0b1Z6X0pVRHdpM01rVXNqV0dDeVk?oc=5",
+        "published": "Thu, 12 Nov 2026 19:47:00 GMT",
+        "source": "AP — Headlines (Google News)"
+      },
+      {
+        "title": "Russia and Ukraine agree to a large prisoner exchange as talks end with no major breakthrough - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZGJLX21sUk93S0w1eDdOMEtDdC1ETk4zZ0E4d1dna2xHaWxFSXIxdGFFYVV0Wm5pWlc1Uk5YczNsa09FcGJtMHpKU1VnTkVJejR2YTJxR0ZFQXE3dndEcS0teGNKbHJBS3R1N1lHbUxuR3hOQ3hyZ2s5elFlbkFBVTJMNmE3TW1vN2x5dDl2VzBvWWpiWU5WRGxBLWJTNVZBUUE?oc=5",
+        "published": "Wed, 11 Nov 2026 19:43:00 GMT",
+        "source": "AP — Headlines (Google News)"
+      },
+      {
+        "title": "Hegseth and staff reprimanded by guard at Tomb of the Unknown Soldier - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZDBHZUtCS0xoTUhLYTBCMmpFRHNjcHhReERJZDY3cTZQWmlDTi1tcF91UkE5QXJWNGQ1alQ3aHlqSmpreU8tbXZoLTZMQzJLNWFFdjJaVWd4SHZzX1NEaU5wWjJFWmExZWpyVk4tSVpGQ3VINDdvamFCSVB4TEV0a3hWemxraGJHQU1SS3VMMUJHNXpuM0poNE82ZVRvSzN4eUl4SjhzVEdYUms?oc=5",
+        "published": "Wed, 11 Nov 2026 21:26:43 GMT",
+        "source": "AP — Headlines (Google News)"
+      },
+      {
+        "title": "Senators probe RFK Jr.'s Samoa trip testimony after AP and Guardian showed documents that refute it - AP News",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNc1lEekgxMHlib0FkWW1YaWRoV0hKd1dQTzFuQ002eUNjZi1yWHc1a0U1MFd5VkFScUg1VDh3YmRqVXoxSGFHUlF6NWYtZXgydzFqOUktTjJELUJCS2J4azljdVZRZ3ZUUWdpMjdub1JGWmNHT3hVc28wTFJFMVpnUmt2aHpOb3dvVV9VcVV3OERjeEU4SUVRVncwNzBPNnRJREZpMWJMeXBHTlBveUIw?oc=5",
+        "published": "Thu, 12 Nov 2026 22:13:00 GMT",
+        "source": "AP — Headlines (Google News)"
+      },
+      {
+        "title": "Indonesia’s vice president resigns as his eligibility and academic credentials are questioned - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNaE80VHB2dlMwYkZpM2p1UUdyV0toU0V6TDdvS044OWRteHdVSWltUzJtLUZtd3oyUlpFZHZpd0gzUDdqOWMzTHZQMjM2VDYyR0Y0YkFaSm15dnFHRHM0b3o5ZDU1ME9OcVZ4aGNqWGVSZ1hLdHBIajVMMENZSGEwZVFDeWlwVUFEUGJqQ0s0QlUzVnZPNHpNcWllT1ZveXZZNlE?oc=5",
+        "published": "Thu, 12 Nov 2026 11:14:00 GMT",
+        "source": "AP — Headlines (Google News)"
+      },
+      {
+        "title": "Why AP called the Mississippi Senate race for Scott Colom - AP News",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQWVhHbUI5UEJZcjRYVlZSa05MeTctRTZ3WXdUaXU1eTVzNl9zZ2h2dmRURWYwV0RZVVdaTUEwUC01VUtfNTJHYXpTbkU4WHVWOHNyaldUM1VQUkVCMEtkQ3VIYUVOa2FvdDdnZ2hXdUd4WWJjOUtnS2R5T1FjV3N0NUNFcXZ3MW02RTRSUW9rWU5Ra3c0eXFDczRTT3J5R3FEOUZMSg?oc=5",
+        "published": "Thu, 12 Nov 2026 20:34:00 GMT",
+        "source": "AP — Headlines (Google News)"
+      },
+      {
+        "title": "Democrat Cindy Holscher is elected Kansas' next governor, extending her party's wave of victories - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdFAyRnM5T3lHNFY3S0NUd3lKQkpuZGJSdmJMMGc5aVJZanZmb2JRNjFlU1laTHp0OXJwRzZUSnRmbVlPR1J5OHp1ZUNPbDBwNm5xOEZ3N1ZRejAxNk5hU1dyWFNJdTJsZk4zaW1rbHBnODZZUUdlR0tVR0NKSlNYdTFHZ2pmRHpobUkwUzNnSENSQzlIQXJvd05TV3QtQlFLX2R6a3RNQi1DYW8?oc=5",
+        "published": "Thu, 12 Nov 2026 22:46:00 GMT",
+        "source": "AP — Politics (Google News)"
+      },
+      {
+        "title": "Navy has quietly fired some commanders and other officials, drawing congressional pushback - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQV2RMd18wQzVaeFA0N253Y3dHcFh4bnFrU2FHX1N2Wkk4cmViUThYS091N2h0dC1ZeWYxMjRRckVQaHlnOEE4OERvOVMtR3YyQkR2c2l0UnZnWkpWSjNJc2RLSGRMeWN4R1Z4ZlBzNnFVem9JUUlXYTljdV9TN2RPUXk5N0sya0xUYlhRWW5fdG1MMnBUTDlOTFAyTWJmSmlfeWZEU1ZLd2NHdkE?oc=5",
+        "published": "Thu, 12 Nov 2026 23:20:00 GMT",
+        "source": "AP — Politics (Google News)"
+      },
+      {
+        "title": "Republicans score rare blue-to-red flip in Maine during midterm landslide - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPM3gtRUQxVE5IYkoyNEJWOWNBd1l5YUFVV21XQ09UN1JKbEVlZld2SElPUXlEZFpyWGV2c3V4S3V1c2UtZkFoZS10Z3VUd3poaDF2Q3B3TmtFSnF0bFR6WHh2STBxeWhkR1F2RGNjVHNpYzFsWFF0ODZ3dnV4OHdmRDJDWWlFSk5PWUtCMzlVbjlaVVgxUkJ3cEpERDBYay1TMVVz?oc=5",
+        "published": "Thu, 12 Nov 2026 22:15:00 GMT",
+        "source": "AP — Politics (Google News)"
+      },
+      {
+        "title": "Trump bluntly tells JD Vance to shift focus from Iran to targeting 'corruption and crime' at home - AP News",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQQ3hucVhKWVM3X1M0clZMcFVrTFA0UU9ReE9RVW5LVWV2eUY1czdQcnJval9iU3ljNHVoZ0lvdV84Rm5adEFHby1EMnM1d0VfenNTOTBEM1FZczBwRVdVUG9raUF1Q2hqZnpHOFQ4SnZoMkdHZlBLUGtUME1aUmVHVFppZ0dxM2I2MEZCRGpNdzNrNm8?oc=5",
+        "published": "Thu, 12 Nov 2026 21:04:00 GMT",
+        "source": "AP — Politics (Google News)"
+      },
+      {
+        "title": "What we know after Jensen Huang resigns as Nvidia’s CEO - AP News",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOMUxqUTE0WWZBT2xoV25SLUQ2dFgyWkhwZFZyRnk3d1Fibmtrb0d4T3otSXNpNmZiTVh0QUdkWTA4UmQ3cXQyVVM3ODc0V0g4YnVVbDJRYWF4VXlaXzMzZnJWNi1UR3YyZHJGbWNzaVFab2tiM3N2RjFIOUtWcnlJVWtMVnhQNmhJeTdPajNVUXZfU2NzWkw0aGJLVFMtaGY3?oc=5",
+        "published": "Thu, 12 Nov 2026 21:33:00 GMT",
+        "source": "AP — Politics (Google News)"
+      },
+      {
+        "title": "Scott Colom makes history in Mississippi. Two other Black men did the same 150 years before him - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNQjNJemZGcDF3U0lqWVJmYXI1OEZxUnhCSlp2V09CS2hFcHFDNHg5VlN1dS02M3U1NVZ4N1NMY1dMdWRtUzVZR21peTNLaXptWlIxVXRLM1NncTNrM212akhoQV9wYmIwOXE4ajJwc051QXVLOVpCWEM4QjFPWmw2Y19MOG9tamNFYmVON1RJanBTS0lHV2xOYWNCYkxhRkZuUkNGNjUtZVM?oc=5",
+        "published": "Thu, 12 Nov 2026 21:33:00 GMT",
+        "source": "AP — Politics (Google News)"
+      },
+      {
+        "title": "Scammers stole his image to lure the lovesick. Then the lovesick came looking for him - AP News",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWXdQSVNmSEw1UG1MSmhJRFZpTmFyWnkyZElyaVZodDVFVy15TUljaWhGX20wX1JJMmZhaElVRUUtbHNnWnMzTmI1Z18zWGl0Nlh4NTVUQ0Izc0liWU1HTFhnRlJHazhUci1SeERlNGt0YmV3Z19FOHNaMmhyTFlvSXNhVElRVEVoSkxwcGVpRHpsVEptSHZzUGkxdFdCLXVickNfM0lHdkJQZ0VfV0RuaWNPVEs?oc=5",
+        "published": "Fri, 13 Nov 2026 00:50:00 GMT",
+        "source": "AP — Politics (Google News)"
+      },
+      {
+        "title": "Usually private, Melania Trump steps into the spotlight after the midterm election - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOandTVmJBNzQyaEhGMXIzc0JiUFpXcFZ0akZhVFdRVlJoVmdldmZzaTh5WUZ5V0ZXMVV2RGZCam5mX1JSN2tPa0E1cmI0MElyWXVKcnpJMmdQbnVJODRBRUtDQk00TS1rNTQ5UmhFYVFGejFPRkJqOVJkTG82UWxPWlEwcDQyWWUzS3NVSmxWNEl6ak9XY19UdTJqMlJmajNfRXp3RXZMcl8?oc=5",
+        "published": "Thu, 12 Nov 2026 19:42:00 GMT",
+        "source": "AP — Politics (Google News)"
+      },
+      {
+        "title": "Alaska judge rules a request by Peltola campaign for ballot data in Senate race is 'not reasonable' - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxONkFWazFUb2NYQWNaeDVTcXNrQlNRSElNZXh3aUNKNnViaUhwSng5MHFqSjRvdHI4NnEtNFlDYkVzWW9HVVVCRlFlUzJSVzl2bmFMQ0FiLWhISnpDeV82LTNCVkhTNHVWZmhDTVhSbDNaelN2ajRQejZuZG1qNmRuaU1MbFhsdDRmdWlqZnpFb1Z6X0gxRkUwdDRHNTh4R0RuWUE0M1R4Yk1zdm8?oc=5",
+        "published": "Thu, 12 Nov 2026 03:00:00 GMT",
+        "source": "AP — Politics (Google News)"
+      },
+      {
+        "title": "Peanut the squirrel’s former owner has been detained by ICE and could be deported - AP News",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbzVSX3JDVEUxakVSN0p4OFU1cFZvZmxRamJ3WkpQQjc1aTVlVEFsbEF6Wm54WmZCMTA5NzZod1hNTFducGhUcDZIR2I1dTlWZmhyaWtoSmxNYUpDLWVEcGpJMVYzaGZpMV9YcDdkMzVENEwwZmJZUU5NUHJ1c3YwUXhGUVhBSUxFUm56VTlvZTh5bDBxaUxmNDhVbEg?oc=5",
+        "published": "Wed, 11 Nov 2026 22:06:00 GMT",
+        "source": "AP — Politics (Google News)"
+      },
+      {
+        "title": "How Nvidia CEO Jensen Huang's extramarital affair could cause collateral damage in Washington - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPOHhUdHFXb3pRd05pMHh1LWcxVldiZEQ4ZWhnaDdPMnFuTk9DUU9iWENpZ2ZaUUZ1cnZNNDU1cDJtNTRVeG5wMVpDdFlmQU9SRWJnYmhWZzVMQjlvdi12c1Y5NlRDZWZhVFF3MUFpaGlpOWtzbVA5ZEx0NV82T3Uxeng4bzlEX3F4bTllU25GVDdkWGZGNjhUaXZCRzdVam5ZUTZVYVhFQlY?oc=5",
+        "published": "Wed, 11 Nov 2026 18:08:00 GMT",
+        "source": "AP — Business (Google News)"
+      },
+      {
+        "title": "China’s Singles’ Day shopping festival struggles to shake off weak consumer spending - AP News",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZldKVkFrVWlEQmhhVUpOTGNoT3lnSU1qakFBbmtUTWdTM0I4U3BKbmFNbEV3eUhXY2UwZFY2Z1V4RjRHY1lUQVhYOWMwbXp2aXNja2lpMkxNNG5FalVpWTRxQ3daTk1lWllsRXBLbjJRRlJHaTU3Wi1xNXNsSEkteW1yenZjTFozRlUwR0RUU05jNlFFbk1FbUM2eGtXZjRX?oc=5",
+        "published": "Wed, 11 Nov 2026 11:38:00 GMT",
+        "source": "AP — Business (Google News)"
+      },
+      {
+        "title": "US jobless claims tick up to 200,000 but remain low by historic standards - AP News",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNYjhkOTAyUnZZeEE3VlluOVZEc3JweDNfNnZpeGZ5OHBBYTZ1b3FzeWZDSkNQaGhZSmZLWVFERlBLUFNZQ293bjZQeHJYbEpMWGd6R1dPa0lYOW50a0d1V1U5SzJfUjZIUUNQWElKVjVhVU0wSU9IY3NUYUVVY1FIb25Cbk1ZLUNjcXF6WjZ1Y21LVUxVSXFMTA?oc=5",
+        "published": "Thu, 12 Nov 2026 14:11:29 GMT",
+        "source": "AP — Business (Google News)"
+      },
+      {
+        "title": "China’s passenger car exports surge in October as domestic demand remains weak - AP News",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNV0VwdlRjWm4zZGtIaVpNSzEwMi1wVkVJR053ZGRSSXBkMmtXR3hTZnVJb1MtWmtEc09WTVBTbkE1VnJPM1BkSi1BanZiYVdYdllnV0xOUDVoUVBObC1RRkx4SVB1VGNBZlFrYktVUmZ1cTAxOFlKbXU2eHdDRkdlNUFPYVhldUVUSFJULURtMDNQSWV4WURfT01abzI?oc=5",
+        "published": "Wed, 11 Nov 2026 09:40:00 GMT",
+        "source": "AP — Business (Google News)"
+      },
+      {
+        "title": "US home sales slumped in October to slowest pace in more than 16 years as mortgage rates surged - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOS09PUFNBenprT295anI3ajZuQVFRMDlNZVFsN3JGLWE4akFsZTJvWExXeHdIZ1ZYbDVEdHNaQTJ0WVhnZ25PZ2NNSzJnTlU5MXBHOGZ5NmYtbGJHdVBfOHd6SkJYM0dXRWRaNVlsTUV4elhjTVFEYTk1aEJrSU9xSjVrdGJZYl9IVk51MVlVcTdfZC0wQ216a2ZZX2daamNIRml5dGZBa1EzVnUxVGVuekNqV09WWFZWU1E?oc=5",
+        "published": "Thu, 12 Nov 2026 16:33:00 GMT",
+        "source": "AP — Business (Google News)"
+      },
+      {
+        "title": "Treasury Secretary Scott Bessent calls for more balanced US-China trade ties ahead of Trump-Xi talks - AP News",
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQSzZvaHZqSTdNX2R6b1BzNzJKdnI4NDNacDYzdkhud2ZUcERRVlBjcTdsZWxBVDZZYUlaRFdDZlpyMHhSNEJfVUk0TG1HQTRMOWloMlR0QWdEakxjZEN5UV85a2hQa2NNYnlfcjNiU3A4cVdCVnQ1dzNMZW82cWNxU0RKVU9aTkpWQUtxNG85aG9KQQ?oc=5",
+        "published": "Wed, 11 Nov 2026 02:30:56 GMT",
+        "source": "AP — Business (Google News)"
+      },
+      {
+        "title": "Housing protests sweep Madrid and Barcelona after Spain’s workers strike, with clashes erupting - AP News",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNQlZ0c3o4SEdVYWN6SGE2YW45M0xMVUlhNUJlMlo0QnZxMVB1UEdWOVZBOU9qcG9SSUlFSmtOa2F5MFJoQ0hPVEp0SVJ3NzJDV2FfcWtKV040dzUxRExKd2Y0bzRXNUViQzRvaDJBbGdfeW9FaTJyRnkyX1V3SU40Zms3TzhrUDR3dFdzc0J4S3ZqWkJIVUNUZVlfX3FjUy1EV19Wd3dMZw?oc=5",
+        "published": "Wed, 11 Nov 2026 22:20:00 GMT",
+        "source": "AP — Business (Google News)"
+      },
+      {
+        "title": "AI stocks rebound, and Wall Street nearly returns to where it was before last week’s sell-off - AP News",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNYi1oYnVxUmZHNlhJVXBPYk9ITmFxZzBzUWNfUDZPT2tsR0R4SExvcmJzM3I1ZEh0WHV0bHM2amVtQmMzWnpwRWVFRjluOTdETUt2UGtPbUUzamNLcVJ5UHk3Qm5ZMmNlNm16X21EZkZxaktKT3RIUEc4SlJCbnJDbzhxOXFkNVI0ZVFab3JBOGxtSXM?oc=5",
+        "published": "Wed, 11 Nov 2026 21:42:00 GMT",
+        "source": "AP — Business (Google News)"
+      },
+      {
+        "title": "Turkey’s president calls the war in Gaza an ‘ecocide’ at the UN climate summit - AP News",
+        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNQUc5TXFGV2djcE9qWnVHWWU4VklJbHBtNjZQeExQNXUtVDFHNExYX2xzc0p1YmdYSVRjRXVZcXphTFJCWnZ1UEZUOFh6SzRvWUpVUjdiUktaa2d4a1Z5bVFsYkJBa2pWWHJrLTNFS2xxeVlHVVF2V19IeEVESms1LVpBblp0NjhiR1VUTXJjRmFlMDhPZ0VRM2JuNXNUMTVXcjhOYUgxSGt1dFRtTlQ4Ukxadk5JZURoVmVqeVZuYldGWWtQbTIwUGZBakZlQQ?oc=5",
+        "published": "Wed, 11 Nov 2026 22:19:00 GMT",
+        "source": "AP — Business (Google News)"
+      },
+      {
+        "title": "Poland’s president joins a nationalist march as the country reels from the Krakow shooting - AP News",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQSm5NRExULU5tcTd4RzJheFRpVjBmbnVGY09uZFowamtTOTg4bG9KTUZnN0tIS2FCdGpMOUFCQm9xLUUzb01nSGx2UUZkdUFfV3BvcHc2QXcxNzJCeDRXUzFzS0VLd2ZLZ0tVc2RWWGMySHctZWQ4M0hQZ1pQYlAzU3FJMTYtVFRTdlh0ZUZGMUs3QWE5M2VV?oc=5",
+        "published": "Wed, 11 Nov 2026 21:39:00 GMT",
+        "source": "AP — Business (Google News)"
+      },
+      {
+        "title": "Militants ambush police in Pakistan, sparking gunbattle that kills 10 officers and 18 militants - AP News",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQLUlPajFoQ0JJek9uOW5KdHMyV2tZT3I4V1FNTWtlcXpqR2JFMVBHNkRPc21yNmdWVHNPbXlZVDVZTnF2RTJSYkE3RUE5ZkNYWDdlaGR0WkcwbGJMSjhLYThJcnZvX25QcnlVb2llSTBKbWdyZkdnQUhfX09taGptZEstTnlsTjNSV0JRVS1YbWNVOHJHWlhoXy14eGRnNDRzdnFYaWg5YUhEOEllSGM3cXdOZEs?oc=5",
+        "published": "Wed, 11 Nov 2026 19:07:00 GMT",
+        "source": "AP — Business (Google News)"
+      },
+      {
+        "title": "How major US stock indexes fared Wednesday 11/11/2026 - AP News",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNVEhFWEhuMXcwTy1GT3U1d1AtUXNyYVNBX19qeDFuZjFIWUdsaVdKcDJsaFdzT1R1TUZWRDMwd2ViMzV3NVFaSmxPM0IxNU1yc1VqSVprWVNmNGY2bHFIWjZDMURQVm4wc3JNczhfekl2X0VhVlpfSVRIbWotUGo3X0FMNi12V3NUa25Dd09PVnQxNVE?oc=5",
+        "published": "Wed, 11 Nov 2026 21:18:00 GMT",
+        "source": "AP — Business (Google News)"
+      },
+      {
+        "title": "NCAA warns multiple transfers tied to sharply lower graduation rates in college football - AP News",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNc3ppYjBaZmlZWHMzRGVGeHdCYVF6ZTJFZF9hUFZLYXItTmNmQ1c1VGVob3RJOVBua1lvaGpoRWxQR0l4enBTVnp3MktnNGFTeHNVSUF4LTZmdWdUV2xsNEM3N3VUWjN4TnFZend5b0h0MllkSkl2OGkySHpCSGplZm1Xa00yWG90M2lTU3BWRVhxS0prMlJtcg?oc=5",
+        "published": "Wed, 11 Nov 2026 18:00:00 GMT",
+        "source": "AP — Business (Google News)"
+      },
+      {
+        "title": "Is Outlook down? Widespread outage hits Microsoft email and other apps",
+        "link": "https://www.npr.org/2026/11/12/nx-s1-6039343/is-outlook-down-widespread-outage-hits-microsoft-email-and-other-apps",
+        "published": "Thu, 12 Nov 2026 20:26:24 -0500",
+        "source": "NPR — Top Stories"
+      },
+      {
+        "title": "Cindy Holscher wins in Kansas, holding governor's office for Democrats",
+        "link": "https://www.npr.org/2026/11/12/g-s1-151239/kansas-governor-midterms-holscher-masterson",
+        "published": "Thu, 12 Nov 2026 18:36:19 -0500",
+        "source": "NPR — Top Stories"
+      },
+      {
+        "title": "Cindy Holscher wins in Kansas, holding governor's office for Democrats",
+        "link": "https://www.npr.org/2026/11/12/g-s1-151187/holscher-kansas-masterson-governor-midterms",
+        "published": "Thu, 12 Nov 2026 17:52:49 -0500",
+        "source": "NPR — Top Stories"
+      },
+      {
+        "title": "What's a Honey Trap? The spy tactic that helped topple Jensen Huang",
+        "link": "https://www.npr.org/2026/11/12/nx-s1-6039266/jensen-huang-china-honey-trap-nvidia-spies-sex-alice-huang",
+        "published": "Thu, 12 Nov 2026 17:45:40 -0500",
+        "source": "NPR — Top Stories"
+      },
+      {
+        "title": "'Punch in the gut': Homes sales fall to their lowest in 16 years",
+        "link": "https://www.npr.org/2026/11/12/nx-s1-6038940/punch-in-the-gut-homes-sales-fall-to-their-lowest-in-16-years",
+        "published": "Thu, 12 Nov 2026 13:44:00 -0500",
+        "source": "NPR — Top Stories"
+      },
+      {
+        "title": "Casualties continue to rise after Brooklyn building collapses",
+        "link": "https://www.npr.org/sections/the-picture-show/2026/11/12/g-s1-153229/brooklyn-building-collapse-photos",
+        "published": "Thu, 12 Nov 2026 13:15:00 -0500",
+        "source": "NPR — Top Stories"
+      },
+      {
+        "title": "Democrats want to stop Trump's arch, golf course and more. What are their options?",
+        "link": "https://www.npr.org/2026/11/12/nx-s1-6034539/democrats-congress-trump-arch-ballroom-funding-oversight",
+        "published": "Thu, 12 Nov 2026 12:13:54 -0500",
+        "source": "NPR — Top Stories"
+      },
+      {
+        "title": "The SS United States takes its final voyage to the bottom of the Gulf of Mexico",
+        "link": "https://www.npr.org/2026/11/12/g-s1-153219/the-deliberate-sinking-of-the-ss-united-states",
+        "published": "Thu, 12 Nov 2026 11:20:04 -0500",
+        "source": "NPR — Top Stories"
+      },
+      {
+        "title": "Witnesses describe the D.C. shooting that left 1 dead, 4 injured",
+        "link": "https://www.npr.org/2026/11/12/nx-s1-6038860/dc-logan-circle-shooting",
+        "published": "Thu, 12 Nov 2026 11:12:53 -0500",
+        "source": "NPR — Top Stories"
+      },
+      {
+        "title": "U.S. envoys meet with Putin in the Kremlin after Ukraine talks in Abu Dhabi",
+        "link": "https://www.npr.org/2026/11/12/nx-s1-6038809/us-envoys-meet-putin-russia-ukraine-war-talks",
+        "published": "Thu, 12 Nov 2026 10:26:34 -0500",
+        "source": "NPR — Top Stories"
+      },
+      {
+        "title": "What we know so far about Nvidia interim CEO Colette Kress",
+        "link": "https://www.npr.org/2026/11/12/nx-s1-6038896/what-we-know-so-far-about-nvidia-interim-ceo-colette-kress",
+        "published": "Thu, 12 Nov 2026 17:04:13 -0500",
+        "source": "NPR — Politics"
+      },
+      {
+        "title": "Nvidia CEO Jensen Huang steps down amid alleged spy scandal",
+        "link": "https://www.npr.org/2026/11/12/nx-s1-6037833/jensen-huang-nvidia-stepped-down",
+        "published": "Thu, 12 Nov 2026 09:17:20 -0500",
+        "source": "NPR — Politics"
+      },
+      {
+        "title": "Swatters are using AI voices to deceive 911 dispatchers, and it's only getting worse",
+        "link": "https://www.npr.org/2026/11/11/nx-s1-6034449/ai-911-calls-swatting",
+        "published": "Wed, 11 Nov 2026 05:00:00 -0500",
+        "source": "NPR — Politics"
+      },
+      {
+        "title": "Testing the new generation of AI-enabled fire-extinguishing drones",
+        "link": "https://www.npr.org/2026/11/10/nx-s1-6030962/testing-the-new-generation-of-ai-enabled-fire-extinguishing-drones",
+        "published": "Tue, 10 Nov 2026 14:00:00 -0500",
+        "source": "NPR — Politics"
+      },
+      {
+        "title": "Investigation continues into Nvidia CEO's alleged relationship with Chinese spy",
+        "link": "https://www.npr.org/2026/11/10/nx-s1-6035019/investigation-continues-into-nvidia-ceos-alleged-relationship-with-chinese-spy",
+        "published": "Tue, 10 Nov 2026 04:38:11 -0500",
+        "source": "NPR — Politics"
+      },
+      {
+        "title": "Why a South Korean city is turning to a U.S. college to outsmart AI?",
+        "link": "https://www.npr.org/2026/11/09/g-s1-151519/why-a-south-korean-city-is-turning-to-a-u-s-college-to-outsmart-ai",
+        "published": "Mon, 09 Nov 2026 05:47:00 -0500",
+        "source": "NPR — Politics"
+      },
+      {
+        "title": "Palantir hires a former Democratic senator as it faces scrutiny in new Congress",
+        "link": "https://www.npr.org/2026/11/09/nx-s1-6029641/palantir-congress-jon-tester-investigations",
+        "published": "Mon, 09 Nov 2026 05:00:00 -0500",
+        "source": "NPR — Politics"
+      },
+      {
+        "title": "Nvidia launches investigation into CEO's alleged relationship with Chinese spy",
+        "link": "https://www.npr.org/2026/11/09/nx-s1-6034057/nvidia-launches-investigation-into-ceos-alleged-relationship-with-chinese-spy",
+        "published": "Mon, 09 Nov 2026 04:42:57 -0500",
+        "source": "NPR — Politics"
+      },
+      {
+        "title": "Google, Meta and TikTok sue to block California youth social media law",
+        "link": "https://www.npr.org/2026/11/07/nx-s1-6032764/google-meta-and-tiktok-sue-to-block-california-youth-social-media-law",
+        "published": "Sat, 07 Nov 2026 07:41:13 -0500",
+        "source": "NPR — Politics"
+      },
+      {
+        "title": "This week in science: PTSD prediction, phishing while tired, an exoplanet",
+        "link": "https://www.npr.org/2026/11/12/nx-s1-6031982/this-week-in-science-ptsd-prediction-phishing-while-tired-an-exoplanet",
+        "published": "Thu, 12 Nov 2026 17:24:11 -0500",
+        "source": "NPR — Business"
+      },
+      {
+        "title": "Scientists think they've found ancient remnants of dinosaur blood",
+        "link": "https://www.npr.org/2026/11/09/nx-s1-6026704/scientists-think-theyve-found-ancient-remnants-of-dinosaur-blood",
+        "published": "Mon, 09 Nov 2026 17:00:49 -0500",
+        "source": "NPR — Business"
+      },
+      {
+        "title": "Mice can learn to fight by watching tiny rodent cage matches, study finds",
+        "link": "https://www.npr.org/2026/11/09/nx-s1-6027938/mice-can-learn-to-fight-by-watching-tiny-rodent-cage-matches-study-finds",
+        "published": "Mon, 09 Nov 2026 16:39:35 -0500",
+        "source": "NPR — Business"
+      },
+      {
+        "title": "He was diagnosed with cancer. Then he was told he lost his Medicaid",
+        "link": "https://www.npr.org/2026/11/09/nx-s1-6032732/trump-medicaid-health-nebraska-work-insurance",
+        "published": "Mon, 09 Nov 2026 05:00:00 -0500",
+        "source": "NPR — Business"
+      },
+      {
+        "title": "NASA is looking for astronauts to live and work on the Moon",
+        "link": "https://www.npr.org/2026/11/08/nx-s1-6034002/nasa-astronaut-class-applications-2026",
+        "published": "Sun, 08 Nov 2026 18:36:47 -0500",
+        "source": "NPR — Business"
+      },
+      {
+        "title": "Climate change is altering the colors we see in the world: an illustrated journey",
+        "link": "https://www.npr.org/2026/11/08/nx-s1-5393776/color-climate-change-coral-lakes",
+        "published": "Sun, 08 Nov 2026 06:00:00 -0500",
+        "source": "NPR — Business"
+      },
+      {
+        "title": "How octopuses squeeze through teeny tiny holes",
+        "link": "https://www.npr.org/2026/11/06/nx-s1-6027897/how-octopuses-squeeze-through-teeny-tiny-holes",
+        "published": "Fri, 06 Nov 2026 17:24:10 -0500",
+        "source": "NPR — Business"
+      },
+      {
+        "title": "Oyster stocks have plunged in the Chesapeake. This resident wants to bring them back",
+        "link": "https://www.npr.org/2026/10/31/nx-s1-6011228/oyster-farming-conservation-chesapeake-bay",
+        "published": "Sat, 31 Oct 2026 05:00:00 -0400",
+        "source": "NPR — Business"
+      },
+      {
+        "title": "This week in science: mysterious X-rays, movement and learning, and memory formation",
+        "link": "https://www.npr.org/2026/10/30/nx-s1-6013638/this-week-in-science-mysterious-x-rays-movement-and-learning-and-memory-formation",
+        "published": "Fri, 30 Oct 2026 17:56:39 -0400",
+        "source": "NPR — Business"
+      },
+      {
+        "title": "Even birds get jet lagged, study shows",
+        "link": "https://www.npr.org/2026/10/29/nx-s1-6019228/manx-shearwater-jet-lag-birds",
+        "published": "Thu, 29 Oct 2026 14:00:00 -0400",
+        "source": "NPR — Business"
+      },
+      {
+        "title": "People getting hot and bothered over newly-elected Democratic men",
+        "link": "https://www.npr.org/2026/11/12/nx-s1-6034589/people-getting-hot-and-bothered-over-newly-elected-democratic-men",
+        "published": "Thu, 12 Nov 2026 18:53:15 -0500",
+        "source": "NPR — Science"
+      },
+      {
+        "title": "'We Chose to Go to the Moon' is a radical retelling of the history of the space race",
+        "link": "https://www.npr.org/2026/11/12/nx-s1-6037494/we-chose-to-go-to-the-moon-is-a-radical-retelling-of-the-history-of-the-space-race",
+        "published": "Thu, 12 Nov 2026 11:00:55 -0500",
+        "source": "NPR — Science"
+      },
+      {
+        "title": "From the firehouse to a Bronx pawn shop, Steve Buscemi is a lifelong New Yorker",
+        "link": "https://www.npr.org/2026/11/12/nx-s1-6032768/steve-buscemi-wild-horse-nine-pickpocket-new-york",
+        "published": "Thu, 12 Nov 2026 11:00:14 -0500",
+        "source": "NPR — Science"
+      },
+      {
+        "title": "Kennedy Center plans Ticketmaster switch, raising conflict of interest concerns",
+        "link": "https://www.npr.org/2026/11/12/nx-s1-6031461/kennedy-center-ticketmaster-conflict-of-interest",
+        "published": "Thu, 12 Nov 2026 05:00:00 -0500",
+        "source": "NPR — Science"
+      },
+      {
+        "title": "Kennedy relatives join the fight against Trump's arch, alleging harm to JFK's grave",
+        "link": "https://www.npr.org/2026/11/11/nx-s1-6037372/kennedys-trump-arch-lawsuit-jfk-grave-arlington-cemetery",
+        "published": "Wed, 11 Nov 2026 11:59:32 -0500",
+        "source": "NPR — Science"
+      },
+      {
+        "title": "Actor Stacy Keach, who played a private eye and plenty more, dies at 85",
+        "link": "https://www.npr.org/2026/11/11/728054385/stacy-keach-dead",
+        "published": "Wed, 11 Nov 2026 11:00:05 -0500",
+        "source": "NPR — Science"
+      },
+      {
+        "title": "New recipes and decorating ideas to try this Thanksgiving",
+        "link": "https://www.npr.org/2026/11/11/nx-s1-6034639/your-guide-to-hosting-a-flavorful-cozy-and-stress-free-thanksgiving",
+        "published": "Wed, 11 Nov 2026 05:00:00 -0500",
+        "source": "NPR — Science"
+      },
+      {
+        "title": "Americans across the economic spectrum feel a 'panic' about finances, author says",
+        "link": "https://www.npr.org/2026/11/10/nx-s1-6032767/mona-chalabi-ten-lives",
+        "published": "Tue, 10 Nov 2026 12:46:25 -0500",
+        "source": "NPR — Science"
+      },
+      {
+        "title": "Get in, loser: Broadway's newest 'Mean Girls' are ready to insult (and enlighten) you",
+        "link": "https://www.npr.org/2026/11/10/g-s1-152641/get-in-loser-broadways-newest-mean-girls-are-ready-to-insult-and-enlighten-you",
+        "published": "Tue, 10 Nov 2026 07:28:36 -0500",
+        "source": "NPR — Science"
+      },
+      {
+        "title": "Trump proposed a 'secret weapon' to police colleges. It will soon become reality",
+        "link": "https://www.npr.org/2026/11/12/nx-s1-6027967/accreditation-trump-higher-education",
+        "published": "Thu, 12 Nov 2026 05:00:00 -0500",
+        "source": "NPR — Technology"
+      },
+      {
+        "title": "At least 23 states considered laws governing ICE and schools this year",
+        "link": "https://www.npr.org/2026/11/12/nx-s1-5718547/ice-schools-state-laws-federal-immigration",
+        "published": "Thu, 12 Nov 2026 05:00:00 -0500",
+        "source": "NPR — Technology"
+      },
+      {
+        "title": "High schoolers become transit advocates for more non-car options",
+        "link": "https://www.npr.org/2026/11/11/nx-s1-6032761/high-schoolers-become-transit-advocates-for-more-non-car-options",
+        "published": "Wed, 11 Nov 2026 16:05:17 -0500",
+        "source": "NPR — Technology"
+      },
+      {
+        "title": "How UMD's historic campus farm remains a vital classroom for modern students",
+        "link": "https://www.npr.org/2026/11/07/nx-s1-6030640/how-umds-historic-campus-farm-remains-a-vital-classroom-for-modern-students",
+        "published": "Sat, 07 Nov 2026 07:41:04 -0500",
+        "source": "NPR — Technology"
+      },
+      {
+        "title": "Cornell faculty passes vote of no-confidence in university administration",
+        "link": "https://www.npr.org/2026/11/06/nx-s1-6027995/cornell-faculty-passes-vote-of-no-confidence-in-university-administration",
+        "published": "Fri, 06 Nov 2026 17:32:21 -0500",
+        "source": "NPR — Technology"
+      },
+      {
+        "title": "Why public schools nationwide are facing a massive drop in student enrollment",
+        "link": "https://www.npr.org/2026/11/06/nx-s1-5971283/public-school-enrollment-ice-deportation-birthrate",
+        "published": "Fri, 06 Nov 2026 05:00:00 -0500",
+        "source": "NPR — Technology"
+      },
+      {
+        "title": "Some universities have programs that allow students to live in retirement communities",
+        "link": "https://www.npr.org/2026/11/03/nx-s1-6019425/some-universities-have-programs-that-allow-students-to-live-in-retirement-communities",
+        "published": "Tue, 03 Nov 2026 16:14:05 -0500",
+        "source": "NPR — Technology"
+      },
+      {
+        "title": "With students scarce, college admissions offices get friendlier, less intimidating",
+        "link": "https://www.npr.org/2026/11/02/nx-s1-6007855/college-admissions-change-fewer-students",
+        "published": "Mon, 02 Nov 2026 05:00:00 -0500",
+        "source": "NPR — Technology"
+      },
+      {
+        "title": "Their colleges closed, but the government refuses to erase their debts, lawsuit says",
+        "link": "https://www.npr.org/2026/10/29/nx-s1-6003916/student-loans-closed-colleges-education-department-trump-biden",
+        "published": "Thu, 29 Oct 2026 05:00:00 -0400",
+        "source": "NPR — Technology"
+      },
+      {
+        "title": "The brain’s fear center moonlights as the save button for memories",
+        "link": "https://www.sciencenews.org/article/brain-amygdala-neuron-saves-memories",
+        "published": "Thu, 12 Nov 2026 16:00:00 +0000",
+        "source": "ScienceNews"
+      },
+      {
+        "title": "Europe’s Hera mission is ready to double down on asteroid science",
+        "link": "https://www.sciencenews.org/article/europe-hera-mission-double-asteroid",
+        "published": "Thu, 12 Nov 2026 14:00:00 +0000",
+        "source": "ScienceNews"
+      },
+      {
+        "title": "Stone Age children left fingerprints on ancient art projects",
+        "link": "https://www.sciencenews.org/article/stone-age-children-made-art-clay-sculpt",
+        "published": "Wed, 11 Nov 2026 19:00:00 +0000",
+        "source": "ScienceNews"
+      },
+      {
+        "title": "This magic mushroom can kill",
+        "link": "https://www.sciencenews.org/article/dark-magic-mushroom-psilocybin-amatoxin",
+        "published": "Wed, 11 Nov 2026 16:00:00 +0000",
+        "source": "ScienceNews"
+      },
+      {
+        "title": "Light is hard to block from every direction. This physicist found a way",
+        "link": "https://www.sciencenews.org/article/light-block-direction-physicist-sn10",
+        "published": "Wed, 11 Nov 2026 12:00:00 +0000",
+        "source": "ScienceNews"
+      },
+      {
+        "title": "Science to restore speech is moving fast. Here’s what’s next",
+        "link": "https://www.sciencenews.org/article/talk-less-lose-voice-deep-end-podcast",
+        "published": "Tue, 10 Nov 2026 14:00:00 +0000",
+        "source": "ScienceNews"
+      },
+      {
+        "title": "Toxic secrets are hiding in Arctic ice",
+        "link": "https://www.sciencenews.org/article/toxic-secrets-hiding-arctic-ice-harm",
+        "published": "Tue, 10 Nov 2026 10:00:00 +0000",
+        "source": "ScienceNews"
+      },
+      {
+        "title": "Fossil fuel emissions are down in 2026. Green energy isn’t the reason",
+        "link": "https://www.sciencenews.org/article/fossil-fuel-emissions-down-2026-gas",
+        "published": "Tue, 10 Nov 2026 01:00:00 +0000",
+        "source": "ScienceNews"
+      },
+      {
+        "title": "Drugs like Ozempic may help reverse chronic kidney disease",
+        "link": "https://www.sciencenews.org/article/semaglutide-chronic-kidney-disease",
+        "published": "Mon, 09 Nov 2026 16:00:00 +0000",
+        "source": "ScienceNews"
+      },
+      {
+        "title": "A high-fiber diet may clear away plastic in the gut",
+        "link": "https://www.sciencenews.org/article/high-fiber-diet-nanoplastic-gut-health",
+        "published": "Mon, 09 Nov 2026 14:00:00 +0000",
+        "source": "ScienceNews"
+      },
+      {
+        "title": "This may be the best evidence yet that dinosaur blood can fossilize",
+        "link": "https://www.sciencenews.org/article/evidence-dinosaur-blood-fossilize",
+        "published": "Fri, 06 Nov 2026 16:00:00 +0000",
+        "source": "ScienceNews"
+      },
+      {
+        "title": "This armored amphibian once lived and hunted on the seafloor",
+        "link": "https://www.sciencenews.org/article/first-marine-amphibian-ancient-fossil",
+        "published": "Fri, 06 Nov 2026 14:00:00 +0000",
+        "source": "ScienceNews"
+      },
+      {
+        "title": "How octopuses squeeze through tiny openings, step by step",
+        "link": "https://www.sciencenews.org/article/octopuses-squeeze-escape-steps-video",
+        "published": "Thu, 05 Nov 2026 21:00:00 +0000",
+        "source": "ScienceNews"
+      },
+      {
+        "title": "Record-low temperature created on China’s space station",
+        "link": "https://www.sciencenews.org/article/lowest-temperature-china-space-station",
+        "published": "Thu, 05 Nov 2026 19:00:00 +0000",
+        "source": "ScienceNews"
+      },
+      {
+        "title": "Little Ice Age cooling in Europe may have raised the risk of rickets",
+        "link": "https://www.sciencenews.org/article/little-ice-age-climate-europe-rickets",
+        "published": "Thu, 05 Nov 2026 05:00:00 +0000",
+        "source": "ScienceNews"
+      },
+      {
+        "title": "Where are all the males? Ancient human fossils reveal a startling mystery",
+        "link": "https://www.sciencedaily.com/releases/2026/11/261110042558.htm",
+        "published": "Wed, 11 Nov 2026 04:43:55 EST",
+        "source": "ScienceDaily — Top"
+      },
+      {
+        "title": "Earth's fiery birth may have created hundreds of oceans' worth of water",
+        "link": "https://www.sciencedaily.com/releases/2026/11/261110042549.htm",
+        "published": "Thu, 12 Nov 2026 03:38:42 EST",
+        "source": "ScienceDaily — Top"
+      },
+      {
+        "title": "NASA reveals Earth's ozone hole has grown to a size not seen in a decade",
+        "link": "https://www.sciencedaily.com/releases/2026/11/261110042546.htm",
+        "published": "Wed, 11 Nov 2026 07:32:48 EST",
+        "source": "ScienceDaily — Top"
+      },
+      {
+        "title": "A massive new simulation reveals how the universe emerged from darkness",
+        "link": "https://www.sciencedaily.com/releases/2026/11/261110042534.htm",
+        "published": "Wed, 11 Nov 2026 23:07:24 EST",
+        "source": "ScienceDaily — Top"
+      },
+      {
+        "title": "Scientists discover a giant 66-pound rodent that lived 34 million years ago",
+        "link": "https://www.sciencedaily.com/releases/2026/11/261110042532.htm",
+        "published": "Tue, 10 Nov 2026 20:36:04 EST",
+        "source": "ScienceDaily — Top"
+      },
+      {
+        "title": "Why heart attacks can still happen even when bad cholesterol is low",
+        "link": "https://www.sciencedaily.com/releases/2026/11/261109205415.htm",
+        "published": "Mon, 09 Nov 2026 20:54:15 EST",
+        "source": "ScienceDaily — Top"
+      },
+      {
+        "title": "The mystery of how hair knows where to grow may finally be solved",
+        "link": "https://www.sciencedaily.com/releases/2026/11/261109205413.htm",
+        "published": "Wed, 11 Nov 2026 07:48:30 EST",
+        "source": "ScienceDaily — Top"
+      },
+      {
+        "title": "NASA’s Parker Solar Probe discovers a hidden pattern in the Sun’s chaotic magnetic fields",
+        "link": "https://www.sciencedaily.com/releases/2026/11/261109205411.htm",
+        "published": "Wed, 11 Nov 2026 20:45:09 EST",
+        "source": "ScienceDaily — Top"
+      },
+      {
+        "title": "237-million-year-old fossils reveal a bizarre armored sea amphibian",
+        "link": "https://www.sciencedaily.com/releases/2026/11/261109205409.htm",
+        "published": "Tue, 10 Nov 2026 19:59:32 EST",
+        "source": "ScienceDaily — Top"
+      },
+      {
+        "title": "NASA’s CHAPEA Mars crew finally emerges after more than a year in isolation",
+        "link": "https://www.sciencedaily.com/releases/2026/11/261109205406.htm",
+        "published": "Tue, 10 Nov 2026 00:00:41 EST",
+        "source": "ScienceDaily — Top"
+      },
+      {
+        "title": "Scientists uncover a 192-year-old mystery hidden in a mangled silver coin",
+        "link": "https://www.sciencedaily.com/releases/2026/11/261109205359.htm",
+        "published": "Wed, 11 Nov 2026 05:48:22 EST",
+        "source": "ScienceDaily — Top"
+      },
+      {
+        "title": "Alzheimer’s may have early warning signs outside the brain",
+        "link": "https://www.sciencedaily.com/releases/2026/11/261108233103.htm",
+        "published": "Mon, 09 Nov 2026 20:47:34 EST",
+        "source": "ScienceDaily — Top"
+      },
+      {
+        "title": "Scientists discover that necks didn't evolve for the reason we thought",
+        "link": "https://www.sciencedaily.com/releases/2026/11/261108233101.htm",
+        "published": "Wed, 11 Nov 2026 18:49:03 EST",
+        "source": "ScienceDaily — Top"
+      },
+      {
+        "title": "Scientists finally discover why we learn to love bitter coffee",
+        "link": "https://www.sciencedaily.com/releases/2026/11/261108233100.htm",
+        "published": "Mon, 09 Nov 2026 18:19:35 EST",
+        "source": "ScienceDaily — Top"
+      },
+      {
+        "title": "NASA reveals bold new plan to return astronauts to the Moon in 2028",
+        "link": "https://www.sciencedaily.com/releases/2026/11/261108233054.htm",
+        "published": "Mon, 09 Nov 2026 04:13:28 EST",
+        "source": "ScienceDaily — Top"
+      },
+      {
+        "title": "AI’s energy paradox: will the AI boom strain energy systems or be the source of solutions?",
+        "link": "https://www.nature.com/articles/d41586-026-03412-5",
+        "published": "Wed, 11 Nov 2026 00:00:00 +0000",
+        "source": "Nature — Technology"
+      },
+      {
+        "title": "Can green technologies deliver energy security in an unstable world?",
+        "link": "https://www.nature.com/articles/d41586-026-03409-0",
+        "published": "Wed, 11 Nov 2026 00:00:00 +0000",
+        "source": "Nature — Technology"
+      },
+      {
+        "title": "Students need AI-free spaces to learn core skills",
+        "link": "https://www.nature.com/articles/d41586-026-03644-5",
+        "published": "Tue, 10 Nov 2026 00:00:00 +0000",
+        "source": "Nature — Technology"
+      },
+      {
+        "title": "The public trusts scientists with AI — more than it does anyone else",
+        "link": "https://www.nature.com/articles/d41586-026-03578-y",
+        "published": "Tue, 10 Nov 2026 00:00:00 +0000",
+        "source": "Nature — Technology"
+      },
+      {
+        "title": "These AI agents design your perfect robot-powered lab — and run it for you",
+        "link": "https://www.nature.com/articles/d41586-026-03587-x",
+        "published": "Fri, 6 Nov 2026 00:00:00 +0000",
+        "source": "Nature — Technology"
+      },
+      {
+        "title": "Responsible use of artificial intelligence",
+        "link": "https://www.nature.com/articles/s41561-026-02149-0",
+        "published": "Thu, 5 Nov 2026 00:00:00 +0000",
+        "source": "Nature — Technology"
+      },
+      {
+        "title": "Toothbrush zaps bacteria with electricity that’s made when bristles move",
+        "link": "https://www.nature.com/articles/d41586-026-03586-y",
+        "published": "Wed, 4 Nov 2026 00:00:00 +0000",
+        "source": "Nature — Technology"
+      },
+      {
+        "title": "AI agents enter the ‘wet lab’",
+        "link": "https://www.nature.com/articles/d41586-026-03270-1",
+        "published": "Wed, 4 Nov 2026 00:00:00 +0000",
+        "source": "Nature — Technology"
+      },
+      {
+        "title": "Universities must measure learning, both with and without AI assistance",
+        "link": "https://www.nature.com/articles/d41586-026-03559-1",
+        "published": "Tue, 3 Nov 2026 00:00:00 +0000",
+        "source": "Nature — Technology"
+      },
+      {
+        "title": "Will AI grant reviews make science more conservative?",
+        "link": "https://www.nature.com/articles/d41586-026-03340-4",
+        "published": "Tue, 3 Nov 2026 00:00:00 +0000",
+        "source": "Nature — Technology"
+      },
+      {
+        "title": "Biochar for sustainable crop production",
+        "link": "https://www.nature.com/articles/s43017-026-00847-2",
+        "published": "Tue, 3 Nov 2026 00:00:00 +0000",
+        "source": "Nature — Technology"
+      },
+      {
+        "title": "Meet Neuropixels: how probes that track hundreds of brain cells at once are revolutionizing neuroscience",
+        "link": "https://www.nature.com/articles/d41586-026-03511-3",
+        "published": "Mon, 2 Nov 2026 00:00:00 +0000",
+        "source": "Nature — Technology"
+      },
+      {
+        "title": "Techno-economic and environmental assessment of next-generation battery-powered farming robots",
+        "link": "https://www.nature.com/articles/s41467-026-78281-7",
+        "published": "Mon, 2 Nov 2026 00:00:00 +0000",
+        "source": "Nature — Technology"
+      },
+      {
+        "title": "Patrick Stewart dies: how Captain Picard inspired today’s science leaders",
+        "link": "https://www.nature.com/articles/d41586-026-03543-9",
+        "published": "Fri, 30 Oct 2026 00:00:00 +0000",
+        "source": "Nature — Technology"
+      },
+      {
+        "title": "Platform evaluation and lessons learned with IT-supported patient recruitment",
+        "link": "https://www.nature.com/articles/s41746-026-03366-y",
+        "published": "Fri, 30 Oct 2026 00:00:00 +0000",
+        "source": "Nature — Technology"
+      }
+    ],
+    "local": [
+      {
+        "title": "How the Failed Digital Gateway Data Center Project Changed Northern Virginia’s Future - Northern Virginia Magazine",
+        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQR0RRWkE0SzRyTWFEbW8zM1JYMHYtRU5XNWlzU05EMERjTXhvekJGY19tX0JhTG9IWVhrVU12RkJHRzJVXzhId2VtS05HTGNDYlZTVjQtNzdkbkcxZkUwNy11cy15NEgxNlU0d1lDaE11YVVYd3FkSENkMWhsMENuampIa2cyTHFZYXFzTlBWanZNdVoyeWJ1enk1X1hFSE5YRUcySE1tdWlKV2Z6T3hLWUpfVGF4akRDdVVHZzV3YUlGVXl0VldJSS1mWnZSUQ?oc=5",
+        "published": "Tue, 10 Nov 2026 13:14:53 GMT",
+        "source": "Google News — Northern Virginia"
+      },
+      {
+        "title": "Local businesses out thousands of dollars after Northern Virginia Christmas Market canceled over permit, construction issues - DC News Now",
+        "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPbDlZam4tVkJJSWxBRWtXSHozWmw1QkNWbHQ3YzVyeEdYQ3piWjMtbjRGSlo2OGF6UXpjUjF4MTlzRHBBVmlPWTE3TWl3X1pJLUdFUUROQnY2TmRNWERxclBtOURtSU5hNkV5blMtbnRvUVd2eHFDOTJWNlFhT3RsR2oyaXdTUkpWN2diLUc0dG1heTcyS1djS0NMa1lWOEMxZUNqc1pmbTFHRGhqT1dfaDdPdjFsTF9QTHNlTTJrT25QQUlsaEU0MUx0SFE3MXdwbnE4V3ZyZnhiMkJoVnhUbU42anhJLXlJUlpYOG16WlZBTW9hN0g0cjFlT1pLMzRNN1ZqdEE4Wk13bmNvbmN2NjRvbGRhVW8zS0HSAZ8CQVVfeXFMTVRHVjVhc3Fsblp1T3FRczhiQUxHMk1SX1lJR2NTbnJ2YjVoM0pYRFIxRVhQeFNNMUdqSlRfTzVxM1dQanRmSWhqaldmN3lDWnkyRXBSSUZHTTNac3NWU0luWW1mLTRNLUhkdXUzNFUxQVB3VU5qUjdyQmliaHAyQkItQU93VmpuM2FsUEphNmhKTUVhSDVQb3hqWnBITVJPVnByakFCRW5NcnJwQVBaTTd1RlNhdUk0cGlSOHJ5ZlNqdERZNjNZRkZhRlBzY184cWJhWVlCRExaUU5VUFREMW9oNVFJNU1VUXp6TXR3NUVPVkJ6Nmk4dmUtNWEzYzRZdXl5SVdMeGtIeU1nYXZfQVdjYTBIbjUxcjBCaVN0Umc?oc=5",
+        "published": "Tue, 10 Nov 2026 02:45:37 GMT",
+        "source": "Google News — Northern Virginia"
+      },
+      {
+        "title": "Massive house party thrown for teen ends with charges for Northern Virginia parents - FOX 5 DC",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPbU5zNVBpWjFHZ2JTdWhqcm1XMVY2RU9rdzIyVVhRMWtwMS05S3BfdXhTRFB0UERjMWlySjh5cDVfQmd2QTRaaU9LYVhXU2hGWDI4eU5ZZm1rcjk5RU53OVRST0VzVHNHdnIxSUlQVk1yX0ZwemdWZWtkVEp5Q1ZVaUV4UWFpNGU1NDZGRWc2bDE3b2llclBwUkVDVVJoQmM?oc=5",
+        "published": "Fri, 13 Nov 2026 01:01:11 GMT",
+        "source": "Google News — Northern Virginia"
+      },
+      {
+        "title": "Northern Virginia Performing Arts celebrates first anniversary - Loudoun Times-Mirror",
+        "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPeG1UVHpORVRoNU9YZnhPUjlfd0ZrblE3YUtyN2dxamhuYzFmZVY1VndSdUhFSkMxSkdVWHBIZDlmVlhfSWJzQW1wNmtET3lkalBleWp3UXhLZHBjeTBpUS1ETWZWeTdtZFY0NXJGZmNzRGJ3WWFmWHM2UzNBWkZodzNpOGZwdFlVTVVsR1ZTTWxkRFEzVEpNQjRCZ3gyZ29WWlhEYXFWVjFVYXBJYTAyOEdJY2xWalEwUEJneG5kdTBfMEF6ZUVpUXAxUThRaUhWMHZsVUtUeFVwR3EyV0RF?oc=5",
+        "published": "Thu, 12 Nov 2026 23:00:00 GMT",
+        "source": "Google News — Northern Virginia"
+      },
+      {
+        "title": "Harry Brill Obituary (2026) - Strasburg, VA - Northern Virginia Daily - Legacy | Obituary",
+        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOU1FpYi1yaWRqclY2S1RUQm9IZUdVTm5tOEtqaEdYckZjYmNwWlZXNXJUX2xzU3l5TGxndl9VT0ZnWHh4MXlVclJKN1dVQl9UalMzWVBxdDZJTHFkWkR4UUFxV0NEMHdpMVJWaGhzSVNFaXdYdVV3TXpCZ2J0eGhuRmVPS3dyNGJRMGc?oc=5",
+        "published": "Wed, 11 Nov 2026 17:29:20 GMT",
+        "source": "Google News — Northern Virginia"
+      },
+      {
+        "title": "Civil War soldier who died in Northern Virginia is finally l... - InsideNoVa",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQUXVNMVdOZUdneVFKelhRMFRTUVNYRktpOExfeHBRQkZkcDZnSFNDaVRfRzkxZmd5S3pra0lqSnFMR081UlN4Ulg4T29VckJwczhxWHBmQk1NbWJXaE9WT3dFT0NpWHhCdUQxenk1V2lSNFlvWUEwUGo1UDdaZVJrbXBiUDdxWGQ4YXdDbUZtazVMUHRNbmxkal9xbmR1SE10R2h6SlBLZGNxa1VQNXhVa29n?oc=5",
+        "published": "Thu, 12 Nov 2026 16:28:14 GMT",
+        "source": "Google News — Northern Virginia"
+      },
+      {
+        "title": "5 Official ‘Hallmark Christmas Towns’ Within Driving Distance of Northern Virginia - Northern Virginia Magazine",
+        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPSWY5VEg3N3dfeXRaYy1rY3VQM3E0ZnNoNnF0Q09FX3p3bC1wbTAzbTJ3anlydWdIMjVIZGRfTjZJd2I2aVM1d1RaV1RmN09IS2w1dFZnLVJNTFZmM3UzLUI0LUFReG9mclAtdUNRLWdrQVV6RE5POTFnSXozcy1oc3ZvaU1NX1lfX0o2eVpyVTl5R0Y0V1hONzZBX1dTN2dQOXE3Q214dFBURFdIa0QwUDZlVE9Qa09sempRai16T1pSRElwbkV5SjdhRW5LWC1zVllyc0Q1a2tjZDdr?oc=5",
+        "published": "Wed, 11 Nov 2026 12:00:00 GMT",
+        "source": "Google News — Northern Virginia"
+      },
+      {
+        "title": "James Reedy Obituary (2026) - Edinburg, VA - Northern Virginia Daily - Legacy | Obituary",
+        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQN01uSy1VRVBlZ0Nlb2JyUGhlZXY2U1RsWUdHdGxpOE94NVAwOUdJUWxoSUdBWDBwdmJrQ3k0YjF4ckpvd0MyUjZoZl9xYU9EajM3RVVJWXhHdmRhRGdoc3RYdWhVVUdqV1ItcTFvZnZkUGRkU2NhSDZ3VmRvTGttMzFxLThfMWtuTUE?oc=5",
+        "published": "Thu, 12 Nov 2026 00:07:25 GMT",
+        "source": "Google News — Northern Virginia"
+      },
+      {
+        "title": "Dogs Are the No. 1 Customer at This New Bakery in Fredericksburg - Northern Virginia Magazine",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNUG95MkptTjdpYm1rdFdFdTJYNnlhWEduNVN0ZXZaNkdESWFRMk5rXzZ3QTJXclk4TlZUenpxRktnVG9nSl9SZjl5dVpfcmxQVFJiTGJ2M18xV0xudVZmTW1hbTduLVpPbWtDZldPeW95eWRZX1hSQ1R4anNDdTktUW4tUElEbU1zSHl2VmFNU2dpMXpMcEpLbGV5bWR6MkNFWkJ6R3k3TG1Wa1VkdF96cmE4UVZaZnhZQ19z?oc=5",
+        "published": "Thu, 12 Nov 2026 13:34:56 GMT",
+        "source": "Google News — Northern Virginia"
+      },
+      {
+        "title": "New Kalahari Water Park Resort Opens in Spotsylvania - Northern Virginia Magazine",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPbFQzbWdqMDdUdW5iMFVqeW9zT2ExbWdvWDFRRmNwRUhLLVdQSlpKNkM3WkYtZDhJeFQwc08tbFVGamF5bGNHM0dabEwzajdOeU8weDRiS19TMUVVNGI2bm5pYV92dzlnd0V0MlpwTUtZemU3RXZzN0tFam9kSUtzOUZqSmU2OHNCVlpGOFFPdTVXUTM3WjJrdVkxdUxiQWZ0NUlVdDdZOW14N3l6b0E?oc=5",
+        "published": "Thu, 12 Nov 2026 15:45:29 GMT",
+        "source": "Google News — Northern Virginia"
+      },
+      {
+        "title": "Holiday light shows open for the season at three Northern Virginia parks - FFXnow",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPY1VTbVRGVWxpRUlzaXhOenBJSGx5YmFwUUVqU2VGb2cyYVJwUktPWWZKMVB5WGJkNW9HSXpiRWc2UmY3MXVOOEk3R3JGdHJ6YlRTM0Vwenh4am13MTVxbEJZXzVLbTdEM1F0aTc4aDNCRU5EMkx1Q01NNmMydENKUmJmaC1LaTN0Z0sxU3FHRnBFdER0cV9VdGpraDJRTUNtU0tyN1dnTTQxSkE?oc=5",
+        "published": "Thu, 12 Nov 2026 20:45:19 GMT",
+        "source": "Google News — Northern Virginia"
+      },
+      {
+        "title": "Sentara Northern Virginia Medical Center Hosts First Cadaver Skills Lab for Local EMS - Prince William Living",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVkJxRVNPNmNoTy1WQW1xRHVmQVlVNV9Rb3o5T0ttdzExYkJhcFd0cVl1cE5oTy1Zd1hLQnhScW85b2JwTDFkY0lKSHF1OThoZUthTFV3S2lySUJ1bkU3WWxCeGZ1aUp5dFNBR191aUNyWkZ0MDlXZkQ1UlVha0RZR0JsMlN0cmpyU01ROS00Yk83XzJNTmlvY2pjMmd3ODJJcjhjU2xVay1Fd01yeTFrX19xVlVCVWZsNWc?oc=5",
+        "published": "Thu, 12 Nov 2026 15:53:21 GMT",
+        "source": "Google News — Northern Virginia"
+      },
+      {
+        "title": "Enverra Buys Northern Virginia Office Campus for $42M - Commercial Observer",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPd3MyV0Rsd2J6emUwemQtQ25MVXBpeEFDMFpUUEJ4VGtIZjJ4LTZMcDZBckNMY1FKRzJFRkVVZGhSMGN4MHRLbXFEQ25ONVQ1eUNMdkQ2NFdnSmZXa0hMajJmdjJXUkVqMDA5OWNPZTJHdk5sVlZPSm1EYTdXcFVZRV9qa0ZDeXd0OFdLZ3BHVFZBUnkxUkZV?oc=5",
+        "published": "Thu, 12 Nov 2026 16:35:26 GMT",
+        "source": "Google News — Northern Virginia"
+      },
+      {
+        "title": "Children’s, Inova pursue pediatric surgery expansions as 11-year partnership nears its end - Howl.Link",
+        "link": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE90UWhSTDRuZUg1eldZY2ZjYVcxOEVpeXZsS1ZTUTdSNG1pd3RqdnRCbUFRT0NLQ1dFeXh3?oc=5",
+        "published": "Thu, 12 Nov 2026 19:21:00 GMT",
+        "source": "Google News — Northern Virginia"
+      },
+      {
+        "title": "New Route 123 northbound left turn to I-95 southbound in Woodbridge opens Nov. 12 - Virginia Department of Transportation (.gov)",
+        "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPQnJjTVlRM2pvNEQyYjdnbmhJRkZobWo2T2FrMGl4aWJvN2JueW1VREdHZldEYUMyazJJaFpCcTljNW9ncmY1S3M3TXI2UkpaNHRLcFRPZFR0WFd3Y054c3M2bDlzQ05rSG9kZURjRzZLdk04bEZQSW5ldkpqTHN1MUlPRUNqR20tQXZFSEE5V2cyejg0UUZtVGJJYmVEaVNfNmQ4dUZNeWZRYzYxRGljbHhGVkk0VW9RUkprYnBYQ3dPS0ZnYUswZkc5S1k0VkR3YWN3UFhtQjR2M29iWi01SDRpVERzdHgwcFE?oc=5",
+        "published": "Tue, 10 Nov 2026 18:48:13 GMT",
+        "source": "Google News — Northern Virginia"
+      },
+      {
+        "title": "Councilman seeks to bring downstate lawmakers aboard N. Va. transit to make case for funding - ALXnow",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPaU5EUmVzOXY3NnNFOGhuZ0lQby1iWGhoSTFuXzR5d09iSVQ0ajFSWUxqbHpKaTY3a20xYk9ZeFNyNmlDNHBxeG9QMmFMQkJnS3A3eGFFbk9fb0d2LVRxVGthZEU4bVBkLTNkSzlRTF9vT0FHbVNNTllfeDJVc2Vqb0UzSnNYUFU2czZNaDB6bUNDOUF3WWlvaWloMVZOTE56azNaYzhnblkySWREbmNDdF9MWDRiRkdBa2VqWDNOQkJNenc?oc=5",
+        "published": "Mon, 09 Nov 2026 16:45:23 GMT",
+        "source": "Google News — Northern Virginia traffic"
+      },
+      {
+        "title": "Fairfax County Parkway southbound nighttime lane closures in Fairfax Station July 8 & 9 - Virginia Department of Transportation (.gov)",
+        "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOcnRUYTA5MUxOSzdIdDljQWhwdnBMTnluSlprQ1kyTVZnQXc3RmFZUGFLT0txZVZ0SllVajVBM1NWWEJYR3NGWlN6bm1rNGhlVzNFUnl6bzdiVEoxNDdZcUU2aHl4dDEzTlFHNmZJTzlpS3hja0pBMUlmSHBfLXgtZ3hzNkVpN2NoakR1WC12MURUME5TZmticHdyLXRaNDE2Q2dQcnotb3BGd01wWVlEc0tIMWJxSzdQYXdYbG9fbDJqb1NsUmQ1eWVGVnkwYVhEOUpHNEI5amdxVDNLcnhlYnpqWlFPUHMzSkx4RDI5Q1RFdw?oc=5",
+        "published": "Thu, 05 Nov 2026 08:00:00 GMT",
+        "source": "Google News — Northern Virginia traffic"
+      },
+      {
+        "title": "Fairfax County Parkway northbound traffic shift in Fairfax Station Sept. 3 - Virginia Department of Transportation (.gov)",
+        "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOcjgtNVlpY3JxSU5YTjhEX0JWSGxFWEVlaHRPUjRDV1g5VldwUGR5X09EVHlQUFdWdUhPYWNPbjBrSnNiaFpTc0tORWFpWU1QVDFmT3R5bmFlMHdrckV4Q2ZEZGlfV3FXb25BSmlHeUt6WGZGbGZsaTJhZTFKbWhtSTVWbExJQTI0OHFjaFRDbUYyMnJjM0E4WVRMYWdSVXhETFRzcGJwWGxRa3BqVmE4QXZpYnp5b0t4c29oTm5zQmkxZGh4RU9IcTctd3pqV2VrQTAzSGtiUlA1SXBxUUhGVQ?oc=5",
+        "published": "Mon, 31 Aug 2026 07:00:00 GMT",
+        "source": "Google News — Northern Virginia traffic"
+      },
+      {
+        "title": "Fairfax County Parkway southbound traffic shift in Fairfax Station July 22 - Virginia Department of Transportation (.gov)",
+        "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPbFFZTE80eXdvWXR3dWtyR1pNNUs3RHFvV1A2LU0xVTRyNXEycXktbks0TlVaNHJYdWppR0xMMnJMQWxSaG5ZdXBJd0VxUFpWS0lHR3hId0VWRGZYRGFVNWE2aXpZQmRnamNXQlRSbkdVc3NIZk9wM1FOQWtTVzl3cDQyYTVCM1EtSl90Q0lEOUQ4WVNIQjRFWlloT195dkpZTVg4SWFVS3N4VEFpZXFQUlo3RWFTWjR3cmkyUUY3aTlpdk9rOUctdldYNU9MM1lHa0FfR3k2a056MExmaVBjbEdn?oc=5",
+        "published": "Mon, 20 Jul 2026 07:00:00 GMT",
+        "source": "Google News — Northern Virginia traffic"
+      },
+      {
+        "title": "Old Dominion Drive late morning traffic stoppage in Arlington June 2 - Virginia Department of Transportation (.gov)",
+        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPTHhGNExHYjNsZVE1ZGFLTEZRNEV0UTFfUURDN1BYYUkybzBtTTRqdi1pZWVNckwtaElWQ1ZVWUJNRFF3Y1lobVdpcWJodkMxV3Y2M2ZnTDBIRU1UaEt5SVBjUkJtcUh6Wjc2UllZb0xDbC1lMjZSaU1GZWVkZ1p4anV0WlZpZnBEUmxST0ZkNmNPR3VFeEF4WjVvaVpEdXJsTmFrUnAtY2Zrbk9SaHcydkpiMk5yelJ3OVRPNl9LUE9wSzBka0ZzeVdURWE2X3FleFBrSGxTSC11QQ?oc=5",
+        "published": "Thu, 28 May 2026 07:00:00 GMT",
+        "source": "Google News — Northern Virginia traffic"
+      },
+      {
+        "title": "Fairfax County Parkway and Popes Head Road interchange partial opening June 2 - Virginia Department of Transportation (.gov)",
+        "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPNmpaeDJuckRIeHlhNUx1eGtGbURpRnFKWXFpN001QnRjNEZQeDFDNk9TbGM0OWx2R2hNaGk3X2FJTjlWbkUzejFpUTdtVGNHZzJJN2U3UDZ3Y2JKTGp2eUZZUm9xOFRMWGNyejNvbzA5cG53dnlRdG5sY3RSQXNzM2xESElTTTJvNXdvMVpDYVBkYzlZTG9oVkpBalpBSGpLMTNybXBCQkhKekdIeTJmT3NUTzhOdGRqckNFeDg3MmVYMmxGZ2ptMTZ0WURRQkp1aUlrLTJxc0tISWR5bGR3Z1VWc2dYdw?oc=5",
+        "published": "Fri, 29 May 2026 07:00:00 GMT",
+        "source": "Google News — Northern Virginia traffic"
+      },
+      {
+        "title": "Fairfax County Parkway and Route 123 traffic shifts week of March 23 - Virginia Department of Transportation (.gov)",
+        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPLWktdG10amtBZmNUaURJeEYtZkFDa1o5cjdYdlNwUmhfcTl6LW5JWktQbVJodEtiWGZNNDBmTVNiSHFNSXV1OXl3bVJTV3VWNTNfOV9DTmFMVjFwcHlWejk4c3p0NWlZV2EtZlVGRm1OcWg3TzhlWmdtUVBvNkl5dU9xSm9UbzJKUVhSYzhtTS1mcUlyWk1IZGFhblVyc2dySzRpU210SnZpNWNyaUs2b01UOE8wRThDdFYzZHB6VXNTNzE2a2pyay1tbzJYa0hyMGZfb29jWGV5dw?oc=5",
+        "published": "Fri, 20 Mar 2026 07:00:00 GMT",
+        "source": "Google News — Northern Virginia traffic"
+      },
+      {
+        "title": "Third lane open on Route 123 northbound from Chapel Road to Fairfax County Parkway - Virginia Department of Transportation (.gov)",
+        "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOM3VRcHpLaU53bEJpckNIa0NkX0xBUXF1MVRRZE1yNTFvLU5leXB4THpsR29qcWpNVjBnaTVsQ0xidTA1OFhsRndtOWxmdEVRWkhwbDFybF93NFRSeVFRdXF5VmxBSHYxMjlDb3Zlc0RIQm92SFlaTERNMnRUdlhMNC1ydFV6Uk1yM3RReXo5ZDFybGllak9Eek41RXpFOHFjZExFRHdyZkkwa2ZJTm5pYzhRTzhweGZkTUZwclBQaEI5RFgyWU5lYVNYS3AwSjhZRk5RT1pkTkF3T0JiNG9sRnBlaHNvNW1tQU10aQ?oc=5",
+        "published": "Fri, 28 Aug 2026 07:00:00 GMT",
+        "source": "Google News — Northern Virginia traffic"
+      },
+      {
+        "title": "Reminder: Georgetown Pike Bridge \"stay away\" traffic shift happening this weekend, Aug. 23-26 - Virginia Department of Transportation (.gov)",
+        "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPdWUzWGxMUlRreFlibjZISXAwVlBXeDZEbWJNTzQwNE5mRFdFVEpMVXhmNzIzZG9BOVVGa3BBemlMT0Vsa3JWVXE2YVJCVktZeGJfQXpDWUdMSjBMd2VPdzMtcXI0V0RJUzR1REdWNk9lbGlOOGd2aU1lNHVIV2VMUFVTbDVaaVUzc1Z4bzFQOG9NQ1dDSVJ5UDBUYm40ckw3alVSWkUySzU1RGppVUh4UEx4UzIwRW1vMS1XOTVINWd6ckRUSFFRRU01c053WjNJYjk1LWxJbGNfR0ZpMTRCOGtBcDc5U3BDRTQ4bWtkX0d2Y3Rx?oc=5",
+        "published": "Sun, 07 Jun 2026 22:49:34 GMT",
+        "source": "Google News — Northern Virginia traffic"
+      },
+      {
+        "title": "Third left-turn lane open on Fairfax County Parkway southbound ramp to Route 123 southbound - Virginia Department of Transportation (.gov)",
+        "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNUm5meHhkOC1VOWJSaUxkQnRqV2VRRmxUWDhJNzdOeVlVeU85eFVfaUgzOHVqYnJtaXFpUUkwSXpIVFZFUkV4aVlxQk9LTi1UdzBmQlRCSlVhbVJOZmQtYXNFcmpJcmlBYXFTZFp1Zk1UeUlIdTJORUlqcThfVWplYUxoMXQ4NWtfM1NNcmhNbk95TENfOXRwQWJmSDNodjRHMlE0LTdYbUk0SEpRSnFabmtXdms4R2RFaXZsb1A2dURrbTRYYTdNT3pKdUlBMlBWalVYSWtNMVItQUpjcW1lS0VDbHE2WS1ncWhaVG5WM0JOZlZldDYzbQ?oc=5",
+        "published": "Thu, 02 Jul 2026 07:00:00 GMT",
+        "source": "Google News — Northern Virginia traffic"
+      },
+      {
+        "title": "Popes Head Road multi-day closure at Fairfax County Parkway begins May 27 - Virginia Department of Transportation (.gov)",
+        "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOMGFlRXE1bU1KU3owS2hwM0VkOUttM09mV05FUll2a0ljOTh0c21hR1lzWTY5RWRRZXNMc0VmSTFIcVlyZVdSMF90ekJSS3VqalMtR1JoYkk5MU52SmRTYVZOTnk2RHAwNTlUWV8yc2QyWGxCSnRGdS1yd0J5LWNEcVQ1RGZXalBiSVZ2bnhtYi1mdTVPMGRWRnBkUWVPSktRdzJFSW0yaTFjbGxqbUpmRDNDMzdJWEpCaDN5ZDZaWWxzZEdRaWIxRmRoalFldFREWnlnT1hiemRDR01USWRNaQ?oc=5",
+        "published": "Tue, 26 May 2026 07:00:00 GMT",
+        "source": "Google News — Northern Virginia traffic"
+      },
+      {
+        "title": "Reston Parkway northbound two-week traffic shift over Dulles Toll Road begins Jan. 5 - Virginia Department of Transportation (.gov)",
+        "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNdXJtVGNZTkVBRGFpc3VOX2hlb2ZkTVpsb0RrQU1fQmpwR2hvTUFpUU41eHVNeFphMkhNdHRnVzItWTFJVDkwU3hfb2dXeGVreHRibWtTV2VxcXZldVo5MXhCeGVHbFVYSGk5MW5QODloZVJTamQwMk5CZ3d1emYwaDZVblRiRnNNTzh1cmRldFhHWFRFZnRESERaTWhRa3N4c0tGMy1pcldpeHFaXzYwUVdxTER0MXlRLXh4T0VoMmljcjBNTTJ5Y1BEM0h0eHNYU0VEcGdOdmc1WXdyRkxFaWFFc3piaUEzcnhJdDB3?oc=5",
+        "published": "Fri, 02 Jan 2026 08:00:00 GMT",
+        "source": "Google News — Northern Virginia traffic"
+      },
+      {
+        "title": "I-395 southbound Boundary Channel Drive eastbound ramp closures in Arlington begin morning of Dec. 1 - Virginia Department of Transportation (.gov)",
+        "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOeC02Uk1DT2IwaFhSSlM0WU44OFlfX2daRzdZVGdJWEdpYkQwRWQ3R0lXMU1jdzVQZ2VudXkteV83Tmh3RGEzWURlanFacVJueDQ2S0tyazlOR2poZDA2TThjc3kxd0FpRXFHaG9YdHg5U0MtcWc1d09CNnI2WnZ6Z2ZGSk1tVGdhRXlHUnlkNUtza2gyOXRaSG9BLUVhWjhVaXAzT082MFEzaEpoVlY3WHNaNElybG9VYnB2RmFabnNwLTFpSkdPM0RRdjBibkFJRmh5elhJcGprbWVsRVFxcFJFdkNGV0RHcngxbko1MXY1eXlDeDI1QmROY0RVYzRfaDFF?oc=5",
+        "published": "Fri, 23 Jan 2026 03:05:56 GMT",
+        "source": "Google News — Northern Virginia traffic"
+      },
+      {
+        "title": "Taft Drive month-long closure in West Springfield begins May 11 - Virginia Department of Transportation (.gov)",
+        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxObVBzbk5ZckNza0wxUmRpU3RvZUxSZ2YtQ3hMZTV2NlUtY0k5dWdiMFE0OUtZa3R4a19FbmF0cWlweGpfcmxpSUIzV2pmdUdUX3AxZEVyenZ4ZEJfeUVEMFgzNUJLRl9wdWFlSTAxblduZjJPbFRvNEphUF83MDd1QmFPN25ONDVLRVlDZXpyMl9lOVc1YXp5b2ZoaU9SYUpoNGFVTDdSY0JaZ1NQLTcycGJzSUE0R096QXNfa0lDbWFRV21DdUJnNERId0RHUEZiMkQ4?oc=5",
+        "published": "Fri, 23 Oct 2026 07:00:00 GMT",
+        "source": "Google News — Northern Virginia traffic"
+      },
+      {
+        "title": "Popes Head Road 24-hour flagging in Fairfax Aug. 19-20 - Virginia Department of Transportation (.gov)",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOcFh5N2RwbzlhTmlKZjVzZC1iT2FsTHByNlh1RGN3U19pc05Eekl5aGFOamtaekJCbGVxdnJmVTZLeHAycUNXblRMbnR6X0tfeVZvNnNoVjFsOGlqcmNOVHlCVmhrUExRUDlTWWhheUlrYkpIdm5Ta1hCVjNmVnBQS2YyUTFsQWc0TmphUV9NM3FzRkJnbVBzdC03VW9ubVpZOS1aa1h3LWNrZHNxd3FlVWxFZ1pCaDctcU1udVljOUF3bHJwUnc?oc=5",
+        "published": "Mon, 17 Aug 2026 07:00:00 GMT",
+        "source": "Google News — Northern Virginia traffic"
+      },
+      {
+        "title": "DMV weekend weather: Frost advisory issued across Northern Virginia ahead of sunny 60s - FOX 5 DC",
+        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB3Ujl6alhoMlBKU2ZaOTdrNWxkRnJSMlJWQjgwcmR4Zk1nVTFLYjVLbzlRM2pINEU4SFNtU0xubEx1QU0tMTJFQTNwMUFGT0lVenJzTzdOMktpVzFtVXfSAWNBVV95cUxOVUd3U2xSSEtjeUcyMHhsaEMtSmlhVU8yWUxMR1d3c0FsTi16TTJYTEdUQWpGSERjV2JNVjdWSm9ubDdQWXpRd3UyeXUycUZORTRFSjJpeUc3N0FfLXprYjJWbGc?oc=5",
+        "published": "Sun, 08 Nov 2026 01:39:49 GMT",
+        "source": "Google News — Northern Virginia weather"
+      },
+      {
+        "title": "UPDATED: Winter storm warning issued for Loudoun; winter weather advisory for the rest of Northern Virginia - InsideNoVa",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNSlNReGhRYlgwOXAxQV9HdVdiSlRId2ROQmNrUzBZUWF4XzlLN0FGYlRYZUNUamFhbVdFMGxoVlB2VXZXa0ZzWHNjWW1YcXhUMlRwMWlsaWZnYklFbzk3VkhYQ2NUZHdnVlZkdlBQWV9zYXRoeDJqNTA2ZFBkbnVSak90MThJWHhVMkxzOGp5cnY2VmNEMWZ3TUhZbEdhQW5LMWh6dlQwR05ra0wwTzZOMDE5N0h2VXVidXQ4d3lRTmFOT3c?oc=5",
+        "published": "Sat, 21 Feb 2026 08:00:00 GMT",
+        "source": "Google News — Northern Virginia weather"
+      },
+      {
+        "title": "Storm Team4 Forecast: Severe storms bring tornado watch, warnings to DC area - NBC4 Washington",
+        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQMGNfdHVTY0Z5WGhkZ0U2djZZZnBieGFmMXBkYXFkT3lXS0xOemtDWVg3NHU5WHRqaHc1YmZrek80YUlzSG1GRmdISjhWanlzRFFhWElFTDY1ZHFlZ3JVczdQLWhfLTBncndWYnBzX3FHamwxV25kRWxfa2llS0NVT1Rva3VjMW9WWHpQSzF5TmhLNVZxa0J2NDB2cDRJTVlzc3pmeFpjTmFfOFRnZDZoa2JrLXJNZFlINUZjcWg1OFVOYmgxQnNmcmdIRnUwRy0tbVhGdThCYXBaZ0JYQ3fSAeYBQVVfeXFMT3g5enVBVVJwamZ6VEhwWWVwbjhCOVBpLXFOdGxkdlJnLV9zdVY1Zy1iSHdXMExuTEFzcmhza2lqRTJjZlNaOXJXd3AyVmE4MEpMc1hZN2RGMGwySUVQOXk5LUc4azBMQTZtcGoxNmVmOGZhaUJkeEdCc0QyOEhZeGRBemg5b0ZSYzVkY2hkT2xLb09LYTFYR3dqcGU5RnlHSFhhc0s5THpjS0NOX2xaWHhwNjZMbWktTWo2anZSS3IxSUs0cHFnRWhZVTdXZ1RIaVlwT2FBQ3NoTVBZdVpEWXZiUXZFV1E?oc=5",
+        "published": "Thu, 20 Aug 2026 07:00:00 GMT",
+        "source": "Google News — Northern Virginia weather"
+      },
+      {
+        "title": "Tornado Warning Ends, Severe Storm Threat Continues Across NoVA - Patch",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOY3ZNN0UzMlpGQXVqaG83cTVPejdzU0JuSERjX2RQUmxNaEFfZnhrckcteWROZzRwaUVjQ0FWLVoxejlxa2p1d19RMW9tWkZPTXBaVUUwR3lWbmRHOEZtNnYwQ0ZvQWRVTEFZT0x3MDdDS0tCVnlrNlBuMkpuQ090NjZwcWhtWVV6VUd0Q0Q3dUxyZkFMV1VxbWdxeTJLUFRNZU9R?oc=5",
+        "published": "Tue, 28 Jul 2026 07:00:00 GMT",
+        "source": "Google News — Northern Virginia weather"
+      },
+      {
+        "title": "CLEARED -- Weather Authority Alert Day issued through Sunday, Feb. 1 - WSLS",
+        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxObFJjUlE3ckd6TVRsUmFCOWVFcmVoMGhqMzNZcWhVN3c0ZENvX0dKLWl4T0NzTGdpaGNBNE93d0QwV1JaaXV5aXR5QmZTMlRqU2o3aktyeVVUajJkNEJJWVlqSHg2UU1ZNGZJOFZfdkwxUnNsSjkySlFrSExZTm5oN3V5NFBiRTBJX2hOem53elNtYzJudVpRY1FLWFJSV0wxejA4cExuVVZDNVFHU2lIRF9wSTlMYVZTSG5OLXhhenppQXF0Rkktcm5yQmhPQ1hyWGlF?oc=5",
+        "published": "Sun, 25 Jan 2026 08:00:00 GMT",
+        "source": "Google News — Northern Virginia weather"
+      },
+      {
+        "title": "Winter weather advisory in effect tonight; snow and freezing rain expected - FauquierNow",
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNTmE1QU9vT0MwRU5XV04tdkEtM2lRWDdXSDM1V01SMEIwdFNHdnV2Y2ZMU0l5Z2cyOWcwMV9pR2dZNFNjMXNjdUxBMHhtcXdwTlB4VTJ0LW1LcVdZR3A0emZEX1VzQ1ViZEtaZ2t0anZOcjFxRU5SVFF0M01jNHhuVVRjdzF3TzlNUHhiSVU3RQ?oc=5",
+        "published": "Mon, 02 Mar 2026 08:00:00 GMT",
+        "source": "Google News — Northern Virginia weather"
+      },
+      {
+        "title": "UPDATED: Tornado Watch replaced by Flood Warning for Fairfax County - FFXnow",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZlNQM1JEbHFyMktqV3FvUnRGRVE1STNVWHNOcm45RWxySG1CMzZKbDZtZDkxUmozNjFGZHRnXzJWb3hWWEtDdEIwLTVDU1Z1VXZHbUR5a0NjS3VGYTIyLW9BcjB1aFFNSWRucHNTakgyYVFiWC1CTnJNTEthcU00ZlBreHVQdjVmcTByNjEyeFVUakR2YWNFRVM4bk5FdExB?oc=5",
+        "published": "Mon, 16 Mar 2026 07:00:00 GMT",
+        "source": "Google News — Northern Virginia weather"
+      },
+      {
+        "title": "Culpeper District | Winter weather advisory in effect for Piedmont region - Virginia Department of Transportation (.gov)",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOME9pUzhlWkx6QkxpQ1d4el9YOEJadllWLXltQl9DcVZzb3dOajI3d1cyZGRsd0s4TWoyQmgyQXlSNHhmN1ZXMEZkQTZ4ZU04Q1lJQndtdzI2Z1lmZnZnTFJmd3VfZ3VGeWFUZGRTYU5GTkU1OTRDTEdlanI4cnJzdDZvcldDZ2JKQ0s3a2pIcXRnSXRtb3F3NzNWalFldGVyWnpIMHA3TmhrbTNRbzRZc25PYWlGYmtVR1E?oc=5",
+        "published": "Thu, 04 Dec 2025 08:00:00 GMT",
+        "source": "Google News — Northern Virginia weather"
+      },
+      {
+        "title": "More snow stretches as far south as North Carolina, Virginia after Winter Storm Warning issued in Mid-Atlantic - FOX Weather",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQY0xIcDBxcUNDMGUyaThpVkhQRDl2Q2xqbUxodVB5XzdRUEo5V2x4Z1BQT1BFdlQyTFZyZ3NzNFJ6Z2hsaWlWT01YTXJSbmxNektlbnR6SjM5Nk5HeGc1RnlvVlFLVGlNQXZCMU5HbTIwYzR6aDhaX09aRGpaVjg5ZkE3MmZ5b2dCaWJqWkh5QnY4MmI10gGaAUFVX3lxTFBGTkFyYThxc09mYmFOZzRmM09aNXpuY2V0SFpvVHVwNnY5SlJ2Nk9iRU1QUDhuX1A0U2dHTzAtX055RkJ5ek1JVG95endObk83YTBSaVh5UlBUVzhzWG41VTJkWVktYThJS29ac05lMXdqemdjWnlWSmlLVjdILXJicVRScThqQUpjY1RVRVBJSy0zTUhtQnE4dXc?oc=5",
+        "published": "Tue, 09 Dec 2025 08:00:00 GMT",
+        "source": "Google News — Northern Virginia weather"
+      },
+      {
+        "title": "TORNADO WARNING ISSUED for parts of Northern Virginia - FOX 5 DC",
+        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1PMTNFR1YtbVNUb29Kajd1YmVnWjV6Z3NnUXNHbVFQV04xdGNLVXpOVl9DcVdBRUp6NmNWd3NnNjhLa2hYVWJOeDNWRVItRGRobDRGU0g1dVRkc0Y0b3fSAWNBVV95cUxPUTF4dkxuYXhfMDg4UU55aGlVeV8xRFpNTGpBVXNtZllWbDNvcGNVX25GajY4V0hhcjB0RkJZVXJBalRkM05xeHp3czBXSzE2eVZVcHQ5VkkwU252VUlQSDN6b1E?oc=5",
+        "published": "Mon, 16 Mar 2026 07:00:00 GMT",
+        "source": "Google News — Northern Virginia weather"
+      },
+      {
+        "title": "UPDATED: Winter weather advisory expanded for all of Norther... - InsideNoVa",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQOFJqMTZYWXY1UnJCTzRqekFCTGFFRzlDbm93QUJaR2lYaUQ5V2ZYYWhESWFNV2hhdFJTMkUxV0JCRW4tcUdESkM4LUlTWEp3NDlNX1EweGtxM0hyS2tzM2lIOGRmQzllRmM3Ukt3N05VR0hkZ2VUai1GeGk0MTF2VXptd3F6NGdvdDQxNEdvMG8tZnBvRHNFVFZDWi16UVhZWVhGOUtfa19vdDUxM2g5aTVDYnI?oc=5",
+        "published": "Thu, 04 Dec 2025 08:00:00 GMT",
+        "source": "Google News — Northern Virginia weather"
+      },
+      {
+        "title": "Winter storm warning: Brace for 6-10 inches of snow, ice, possible power outages in DC area - NBC4 Washington",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQN2lHUFZBWnZsUjFDYkJKVWh2VFhZVVhPUEhvaWlWMGd5NjlJLW5QalJXWjZnTFlWUTZqeHBEcXlfNW5IbkxidndjbFBnaVJPNEZhdmRfOVZlRjFSRmJlN1ZIaEFralBwcGFfTnUwU2xWd1JCcDZoVFFvMTExMzVsUy1OM3hQWGE5VzZXdEhnaGNVeEZnSU5SbS1WUVBQUktwdEFRQUdCTW43am1JZnNRd3VvRUfSAbwBQVVfeXFMT3F2dnlUc2QtUjZYYlltd29uOEowbGVlcTVFb2dNdnFZUWJBQU54RHg3RjdxZTVzeDdGelFic3lRNEZYU0FKQTlGUWZMajhVMExVdU81QloyemFlN0lsWExhX2NieGtQLWxQN3UtdUtRblU4U3M1ZWx0ZzR5WWhMSE5Xb2lQeHdZd1pwUFdtdE00dDJHanExeTl0U2tvVjBuYlV1Nk94QXRtVllabzhOeFlUb3NNQUQzei1DV1Y?oc=5",
+        "published": "Fri, 23 Jan 2026 08:00:00 GMT",
+        "source": "Google News — Northern Virginia weather"
+      },
+      {
+        "title": "NWS WFO Winter Weather Forecasts - National Weather Service (.gov)",
+        "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE4zWHZRVUZlNFpHOXo1T3J5N1ktQW4wakRJenNLcl9kdmtrcUF5Wk43RHJlUmQxVlZyd2VpRXZqTElqT1B6SnVQMUdB?oc=5",
+        "published": "Wed, 29 Jan 2025 00:41:39 GMT",
+        "source": "Google News — Northern Virginia weather"
+      },
+      {
+        "title": "DC weather: Heat Advisory dropped for much of DMV after rain Wednesday - FOX 5 DC",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQVUhvV01NQWFqcWI3WFp3SDFWVktjdVYxaXJvYjVjX2lLNXRaa0ROTTNzM2FfMkstQmNrb1F0Vy1LRzhWbUp2dlBpOTZhUnlRUno3MGoweGRzeEEzWnc3WW9NdVpYVjZBcDYzVWp6R3JxTjlUNzhzejFlQ3QzQUtOWHVFMU9WQVktZVdYR2hnVW9jN1FBZUFhdnVvSkM?oc=5",
+        "published": "Wed, 02 Sep 2026 07:00:00 GMT",
+        "source": "Google News — Northern Virginia weather"
+      },
+      {
+        "title": "Guide to Tornado Preparedness in Fairfax County | News Center - Fairfax County (.gov)",
+        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPT3ZZWEVUaUZpOTlTZWphelZlTWRaUDdld2VuLVFGUmFtQnBRTnZjR2h0UUR5NlJnLWdqUHo4a1FiQ2wtTE5RV21TNHdqeVVMVEZCdTBlZGRPbEs5OVNQaGFwR0c0NkJxcEFtV08xdTJYLW9NSUVnVU9Td0VhazZtbVRB?oc=5",
+        "published": "Fri, 01 Apr 2022 07:00:00 GMT",
+        "source": "Google News — Northern Virginia weather"
+      }
+    ]
+  },
+  "feed_status": [
+    {
+      "source": "Reuters — Headlines (Google News)",
+      "url": "https://news.google.com/rss/search?q=site%3Areuters.com+when%3A2d&hl=en-US&gl=US&ceid=US:en",
+      "status": "ok",
+      "count": 15,
+      "checked_at_utc": "2026-11-13T01:44:02.356080+00:00"
+    },
+    {
+      "source": "Reuters — World (Google News)",
+      "url": "https://news.google.com/rss/search?q=site%3Areuters.com%2Fworld+when%3A2d&hl=en-US&gl=US&ceid=US:en",
+      "status": "ok",
+      "count": 15,
+      "checked_at_utc": "2026-11-13T01:44:03.014658+00:00"
+    },
+    {
+      "source": "Reuters — Business (Google News)",
+      "url": "https://news.google.com/rss/search?q=site%3Areuters.com%2Fbusiness+when%3A2d&hl=en-US&gl=US&ceid=US:en",
+      "status": "ok",
+      "count": 15,
+      "checked_at_utc": "2026-11-13T01:44:03.474421+00:00"
+    },
+    {
+      "source": "BBC — World",
+      "url": "http://feeds.bbci.co.uk/news/world/rss.xml",
+      "status": "ok",
+      "count": 15,
+      "checked_at_utc": "2026-11-13T01:44:03.883873+00:00"
+    },
+    {
+      "source": "BBC — Tech",
+      "url": "http://feeds.bbci.co.uk/news/technology/rss.xml",
+      "status": "ok",
+      "count": 15,
+      "checked_at_utc": "2026-11-13T01:44:04.083421+00:00"
+    },
+    {
+      "source": "BBC — Business",
+      "url": "http://feeds.bbci.co.uk/news/business/rss.xml",
+      "status": "ok",
+      "count": 15,
+      "checked_at_utc": "2026-11-13T01:44:04.251786+00:00"
+    },
+    {
+      "source": "BBC — Science",
+      "url": "http://feeds.bbci.co.uk/news/science_and_environment/rss.xml",
+      "status": "ok",
+      "count": 15,
+      "checked_at_utc": "2026-11-13T01:44:04.411892+00:00"
+    },
+    {
+      "source": "AP — Headlines (Google News)",
+      "url": "https://news.google.com/rss/search?q=site%3Aapnews.com+when%3A2d&hl=en-US&gl=US&ceid=US:en",
+      "status": "ok",
+      "count": 15,
+      "checked_at_utc": "2026-11-13T01:44:04.590213+00:00"
+    },
+    {
+      "source": "AP — Politics (Google News)",
+      "url": "https://news.google.com/rss/search?q=site%3Aapnews.com+politics+when%3A2d&hl=en-US&gl=US&ceid=US:en",
+      "status": "ok",
+      "count": 15,
+      "checked_at_utc": "2026-11-13T01:44:05.199627+00:00"
+    },
+    {
+      "source": "AP — Business (Google News)",
+      "url": "https://news.google.com/rss/search?q=site%3Aapnews.com+business+economy+when%3A2d&hl=en-US&gl=US&ceid=US:en",
+      "status": "ok",
+      "count": 15,
+      "checked_at_utc": "2026-11-13T01:44:05.667271+00:00"
+    },
+    {
+      "source": "NPR — Top Stories",
+      "url": "https://feeds.npr.org/1001/rss.xml",
+      "status": "ok",
+      "count": 10,
+      "checked_at_utc": "2026-11-13T01:44:06.392806+00:00"
+    },
+    {
+      "source": "NPR — Politics",
+      "url": "https://feeds.npr.org/1019/rss.xml",
+      "status": "ok",
+      "count": 10,
+      "checked_at_utc": "2026-11-13T01:44:06.566799+00:00"
+    },
+    {
+      "source": "NPR — Business",
+      "url": "https://feeds.npr.org/1007/rss.xml",
+      "status": "ok",
+      "count": 10,
+      "checked_at_utc": "2026-11-13T01:44:06.643891+00:00"
+    },
+    {
+      "source": "NPR — Science",
+      "url": "https://feeds.npr.org/1008/rss.xml",
+      "status": "ok",
+      "count": 10,
+      "checked_at_utc": "2026-11-13T01:44:06.743928+00:00"
+    },
+    {
+      "source": "NPR — Technology",
+      "url": "https://feeds.npr.org/1013/rss.xml",
+      "status": "ok",
+      "count": 10,
+      "checked_at_utc": "2026-11-13T01:44:06.906151+00:00"
+    },
+    {
+      "source": "ScienceNews",
+      "url": "https://www.sciencenews.org/feed",
+      "status": "ok",
+      "count": 15,
+      "checked_at_utc": "2026-11-13T01:44:07.030655+00:00"
+    },
+    {
+      "source": "ScienceDaily — Top",
+      "url": "https://www.sciencedaily.com/rss/top/science.xml",
+      "status": "ok",
+      "count": 15,
+      "checked_at_utc": "2026-11-13T01:44:07.108954+00:00"
+    },
+    {
+      "source": "Nature — Technology",
+      "url": "https://www.nature.com/subjects/technology.rss",
+      "status": "ok",
+      "count": 15,
+      "checked_at_utc": "2026-11-13T01:44:07.261097+00:00"
+    },
+    {
+      "source": "Google News — Northern Virginia",
+      "url": "https://news.google.com/rss/search?q=Northern+Virginia&hl=en-US&gl=US&ceid=US:en",
+      "status": "ok",
+      "count": 15,
+      "checked_at_utc": "2026-11-13T01:44:07.356260+00:00"
+    },
+    {
+      "source": "Google News — Northern Virginia traffic",
+      "url": "https://news.google.com/rss/search?q=Northern+Virginia+traffic+OR+transit&hl=en-US&gl=US&ceid=US:en",
+      "status": "ok",
+      "count": 15,
+      "checked_at_utc": "2026-11-13T01:44:07.850531+00:00"
+    },
+    {
+      "source": "Google News — Northern Virginia weather",
+      "url": "https://news.google.com/rss/search?q=Northern+Virginia+weather+warning+OR+advisory&hl=en-US&gl=US&ceid=US:en",
+      "status": "ok",
+      "count": 15,
+      "checked_at_utc": "2026-11-13T01:44:08.259003+00:00"
+    },
+    {
+      "source": "Wikipedia — On This Day",
+      "status": "ok",
+      "count": 10
+    },
+    {
+      "source": "Wikipedia — Random",
+      "status": "ok",
+      "count": 1
+    },
+    {
+      "source": "NASA — APOD",
+      "status": "ok",
+      "count": 1
+    }
+  ],
+  "runs": [
+    "2026-11-13T01:44:08Z"
+  ]
+}
