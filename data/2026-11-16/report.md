@@ -1,21 +1,21 @@
 # Daily Knowledge Garden — 2026-11-16
 
 ## 🧭 Daily Summary
-Global coverage includes Black Friday and tax return scams  - don't fall for these; Thousands of US flights still cancelled or delayed two days after grounding of planes nationwide; Steering problem on tanker caused collision in New Orleans, NTSB says - Reuters. Local coverage includes Eddie O’Brien Obituary (2026) - Strasburg, VA - Northern Virginia Daily - Legacy | Obituary; Mary G. Porter Traditional in Woodbridge named top school in Northern Virginia - Prince William Times.
+Global coverage includes Trump backs return of ex-Nvidia boss after 'Bring Jensen Back' campaign launched; U.S. tightens controls on remote access to AI technology amid Nvidia fallout; Robert Pattinson is named the seventh James Bond, taking over from Daniel Craig - AP News. Local coverage includes Parents charged after hundreds of teens pack Virginia house party with alcohol, fireworks - KSHB 41 Kansas City; Prince William economic development announces winners of ann... - InsideNoVa.
 
 ## 🌍 Global News (cross-source)
-- [Black Friday and tax return scams  - don't fall for these](https://www.bbc.co.uk/news/articles/cm4gnlz2p61ko?at_medium=RSS&at_campaign=rss) — BBC — Business
-- [Thousands of US flights still cancelled or delayed two days after grounding of planes nationwide](https://www.bbc.co.uk/news/articles/cw1mdlv0k2r4o?at_medium=RSS&at_campaign=rss) — BBC — World
-- [Steering problem on tanker caused collision in New Orleans, NTSB says - Reuters](https://news.google.com/rss/articles/CBMitgFBVV95cUxPbXBEMnhoWXdETmQ4d2JPM3Q2OUw0MDByaUV2di1Nc3ZVcmJHaGJ6bnNLN1lsc3gzeG5hSGlEYnBKaHJOajU2SzlrRXp4UUZtdU5Dc0I1TlNmYlFxWThaUFZvRk11UVJSY2YyakpJSFFGNWlVbmZrMDNXTXkyLXM2MWlydzN1YWwydGc5dmM3WVZjeFVVZDlIVGR2aGFEMzZrUkE3QnRXU1hibDlpU2RWQkkwTkRyZw?oc=5) — Reuters — World (Google News)
-- [England end Spain's long unbeaten run, Italy crash out of Nations League - Reuters](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOd3ZhSGtta2ltYVFfbXVVSC00alNLM3hwX0JOR09kbkZiQW5mQy10clVEX2lXYUhacnUtTjRPbUtYbC1SZTM4bThUNkp3WVg5RXl2VURGYlREMm5BNU14NjNic2RrNEg3bldja1liYmx5SXI0dnBsaHRidldoYmczQ3hjWnptRzFKMmlpd2w5S2RuSGJfeUZxUDlPdmZxMjJNQVc3TE1iS3hJblFCN2ZqRmJxdzFfYzBK?oc=5) — Reuters — Headlines (Google News)
-- [Far from home. Voyager 1 is now farther than anything man has sent into space](https://www.npr.org/2026/11/15/nx-s1-6041716/a-long-long-ways-from-home-voyager-1-is-now-farther-than-anything-man-has-sent-into-space) — NPR — Top Stories
+- [Trump backs return of ex-Nvidia boss after 'Bring Jensen Back' campaign launched](https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss) — BBC — World
+- [U.S. tightens controls on remote access to AI technology amid Nvidia fallout](https://www.npr.org/2026/11/16/nx-s1-6042883/nvidia-jensen-huang-commerce-department) — NPR — Top Stories
+- [Robert Pattinson is named the seventh James Bond, taking over from Daniel Craig - AP News](https://news.google.com/rss/articles/CBMif0FVX3lxTFA3WVdwdnRSYW5oWmtlN1hsVXVZUV91UVR3bi02WEdFYXV0cHAyckFqNGhhRjVmWjZaWlNQYW5VM185akwyZjgzQmFhZzZWVlFoY3FUcXNmbmNObmNOQWlxUGVmc19kNXJmZmlqcW84V280ajE1d0RZWVFPczlKVXM?oc=5) — AP — Headlines (Google News)
+- [US to curb China's access to AI chips as Trump heads to Asia - Reuters](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPOFRscFU2Tnd4dkpNWURqN2NDcEg1eHBNUW9VTTd5YkRBNlA2eVJkV0xsWHpqNExCek4xTUY0VlU5TjJYM1ZJaWE3YkVNZndhUE5CamYyZlh3WGhRUHhUVzhDRW1IUkVTXzBBQ1hXMTkzM0tiNF9DZGpZcUlTb0xQOFBsVEM1VDhnV0taSlpYYTNsQUpyMnlKQzNSenU3alBia0ZJR1QyQ2hSX3g5bG1yX3d3dTBublY1?oc=5) — Reuters — Headlines (Google News)
+- [Le Pen says France will keep giving Ukraine aid if she is elected - Reuters](https://news.google.com/rss/articles/CBMirAFBVV95cUxNbnY1dHJyUUt2WXptNzV2UFR5WXNVVWF5alZUcVdJLTFIOVcyLUcwNUpVQy0ySzA4cWd1QnBmYzJkaUw5SENRRGpzR3BlQ3B1VFJtU1JvdmdoSmotYTMyVmlwUmhsenIwY21SeXVsTF9yRUoxdV9jVmx6UTk2SDgwYTNNa2IycS1ZV0tveTJReUI2VEhVZUhxMVlaOXVvRi1MZzc2dWhFUnhPanZx?oc=5) — Reuters — Headlines (Google News)
 
 ## 🏙️ Local News
-- [Eddie O’Brien Obituary (2026) - Strasburg, VA - Northern Virginia Daily - Legacy | Obituary](https://news.google.com/rss/articles/CBMijAFBVV95cUxPVFlxX0Q2VjNONGJsU0FVS1htUzJ2VFNDdDQxQ0tkYXE4dDUzMGpmN0dKZ1lZb3VGTXNHZFZ5OTh5THZxRUs5eW94Z29CV1E5Z2JxYzgwbFhVX1R1UXFnZ0s2ZHEzMnNpU2hmdU9CcUR0SG12X1ViYkdiRHlUZnlRak5MckRmYWY3X2hGVA?oc=5) — Google News — Northern Virginia
-- [Mary G. Porter Traditional in Woodbridge named top school in Northern Virginia - Prince William Times](https://news.google.com/rss/articles/CBMiggJBVV95cUxOUk96eWRGdW1nTUMyN0I1M0NwaE9yeTFTMU8xa1V3X19rUW9la0NiZXVSYms3LVVQbTBERlZBXzN5QkNDSlBqalJkbHhRZFFBbzNSeDlTSGx6alhLaVUybi1lZDVaYjF1RGpYMkd3OWJfczZvbGFuaEFpMjducW1DNWlUWHNTZnJDMFExbm9zYktNWU1MbVZ6T1FMcjdYOHNNVFBodHJYYVFuVWFOTHo0UDlnd1ltcm5KTUQ2YXZzMUljcUZUdkp3M2E3VU9pQzl1X3dENnRGSjJBV0lLUE84aGFLV0tGckhtZjBPSkphNjFOUnN1X1hmMXNNRTVNakZBVFE?oc=5) — Google News — Northern Virginia
-- [Northern Virginia community honoring star who passed too soon - WUSA9](https://news.google.com/rss/articles/CBMi3AFBVV95cUxOdTJPd21BNGxMZFhGVkZmU3Y4dlFzQzBRZXdyZGJfX0dIM2xDZTg5UkllVk5nS2IxV1JtclBBcFRLRGNYQnBCMUJJalhuT1Z1X1ZHX1FBdlMtQTl2RU9MM1NQMDNVbkFsVGJhSkd6dzM1TXZtazd0ZEw2eTFhMk14ZnljYl9NM2p0d3NubUZXMjYwNXFTc2JqWUY1aExJYUVOd056MDBORlJtWi03OHhmQWEwSzBRUHFhVXhPMXFQUGFxZlVlOTdUN0pMNHhEYURueWJ2VDA4U3hHVDU5?oc=5) — Google News — Northern Virginia
-- [Northern Virginia Christmas Market Canceled: Which 10 Fill In? - deeparrival.com](https://news.google.com/rss/articles/CBMihAFBVV95cUxPUmxfQ3ZoMmdxYXpScHBUQnNqNW1QVFVVd25uajFzcVNFcVkxd09hYXpfakpyNVdoRjZvN01Yc1p4dTlCY1hEZlI3ZTVmcl9UWUtXcWNwOWZ1R0xjSmdsSGJzVzNWUU9IUExfb3V6Z2pYNmc5Y3dDUmw0WENJUXA1b3AyMnY?oc=5) — Google News — Northern Virginia
-- [Man accused in multiple attempted abductions, assaults in Northern Virginia arrested again - WUSA9](https://news.google.com/rss/articles/CBMi7gFBVV95cUxNOUlES1NScGt2dERFXzUtZkxZUzY5NVA3OU8tZDk3Y2ZOeHh0cXA5Z0hJOTZLZkE1ektCVW1JbUZqN0pydGxDNlVIbzRGUmJDcXNRNDdrdE1vR3FTczBTc1JyN2k4QktjYkZYb0ZraG13d3d1UEVGTnY0QnNlVHVmck1jSE1VRXh4N2RncVpWd2NzMjRWdWhVazUwdnBNbkI3eXRzTEFmclVLdDc5b1RHS0RrS2VVT091aXJZc1pRbEhyUGh1Q2UwMkpuNUkwQnlGWGNPbW1LaEp1YkxRQ1owVFhmT2NNUFJ1UWlUSHdn?oc=5) — Google News — Northern Virginia
+- [Parents charged after hundreds of teens pack Virginia house party with alcohol, fireworks - KSHB 41 Kansas City](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPNHBKOUgxUFFNNXZtZnJnVGdxbnY1SFJrbDAwam16cVdpUXdGb3NqNXJvcUg5OHhuUUFwOUVQSFN1SThsSi0wZnFDbmxJa3ZYZUtqY3FQWW5NdktTekktcUFuNFJNTWRjUnVWZzdBZ0xZem1VZG5vQV93MGw3dkJsNFRkekNSUjhnalIwVWd3aEJqcTQwUEhfQnRDT09oS01Xem11VjZDMlo3ZExucXl4VEZQYkFXOHFhOGFB?oc=5) — Google News — Northern Virginia
+- [Prince William economic development announces winners of ann... - InsideNoVa](https://news.google.com/rss/articles/CBMixAFBVV95cUxOTDhRQVBBenVBdldFUkE0LXBYTVBlazRCY25kMWdSMUE0aXVBTHRVT1NwWW5BaGVpQjRFNGxWVXpqaXJRU1hVdzNsMG9icU5JQTBDNERkbWRJeWktZmU0VE1WYnlpNXVxSTR5andHQVFHYk0tVWJsaUM4YmVXR0N5eGpuQmNfVXE0NHgwOFBFa1BUZWs5OVl1QTJtVEVFTFRVOGQ3emVSOTFmT0ZQR0tldjUtSFViWVc3Z2h2UG5DR3l0dUIy?oc=5) — Google News — Northern Virginia
+- [Where to see holiday lights in Virginia in 2026 - The Virginia Independent](https://news.google.com/rss/articles/CBMimAFBVV95cUxQUXdDWWlzQ2ZvVHA3X21zTWZMX2llWExMeGxxTXdwNEZubUoxcWZaNFNhbXlVYjdWNGs4ODM3eGtzOTR2QXJjYmVyT1NWWTVzREVGclBhNTRWUTd6RS1vb0ZyRUZMT2NPc2FJMFlNclMyQzRXWTdxLXNJS3Q3WkRjdGtmWWtHaTlzdlV5X0Y0Z0NjOW1iVjVkTQ?oc=5) — Google News — Northern Virginia
+- [Northern Virginia Housing Market Adjusts as Inventory Growth Continues - PR Newswire](https://news.google.com/rss/articles/CBMixAFBVV95cUxPd3loTWJ2U1V5N1ZxSXAteE9CLUxQS2lqcXgzdkc2NC10b2E0OFNMRXBUb1FsbEtyOWY1MmlrZFlqc0xWaEFpTVRURkJMcGM3V3o2OW4yaXRhMVM1VmRQbjJ3OTAzS3psbklzeThvaWo2WmpwNjh0WkRINndJZ2dhTTF5SnJlb20yc1FGZ0JEVHc4c0oxeWtVZzBabjk1clVZaU9DaTFmMWRrZWJRcDcyc1FPcDdJcFY4V0hwNFo4R3JfeE12?oc=5) — Google News — Northern Virginia
+- [Jewish Women Attend Annual Great Big Challah Bake - Washington Jewish Week](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNWkdnT0h6SW1CSE82MmZ6emdVa0ZuU0NvR2NnWTluSjRhUTM2QjZCSlotcXFoS3JRNWVwTUdOeGdIelBZTEZDU0M3ckQ4azI3anNHRHdOQVRyblIxTlNDWl9VQ2pCaWNnM04xMnpGOGhrbnZLeDJtT3pFUjFaYW5GZnI0RC1SWWRRV3Nj?oc=5) — Google News — Northern Virginia
 
 ## 🚀 Hacker News (Top 5)
 - [All AI-generated code should be Open Source](https://jakub.jankiewicz.org/blog/ai-code-open-source/) — 1069 points, 579 comments
@@ -34,12 +34,12 @@ Global coverage includes Black Friday and tax return scams  - don't fall for the
 - **2002** — The first cases of the 2002–2004 SARS outbreak are traced to Foshan, Guangdong Province, China.
 
 ## 🎲 Wikipedia — Random Article
-**Sakaguchi Kiichiro**  
-Sakaguchi Kiichiro (阪口喜一郎, Kiichiro Sakaguchi; January 1902 – December 1933) was a Japanese anti-war activist and a sailor in the Imperial Japanese Navy. During his service, he was active in anti-war activity.
-https://en.wikipedia.org/wiki/Sakaguchi_Kiichiro
+**Ibou Touray**  
+Born in England, he plays for the Gambia national team. During his final season, he served as the team captain.
+https://en.wikipedia.org/wiki/Ibou_Touray
 
 ## 🌌 NASA APOD
-[Leonid Meteors Through Orion](https://science.nasa.gov/image-article/apod-2026-november-15-leonid-meteors-through-orion/)
+[NGC 7129: Star Formation with Jets from Webb](https://science.nasa.gov/image-article/apod-2026-november-16-ngc-7129-star-formation-with-jets-from-webb/)
 
 ## Feed Health
 - **Reuters — Headlines (Google News)**: ok (15 articles)
@@ -67,4 +67,4 @@ https://en.wikipedia.org/wiki/Sakaguchi_Kiichiro
 - **Wikipedia — Random**: ok (1 articles)
 - **NASA — APOD**: ok (1 articles)
 
-<sub>Runs so far today: 1</sub>
+<sub>Runs so far today: 2</sub>
