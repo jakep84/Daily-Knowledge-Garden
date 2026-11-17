@@ -1,17 +1,21 @@
 # Daily Knowledge Garden — 2026-11-17
 
 ## 🧭 Daily Summary
-Global coverage includes Trump’s Asia trip: Deals in Manila and Shenzhen, nuclear summit with Xi and Putin, maybe Kim meeting - AP News; Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex CEO; 2026 U.S. House Election Results - AP News.
+Global coverage includes William and Kate celebrate Earthshot Prize winners in Mumbai; Trump’s pick for Navy secretary acknowledges the Iran war is straining military resources - AP News; Huang would 'be honored' to return as Nvidia CEO after affair scandal forced him out - Reuters. Local coverage includes Now serving NoVA: Roda, your neighbor’s fave mechanic - ALXnow; Two Northern Virginians Take to the Mic on DC News Now - Northern Virginia Magazine.
 
 ## 🌍 Global News (cross-source)
-- [Trump’s Asia trip: Deals in Manila and Shenzhen, nuclear summit with Xi and Putin, maybe Kim meeting - AP News](https://news.google.com/rss/articles/CBMikAFBVV95cUxOcGw5a2lMb1B2bEtyYWotSkJYcWhXNHN2R3lwQlNuSUxfSHB5VzJ4Y25wNjZvcnVMLWhlN01rNnM3LXo2OHVScndJZm5VRWhjVFNrNnJZZDRhdEpoSThDelpzbDJlMTB0QXZ2al9FLWFkS3JTU1FfaFpBVkp1X2lrMU93bU5FbzlIQl9qbzFQLXE?oc=5) — AP — Headlines (Google News)
-- [Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex CEO](https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss) — BBC — World
-- [2026 U.S. House Election Results - AP News](https://news.google.com/rss/articles/CBMibEFVX3lxTFBUM0VmeFZ2SjF1RGJlVENLazFvbHZxWjRIYUlNMFlKal9sRW1ySS1UQWo4djh3cWpLcXJLWWFuWXBmdkllMTd2aVRhWF9YZFM5ZGRmN3pxZW5nWERXMjREbTVDeGF2RXRfM3ZTUw?oc=5) — AP — Politics (Google News)
-- [Trump to kick off Asia trip with Quad talks in Manila ahead of China visit - Reuters](https://news.google.com/rss/articles/CBMiswFBVV95cUxNY0l1bEVvMnNwMHJqM01iVWVDR2JJQmRvaU51TmJQdGRLVnVKUENDTWlLTW5wVEdSVG5uTFEtYktLMUlDWjU4ZXJ3U0ROcjZtMEZNVlZCZFBiMTNGTldnMVBEX09UMkhLS0pQSlVqMmlXMTllMGdxZ3BsU2xrM1lvU0JDWHdSYzh3QjJhRVFUc3N2YW5xLUpXOGNWdG10cTM5R3BYNWtjLTNFN01oaGo2UzVvRQ?oc=5) — Reuters — World (Google News)
-- [Asia shares slide on tech weakness ahead of Nvidia earnings - Reuters](https://news.google.com/rss/articles/CBMigwFBVV95cUxQbHY5U3ZMUmhWeEViMkJTbW9ObHlQYWRWbmdxWDhXMUdaWFRvLVdRY01oaTJJb3lmOFBiaWpQMEFlTFk5R2ttRnBaT18zaF9Jbk9od2Rza0cyMXJ6Z3JlalJDdG9neTVhQ3pJRG05SE9NQUYxZkFvQmQ5bnVfTi13amFNOA?oc=5) — Reuters — World (Google News)
+- [William and Kate celebrate Earthshot Prize winners in Mumbai](https://www.bbc.co.uk/news/articles/cqlykve012d1o?at_medium=RSS&at_campaign=rss) — BBC — Science
+- [Trump’s pick for Navy secretary acknowledges the Iran war is straining military resources - AP News](https://news.google.com/rss/articles/CBMipAFBVV95cUxNbllfOXUwUTRNV0hzUWFSeFRyLWZUSHQzaldSWWlxMVRyOXh1c3BCNm1Pa0Y2X0FJTWYzWXRUZ2xHX0ljTndqYmlTWFBFZ2ZpMmdXMWFPWDNXSDB0WFdrRGczUnJyT3BOVUwyeU9hSzhtUVVTNDdhLUlOaWVmcUJLWVpUc1IyUmg5VFNFTWk3TDRyZnVmbVVFbUN6LWc4cXQzUmZjVQ?oc=5) — AP — Politics (Google News)
+- [Huang would 'be honored' to return as Nvidia CEO after affair scandal forced him out - Reuters](https://news.google.com/rss/articles/CBMitwFBVV95cUxQTTFHVE42V3FIZzBXbWhKLVR3bWRrZ3dRWGpCRm45dlktYkpveDBveW1IRFc1aDltUERHLURBUFdSUW5KMVVaZ2w2NGRuQVhmZmtyb2ZpUGZuZncyVXR3cFYxX2FUcmFyQVRBSHVnbWFsVFFTQ1lPS0lTdmZUMDktbTBUbndQdzhxc2JnWVctSF96QXdVb2JUeUpqYURha25FMEZhU3VqbWFTZDA0Q3lqanRUaGdMQ2M?oc=5) — Reuters — Business (Google News)
+- [Jensen Huang pushes Nvidia comeback after board rejects pressure to reinstate ex-boss](https://www.bbc.co.uk/news/articles/cwx2en2vrxmdo?at_medium=RSS&at_campaign=rss) — BBC — World
+- [Huang says he'd be "honored" to return to Nvidia as he agrees to testify to Congress](https://www.npr.org/2026/11/17/nx-s1-6044213/jensen-huang-nvidia-congress) — NPR — Top Stories
 
 ## 🏙️ Local News
-_No data_
+- [Now serving NoVA: Roda, your neighbor’s fave mechanic - ALXnow](https://news.google.com/rss/articles/CBMilAFBVV95cUxPc290N01lSG8wams3UTdhdFlrbEVldnFScFk1MjJERk1HVG9rNFRZRUlCZzd6S2o2Z29rb3pNc082eG1CSUNrbUtMQzJMbFBOWXNMRnE1RC1sdUpwZllCN3hfN2prUW4yUVZjUUFPZ0MteFQ0dXJzcUJ1MTdHNEk0ZEpxT29fNExERWI5bjdGVjFrcnBH?oc=5) — Google News — Northern Virginia
+- [Two Northern Virginians Take to the Mic on DC News Now - Northern Virginia Magazine](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQU1ubXlsQXc2eDlEd0dpUnhGZmRxNldEVXVrYzBQTGFFM2JSRzBXME9JaDlaNVhOX0czakNvR21sN19HV2NWbDNGMC10SW4yTXg0ODJvSGN1dXRWejUybVBSamVRazA2U2I5RnJ1TzYwcGpWY1N4aW1OaVYwM2xORlpJck1CSGIyVG4zV2U1SGtaTzU1UVhiOUptV3NuSDJsQU9EeTEtNlM1UQ?oc=5) — Google News — Northern Virginia
+- [Virginia Shoots for the Stars: Spanberger Wants a Space Academy in Hampton - The Zebra](https://news.google.com/rss/articles/CBMihgFBVV95cUxOMVVtS0gtNktYdUhPcUtONUp3QWs0OHdLNkFycWpoMVFKNFp5eVhUVGN4WEJWSnpIaXVLbnBnZjdaX2pobUNab0JIUWtGcFhwQ0lfcy1COXRQYUpqdnZiVVpNR25TS3FpT1lCVGYwZHJweUl1aU54dGgwR19mVW5uZHYxMHQ4Zw?oc=5) — Google News — Northern Virginia
+- [Data center concerns aren’t really about physical infrastructure, U.Va. study says - WTOP News](https://news.google.com/rss/articles/CBMisAFBVV95cUxNYUI1TTBBWlJsQy1UeVV1TVZiM1QzN182eGQ4VXdsZ1dydms0RDRkZE13U21tYjlpa3o5RzJfaTZDbHRLMUh0NEFSbUtSeFFnM2hGRm9MZzZrMEJXY0pfUm5BVm0yU3lmVWFKdVVkV2dOMEtoeWVDQ19CVWxGSEtQTE8xQ3V2Z2VJbTIyYTl5ZThWanJzY0NOTXFGVVRxNWk3bE9FejFQeGJJenJQU1hNTg?oc=5) — Google News — Northern Virginia
+- [NBC4 Winter Outlook Calls for 14-42 Inches of Snow Across DC, Maryland, and Northern Virginia - The MoCo Show -](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOQ2NxblAwVU04WW9OejlmR3E2cWJjN0w4Q1QzVS1BeUtONzhOMFFmNDZfSm1od1JGUGhORF92VjNJN29zbXczS210OUJjejBxV3Y5eXd6ZnB5aGQwanJQQ01VLVczSmJGRGxUUFh6YjNCWVR1WmFJR2xSSVFiR3JGMm5xeS1KdGpaZXZQUFRkN1Fpd0FyVFZXSUQ0N2xtQ2NDM2l6aGw5NC0tTDd5UFJqbXRzcUhZZWtseENxUWRGU2ctZw?oc=5) — Google News — Northern Virginia
 
 ## 🚀 Hacker News (Top 5)
 - [Carnegie Mellon is putting computer science courses on YouTube for free](https://www.cs.cmu.edu/learn/) — 873 points, 141 comments
@@ -30,23 +34,17 @@ _No data_
 - **2012** — At least 50 schoolchildren are killed in an accident at a railway crossing near Manfalut, Egypt.
 
 ## 🎲 Wikipedia — Random Article
-**Live in Seattle**  
-Live in Seattle may refer to:
-
-Live in Seattle (John Coltrane album), a 1965 album by jazz musician John Coltrane
-Live in Seattle (Shawn McDonald album), the first live album by singer/songwriter Shawn McDonald
-Live in Seattle (Jay Farrar album), a live recording by Jay Farrar, along with Eric Heywood and Mark Spencer
-Live in Seattle (Kind of Like Spitting album), a Kind of Like Spitting album
-Live in Seattle (Zony Mash album), a live recording by Wayne Horvitz' band Zony Mash
-https://en.wikipedia.org/wiki/Live_in_Seattle
+**Jim Clendenen**  
+Jim Clendenen was deemed "The Godfather"  of Santa Barbara County wine. He was key in raising international recognition of Santa Barbara County as a world class wine region, as well as being instrumental in raising the quality of Burgundian varietals on California's Central Coast.
+https://en.wikipedia.org/wiki/Jim_Clendenen
 
 ## 🌌 NASA APOD
-[NGC 7129: Star Formation with Jets from Webb](https://science.nasa.gov/image-article/apod-2026-november-16-ngc-7129-star-formation-with-jets-from-webb/)
+[Milky Way versus Aurora](https://science.nasa.gov/image-article/apod-2026-november-17-milky-way-versus-aurora/)
 
 ## Feed Health
-- **Reuters — Headlines (Google News)**: error (0 articles) — HTTPError: 429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=site%3Areuters.com+when%3A2d&hl=en-US&gl=US&ceid=US:en
+- **Reuters — Headlines (Google News)**: ok (15 articles)
 - **Reuters — World (Google News)**: ok (15 articles)
-- **Reuters — Business (Google News)**: error (0 articles) — HTTPError: 429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=site%3Areuters.com%2Fbusiness+when%3A2d&hl=en-US&gl=US&ceid=US:en
+- **Reuters — Business (Google News)**: ok (15 articles)
 - **BBC — World**: ok (15 articles)
 - **BBC — Tech**: ok (15 articles)
 - **BBC — Business**: ok (15 articles)
@@ -62,11 +60,11 @@ https://en.wikipedia.org/wiki/Live_in_Seattle
 - **ScienceNews**: ok (15 articles)
 - **ScienceDaily — Top**: ok (15 articles)
 - **Nature — Technology**: ok (15 articles)
-- **Google News — Northern Virginia**: error (0 articles) — HTTPError: 429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=Northern+Virginia&hl=en-US&gl=US&ceid=US:en
-- **Google News — Northern Virginia traffic**: error (0 articles) — HTTPError: 429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=Northern+Virginia+traffic+OR+transit&hl=en-US&gl=US&ceid=US:en
+- **Google News — Northern Virginia**: ok (15 articles)
+- **Google News — Northern Virginia traffic**: ok (15 articles)
 - **Google News — Northern Virginia weather**: ok (15 articles)
 - **Wikipedia — On This Day**: ok (10 articles)
 - **Wikipedia — Random**: ok (1 articles)
 - **NASA — APOD**: ok (1 articles)
 
-<sub>Runs so far today: 1</sub>
+<sub>Runs so far today: 2</sub>
