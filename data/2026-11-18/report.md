@@ -1,21 +1,21 @@
 # Daily Knowledge Garden — 2026-11-18
 
 ## 🧭 Daily Summary
-Global coverage includes Jeff Bezos says he was 'heavily involved' in casting Robert Pattinson as new 007; Rubio says ‘zero’ information that US outages are linked or caused by a malign actor - AP News; Nvidia says it won't reinstate Huang as firm reports bumper results. Local coverage includes Lawsuit accuses ICE of making arrests in Virginia without nearly enough information - WTOP News; Anna Health: Northern Virginia’s connected home for women’s and family health - TysonsToday.
+Global coverage includes William and Kate reflect on 'enduring' UK-India ties with Modi; Hakeem Jeffries could become the first Black House speaker after Democratic nomination - AP News; Grand Theft Auto 6 is a masterpiece, say critics. Local coverage includes Learn about agency programs and projects at Northern Virginia Joint Transportation Meeting Dec. 2 - Virginia Department of Transportation (.gov); LEO Impact Capital Leads Collaborative Acquisition of Northern Virginia Apartment Community to Protect Long-Term Affordability - citybiz.
 
 ## 🌍 Global News (cross-source)
-- [Jeff Bezos says he was 'heavily involved' in casting Robert Pattinson as new 007](https://www.bbc.co.uk/news/articles/cm5y1eejk292o?at_medium=RSS&at_campaign=rss) — BBC — Business
-- [Rubio says ‘zero’ information that US outages are linked or caused by a malign actor - AP News](https://news.google.com/rss/articles/CBMiowFBVV95cUxNZERXamVIakVURTQ3MTZ2YXBkdHVucVVtQ0JjcS1YZ29hSkxJX3p4Zll4YmMtUHZRblJXU3dHR1B0RUNrQVcwMW1UMFUwRlp3X2YwcXNKU256Y1pyd1hJcThZNmdVS2ljOXRCWGhjVkdQYndWdC1DRUpWbzd6cnBGem9uLUIxc2tSQmNzMjhfb0haLTcxbVdwRnR1ZnNUQVpBU19Z?oc=5) — AP — Politics (Google News)
-- [Nvidia says it won't reinstate Huang as firm reports bumper results](https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&at_campaign=rss) — BBC — World
-- [White House pulls FDA nominee Heidi Overton after wavering support from Senate Republicans - AP News](https://news.google.com/rss/articles/CBMiogFBVV95cUxPcll5dHZkX3V1YXFqb0d6X0ZVUmZDV0htM096X3VQcEFUbVE5SlAtRFFkenNqM1ZhVjlmM3BvTlRRNWR3ZmxRYUttYnNOcUIwdmI5SXFBQlhMcEVVRFlMWEdGazdrVUl5aWhwZ0JWeVoxeHU2bHhORHAyZkxhUEtsSzhyOU9qMWdFa3Yxc3d0UGhieXZzVTQ1Z21OTGctRW9kcEE?oc=5) — AP — Headlines (Google News)
-- [Rare images of isolated Indigenous group in Brazil highlight threats - Reuters](https://news.google.com/rss/articles/CBMiswFBVV95cUxPSl84Wk9YMEZTQ2NTbWVoVFpxRVRSdEtUOEhCUThneHh5NG1sUGIweVMzNGNjaWM3SWVycXhWOVJZRmI4ek5fWXRMNGdfNkJiUGdXXzZtZXRtZzlUU3JlYW03S3pRSEZhcG9XNEJ6dXZ0cmR0RlhEeExpZVFram5adVdYRnNsclZUd1dBcHFQZnVQUnZwWkM1Ulk0cXc3bE5aQkpKOC1uVVpTczI3ekpsdUtFZw?oc=5) — Reuters — Headlines (Google News)
+- [William and Kate reflect on 'enduring' UK-India ties with Modi](https://www.bbc.co.uk/news/articles/cq62ped2ypy4o?at_medium=RSS&at_campaign=rss) — BBC — World
+- [Hakeem Jeffries could become the first Black House speaker after Democratic nomination - AP News](https://news.google.com/rss/articles/CBMirwFBVV95cUxPMkFKcjYyblpFekN4MnNrTUo1Z0ZIVGkyRTJHSENPZ2N6bEE3QmNPVWVnX1VkRG5xbk1IRzBsM1hkaHgwaWo1NkdQSW9PUzZoS1h5TUFteGhGakcxdVUyaml1SDNCXzNkYkhiSkpQVWFkRjh3d3JOeVlkRGt4X01sazQteW42UGIwMjJCZklydHBVbWYwLThsVUEyRnZ3ckZTZkhrcFdfcENjVG9Rc3dJ?oc=5) — AP — Politics (Google News)
+- [Grand Theft Auto 6 is a masterpiece, say critics](https://www.bbc.co.uk/news/articles/cw8r75xm8v4po?at_medium=RSS&at_campaign=rss) — BBC — World
+- [Grand Theft Auto VI draws rave reviews as gamers enter Vice City - Reuters](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNcVVqRHRmV1VIanMwYjl6bHB4R0FTSWZOVFY5RXVYSmtaOVZQMVhXNkoxVjM1NF9ZUUZYa2hneUMxeTBzRC1WTFJQZVJBOTAweVhHOFhfZFJIVmt6cTdHMGxwYnFDUjZaYUZJVGlvV2dOVGFvVWVDY3FaX2VHQWZ4dlhlRGxQdDhETVN5aFA0OG9hOVVHMFBYbHFESkxEY0ZPeUV0a0U3LTFvZFRnWk9oQkhwdTVSbmdGQUZHSk02UzE?oc=5) — Reuters — World (Google News)
+- [Israel launches ground operation in central Gaza, dozens flee - Reuters](https://news.google.com/rss/articles/CBMisgFBVV95cUxPaVdVck4yZnVKU01QQ0Nrd1c2VXRReEloTk1IS0xKWjRkcUdrR3BiTlAyU2dQVm1POVg0MmM5anI0YWlIa0txYms3Sjh6QW9kRjU3bmk0ajlHZ3BZbHM5eHBqazVBbVRvYkt4NENBZ0VuU3NEREFaVGpEOXFyMkdPWEktNE41aUIzY2U3enZDX1dmTTZkQzJPNHh0WktQUV80M2ZTb2o0ZDBYUHR0YmIxRWlB?oc=5) — Reuters — Headlines (Google News)
 
 ## 🏙️ Local News
-- [Lawsuit accuses ICE of making arrests in Virginia without nearly enough information - WTOP News](https://news.google.com/rss/articles/CBMihgFBVV95cUxQVjhWMkZLODVOdnJfNmlzc3RhSG13MFhaUDgyRUtSdm0zYlNMSWlOVDJuX0FQMWNqcGUxWFA1ckstdWhYZEdRVkhxcEsxVFdyRU92Uzc3Z0hoLXhaTTJEN19raTV3eFlTME1jakZER3A2emtNdEF1SXVZN2NqcWI0cTBtTTZvZw?oc=5) — Google News — Northern Virginia
-- [Anna Health: Northern Virginia’s connected home for women’s and family health - TysonsToday](https://news.google.com/rss/articles/CBMipwFBVV95cUxQWFJ5M1BXR3NHYUFGSi1COC1RYjRWbU93Y1RERGl5RTcta1JrbVBrR1NoVlZXaU41NUZtM2Nta245alBzem1QV1B0TEdmUGZyUEMzZHQtM3pvb3F2RFE5dW05RWY3VVc2cDFPa1FZS29RM1BLYU9Yay1vdnp1MTNOVzN5RnFGMFRDTVJ6U0FQb1FNNzhycjRSa3QtS1dZUGFEQkFqM1V2QQ?oc=5) — Google News — Northern Virginia
-- [Winter Snowfall Predictions for D.C., Maryland, and Northern Virginia by the Four Major Networks - The MoCo Show -](https://news.google.com/rss/articles/CBMixAFBVV95cUxQbDdCVU4tZ1BNWDA4SzlCcnNwZThlanpVZExOZDJ3ZENJN1hBU1UzNzc1WDNDUTVRVU1mNkY0SkVtZjRtWlo1UENPWWk2Vnl3V2o3TFZsTG1Sa2puajB3LUlqN0JWT0VhOE9jM3Y3T1JvejdUYlJGSGk3d2RpbUV1U0FaaHE4LVdkd2ZxRTNreWtiQlJJUjNEdUx2M1pCTXVvcjlHQmFtbUJQV3BESENfZ0lyTGFXdnZxaDVwNjdkYnJpT0lf?oc=5) — Google News — Northern Virginia
-- [Northern Virginia apartments shopped at 17% discount - Green Street News](https://news.google.com/rss/articles/CBMikgFBVV95cUxNS2luZzd0ME4zcmJ5SXdIRW5GOTAycHEzeXRvczNES01NenRDSVd6V3FTX0VzaW5SNUNLWjhEaVA1UWFuM2Izdk1NN0M4dE43V0xrSGt3aXZhYTM4TUw3ZDZiWTVtY01lTE45YjRxd281bk53b19ha2NrNTZwZ0R1TTBZOWZzR3FweGFfMjVnSENydw?oc=5) — Google News — Northern Virginia
-- [Blue Owl Acquires Northern Virginia Data Center for $780M - Commercial Observer](https://news.google.com/rss/articles/CBMilAFBVV95cUxPbXhReklTb0xJVk1XQkZOVk5Hc0lscGRFSmk4WHBWVFlWWHNCcXBWc3VVWnk3Z2JMXzdlOWlmcFM3a3lZU0Z6ejFiVXE2Ym1hRURpc1EtUE5TWjBzWTVvT2Q5aXpIMjJnTnRtOUZ0Slo2TERzVFJOdm9vS2cxaHRHX3JuZEU0QWxDbEg5eVFxNUtVZ2lk?oc=5) — Google News — Northern Virginia
+- [Learn about agency programs and projects at Northern Virginia Joint Transportation Meeting Dec. 2 - Virginia Department of Transportation (.gov)](https://news.google.com/rss/articles/CBMihAJBVV95cUxONUJuMjNjMDZiQndsV2Z1c2FIUWZkSUJEQU50SWhnMDJDVnRxS2pyR0ljMEtFVk5sS0xjNzFta1BZUW03a29KTDFhSk1EOVF0akVJZmxRbzYwcmoxM0hEdmR2MXlNcUpSZlRjMzZpVjZkSzRYem54eWlVdlhjMzFLbVhicHh5MjhGVU96VmFUT0JIVFljY0piU2ZLY2NUQUFpdUctZnNUTjJNSGZ4STA2NEVKSW1Qcmp2STlpTHFoVkRlZ2Nhb2dhSm9iQXhGTS1lZTBJZ1ZPU3dSeVRkakNYdml3UkxCam01S0d4Z0JQbnJqSGxUU21jZk9ham83WVQtcEprTw?oc=5) — Google News — Northern Virginia
+- [LEO Impact Capital Leads Collaborative Acquisition of Northern Virginia Apartment Community to Protect Long-Term Affordability - citybiz](https://news.google.com/rss/articles/CBMi-AFBVV95cUxOeWMybGlPam1rVFN6bFR2TE5tcEFBRkhzOThYNnpLUjhsUTRMVkNiem42QjFKbWZublItYWs4Z0V2QmowcFZqUGpXZjVQSkxJVllBaGpLYklqQTVjWnNOVXFtQmZucHRSY1dDSGxYYWp6TnRZOE5zNG10OG9nM01SVWh3ZUJETXVXRHVyOUtfdFRtbzBVRDR1N1lkQUM4ZkVrNk5DajVZQ1U1ZUp2VXBqcjNBMXNkaDdTcWtWazg0U3IwSkxRVXhEcHBsU0tULXVFcUJoSk1zcm15dmZUTXZ5R3hINjRpS1VCa0RFMGFqbDl3ZXRCZU44Yw?oc=5) — Google News — Northern Virginia
+- [11-year-old boy missing from Reston since Tuesday night - NBC4 Washington](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSEJ4WXNhVWV6a2RoM1lMNTFScF9jeFJiNzFYYktfX0FqYmN5bTl0b2Y5RmhtbzdGSGhxN0hBRWZmVmw0S3FFMllNd2RJZkgzQ09IVDA0clhMdUh6X1BpVjZTeXlJV01NLTdYaHJMQUg0Wl9zWUpZUmtWRUpPT0tvTndmYUp4SEI2UWFQdldsell1MklrRUFTaTNnYkNHVFV4RW9vT0J6cHZ1cHBGUkdWdDhBQ0Z0NUcwNmhlVFJvNWnSAcgBQVVfeXFMTjlWZm40UjVNUk1tTGdNM3VNalJFNkhuVXhzN0k1a2FRZTAzVEVxQ3BiczhXVnYyM3lGMi02Mkt2aHBVQnotQ2h1VEZrQmJIRjduT0pTbFJ2bDRwcF9Gb0xUbTdEVzBRNXQxallGeFh5VG5hWnR2YThyMWJieDZIdWdVTUtuVkxEcm93T25RRW5yaXZYelFEVlBNSi1NRS1LaXBtWF8xeEp3LXlwbHQxYkN4RDc5LWlHYzFnZ2poM3l3TzFGdG4yMkE?oc=5) — Google News — Northern Virginia
+- [Falls Church Adds European-Style Market to its Holiday Festivities - Northern Virginia Magazine](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNYm1pWjMtNjhnMEU5TUNsZjhlWWZyUnRCUlRHYTJ3UFNKNXpHd1g0Y0NEYjR2NGJjUWF2WkJ6dUJVbnk5U1puRzkxQmpBWXAyWndrMng1QVVkN29Od2JwMVFBSVRQQ1pqZU8tVjB5YlJPZHJxRjhlanZEQjRFejZiYUxzb3otNWtMZDRyRWY5ZndHMXBXbkt6SVVocjdIQ25YUFJzTmhPU1ZiZHJvNkoyeHpfUmVObkxOTllCalBQOUJsaG8?oc=5) — Google News — Northern Virginia
+- [Porter Traditional named top middle school in Northern Virginia by U.S. News - Potomac Local News](https://news.google.com/rss/articles/CBMipgFBVV95cUxPTWhKaHVHWTg3aHk5QzhNa3dYWk1lM3QwQ0RRd2FyWmtjZzFlNjBKbkNiV2VYZV9kVmxieEhRYnRPMFc5SzQxb29wellxeGpSbThEX0dlaUxSTHpFTGdqTi1fZkt5VnZuM19GZ052Z1FXYUtSaEZSd2JSMFpMLWVvNzN1SjJZZVpMTjhFNm5aY2Fta09femdCczl6dXIyUlJvT1lmSHVB?oc=5) — Google News — Northern Virginia
 
 ## 🚀 Hacker News (Top 5)
 - [GPT‑6.2 Astra and Sol](https://openai.com/index/introducing-gpt-6-2-astra-sol/) — 1107 points, 707 comments
@@ -27,19 +27,19 @@ Global coverage includes Jeff Bezos says he was 'heavily involved' in casting Ro
 ![HN Points Chart](plots/hn_top10_points.png)
 
 ## 🌍 Wikipedia — On This Day (selected)
+- **2026** — Voyager 1 becomes the first manmade object to travel a full light day from Earth.
 - **2020** — The Utah monolith, built sometime in 2016 is discovered by state biologists of the Utah Division of Wildlife Resources.
 - **2013** — NASA launches the MAVEN probe to Mars.
 - **2012** — Pope Tawadros II of Alexandria becomes the 118th Pope of the Coptic Orthodox Church of Alexandria.
 - **2003** — The Massachusetts Supreme Judicial Court rules 4–3 in Goodridge v. Department of Public Health that the state's ban on same-sex marriage is unconstitutional and gives the state legislature 180 days to change the law making Massachusetts the first state in the United States to grant marriage rights to same-sex couples.
-- **2002** — Iraq disarmament crisis: United Nations weapons inspectors led by Hans Blix arrive in Iraq.
 
 ## 🎲 Wikipedia — Random Article
-**Loopy (film)**  
-Loopy is a 2004 film written and directed by Seth Michael Donsky. Loopy screened at the Palm Springs International Festival of Short Films, the Cinequest Film Festival and the Clermont-Ferrand International Short Film Festival.
-https://en.wikipedia.org/wiki/Loopy_(film)
+**Axel Nilsson Ryning**  
+Axel Nilsson Ryning, born 1552, died 8 January 1620, was a Swedish Lord High Admiral, Marshal, Councilor, and Baron to Tuna farm in Österåker parish in the current Österåker municipality in Österskär in Åkersberga, Stockholm county. Son of Nils Eriksson Ryning and Ingeborg Trolle.
+https://en.wikipedia.org/wiki/Axel_Nilsson_Ryning
 
 ## 🌌 NASA APOD
-[Milky Way versus Aurora](https://science.nasa.gov/image-article/apod-2026-november-17-milky-way-versus-aurora/)
+[A Medium-Sized Solar Flare](https://science.nasa.gov/image-article/apod-2026-november-18-an-m-class-solar-flare/)
 
 ## Feed Health
 - **Reuters — Headlines (Google News)**: ok (15 articles)
@@ -67,4 +67,4 @@ https://en.wikipedia.org/wiki/Loopy_(film)
 - **Wikipedia — Random**: ok (1 articles)
 - **NASA — APOD**: ok (1 articles)
 
-<sub>Runs so far today: 1</sub>
+<sub>Runs so far today: 2</sub>
