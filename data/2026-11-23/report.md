@@ -1,21 +1,21 @@
 # Daily Knowledge Garden — 2026-11-23
 
 ## 🧭 Daily Summary
-Global coverage includes Democrats win largest House majority since 1992 after flipping North Carolina seat; Energy bills will soar - here's how you can ease the pain; In their own words: Leaders at UN climate talks discuss why negotiations ended without deal - AP News. Local coverage includes Patricia Albaugh Obituary (2026) - Strasburg, VA - Northern Virginia Daily - Legacy | Obituary; Massanutten Academy needs at least $2.5M to finish school year - Daily News-Record.
+Global coverage includes What strike on Russian ship in Libya says about spread of Ukraine war; Anthropic options post solid debut, trailing SpaceX record - Reuters; Huang returns as Nvidia CEO after Trump intervention in abrupt board reversal - Reuters. Local coverage includes Massanutten Academy trustees vote to keep school open - The Northern Virginia Daily; Thanksgiving Nor'easter To Drench VA As Storms Take Shape - Patch.
 
 ## 🌍 Global News (cross-source)
-- [Democrats win largest House majority since 1992 after flipping North Carolina seat](https://www.bbc.co.uk/news/articles/c6vg29g7dlyno?at_medium=RSS&at_campaign=rss) — BBC — World
-- [Energy bills will soar - here's how you can ease the pain](https://www.bbc.co.uk/news/articles/crm4rygl4m3o?at_medium=RSS&at_campaign=rss) — BBC — Business
-- [In their own words: Leaders at UN climate talks discuss why negotiations ended without deal - AP News](https://news.google.com/rss/articles/CBMirgFBVV95cUxPM0xZUG54R1V0M1N4VHlZd05nbTExbGdkUVNwWVBwRnlabWFHZWhRMldkM2taVFVhM3NIb1JQZnhIVDFEMmw4UzRzWTdyMVotWVNRVllEQjRtSFVRallpY0V5czd3eFplcTVWTldEOXpuclV0NmJVeF94aXQ5OUZQcGxaUVlQOEtaU1Blb1o4b055WmFPWDFsQXp2Tzlpd0VLa0RwWTNxT013S2VfU1E?oc=5) — AP — Headlines (Google News)
-- [Business - AP News](https://news.google.com/rss/articles/CBMiQEFVX3lxTFB0d05vWXR6YjNHTUJRSzlCR1N4VTNGMUdsb3lpUDRYbXpmOE9oWE5vSHhBcHRXZlhKcFN2N1NLWks?oc=5) — AP — Business (Google News)
-- [US futures bounce while Asia markets brace for AI wipeout - Reuters](https://news.google.com/rss/articles/CBMigwFBVV95cUxNR2c4ZVNmcHBzVFctOTBkRUd2d0VHTklseUhCcEtZT2VHbU1WbWprMUk2aDZSQ2tkZHNYVE9EWUgyaEkxeWtyN0M2V2NzR2ZCTHFmMEhvbHFDeExTNUdTeDF3WkxJZ2RSdmZ2cHBxWlFjTXdoa1hXdlZQRWtyTFFKVlJjMA?oc=5) — Reuters — Headlines (Google News)
+- [What strike on Russian ship in Libya says about spread of Ukraine war](https://www.bbc.co.uk/news/articles/cm894p88jzxpo?at_medium=RSS&at_campaign=rss) — BBC — World
+- [Anthropic options post solid debut, trailing SpaceX record - Reuters](https://news.google.com/rss/articles/CBMijwFBVV95cUxQZzZBTkVsVXo2NVo5WmF4NXlRZnpidUVLNE1ZX25XbHFLUm1RamtHODdMRWJYTWJDSVlFRmlfSDI5dGVGVEQ1ZHItNVhoLWFhX0M2eGxVTHdtUExfMUxEc1p2S3ZTVkJuTVd0TUYxXy04UEJnOXFldDE2ZHMzMDEyeXcyMkNpdlpHamVDRmtpVQ?oc=5) — Reuters — Headlines (Google News)
+- [Huang returns as Nvidia CEO after Trump intervention in abrupt board reversal - Reuters](https://news.google.com/rss/articles/CBMiiAFBVV95cUxOd19EYmc4X2wzaW5zXzZ5VXZ1cUFJbS1OYzJsZ2VSTVRnMkQteWdiN3Z0dTBlNmltdll6Vy1RWnpxVUthOF9XX3g0YmVvNWdXODJUMGpSeXdldVdYQWE3N2hCQXU3RExXSDViSWI3S2xHNVZFc0NUVmh5bGRhem5aUzdDa29xb1hH?oc=5) — Reuters — Headlines (Google News)
+- [Trump will target Newsom in speech to a Justice Department transformed by pursuit of his adversaries - AP News](https://news.google.com/rss/articles/CBMioAFBVV95cUxQbWFjLURJa1hNVkMxMm9oTFozQkFlRlFLcnQ1M3VidldBSGV0am5ILURoX2tBRW81OHF2ZHVaOWV0UmprWFJLOVRrVmVqZnYwclA2bXBFRFFhZWFnUGV4aHZOSjFNR2VCbG9wNURZQ3AzY1J4SnR4RE9ISGFMSE1VcGdOZVhPWDB3Unhudi04eFB1Q3EtQ19YTWh4SzdRa2Rp?oc=5) — AP — Politics (Google News)
+- [Trump orders the Army not to detonate bomb-making chemicals in Iowa without court approval - AP News](https://news.google.com/rss/articles/CBMilgFBVV95cUxQYnFzVFZqMjBjY2Y1cll0UUxLU2VQMktTZDQ5QmFpaENUUzBXeHJJRS1nQUtpLUdhYVFVbnUxaGI1d1lWc0lwSUM1MWVNcGY0MlVEY3dDbFRXbGxMX3BvRzMzYnFhcTZFUG1xcTh6bDRlQVNhR1JlVmxxVEJ6S2xCZjZxRDgtcGFZWndwUUJ3RkdGLWFDakE?oc=5) — AP — Headlines (Google News)
 
 ## 🏙️ Local News
-- [Patricia Albaugh Obituary (2026) - Strasburg, VA - Northern Virginia Daily - Legacy | Obituary](https://news.google.com/rss/articles/CBMikAFBVV95cUxNaXNsSlJDdlNFN0QwZXd4Nnd3NERxNWpObVNkWFhoU01Pem5ZR2NfR0VDZDBpV2I2R3I3WmJJU015OVdEbDRpa19yZWhINWROT29nSWEzNV9iZ19hMDBEZURYOWNSX2RWMUxtQ2c0MmZlS3g1SzdrY3ZyN0duMGlQVG5MOU5rbFF6cTlKRHBMWmw?oc=5) — Google News — Northern Virginia
-- [Massanutten Academy needs at least $2.5M to finish school year - Daily News-Record](https://news.google.com/rss/articles/CBMi5wFBVV95cUxNV0dZeE5vY3pEY2dGWnVLUE9yQ0ZiYmJFN0R4QV96NGtwak5UT2tTeHYtcnNORjNjdEw5cUxSSG0yV1ZvRThhZkV3dFBES0FZSHR1MXRHRDlyTldGQjJnaWRaNUwyaXhFaGdwRTF0dzl1dDR0OTYyUzQ0cURtbmhQNldDbGhxamYtbV9YUU9zbGRpX0RfemVLM2lmQzFrZ194NWpFQnRDaFBjcTVqdV9zM1U3ZGZlZGRreDcwUkVmeGxCX2tSNG11WUxjSkJQalUzMWZvbXVGZ3VqNWZZdTRNczFpM3c0RDQ?oc=5) — Google News — Northern Virginia
-- [Loudoun County pauses new data center applications for a yea... - InsideNoVa](https://news.google.com/rss/articles/CBMipAFBVV95cUxQV0VLdjd2Y0c5ck53SHItcmZVWlp4a3ZuZ3dRSXBjdGdEVXcwZlhZUTRlTDlTcXVKYWZ4WDJQdC1uenVqU1ljQzFSNDZDYXpfd2F1Qm52RjBvX2w2YmUyV2t0N2RYaWtzcHFiS3ctMUVheVRkNm14dzNPaGIxejBYSEFKcExHWXBFNi1GYlJHMmZleFBtWnhyWG81NWc0eW10bWpqbg?oc=5) — Google News — Northern Virginia
-- [Housing inventory rises in major Virginia markets - Virginia Business](https://news.google.com/rss/articles/CBMiggFBVV95cUxNUlA5Y3ctYnhUVDFoek5JV3RhTkhFWnkxU21RYktzR0lKSDBuVWxKT0ZyTDZrS0E0MDBiY0h4cV9kQ1NMM3A2MTljeUtPSGNmTmxfNk5DZGI0TXh5RXZBVGQwSWlKeWpqLUR0MnpfOVlKbGx4dUdFZzBqUWZOSF96dU9R?oc=5) — Google News — Northern Virginia
-- [Remains of missing Rockville man possibly found in Northern Virginia - FOX 5 DC](https://news.google.com/rss/articles/CBMilAFBVV95cUxOeHktSTFjeWRMVl9iZXZiMGplZ1ZtMU81anBPb2huRmQwOG1XM2trMm1mU1c5OHF5M1lMMVdNLTdGMFFUS3JNTGthczZHX3lyNFkxWC1RdmNtT0w5NHVqd2pBU2lPZXREd1o0cEpObUQta0pkZVNaRENnSWVwQkxCOXVvVDc1MUhCcm5JampQNWMxNHky?oc=5) — Google News — Northern Virginia
+- [Massanutten Academy trustees vote to keep school open - The Northern Virginia Daily](https://news.google.com/rss/articles/CBMi0AFBVV95cUxOeEpObGhKZFpGeHJaZThzck4zVnV2TUpHYWx1UTNwNkRpR1QzZmNPWUNJYUJKTW9ZZElScHlDR3EyRG1MNmpHZkltZ3JXZVNRZVpFV1F1YmxtMF9seldRSUdHb01hYk1NV0YyS0xzN2Q3MHVpVXFXZXhqbDdYeVI2QjFhRDNYcEhRQnE2VnpOVmU2cWIwNDhhZWhnWDh6WjVFekxqekZBTGlqUXNtVERlVnZ6YUU4b0VwVEtQSW12VzFJSTFJWktDVDJwdk45MU5t?oc=5) — Google News — Northern Virginia
+- [Thanksgiving Nor'easter To Drench VA As Storms Take Shape - Patch](https://news.google.com/rss/articles/CBMikAFBVV95cUxPeVN5TXlXbVlMXzV6Vm82Yml4VWJjeTFlMlVvSHlydGtZdGdia0NIY1B3Q1M0NGd3eTR2VFhIUTZzeTVyc0NDQUx5SDhvWXpHQVhtc3NVYm1BelR5VTd3THNhSDN2Q1JiQ3B6TE1wN3FxTFJpUkt2RVh2NGVaNnNCZXFNTGdNaHROYW94ZEdGdmvSAaoBQVVfeXFMTU5pT04xZnd0N0NvbjNoWC1nQ1ppM1VJMjVXaHJHUEFfTnVOUDN6U1ZtSzVmZG51OFVaVXRTbXlabXUweHRpUDdqNWNWcXlwYklQekJTUksxSnRYNWZxU1RJVy1pMmhVSXV6QlFsMGdIRExORnJwc19wRXlmVkVWdXQ5dXpXLVN0SllUQUpiMkdWOHl2TEwzRzk5aGRaZjV1bFYyVjdzVlpQcFE?oc=5) — Google News — Northern Virginia
+- [Three new data centers, part of 'Manassas Tech Park II,' pit... - InsideNoVa](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQN1JsRkRicldVRGNxVm5lZTBNdlVWS1puMGlpSExiU05hV19rdW5IdlNMSHdLVGlnX2l2czdTVV80R3h2Q296N21rUlFBbU9KbHJYT3o3LWx3OU5UblllTEhWOVQ3VTlMX0VpUXlEdTBrOE5QYXI0T0ZVUjZFVWpDMzNNYkxXVGZWWm9RUXViZnBLQng5V0p2TmllMVh3SUVoOXQxUUdoeGhQeHJkejlTT1J4UDJ6dkplSzhHeGZGMGV2V19OTnBkY2lmOGxGWFc2RTlGQkpraGg?oc=5) — Google News — Northern Virginia
+- [Black Friday 2026: Arlington Mall Hours, Where To Shop Nearby - Patch](https://news.google.com/rss/articles/CBMinAFBVV95cUxOT25QQ2xtRlg4MTJMVXZRd0xCOGhEQzhfQkIxbERUQl9fX3RTRWtOR2ZJN3ZDZWRQX3F3Y29wajc1OVRTZmdsUnZxUVA2NEpCZEFQMGliUktJamlBcnpjZjZ4bFlRUjNpMDNzZk1yclpDU2FDM19FYjU2aHJSd2l0OFhvRUNtUEdQVHBabFdGbC1GUGFhT3JyRVY4ZVLSAbIBQVVfeXFMUEZua2lNUG1SX1dzb3dyRk4xVU9sRmE4anN6OEJZYzN4YlktUTJ5VnRueWEzWUxjWmN3RjBzRkJfU0tHUFplUEctMERBS3VSa1hrX0NiaXdCV2kydElQY1FDNzBFbWEyaE1YSDAyS09sUVlLNmdVZTVYektUUDcyU0NDUVY4enpSMXliOXYxM1RhaWpVb0ZpNjJ3eTFSempyMHVISVpoZnBhVEw4ZlYwNjRrdw?oc=5) — Google News — Northern Virginia
+- [12 Sparkling Holiday Light Displays in Northern Virginia and DC - Northern Virginia Magazine](https://news.google.com/rss/articles/CBMixgFBVV95cUxOTTk1NVpRZk1WN2xsSkxnZnZHLVdLS2RKQ3FmWnRqVTNBdXc1QURsWFJDT2VpWjg5b0RDZF9yNERYX0cxYjFUcy1YVGZoSzZjbnJaX283WDY3eXYwVzRickhSRXNER0R5cE9rTzJENWFjRnk0YUx3aDktYTVWQWpjbjBDYWZISU0xUUVzbnRnYzA2SGhpdXRBakstaWFlY3M3ckMtX1VnYVE1VHR0YVMzMEpiRmFJTWN5eWVUQUEyLXdXQ1d3UWc?oc=5) — Google News — Northern Virginia
 
 ## 🚀 Hacker News (Top 5)
 - [Toyota, Nissan, and Honda to standardize parts to lower costs](https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/) — 1189 points, 679 comments
@@ -34,12 +34,12 @@ Global coverage includes Democrats win largest House majority since 1992 after f
 - **2010** — Bombardment of Yeonpyeong: North Korean artillery attack kills two civilians and two marines on Yeonpyeong Island, South Korea.
 
 ## 🎲 Wikipedia — Random Article
-**Cobalt(II) acetate**  
-Cobalt(II) acetate is the cobalt salt of acetic acid. It is commonly found as the tetrahydrate Co(CH3CO2)2·4 H2O, abbreviated Co(OAc)2·4 H2O.
-https://en.wikipedia.org/wiki/Cobalt(II)_acetate
+**Jeff Grayshon**  
+He played at representative level for Great Britain and England, and at club level for Dewsbury, Cronulla-Sutherland Sharks, Bradford Northern, Leeds, Featherstone Rovers and Batley, as a fullback, prop, second-row, or loose forward, and coached at club level for Batley. Grayshon continued playing until he was 45 for Batley before taking over as coach at Batley.
+https://en.wikipedia.org/wiki/Jeff_Grayshon
 
 ## 🌌 NASA APOD
-[Swirls and Colors on Jupiter from Juno](https://science.nasa.gov/image-article/apod-2026-november-22-swirls-and-colors-on-jupiter-from-juno/)
+[The Emergence of Dark Nebula Lynds 1251](https://science.nasa.gov/image-article/apod-2026-november-23-the-emergence-of-dark-nebula-lynds-1251/)
 
 ## Feed Health
 - **Reuters — Headlines (Google News)**: ok (15 articles)
@@ -67,4 +67,4 @@ https://en.wikipedia.org/wiki/Cobalt(II)_acetate
 - **Wikipedia — Random**: ok (1 articles)
 - **NASA — APOD**: ok (1 articles)
 
-<sub>Runs so far today: 1</sub>
+<sub>Runs so far today: 2</sub>
