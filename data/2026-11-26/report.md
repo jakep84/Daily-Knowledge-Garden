@@ -1,21 +1,21 @@
 # Daily Knowledge Garden — 2026-11-26
 
 ## 🧭 Daily Summary
-Global coverage includes 2026 U.S. House Election Results - AP News; US announces new tariffs on host of countries including China; Scientists discover mysterious lakes more than a mile beneath the Red Sea. Local coverage includes Mother and daughter found dead inside Northern Virginia home - NBC4 Washington; Mother, daughter found dead in Northern Virginia home during welfare check - FOX 5 DC.
+Global coverage includes Second court defeat for Trump's deep-sea mining ambitions; US Marlboro maker Altria explores Imperial cash bid, possible carve-up - Reuters; Police use tear gas to disperse fresh Bangladesh garment worker protests - Reuters. Local coverage includes Thanksgiving storm downs trees across DMV, traps driver on GW Parkway - FOX 5 DC; Tornado Warning Today: Severe Storm Threatens Virginia on Thanksgiving, Residents Urged to Seek Shelter - Aktualita.co.
 
 ## 🌍 Global News (cross-source)
-- [2026 U.S. House Election Results - AP News](https://news.google.com/rss/articles/CBMibEFVX3lxTFBUM0VmeFZ2SjF1RGJlVENLazFvbHZxWjRIYUlNMFlKal9sRW1ySS1UQWo4djh3cWpLcXJLWWFuWXBmdkllMTd2aVRhWF9YZFM5ZGRmN3pxZW5nWERXMjREbTVDeGF2RXRfM3ZTUw?oc=5) — AP — Business (Google News)
-- [US announces new tariffs on host of countries including China](https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss) — BBC — World
-- [Scientists discover mysterious lakes more than a mile beneath the Red Sea](https://www.sciencedaily.com/releases/2026/11/261125045259.htm) — ScienceDaily — Top
-- [UK government set to publish new treaties agreed with EU](https://www.bbc.co.uk/news/articles/c98r7p65edvgo?at_medium=RSS&at_campaign=rss) — BBC — Business
-- [Astronomers may have discovered a black hole born before the first stars](https://www.sciencedaily.com/releases/2026/11/261122060346.htm) — ScienceDaily — Top
+- [Second court defeat for Trump's deep-sea mining ambitions](https://www.bbc.co.uk/news/articles/c6y4jyx2m172o?at_medium=RSS&at_campaign=rss) — BBC — Science
+- [US Marlboro maker Altria explores Imperial cash bid, possible carve-up - Reuters](https://news.google.com/rss/articles/CBMiywFBVV95cUxNYjc1S044enVDVHpleXVSM2YwME5kOGM4azBiSF9QNVc1Q2MyYmNRVFNJZ1p1dFVSOXdKTGxqYi1pU1dhdzcycGQ0dm5pN1NaRmZUendRME9GRVFfNHluZ0pUZkpsc0xLX1pNb1ZFdEk0TU8yTjZxbklUbC04ZkNJbWt6V21qUEowclUwME5KY1ZfUlVXaUlPQm9faDZPVzB4clJfZkFLekxaQVNWaldMT0ZwSFl3LVYwblRiaXYzNEt3dzBMck1WUkp1QQ?oc=5) — Reuters — Headlines (Google News)
+- [Police use tear gas to disperse fresh Bangladesh garment worker protests - Reuters](https://news.google.com/rss/articles/CBMixwFBVV95cUxQemRiN3hJQ0RYZkhZSi14QkplRnhIVC1SNHAtS0pYM2dBUlpuMExGTWxVVTFzN3JFX0ZSYXVQeTJEaGNtNl9rRDRDcnFYbExFeFRpWjNmRW9RLXZ6eGppaUZLbFdBVV9VeXBTZ0FqNmhQb21FS0R4a3hxVmFLeXo5a2EwZnZfcC1leFg3aUo3aUIzR0pIZnRSQUc5QjhsbjlKcTJjYnJkRzRtaTJhWW5KTDB4Z2VZRXNTVk85Tjc0NThJMGlCZG9n?oc=5) — Reuters — Business (Google News)
+- [Two Italians killed in strike in Kuwait, as Iran denies responsibility](https://www.bbc.co.uk/news/articles/c39w9y5dx4k5o?at_medium=RSS&at_campaign=rss) — BBC — World
+- [Trump calls the pre-election GDP figures 'fake' and demands an investigation of Commerce Department - AP News](https://news.google.com/rss/articles/CBMijwFBVV95cUxPSWs0NUw0T1MxU0FFajZoSzUzQ2tCblZyZGhDc25mSVpXV0NpczlfWHpwaWdaUEE0T3lFSXdhYl9oUVZ3cTV1ei01aXprNTBoYUJCbG02THdJeGVISENOWjdrVzJpb2pxZEI5aU94VmFCTWU4ckR5MjFjZ2JDMzFibl9WVGZ2Q09PeVo5LXc1WQ?oc=5) — AP — Business (Google News)
 
 ## 🏙️ Local News
-- [Mother and daughter found dead inside Northern Virginia home - NBC4 Washington](https://news.google.com/rss/articles/CBMirwFBVV95cUxQUjFINGE1WmJuR2E3NTNBcWdLcEt1UXl1WFpqRXpSbmVVVWZUSFowUEN6MGNidmI3Umc5emFaMFlhbzMzRUFrY2RTdHBqS0drazBYNXJnbmFFZlRNVHZ4NFQ2ZHFnc2g3RHd3cUpPbFJSVllhMHV3TWJDTjh0ZWpuOFJhaGduSE00aU9VaEJoeXpoX2FWRmtnRlVHQ1JRRWUybDZPUHFqMG8zS29NOGxn0gG3AUFVX3lxTE11WDVLMkswYW5xc1RSUU5JbVJWMVhINDA2M0Z0MFA1Z3lxMm50N01ZQUtYWUVXdTd6eGlBanJud2hWUGptNVA1bG9DbG54eTcxbmNvNDQ4Q3JtMXppbms1OTZobmV1Ui1YOXhEUGM3TnhSRVhDM3NoM3I5Mkp4Tkd6ZS1jS3NDY1NHWHRVaHRoeEcwQkFLN2FnOXNQUk43OFVseHRXelI0X0ptUDhoZVlwcXQ2NzMzWQ?oc=5) — Google News — Northern Virginia
-- [Mother, daughter found dead in Northern Virginia home during welfare check - FOX 5 DC](https://news.google.com/rss/articles/CBMinwFBVV95cUxNVWhCMlRxZFVzRUpjVFBfVjdSVXN6S0J0X19SelZYVGtiX2pKdGk1UkFIZlAyTHdGc3l4Zk5vNDlUeHUzS2hRSThXVVFHWndMQnR2TGZkcng2RTVjUFVqTlNoNEkwVENnSjYtY0hyYVpQXzdRZnZuMklkd2dQeEhjYWkyVXlpZkdFT1l0aFd2NjhjS0gwZkc2Z0JzUGtYVUU?oc=5) — Google News — Northern Virginia
-- [Wind, flood advisories issued for Fairfax ahead of Thanksgiving storm - FFXnow](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQWFVLTJjNG5meEh3MnJFcWxmMXdOUGRzVl9QSFZ0ek1BNGNWTDlfRmhqOWE2dG9NU21JRXdiaFJrY0dsMDQ5eTVaeDRJcjNrUDBESjR1UUozVjRYQWFkbGF0TjJpNV9TSHV4SUFJelJhR2FKZ3B3R0hkb1NxSUFjQW4xckZJblFBWm9BODliVlpENXhNVTA1c0F4bHpERUh3ZVIzck1xb3M?oc=5) — Google News — Northern Virginia
-- [Bethesda-Chevy Chase YMCA cancels Thanksgiving Turkey Chase due to inclement weather - Bethesda Magazine](https://news.google.com/rss/articles/CBMifkFVX3lxTFB2SWpBejFVWll2dVJ2c1VqbkthaDlSM0J0T1pxckRJeGNJc0xQUGlrdzl4SjlRVlplRVVXY1RONDR1RUc3OEFHajQ2QXVlcGMxOGtXOVg0UzF1NThIMDFGWWFaa3F1NTZOQWNmZUZmRUt3dGczTHlrTmtRLXRSZw?oc=5) — Google News — Northern Virginia weather
-- [VRE presents ambitious expansion plans to Manassas City Council - WTOP News](https://news.google.com/rss/articles/CBMimgFBVV95cUxPejVlQVZGcTJtZnh6bzJaUGNfZEVZOVdPMlNOdS1TempmVVBHaE5ZVW4yN3VFbjBVWWFnT0UtZldnZ0IybWpxZ2h0TGpHLWI0aks3UmJDblgwQVlISmo3alF3MFpydlpxWlZfX1Bqcmg2di04dlJ1blRuMUZwMUhoa0dDR0hiX1M0SzNSSFhqSEJqVlFiT3lELXFR?oc=5) — Google News — Northern Virginia
+- [Thanksgiving storm downs trees across DMV, traps driver on GW Parkway - FOX 5 DC](https://news.google.com/rss/articles/CBMinAFBVV95cUxQZE9LN1hyT2NJS0p4NXFEbU5vZTZRSXhRQ2xRdHpNVFFLc3BzakhLbmMyLU43MC00QXE4Y2thTDhBTHVPd3pLMzFDdHVieUhzUXhjSTJyejg3VElmS19qRDBObjhCeTN1d1VsOGlxM2lhSEJGb29EQVZJaWtPVmpRSzYzOGJPTVBjbHFhb2VfVGdZQ3VqMTFXZGx0aTY?oc=5) — Google News — Northern Virginia
+- [Tornado Warning Today: Severe Storm Threatens Virginia on Thanksgiving, Residents Urged to Seek Shelter - Aktualita.co](https://news.google.com/rss/articles/CBMib0FVX3lxTE9zaFdLclg5Q3g4OFZDVFlHeTl0UzlCVnNFdnV2QnRoaVlESUpENlpfMlhjUmdVM09qOG9BTFNmQWVGa2xNSnQ5MHdwaHl5blozOGFDbW12Z2d3R0k2YUJ3cnVhWjFNd2tkaHU1Vk45SQ?oc=5) — Google News — Northern Virginia weather
+- [Two Northern Virginia families are forced out of their homes before Thanksgiving because of fires - WUSA9](https://news.google.com/rss/articles/CBMijgJBVV95cUxQOV9pOWR0TERONzRxeXByb3poTUtRX0VpclRmZzVtbmc0Q3phbm1uNmM5M09RMU5BRTl5MEVlQmJ3WjY0WFBLeTM5M1VpRXpqZjFJMWtsWFFGSzM5Z3dyVHh5T1RCOExsSFV0Vk9pVGZ6RUNmN0NtcFg1TEdWUk9IQ3NSMGZGR0k1a3hjX2laQWp6VGE1Uzk4di1jTUJQTlNVVlQyQ2ZzdWpnMHcwRHJWQVlsWGxicGl4a0JaVGxrNk41NURrZ1prbko4OWxDX1ZQTHIwczdsWnJiRGtLWHozSjNBRGxXeGl3bDN3U2xkbWhQR2NzcDMyYmFSc181YVN4TndHQS03eHhrNVlXX2c?oc=5) — Google News — Northern Virginia
+- [Storm Team4 Forecast: Strong gusts arrive as Thanksgiving Day storm set to bring heavy rain - NBC4 Washington](https://news.google.com/rss/articles/CBMi6AFBVV95cUxNa1E3MmVPNVBTUHpaU0Y3TUhvU2RfUE9NRk5xYXdCYk9KeExMSmYyajJuZkR1azJXQVVmVW93LUNhaG41V3V5NzlvYVpKbmlJeDBlQVM2eXJ2WWdBb09IRTdnbVhaR1R0UnljZnkwZXRWTG0zTG5KbVd2QzBfYWdBbHJvSDl3UU1mc3BDOVdqWnhuZ09ZckFnVU1MNHFqTGJkZy02SlBhdW9HMGY2Y1pfYXZGOFBkMkFkcFRFU1hmSzhsVjAtQlJLcFFPemwyUy1HajlNMmlxN3FKcWc3aUw5ZGtfeGVWdm1T0gHwAUFVX3lxTE54SlVwS3d5OGItQ0g1U09nOHNBUE1FTmNMQVk3LXk4ek5YTFV0dTh2cTRmVk95LXNWU2JjQ1Y5MUFUa3E1YXM0LUpRQTFKMndhdUFJNWUwV1pJZGo4a05IeGZKRUhUS1d2ODlHeVNVZERNcjlUT0VPeFlVUTB0MnVGaVVXNmQ4SHBaWHBHWURRYThUanFRWHRHOGdOTllfd0RBU3lnUWdzUGRVV2N3TzJCMFpnX0dUWG52ZE9neDRMclpQeERiVEx2dXpEWnhNS3l4WFRmckpZMUZ3aWZzZVlLMnExOC1kVk12bTV4SWlNRg?oc=5) — Google News — Northern Virginia
+- [Allen Will Obituary (2026) - Edinburg, VA - Northern Virginia Daily - Legacy obituary](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZzRzM3BaSVIzcEVmdWhweFh5eEdnYlR1MEhsSzBXdDNOd3J1ZFUyVzltcVl3NTBQSFRHZmVNTi0zS1l4R2hhZUY2Ul9ZaXVuZHpla1JjZDJXT19fYjJZZlRMdEFmbkJ3WFRaSW9jamg1MjVsQ3g3QWEzNk03ZmNPaXZsSUpXanlB?oc=5) — Google News — Northern Virginia
 
 ## 🚀 Hacker News (Top 5)
 - [1Password Security Incident](https://1password.com/blog/update-on-nov-2026-security-incident) — 1225 points, 517 comments
@@ -34,12 +34,12 @@ Global coverage includes 2026 U.S. House Election Results - AP News; US announce
 - **2011** — NATO attack in Pakistan: NATO forces in Afghanistan attack a Pakistani check post in a friendly fire incident, killing 24 soldiers and wounding 13 others.
 
 ## 🎲 Wikipedia — Random Article
-**List of UK top-ten albums in 1986**  
-This list shows albums that peaked in the Top 10 of the UK Albums Chart during 1986, as well as albums which peaked in 1985 and 1987 but were in the top 10 in 1986. Overall, twelve different albums peaked at number-one in 1986.
-https://en.wikipedia.org/wiki/List_of_UK_top-ten_albums_in_1986
+**Ba'ath Brigades**  
+The Ba'ath Brigades (Arabic: كتائب البعث, romanized: Katā'ib al-Baʿth), also known as the Ba'ath Battalions, were a Syrian volunteer militia made up of Syrian Ba'ath Party members, almost entirely of Sunni Muslims from Syria and many Arab countries, loyal to the Ba'athist-led regime in power at the time.
+https://en.wikipedia.org/wiki/Ba%27ath_Brigades
 
 ## 🌌 NASA APOD
-[SPHEREx Seeing Through Dust](https://science.nasa.gov/image-article/apod-2026-november-25-spherex-seeing-through-dust/)
+[Eye in the Sky: The Milky Way over Lençóis](https://science.nasa.gov/image-article/apod-2026-november-26-eye-in-the-sky-the-milky-way-over-lencois/)
 
 ## Feed Health
 - **Reuters — Headlines (Google News)**: ok (15 articles)
@@ -67,4 +67,4 @@ https://en.wikipedia.org/wiki/List_of_UK_top-ten_albums_in_1986
 - **Wikipedia — Random**: ok (1 articles)
 - **NASA — APOD**: ok (1 articles)
 
-<sub>Runs so far today: 1</sub>
+<sub>Runs so far today: 2</sub>
